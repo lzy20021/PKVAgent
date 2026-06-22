@@ -1,0 +1,3405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LUAYOFN0",
+        "name": "百府超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "回里镇西道平村卫生室东侧180米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "福山区",
+        "query_category": "便利店",
+        "city": "烟台",
+        "district": "网格城区01",
+        "gcj_lon": 121.323134,
+        "gcj_lat": 37.353644,
+        "wgs84_lon": 121.318009734,
+        "wgs84_lat": 37.3527680863,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LUAYOFN0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3180097344371,
+          37.35276808634042
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JDDNPMYN",
+        "name": "incoShare cafe",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "民裕大街328号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "咖啡厅",
+        "city": "烟台",
+        "district": "网格城区02",
+        "gcj_lon": 121.445448,
+        "gcj_lat": 37.395954,
+        "wgs84_lon": 121.440242724,
+        "wgs84_lat": 37.3950003474,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JDDNPMYN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44024272434056,
+          37.39500034744871
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11088134",
+        "name": "港务管理处(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "乳山106路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.492149,
+        "gcj_lat": 36.797615,
+        "wgs84_lon": 121.4871607,
+        "wgs84_lat": 36.7971538486,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11088134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48716070010893,
+          36.797153848591115
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF91H10",
+        "name": "乳山市午极镇中心学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "金山街",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.482533,
+        "gcj_lat": 37.063255,
+        "wgs84_lon": 121.477480252,
+        "wgs84_lat": 37.0625758292,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF91H10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47748025194872,
+          37.062575829186486
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LUGSAM9J",
+        "name": "敏尚荣(威海)餐饮管理有限公司",
+        "type": "餐饮",
+        "typecode": 170200,
+        "address": "威海路6号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "餐饮",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.585047,
+        "gcj_lat": 36.913868,
+        "wgs84_lon": 121.58031464,
+        "wgs84_lat": 36.9135268462,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0LUGSAM9J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58031463995253,
+          36.91352684623379
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLADXWD",
+        "name": "乳山市中小学综合实践教育基地",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "白沙滩镇港头村西一千米台湾路与天海路交叉处北门",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.597511,
+        "gcj_lat": 36.854125,
+        "wgs84_lon": 121.592791836,
+        "wgs84_lat": 36.8538303973,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFLADXWD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59279183617362,
+          36.85383039734002
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701Y9R",
+        "name": "乳山市下初镇中心学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "下初镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.592207,
+        "gcj_lat": 37.026532,
+        "wgs84_lon": 121.58746813,
+        "wgs84_lat": 37.0261125729,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701Y9R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58746813032155,
+          37.02611257290976
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11155045",
+        "name": "海湾公馆(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "南海1路庙东线;南海3路;南海4路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.930734,
+        "gcj_lat": 36.957548,
+        "wgs84_lon": 121.926091812,
+        "wgs84_lat": 36.9571536037,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11155045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.92609181198928,
+          36.95715360373188
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JDYUOKYO",
+        "name": "威海恒德技工学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "高区初村福海路1-2号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 121.945291,
+        "gcj_lat": 37.411358,
+        "wgs84_lon": 121.940578989,
+        "wgs84_lat": 37.4106754579,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0JDYUOKYO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.94057898911986,
+          37.41067545786514
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K07CKO5X",
+        "name": "威海市卫生学校(南海校区)",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "海韵路与龙海路交叉口",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.009931,
+        "gcj_lat": 36.988591,
+        "wgs84_lon": 122.005071935,
+        "wgs84_lat": 36.987976174,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K07CKO5X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.00507193548953,
+          36.98797617404411
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027714C50",
+        "name": "中信银行(威海文登支行)",
+        "type": "银行",
+        "typecode": 160111,
+        "address": "文山东路2号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.063269,
+        "gcj_lat": 37.193991,
+        "wgs84_lon": 122.058247688,
+        "wgs84_lat": 37.1931089441,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B027714C50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.0582476880461,
+          37.19310894412006
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKLZWPC",
+        "name": "山东凯奇餐饮有限公司",
+        "type": "餐饮",
+        "typecode": 170200,
+        "address": "环翠区经济开发区柳林工业园惠友路5号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "餐饮",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.151837,
+        "gcj_lat": 37.370845,
+        "wgs84_lon": 122.146859143,
+        "wgs84_lat": 37.369898704,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFKLZWPC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.14685914306246,
+          37.369898703965575
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI2XLX2",
+        "name": "威海紫光实验学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "军民路15号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.25283,
+        "gcj_lat": 37.188052,
+        "wgs84_lon": 122.24805873,
+        "wgs84_lat": 37.1873276977,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI2XLX2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.24805873025147,
+          37.18732769773691
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IQ6R",
+        "name": "荣成市港湾奥伦特艺术培训学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "张家小区101-7",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.427003,
+        "gcj_lat": 36.876284,
+        "wgs84_lon": 122.422058057,
+        "wgs84_lat": 36.8756009086,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02770IQ6R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.42205805715275,
+          36.875600908594016
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIKZRO6",
+        "name": "荣成倪氏海泰度假酒店-餐饮",
+        "type": "餐饮",
+        "typecode": 50104,
+        "address": "海湾南路839号(滨海公园内)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "餐饮",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.469506,
+        "gcj_lat": 37.112354,
+        "wgs84_lon": 122.464633418,
+        "wgs84_lat": 37.1115854546,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFIKZRO6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.46463341806583,
+          37.11158545461724
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJARIAM",
+        "name": "威海临港实验学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "浙江路与台州路交叉口西220米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.130284,
+        "gcj_lat": 37.327551,
+        "wgs84_lon": 122.12526353,
+        "wgs84_lat": 37.3265910246,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJARIAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.12526353020547,
+          37.32659102458632
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701HMR",
+        "name": "中国人民银行(威海市分行)",
+        "type": "银行",
+        "typecode": 160101,
+        "address": "海滨中路1号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.13702,
+        "gcj_lat": 37.480828,
+        "wgs84_lon": 122.131996189,
+        "wgs84_lat": 37.4798222941,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B027701HMR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.13199618888619,
+          37.47982229413161
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HB4RCN9T",
+        "name": "西霞口神雕山野生动物世界正门东停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "西霞口村西霞口神雕山野生动物世界",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.632174,
+        "gcj_lat": 37.41308,
+        "wgs84_lon": 122.62753145,
+        "wgs84_lat": 37.4124006961,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HB4RCN9T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.62753145047826,
+          37.412400696061525
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KGT7F306",
+        "name": "布鲁维斯海滩停车点",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "成山镇环海路2001号布鲁维斯海滩",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.555945,
+        "gcj_lat": 37.39892,
+        "wgs84_lon": 122.551313663,
+        "wgs84_lat": 37.3982317115,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0KGT7F306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55131366329049,
+          37.39823171145754
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KD9A0VG0",
+        "name": "廉邦驿站(威海店)",
+        "type": "便利店",
+        "typecode": 100000,
+        "address": "世昌大道116-3号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.094861,
+        "gcj_lat": 37.502681,
+        "wgs84_lon": 122.089783762,
+        "wgs84_lat": 37.5016410043,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KD9A0VG0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.08978376163557,
+          37.50164100434592
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HROCM2S6",
+        "name": "山东荣成天鹅湖国家公园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "湖悦成山南侧460米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.576743,
+        "gcj_lat": 37.363759,
+        "wgs84_lon": 122.572144701,
+        "wgs84_lat": 37.3631129856,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HROCM2S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.5721447008755,
+          37.36311298560235
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKZ7QKB",
+        "name": "贵禾四季酒店·自助餐厅",
+        "type": "餐饮",
+        "typecode": 50200,
+        "address": "海滨路东威海公园南滨海大道2号威海贵禾四季酒店",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "餐饮",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.153299,
+        "gcj_lat": 37.45067,
+        "wgs84_lon": 122.148316136,
+        "wgs84_lat": 37.4496984504,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFKZ7QKB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.14831613580586,
+          37.44969845042394
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11088129",
+        "name": "北港西北(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "236路(环形线路);236路(环形线路)(9点30后);城际快线4号线(成大路);荣成205路;荣成214路;荣成235路;荣成235路(9点半后);荣成235路(鸡鸣岛码头);荣成235路(鸡鸣岛码头)(9点半后);荣成236路(鸡鸣岛码头);荣成236路(鸡鸣岛码头)(9点30后);荣成254路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.421977,
+        "gcj_lat": 37.382465,
+        "wgs84_lon": 122.416971793,
+        "wgs84_lat": 37.3814636781,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11088129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.41697179264582,
+          37.38146367809707
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0277028ED",
+        "name": "中国银行(威海张村支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "旅游度假区长江街25号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.028224,
+        "gcj_lat": 37.480372,
+        "wgs84_lon": 122.023254067,
+        "wgs84_lat": 37.4794413126,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0277028ED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.02325406655702,
+          37.47944131260951
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B021700220",
+        "name": "烟台海港医院(幸福路)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "幸福路100号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "医院",
+        "city": "烟台",
+        "district": "网格城区09",
+        "gcj_lon": 121.359639,
+        "gcj_lat": 37.575936,
+        "wgs84_lon": 121.354406039,
+        "wgs84_lat": 37.5749331952,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B021700220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35440603853132,
+          37.574933195232106
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ0HIOB",
+        "name": "龙湖海星乐园停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "汇海路与颐悦街交叉口南100米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "牟平区",
+        "query_category": "停车场",
+        "city": "烟台",
+        "district": "网格城区08",
+        "gcj_lon": 121.592976,
+        "gcj_lat": 37.441889,
+        "wgs84_lon": 121.588194269,
+        "wgs84_lat": 37.4412445359,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFJ0HIOB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58819426913462,
+          37.44124453588766
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02170RQVI",
+        "name": "锦江之星酒店(烟台渔人码头海水浴场店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "海韵路9号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "酒店",
+        "city": "烟台",
+        "district": "网格城区10",
+        "gcj_lon": 121.440666,
+        "gcj_lat": 37.520641,
+        "wgs84_lon": 121.435436032,
+        "wgs84_lat": 37.5196435632,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02170RQVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43543603218512,
+          37.51964356315824
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02170RR40",
+        "name": "烟台成友中医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "奇山街道",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "医院",
+        "city": "烟台",
+        "district": "网格城区10",
+        "gcj_lon": 121.39694,
+        "gcj_lat": 37.521078,
+        "wgs84_lon": 121.391668631,
+        "wgs84_lat": 37.5200487877,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02170RR40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39166863060966,
+          37.52004878770372
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IR8A",
+        "name": "家缘快捷旅馆(观海中路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "观海中路139号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.43852,
+        "gcj_lat": 37.152338,
+        "wgs84_lon": 122.433563841,
+        "wgs84_lat": 37.1514769153,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02770IR8A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.43356384119517,
+          37.15147691534692
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1MAXK8B",
+        "name": "烟台港城中学安保室",
+        "type": "学校",
+        "typecode": 130506,
+        "address": "青年南路与坤宇南街交叉口西240米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "学校",
+        "city": "烟台",
+        "district": "网格城区05",
+        "gcj_lon": 121.349201,
+        "gcj_lat": 37.46045,
+        "wgs84_lon": 121.344002687,
+        "wgs84_lat": 37.4594877262,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H1MAXK8B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3440026874264,
+          37.45948772622078
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0277150IA",
+        "name": "中国工商银行荣成市府支行",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "肇元街冠岭西区82号楼门市107号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.482177,
+        "gcj_lat": 37.165258,
+        "wgs84_lon": 122.477340385,
+        "wgs84_lat": 37.1644902108,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0277150IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4773403845184,
+          37.16449021077473
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B021703IAN",
+        "name": "中国农业银行24小时自助银行(烟台大学支行)",
+        "type": "银行",
+        "typecode": 160304,
+        "address": "烟大广场",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "银行",
+        "city": "烟台",
+        "district": "网格城区07",
+        "gcj_lon": 121.453977,
+        "gcj_lat": 37.479529,
+        "wgs84_lon": 121.448784659,
+        "wgs84_lat": 37.4785665315,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B021703IAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44888067777585,
+          37.47907756577906
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LAGZM9AD",
+        "name": "天籁花园社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "谢普德幼儿园斜对面",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "医院",
+        "city": "烟台",
+        "district": "网格城区06",
+        "gcj_lon": 121.405925,
+        "gcj_lat": 37.484325,
+        "wgs84_lon": 121.400657359,
+        "wgs84_lat": 37.4833035701,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LAGZM9AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40065735898688,
+          37.48330357011379
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02170RR6G",
+        "name": "烟台农商银行(芝罘区珠玑支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "明珠路西附29号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "银行",
+        "city": "烟台",
+        "district": "网格城区09",
+        "gcj_lon": 121.339963,
+        "gcj_lat": 37.551413,
+        "wgs84_lon": 121.334775984,
+        "wgs84_lat": 37.5504475352,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02170RR6G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33458081019779,
+          37.55105895899743
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B021705ISM",
+        "name": "东轸格庄村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "东轸社区居委会东侧140米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "医院",
+        "city": "烟台",
+        "district": "网格城区07",
+        "gcj_lon": 121.48676,
+        "gcj_lat": 37.430388,
+        "wgs84_lon": 121.481683376,
+        "wgs84_lat": 37.4295252506,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B021705ISM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48168337578642,
+          37.429525250628494
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B021704CQW",
+        "name": "中国银行24小时自助银行(市南支行)",
+        "type": "银行",
+        "typecode": 160301,
+        "address": "机场路199-1号附近",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "银行",
+        "city": "烟台",
+        "district": "网格城区05",
+        "gcj_lon": 121.363339,
+        "gcj_lat": 37.490469,
+        "wgs84_lon": 121.358108534,
+        "wgs84_lat": 37.4894762501,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B021704CQW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.35792247781966,
+          37.48875689132335
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1PA4HVX",
+        "name": "烟台台海玛努尔核电设备有限公司停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "秀林路与福顺路交叉口东200米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "停车场",
+        "city": "烟台",
+        "district": "网格城区02",
+        "gcj_lon": 121.425457,
+        "gcj_lat": 37.420635,
+        "wgs84_lon": 121.420211504,
+        "wgs84_lat": 37.4196436344,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L1PA4HVX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42021150384207,
+          37.41964363440567
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBTZ1XXU",
+        "name": "中国光大银行(金滩南路社区支行)",
+        "type": "银行",
+        "typecode": 160113,
+        "address": "金滩南路D区341号、343号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "银行",
+        "city": "烟台",
+        "district": "网格城区07",
+        "gcj_lon": 121.455922,
+        "gcj_lat": 37.447852,
+        "wgs84_lon": 121.450738667,
+        "wgs84_lat": 37.4469025614,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0KBTZ1XXU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45073866685115,
+          37.446902561428395
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LD47QEZ8",
+        "name": "瑞幸咖啡(烟台电厂东路店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "只楚街道152号玺山花园1层105号商铺",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "咖啡厅",
+        "city": "烟台",
+        "district": "网格城区09",
+        "gcj_lon": 121.325775,
+        "gcj_lat": 37.521169,
+        "wgs84_lon": 121.320625922,
+        "wgs84_lat": 37.5202359048,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LD47QEZ8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.32062592230487,
+          37.5202359047551
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0M6YYQ9S1",
+        "name": "烟台德辉汽车销售服务有限公司停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "204国道与F县道交叉口南460米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "福山区",
+        "query_category": "停车场",
+        "city": "烟台",
+        "district": "网格城区01",
+        "gcj_lon": 121.343757,
+        "gcj_lat": 37.389353,
+        "wgs84_lon": 121.338578898,
+        "wgs84_lat": 37.3884237971,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0M6YYQ9S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.33857889765936,
+          37.3884237971164
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRCR0TOO",
+        "name": "凤75咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "烟台植物园内商埠花园一楼东侧",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "咖啡厅",
+        "city": "烟台",
+        "district": "网格城区02",
+        "gcj_lon": 121.385922,
+        "gcj_lat": 37.374348,
+        "wgs84_lon": 121.380673351,
+        "wgs84_lat": 37.3733676201,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JRCR0TOO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3806733514784,
+          37.3733676201248
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHC504Z",
+        "name": "汽车驾驶路考三号线起点停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "通世南路与河滨路交叉口北140米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "芝罘区",
+        "query_category": "停车场",
+        "city": "烟台",
+        "district": "网格城区01",
+        "gcj_lon": 121.372222,
+        "gcj_lat": 37.422643,
+        "wgs84_lon": 121.366984269,
+        "wgs84_lat": 37.4216579715,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFHC504Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36698426940605,
+          37.42165797145215
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H3DUQQZZ",
+        "name": "月亮湾生态休闲垂钓园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "月亮湾生态休闲垂钓园",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "停车场",
+        "city": "烟台",
+        "district": "网格城区02",
+        "gcj_lon": 121.418854,
+        "gcj_lat": 37.351239,
+        "wgs84_lon": 121.413608654,
+        "wgs84_lat": 37.3502682097,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H3DUQQZZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41360865424112,
+          37.35026820968326
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02170U9WH",
+        "name": "烟台职业学院成人教育学院(莱山分院)",
+        "type": "学校",
+        "typecode": 141205,
+        "address": "马山街道烟台高新区职业中专",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "学校",
+        "city": "烟台",
+        "district": "网格城区03",
+        "gcj_lon": 121.498858,
+        "gcj_lat": 37.399003,
+        "wgs84_lon": 121.493831267,
+        "wgs84_lat": 37.3981869562,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02170U9WH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49383126709073,
+          37.39818695623127
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02170TLNX",
+        "name": "中国建设银行24小时自助银行(东华支行)",
+        "type": "银行",
+        "typecode": 160303,
+        "address": "北关大街848号",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "牟平区",
+        "query_category": "银行",
+        "city": "烟台",
+        "district": "网格城区04",
+        "gcj_lon": 121.563451,
+        "gcj_lat": 37.391194,
+        "wgs84_lon": 121.55863659,
+        "wgs84_lat": 37.3905413956,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02170TLNX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55863658978916,
+          37.39054139559072
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G16H0NYI",
+        "name": "马山街道西谭家泊村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "海河西路与创业路交叉口东380米",
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "医院",
+        "city": "烟台",
+        "district": "网格城区04",
+        "gcj_lon": 121.554261,
+        "gcj_lat": 37.418813,
+        "wgs84_lon": 121.549422471,
+        "wgs84_lat": 37.4181350468,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G16H0NYI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54942247064226,
+          37.4181350468229
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1YAJUVR",
+        "name": "Piccolino薄荷岛(bistro)",
+        "type": "餐饮",
+        "typecode": 50000,
+        "address": "北环海路165号-107室",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "餐饮",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.048964,
+        "gcj_lat": 37.529678,
+        "wgs84_lon": 122.043933627,
+        "wgs84_lat": 37.5286859736,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J1YAJUVR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.04393362720393,
+          37.52868597362911
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL59IM9",
+        "name": "明湖路学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "温泉镇明湖路与永康路交界点",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.208218,
+        "gcj_lat": 37.380082,
+        "wgs84_lon": 122.203378773,
+        "wgs84_lat": 37.3792307988,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFL59IM9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.20337877283897,
+          37.37923079877175
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFNNAD0",
+        "name": "凤林学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "经济技术开发区深圳路68号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.181854,
+        "gcj_lat": 37.409547,
+        "wgs84_lon": 122.176950018,
+        "wgs84_lat": 37.4086413411,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFNNAD0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.17695001829031,
+          37.40864134110288
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11138266",
+        "name": "运通石油(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "129路;53路招商威海船厂支线",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.231533,
+        "gcj_lat": 37.450305,
+        "wgs84_lon": 122.22672238,
+        "wgs84_lat": 37.4494541448,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11138266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.22672237986825,
+          37.44945414482971
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI8CKOF",
+        "name": "威海市实验高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "松涧西路260号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.276494,
+        "gcj_lat": 37.410416,
+        "wgs84_lon": 122.271686766,
+        "wgs84_lat": 37.4095704602,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI8CKOF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.27168676606072,
+          37.4095704601644
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11088133",
+        "name": "宫家庄(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "236路(环形线路);236路(环形线路)(9点30后);城际快线4号线(成大路);荣成235路;荣成235路(9点半后);荣成235路(鸡鸣岛码头);荣成235路(鸡鸣岛码头)(9点半后);荣成236路(鸡鸣岛码头);荣成236路(鸡鸣岛码头)(9点30后)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.514019,
+        "gcj_lat": 37.370056,
+        "wgs84_lon": 122.509272483,
+        "wgs84_lat": 37.3692757335,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11088133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.50927248290996,
+          37.369275733535375
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0797ZQ5",
+        "name": "那香海景区-鸡鸣岛停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "那香海景区鸡鸣岛片区",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.484676,
+        "gcj_lat": 37.429645,
+        "wgs84_lon": 122.479819838,
+        "wgs84_lat": 37.428755989,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0G0797ZQ5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.47981983805862,
+          37.42875598901066
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IUEA",
+        "name": "荣成鑫隆旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "成山镇大岗村",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.617028,
+        "gcj_lat": 37.384438,
+        "wgs84_lon": 122.612414892,
+        "wgs84_lat": 37.3837853353,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02770IUEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.61241489204464,
+          37.38378533531738
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027702627",
+        "name": "乳山市育黎镇中心学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "G309(荣兰线)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.439579,
+        "gcj_lat": 37.018467,
+        "wgs84_lon": 121.434401912,
+        "wgs84_lat": 37.0177184775,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027702627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43440191226736,
+          37.01771847752264
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK18ZZG",
+        "name": "乳山农商银行(冯家支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "冯家镇平安街12-3号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.687612,
+        "gcj_lat": 37.031556,
+        "wgs84_lon": 121.682747079,
+        "wgs84_lat": 37.0310116867,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFK18ZZG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68274707879716,
+          37.03101168666024
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H3VS6YXB",
+        "name": "圣水岩遗址停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "千里山海自驾旅游公路东北侧",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.73924,
+        "gcj_lat": 37.075562,
+        "wgs84_lon": 121.734308336,
+        "wgs84_lat": 37.0749233838,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H3VS6YXB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.73430833609137,
+          37.074923383807814
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0277027NT",
+        "name": "山东省农村信用社(南黄信用社)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "南黄镇正阳路66-3",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.794338,
+        "gcj_lat": 36.975102,
+        "wgs84_lon": 121.789476973,
+        "wgs84_lat": 36.9745659943,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0277027NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.78947697287447,
+          36.9745659943141
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11155037",
+        "name": "观海小区(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)南海102路;南海3路;南海D2路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.880796,
+        "gcj_lat": 36.943492,
+        "wgs84_lon": 121.876146471,
+        "wgs84_lat": 36.9431177026,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11155037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.87614647064702,
+          36.94311770263667
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027714XC2",
+        "name": "威海市文登区葛家学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "葛家文化路19号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.85379,
+        "gcj_lat": 37.160644,
+        "wgs84_lon": 121.849064041,
+        "wgs84_lat": 37.1600854914,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027714XC2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.84906404119347,
+          37.160085491384386
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH1OGA6",
+        "name": "文登东站停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "文登营镇文登东站南",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.257535,
+        "gcj_lat": 37.240844,
+        "wgs84_lon": 122.252757806,
+        "wgs84_lat": 37.2400880435,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH1OGA6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.25275780583995,
+          37.240088043455
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11138260",
+        "name": "白马西(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "106路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.311307,
+        "gcj_lat": 37.35377,
+        "wgs84_lon": 122.306447118,
+        "wgs84_lat": 37.3528957581,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11138260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.30644711753554,
+          37.352895758069415
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2J7U7XC",
+        "name": "荣成市综合实践活动实验学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "荣达路与203省道交叉口东北420米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.388567,
+        "gcj_lat": 37.098141,
+        "wgs84_lon": 122.383588494,
+        "wgs84_lat": 37.0972906972,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H2J7U7XC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.38358849426702,
+          37.097290697225624
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11109355",
+        "name": "后苏格南(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "荣成218路;荣成220路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.410065,
+        "gcj_lat": 37.225864,
+        "wgs84_lon": 122.405068458,
+        "wgs84_lat": 37.2249309062,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11109355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.40506845805406,
+          37.22493090622046
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701ZG6",
+        "name": "石岛湾中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "石岛开发区",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.450197,
+        "gcj_lat": 36.9351,
+        "wgs84_lon": 122.445289252,
+        "wgs84_lat": 36.9344109736,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701ZG6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.44528925217423,
+          36.934410973609474
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUAS042F",
+        "name": "烟墩角天鹅湖停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "烟墩海艺画苑西侧230米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.560441,
+        "gcj_lat": 37.294744,
+        "wgs84_lon": 122.555828791,
+        "wgs84_lat": 37.2941083352,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HUAS042F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.55582879069101,
+          37.29410833523641
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701KQR",
+        "name": "埠柳医院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "埠柳镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.434651,
+        "gcj_lat": 37.339418,
+        "wgs84_lon": 122.429667736,
+        "wgs84_lat": 37.3384490677,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B027701KQR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.42986038189154,
+          37.33885438500932
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9UA5Z",
+        "name": "诸往镇卫生院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "顺府街与和谐路交叉口北160米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.374719,
+        "gcj_lat": 36.97978,
+        "wgs84_lon": 121.369526302,
+        "wgs84_lat": 36.9790444798,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF9UA5Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36952630233708,
+          36.97904447975664
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11096817",
+        "name": "阎家夼(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "乳山365路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.399864,
+        "gcj_lat": 37.073498,
+        "wgs84_lon": 121.394641482,
+        "wgs84_lat": 37.072680572,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11096817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39464148244284,
+          37.07268057197749
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701Y6W",
+        "name": "乳山寨镇中心学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "寨中村",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.445721,
+        "gcj_lat": 36.884604,
+        "wgs84_lon": 121.440572199,
+        "wgs84_lat": 36.8839627732,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701Y6W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44057219917156,
+          36.88396277320674
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K16UHYMR",
+        "name": "啮草坡",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": null,
+        "pname": "山东省",
+        "cityname": "烟台市",
+        "adname": "莱山区",
+        "query_category": "酒店",
+        "city": "烟台",
+        "district": "网格城区03",
+        "gcj_lon": 121.464736,
+        "gcj_lat": 37.345927,
+        "wgs84_lon": 121.459590743,
+        "wgs84_lat": 37.3450357124,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K16UHYMR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45959074312847,
+          37.345035712373914
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11173496",
+        "name": "北东庄(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "乳山355路;乳山356路;乳山357路/K357路",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.635046,
+        "gcj_lat": 37.121759,
+        "wgs84_lon": 121.630273433,
+        "wgs84_lat": 37.1212468281,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11173496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.63027343335422,
+          37.12124682808354
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHM75DJ",
+        "name": "中国工商银行24小时自助银行",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "银滩滨海旅游度假区香港平远国际城",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.749465,
+        "gcj_lat": 36.860377,
+        "wgs84_lon": 121.744556756,
+        "wgs84_lat": 36.8598899237,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHM75DJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74455675551683,
+          36.85988992370755
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKSAQ1C5",
+        "name": "东峒岭村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "27县道",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.723357,
+        "gcj_lat": 36.915581,
+        "wgs84_lon": 121.718450761,
+        "wgs84_lat": 36.9150677283,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JKSAQ1C5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.71845076078162,
+          36.91506772833489
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRJ5OFXL",
+        "name": "烟台昆嵛山国家森林公园无染寺景区南门北停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "昆嵛山国家森林公园无染寺景区",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.776676,
+        "gcj_lat": 37.220914,
+        "wgs84_lon": 121.771755487,
+        "wgs84_lat": 37.2201932842,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HRJ5OFXL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.77175548713844,
+          37.22019328421117
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701S2R",
+        "name": "威海市中心医院医疗保健集团界石镇卫生院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "界石镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.864367,
+        "gcj_lat": 37.274459,
+        "wgs84_lon": 121.859653494,
+        "wgs84_lat": 37.2738508402,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B027701S2R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85965349438962,
+          37.27385084023686
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK09ZTZ",
+        "name": "宋村便民超市",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "宋村镇硝一村",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.96537,
+        "gcj_lat": 37.04884,
+        "wgs84_lon": 121.960647822,
+        "wgs84_lat": 37.0483120604,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFK09ZTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9606478215158,
+          37.04831206035836
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IKMI",
+        "name": "文登站停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "文登站",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.99137,
+        "gcj_lat": 37.178554,
+        "wgs84_lon": 121.986553447,
+        "wgs84_lat": 37.1778668886,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B02770IKMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.98655344699958,
+          37.17786688858119
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027714YET",
+        "name": "中古场村卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "米山镇中古场村党支部西南侧60米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 121.969821,
+        "gcj_lat": 37.204965,
+        "wgs84_lon": 121.965069942,
+        "wgs84_lat": 37.2043238265,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B027714YET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.96506994191031,
+          37.20432382654774
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IJY3",
+        "name": "光明超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "汪疃镇光明超市",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 121.982062,
+        "gcj_lat": 37.309033,
+        "wgs84_lon": 121.977262337,
+        "wgs84_lat": 37.3083018398,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B02770IJY3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97726233743282,
+          37.30830183981212
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL8NFJR",
+        "name": "威海市第二实验高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "羊亭镇和顺路2号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.005176,
+        "gcj_lat": 37.436314,
+        "wgs84_lon": 122.000285439,
+        "wgs84_lat": 37.4354628207,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFL8NFJR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.00028543880583,
+          37.43546282068851
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0277029J7",
+        "name": "威海鑫鑫宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "泽库镇驻地碧海路9号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.058618,
+        "gcj_lat": 36.943373,
+        "wgs84_lon": 122.053631376,
+        "wgs84_lat": 36.9426691228,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0277029J7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.05363137567356,
+          36.942669122829635
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKGZ5DHL",
+        "name": "文登南站东停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "张家产镇圣海路东侧、南崖子村南侧",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.095342,
+        "gcj_lat": 37.083896,
+        "wgs84_lon": 122.090310385,
+        "wgs84_lat": 37.0830575182,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JKGZ5DHL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.09031038473655,
+          37.08305751820669
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG24AJL",
+        "name": "威海市文登区恒源职业培训学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "侯家镇朱家村",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.156081,
+        "gcj_lat": 36.999131,
+        "wgs84_lon": 122.151153566,
+        "wgs84_lat": 36.9984118966,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFG24AJL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.15115356589662,
+          36.99841189658351
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701WUR",
+        "name": "荣成市第二十四中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "靖海镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.21227,
+        "gcj_lat": 36.857561,
+        "wgs84_lon": 122.207493449,
+        "wgs84_lat": 36.8570409568,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701WUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2074934492436,
+          36.85704095680262
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027714CNJ",
+        "name": "荣成二十五中",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "034县道南50米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.219651,
+        "gcj_lat": 36.951593,
+        "wgs84_lon": 122.214877219,
+        "wgs84_lat": 36.95101359,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027714CNJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2148772185107,
+          36.95101358998152
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027714YDS",
+        "name": "威海市第三中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "桥头镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.285918,
+        "gcj_lat": 37.321556,
+        "wgs84_lon": 122.281108303,
+        "wgs84_lat": 37.3207359623,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027714YDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.28110830274632,
+          37.32073596233203
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701YWZ",
+        "name": "荣成市第十四中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "石岛区王连街道办事处",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.367082,
+        "gcj_lat": 36.989032,
+        "wgs84_lon": 122.362141363,
+        "wgs84_lat": 36.9882791039,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701YWZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.36214136349686,
+          36.98827910393671
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B027701WUT",
+        "name": "威海市康成学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "夏庄镇",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "学校",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.451725,
+        "gcj_lat": 37.237094,
+        "wgs84_lon": 122.446788761,
+        "wgs84_lat": 37.2362065407,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B027701WUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.44678876105874,
+          37.23620654070378
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11089683",
+        "name": "临时站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "荣成368路(经留村、口子)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.485915,
+        "gcj_lat": 36.965378,
+        "wgs84_lon": 122.481112303,
+        "wgs84_lat": 36.9647580924,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11089683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.48111230320781,
+          36.9647580924007
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRX5YEMB",
+        "name": "格林豪泰贝壳酒店(荣成俚岛路店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "俚岛大道1208-2号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.581654,
+        "gcj_lat": 37.23818,
+        "wgs84_lon": 122.577072051,
+        "wgs84_lat": 37.2375990787,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LRX5YEMB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.57707205138018,
+          37.23759907867885
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H21C8M2P",
+        "name": "成山头国家重点风景名胜区天尽头停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "成山头国家重点风景名胜区内(东南角)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "停车场",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.706543,
+        "gcj_lat": 37.394389,
+        "wgs84_lon": 122.701705143,
+        "wgs84_lat": 37.3935871137,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H21C8M2P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.7017051434634,
+          37.39358711372289
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L376KHBN",
+        "name": "环翠区中医医院(东院区)",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "合庆路与迎海路交叉口西北180米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "环翠区",
+        "query_category": "医院",
+        "city": "威海市",
+        "district": "环翠区",
+        "gcj_lon": 122.151706,
+        "gcj_lat": 37.529545,
+        "wgs84_lon": 122.146710622,
+        "wgs84_lat": 37.5285516901,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L376KHBN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.1467106219489,
+          37.5285516900657
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLNAJOQ",
+        "name": "玉发糖酒超市",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "俚岛镇东高家村玉发糖酒超市",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.604355,
+        "gcj_lat": 37.212138,
+        "wgs84_lon": 122.599773366,
+        "wgs84_lat": 37.2115765036,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFLNAJOQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.59977336595774,
+          37.21157650355205
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IO3W",
+        "name": "莱茵豪生商务酒店",
+        "type": "酒店",
+        "typecode": 100102,
+        "address": "胜利街87号(市政府西100米)",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.537774,
+        "gcj_lat": 36.91804,
+        "wgs84_lon": 121.532940572,
+        "wgs84_lat": 36.9176222422,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02770IO3W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53294057163261,
+          36.917622242178446
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11125025",
+        "name": "架子山(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "架子山-人民医院南院区",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "公交站",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.102936,
+        "gcj_lat": 37.158077,
+        "wgs84_lon": 122.097899384,
+        "wgs84_lat": 37.1571899794,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11125025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.09789938350012,
+          37.15718997939217
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRLA19O3",
+        "name": "李夏好邻居新罗小镇店",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "文登区经济技术开发区九龙城甲64-18号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "文登区",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "文登区",
+        "gcj_lon": 122.071843,
+        "gcj_lat": 37.233988,
+        "wgs84_lon": 122.066805925,
+        "wgs84_lat": 37.2330709641,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KRLA19O3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.06680592529112,
+          37.23307096413125
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFRJ1D5",
+        "name": "颐和山水假日酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "颐和山水人家小区20号-1",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "乳山市",
+        "query_category": "酒店",
+        "city": "威海市",
+        "district": "乳山市",
+        "gcj_lon": 121.689922,
+        "gcj_lat": 36.844637,
+        "wgs84_lon": 121.685072167,
+        "wgs84_lat": 36.8442230595,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFRJ1D5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68507216731689,
+          36.84422305945896
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IRR7I0C8",
+        "name": "子祺商行",
+        "type": "便利店",
+        "typecode": 60703,
+        "address": "青山西路与龙河北路交叉口东北300米",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "便利店",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.401258,
+        "gcj_lat": 37.164863,
+        "wgs84_lon": 122.396266867,
+        "wgs84_lat": 37.1639651709,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IRR7I0C8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.39626686728809,
+          37.16396517091284
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02770IRHS",
+        "name": "中国银行(石岛斥山支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "石岛黄海北路3号",
+        "pname": "山东省",
+        "cityname": "威海市",
+        "adname": "荣成市",
+        "query_category": "银行",
+        "city": "威海市",
+        "district": "荣成市",
+        "gcj_lon": 122.391693,
+        "gcj_lat": 36.935031,
+        "wgs84_lon": 122.386729881,
+        "wgs84_lat": 36.9342944438,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02770IRHS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.38672988089336,
+          36.934294443778775
+        ]
+      }
+    }
+  ]
+}

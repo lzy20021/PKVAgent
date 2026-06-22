@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGYZUFNM",
+        "name": "青岛国际航运中心地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "连云港路66号青岛国际航运中心",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "停车场",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.380887,
+        "gcj_lat": 36.089651,
+        "wgs84_lon": 120.375752289,
+        "wgs84_lat": 36.089371085,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HGYZUFNM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.37575228922455,
+          36.08937108496779
+        ]
+      }
+    }
+  ]
+}

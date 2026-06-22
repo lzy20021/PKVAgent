@@ -1,0 +1,50 @@
+{
+  "name": "Dissolve面合并",
+  "task_type": "polygon_generalization",
+  "algorithm": "dissolve",
+  "description": "按字段将面要素聚合合并。",
+  "parameters": {
+    "by_field": {
+      "type": "string",
+      "description": "?????",
+      "default": "district"
+    },
+    "aggfunc": {
+      "type": "string",
+      "description": "????",
+      "default": "first"
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.dissolve(by='{by_field}', aggfunc='{aggfunc}').reset_index()\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "面要素",
+    "合并",
+    "dissolve"
+  ],
+  "examples": [
+    {
+      "input": "将 buildings.shp 按 district 字段合并",
+      "parameters": {
+        "input_file": "data/buildings.shp",
+        "output_file": "out/buildings_dissolve.shp",
+        "layer_name": "buildings_dissolve",
+        "by_field": "district",
+        "aggfunc": "first"
+      }
+    },
+    {
+      "input": "? landuse ??????",
+      "parameters": {
+        "input_file": "data/parcels.shp",
+        "output_file": "out/parcels_dissolve.shp",
+        "layer_name": "parcels_dissolve",
+        "by_field": "landuse",
+        "aggfunc": "first"
+      }
+    }
+  ]
+}

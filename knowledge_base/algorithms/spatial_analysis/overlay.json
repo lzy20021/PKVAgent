@@ -1,0 +1,50 @@
+{
+  "name": "叠加分析",
+  "task_type": "spatial_analysis",
+  "algorithm": "overlay",
+  "description": "对两个图层执行交集/并集/差集叠加。",
+  "parameters": {
+    "overlay_layer": {
+      "type": "string",
+      "description": "??????",
+      "default": "data/overlay.shp"
+    },
+    "how": {
+      "type": "string",
+      "description": "????",
+      "default": "intersection"
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\noverlay_gdf = gpd.read_file('{overlay_layer}')\nif gdf.crs != overlay_gdf.crs:\n    overlay_gdf = overlay_gdf.to_crs(gdf.crs)\nresult = gpd.overlay(gdf, overlay_gdf, how='{how}')\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "空间分析",
+    "叠加",
+    "overlay"
+  ],
+  "examples": [
+    {
+      "input": "叠加 ecoline.shp 与 landuse.shp，取交集",
+      "parameters": {
+        "input_file": "data/ecoline.shp",
+        "overlay_layer": "data/landuse.shp",
+        "how": "intersection",
+        "output_file": "out/ecoline_landuse_intersection.shp",
+        "layer_name": "ecoline_landuse_intersection"
+      }
+    },
+    {
+      "input": "? flood.shp ? parcels.shp ?????",
+      "parameters": {
+        "input_file": "data/flood.shp",
+        "overlay_layer": "data/parcels.shp",
+        "how": "union",
+        "output_file": "out/flood_parcels_union.shp",
+        "layer_name": "flood_parcels_union"
+      }
+    }
+  ]
+}

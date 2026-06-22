@@ -1,0 +1,13 @@
+{
+  "id": "example_001_road_simplification",
+  "algorithm": "douglas-peucker",
+  "task_type": "line_simplification",
+  "input": "? roads.shp ?? Douglas-Peucker ????? 10 ?",
+  "parameters": {
+    "input_file": "data/roads.shp",
+    "output_file": "out/roads_dp.shp",
+    "layer_name": "roads_dp",
+    "tolerance": 10.0,
+    "preserve_topology": true
+  }
+}

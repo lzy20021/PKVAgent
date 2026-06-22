@@ -1,0 +1,43 @@
+{
+  "name": "裁剪分析",
+  "task_type": "spatial_analysis",
+  "algorithm": "clip",
+  "description": "使用裁剪图层截取目标图层范围。",
+  "parameters": {
+    "clip_layer": {
+      "type": "string",
+      "description": "??????",
+      "default": "data/study_area.shp"
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nclip_gdf = gpd.read_file('{clip_layer}')\nif gdf.crs != clip_gdf.crs:\n    clip_gdf = clip_gdf.to_crs(gdf.crs)\nresult = gpd.clip(gdf, clip_gdf)\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "空间分析",
+    "裁剪",
+    "clip"
+  ],
+  "examples": [
+    {
+      "input": "用 study_area.shp 裁剪 landuse.shp",
+      "parameters": {
+        "input_file": "data/landuse.shp",
+        "clip_layer": "data/study_area.shp",
+        "output_file": "out/landuse_clip.shp",
+        "layer_name": "landuse_clip"
+      }
+    },
+    {
+      "input": "????????A??",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "clip_layer": "data/district_a.shp",
+        "output_file": "out/roads_clip.shp",
+        "layer_name": "roads_clip"
+      }
+    }
+  ]
+}

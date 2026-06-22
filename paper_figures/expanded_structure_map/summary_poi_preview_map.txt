@@ -1,0 +1,11 @@
+全国 POI 预览图优化汇总
+
+最终点大小: 默认 16.0, 自适应范围 16.00~16.29
+最终透明度: 自适应范围 0.82~0.83
+是否使用白色描边: 是 (edgecolor=white, linewidth=0.30)
+是否进行了抽稀: 否
+总体保留比例: 100.00%
+最终输出文件路径:
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_color_map_preview.png
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_color_map_preview.svg
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_color_map_preview.pdf

@@ -1,0 +1,118 @@
+[
+  {
+    "structure_type_8": "多簇集型",
+    "structure_display": "Multi-cluster",
+    "city": "洛阳",
+    "point_count": 1834,
+    "density": 1402.693,
+    "anisotropy": 4.07,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "潍坊",
+      "洛阳",
+      "绍兴"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "单核心集聚型",
+    "structure_display": "Single-core concentration",
+    "city": "北京",
+    "point_count": 2068,
+    "density": 1.788,
+    "anisotropy": 4.772,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "北京"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "双核心/多核心型",
+    "structure_display": "Dual / multi core",
+    "city": "南通",
+    "point_count": 1592,
+    "density": 1185.596,
+    "anisotropy": 3.245,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "南通",
+      "大同",
+      "天水"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "廊道带状型",
+    "structure_display": "Corridor-belt",
+    "city": "乌鲁木齐",
+    "point_count": 2298,
+    "density": 1604.295,
+    "anisotropy": 7.9,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "乌鲁木齐",
+      "中山",
+      "亳州"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "边缘偏置型",
+    "structure_display": "Edge-biased",
+    "city": "广州",
+    "point_count": 1677,
+    "density": 3233.249,
+    "anisotropy": 1.411,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "天津",
+      "泉州",
+      "广州"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "稀疏离散型",
+    "structure_display": "Sparse-dispersed",
+    "city": "南平",
+    "point_count": 200,
+    "density": 90.069,
+    "anisotropy": 1.557,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "上饶",
+      "南平",
+      "南阳"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "均匀分布型",
+    "structure_display": "Uniform",
+    "city": "三沙",
+    "point_count": 9,
+    "density": 225685.623,
+    "anisotropy": 9.754,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "三沙"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  },
+  {
+    "structure_type_8": "混合过渡型",
+    "structure_display": "Hybrid transition",
+    "city": "嘉兴",
+    "point_count": 2222,
+    "density": 3934.723,
+    "anisotropy": 1.373,
+    "selection_seed": 20260409,
+    "selection_pool": [
+      "大连",
+      "嘉兴",
+      "太原"
+    ],
+    "mapping_note": "论文结构名称与 structure_type_8 字段直接一致，无需语义改写。"
+  }
+]

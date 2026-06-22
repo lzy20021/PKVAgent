@@ -1,0 +1,3439 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10781533",
+        "name": "龙桥路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "19号线;3号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "双流区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "双流区",
+        "gcj_lon": 103.944148,
+        "gcj_lat": 30.603934,
+        "wgs84_lon": 103.942022872,
+        "wgs84_lat": 30.6066871749,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10781533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9420228718522,
+          30.60668717493065
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7YP9K",
+        "name": "成都瑞高商务酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "家园路32号大地新光华广场A2幢",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.014918,
+        "gcj_lat": 30.661797,
+        "wgs84_lon": 104.012556771,
+        "wgs84_lat": 30.6643348193,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7YP9K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01255677062268,
+          30.664334819295245
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10655423",
+        "name": "太平园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线;3号线;7号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.02158,
+        "gcj_lat": 30.625381,
+        "wgs84_lon": 104.01919684,
+        "wgs84_lat": 30.6279149521,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10655423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01919684000372,
+          30.627914952065137
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7UKAX",
+        "name": "成都雅园商务旅店",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "武侯大道双楠段219号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.017649,
+        "gcj_lat": 30.638413,
+        "wgs84_lon": 104.015279063,
+        "wgs84_lat": 30.6409528718,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7UKAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01527906256642,
+          30.64095287182092
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425918",
+        "name": "清水河大桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "17号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.02019,
+        "gcj_lat": 30.651757,
+        "wgs84_lon": 104.017810518,
+        "wgs84_lat": 30.6542838618,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01781051807647,
+          30.65428386176281
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAB69V",
+        "name": "汇金酒店(成都西南财大店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "清江中路6号附8号1楼",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.017083,
+        "gcj_lat": 30.671648,
+        "wgs84_lon": 104.014713602,
+        "wgs84_lat": 30.6741751059,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFAB69V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01471360205122,
+          30.674175105927407
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7XZS6",
+        "name": "红运旅馆(成都红运汽车城店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "长益路118号4层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.026092,
+        "gcj_lat": 30.628303,
+        "wgs84_lon": 104.023693254,
+        "wgs84_lat": 30.6308231161,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7XZS6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02369325428032,
+          30.6308231160769
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK7Y0NW",
+        "name": "家好公寓(双楠店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "二环路西一段41号10栋家好公寓",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.023257,
+        "gcj_lat": 30.64348,
+        "wgs84_lon": 104.02086724,
+        "wgs84_lat": 30.6460016852,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFK7Y0NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02086723996446,
+          30.64600168519967
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536749",
+        "name": "高朋大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线;8号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.0349,
+        "gcj_lat": 30.617521,
+        "wgs84_lon": 104.032473032,
+        "wgs84_lat": 30.6200220974,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03247303222108,
+          30.620022097434095
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536726",
+        "name": "红牌楼(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线;3号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.029878,
+        "gcj_lat": 30.634704,
+        "wgs84_lon": 104.02746637,
+        "wgs84_lat": 30.637211191,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02746637028982,
+          30.637211191014845
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C921HB",
+        "name": "寇小儿中医馆(武侯总院)",
+        "type": "医院",
+        "typecode": 90200,
+        "address": "碧云路1号附80号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.030878,
+        "gcj_lat": 30.63938,
+        "wgs84_lon": 104.028462896,
+        "wgs84_lat": 30.641882576,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C921HB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02846289627684,
+          30.64188257596168
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7XL6P",
+        "name": "贝育幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "大石南路36-40号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.036454,
+        "gcj_lat": 30.645079,
+        "wgs84_lon": 104.034020966,
+        "wgs84_lat": 30.6475647996,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001C7XL6P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03402096579816,
+          30.647564799598463
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09429009",
+        "name": "浣花里(省医院草堂院区)(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "17号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.030948,
+        "gcj_lat": 30.650822,
+        "wgs84_lon": 104.028532157,
+        "wgs84_lat": 30.6533195263,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09429009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02853215720204,
+          30.65331952634655
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GUSZLYFM",
+        "name": "成都市青羊区草堂社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "浣花滨河路29号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.032719,
+        "gcj_lat": 30.654208,
+        "wgs84_lon": 104.030297295,
+        "wgs84_lat": 30.6566994167,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GUSZLYFM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.030297294504,
+          30.656699416722027
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11424781",
+        "name": "杜甫草堂(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "13号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.030327,
+        "gcj_lat": 30.662522,
+        "wgs84_lon": 104.027912658,
+        "wgs84_lat": 30.6650160831,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11424781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02791265766344,
+          30.665016083116004
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10707805",
+        "name": "九兴大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线;8号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.039868,
+        "gcj_lat": 30.620681,
+        "wgs84_lon": 104.037425726,
+        "wgs84_lat": 30.6231685347,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10707805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03742572589958,
+          30.623168534683327
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10707815",
+        "name": "科园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.037829,
+        "gcj_lat": 30.628044,
+        "wgs84_lon": 104.035392521,
+        "wgs84_lat": 30.6305335001,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10707815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03539252091872,
+          30.630533500050927
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKVFCOA",
+        "name": "藏绿GarSei咖啡(风尚锦屏苑店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "高升桥东路20号附1号(科园地铁站A3口步行470米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "咖啡厅",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.040451,
+        "gcj_lat": 30.633293,
+        "wgs84_lon": 104.038006433,
+        "wgs84_lat": 30.6357739817,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFKVFCOA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03800643321767,
+          30.635773981685123
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WR77",
+        "name": "四川省骨科医院武侯院区",
+        "type": "医院",
+        "typecode": 90206,
+        "address": "一环路西一段132号(省骨科医院地铁站C口步行60米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.040182,
+        "gcj_lat": 30.650947,
+        "wgs84_lon": 104.037737433,
+        "wgs84_lat": 30.6534211653,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C7WR77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03773743333312,
+          30.653421165321127
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7X6BG",
+        "name": "成都中医药大学附属医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "十二桥路39-41号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.041881,
+        "gcj_lat": 30.667369,
+        "wgs84_lon": 104.039430716,
+        "wgs84_lat": 30.6698319645,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C7X6BG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03943071567608,
+          30.66983196446034
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WMZW",
+        "name": "成都七七七酒店(成雅高速店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "创业路5号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.045504,
+        "gcj_lat": 30.622513,
+        "wgs84_lon": 104.043045478,
+        "wgs84_lat": 30.6249867587,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7WMZW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04304547845987,
+          30.624986758732476
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10856183",
+        "name": "永丰(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.046902,
+        "gcj_lat": 30.628165,
+        "wgs84_lon": 104.044439398,
+        "wgs84_lat": 30.6306333836,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10856183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04443939782968,
+          30.630633383619887
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10061048",
+        "name": "通惠门(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.048523,
+        "gcj_lat": 30.662088,
+        "wgs84_lon": 104.046054523,
+        "wgs84_lat": 30.6645384857,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10061048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0460545230319,
+          30.66453848566878
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10856184",
+        "name": "芳草街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.052352,
+        "gcj_lat": 30.626041,
+        "wgs84_lon": 104.04987533,
+        "wgs84_lat": 30.6284989323,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10856184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04987532971566,
+          30.628498932278184
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7UTOE",
+        "name": "成都贝斯特酒店(洗面桥东二街店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "洗面桥街18号金茂礼都南楼",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.05474,
+        "gcj_lat": 30.637312,
+        "wgs84_lon": 104.052257004,
+        "wgs84_lat": 30.639760658,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7UTOE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05225700398154,
+          30.63976065803676
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7Y88O",
+        "name": "西南医科大学附属成都三六三医院武侯院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "通祠路79-2号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.054803,
+        "gcj_lat": 30.649368,
+        "wgs84_lon": 104.052319306,
+        "wgs84_lat": 30.6518114324,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C7Y88O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05231930624495,
+          30.651811432362905
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10061045",
+        "name": "人民公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)10号线三期;17号线;2号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.056779,
+        "gcj_lat": 30.659324,
+        "wgs84_lon": 104.054290235,
+        "wgs84_lat": 30.6617594688,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10061045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05429023505285,
+          30.66175946875572
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536811",
+        "name": "宽窄巷子(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.050679,
+        "gcj_lat": 30.665381,
+        "wgs84_lon": 104.048204765,
+        "wgs84_lat": 30.6678255513,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0482047646564,
+          30.667825551319577
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8RBFT",
+        "name": "99优选酒店(成都宽窄巷子地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "槐树街47号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.052865,
+        "gcj_lat": 30.66958,
+        "wgs84_lon": 104.050385084,
+        "wgs84_lat": 30.6720183142,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C8RBFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05038508401842,
+          30.672018314248106
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L31SULAQ",
+        "name": "奔跑吧·兄弟青年旅舍(火车南站玉林店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "玉林一巷16号玉林小区邮电部成都电缆厂宿舍26幢",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.063629,
+        "gcj_lat": 30.627754,
+        "wgs84_lon": 104.06112704,
+        "wgs84_lat": 30.630191392,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L31SULAQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06112703952752,
+          30.630191391979263
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J3MH36TT",
+        "name": "7天酒店(成都华西玉林路省体育馆地铁站店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "一环路南三段25号地铁A出口直走700米",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.058923,
+        "gcj_lat": 30.633563,
+        "wgs84_lon": 104.056430594,
+        "wgs84_lat": 30.636005662,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J3MH36TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05643059446001,
+          30.636005661987987
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGXJK7O",
+        "name": "华西医院(国学巷)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "国学巷37号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.06281,
+        "gcj_lat": 30.642906,
+        "wgs84_lon": 104.060308983,
+        "wgs84_lat": 30.64533835,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGXJK7O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06030898272677,
+          30.64533835002198
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WMTM",
+        "name": "成都年鸿商务酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "东城根南街60号(天府广场地铁站西1南口步行400米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.060938,
+        "gcj_lat": 30.657542,
+        "wgs84_lon": 104.05844017,
+        "wgs84_lat": 30.659971066,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7WMTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05844017029582,
+          30.659971065984756
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060978",
+        "name": "省体育馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)18号线北延段;1号线;3号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.066606,
+        "gcj_lat": 30.633361,
+        "wgs84_lon": 104.064098114,
+        "wgs84_lat": 30.6357917059,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06409811383767,
+          30.635791705883967
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIBH169",
+        "name": "熊猫快捷酒店(成都春熙路天府广场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "古卧龙桥街10号成物大厦F3层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.07205,
+        "gcj_lat": 30.653832,
+        "wgs84_lon": 104.069531928,
+        "wgs84_lat": 30.65624701,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFIBH169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06953192819752,
+          30.65624701004394
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G3FRMMZ2",
+        "name": "OUR.HOUSE轻奢自助酒店公寓(成都人民北路店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "人民北路一段龙湖上城11栋2单元2719号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.071847,
+        "gcj_lat": 30.682829,
+        "wgs84_lon": 104.069327918,
+        "wgs84_lat": 30.6852313442,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0G3FRMMZ2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06932791756869,
+          30.68523134421794
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8RR9I",
+        "name": "POSHPACKER拖板鞋青年旅舍旅行酒店(成都太古里春熙路地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "东升街98号3楼",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.078001,
+        "gcj_lat": 30.650365,
+        "wgs84_lon": 104.075474675,
+        "wgs84_lat": 30.6527753177,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C8RR9I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.075474675195,
+          30.652775317698662
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7UAFT",
+        "name": "POSHPACKER驴友记.蝉舍禅风小院(成都文殊院店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "星辉西路任家湾23号(近金牛万达广场,文殊院附近)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.073806,
+        "gcj_lat": 30.678897,
+        "wgs84_lon": 104.07128411,
+        "wgs84_lat": 30.6812989074,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7UAFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07128410982045,
+          30.681298907385724
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8PLB0",
+        "name": "99旅馆连锁(成都九眼桥四川大学店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "共和路红瓦寺共和村5号商务大楼三层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.084214,
+        "gcj_lat": 30.635276,
+        "wgs84_lon": 104.081681518,
+        "wgs84_lat": 30.6376879322,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C8PLB0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0816815179486,
+          30.63768793223902
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0A7XGLZ",
+        "name": "归蜀轻奢自助公寓(春熙路地铁站店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "正科甲巷48号科甲大厦7楼706",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.079367,
+        "gcj_lat": 30.656283,
+        "wgs84_lon": 104.076838727,
+        "wgs84_lat": 30.6586895616,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0G0A7XGLZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0768387270559,
+          30.658689561551288
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFRDTPN",
+        "name": "星胜酒店(金牛万达店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "一环路北三段68号附6号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.079091,
+        "gcj_lat": 30.683638,
+        "wgs84_lon": 104.076561801,
+        "wgs84_lat": 30.6860325854,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFRDTPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07656180108202,
+          30.686032585430034
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C09NKD",
+        "name": "瑞鑫宾馆(成都金牛万达梁家巷地铁站店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "解放西路5号附20号2层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.081515,
+        "gcj_lat": 30.687844,
+        "wgs84_lon": 104.078982833,
+        "wgs84_lat": 30.6902347041,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C09NKD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07898283321096,
+          30.690234704094888
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10738801",
+        "name": "顺江路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.092957,
+        "gcj_lat": 30.635569,
+        "wgs84_lon": 104.090418231,
+        "wgs84_lat": 30.6379770432,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10738801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0904182307049,
+          30.63797704316885
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10061131",
+        "name": "东门大桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.087308,
+        "gcj_lat": 30.648192,
+        "wgs84_lon": 104.084772254,
+        "wgs84_lat": 30.6505967526,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10061131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08477225428214,
+          30.650596752583844
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGFPCEG",
+        "name": "四川电力医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "点将台街105号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.090794,
+        "gcj_lat": 30.651311,
+        "wgs84_lon": 104.088255693,
+        "wgs84_lat": 30.6537129853,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGFPCEG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0882556928924,
+          30.653712985323804
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WLNH",
+        "name": "锦江区书院街社区卫生服务中心(常规成人)",
+        "type": "医院",
+        "typecode": 0,
+        "address": "天涯石北街178号(市二医院地铁站C口步行370米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.089233,
+        "gcj_lat": 30.659912,
+        "wgs84_lon": 104.086695302,
+        "wgs84_lat": 30.6623108219,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C7WLNH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08669530242872,
+          30.66231082194757
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIM0U2X",
+        "name": "成都市中西医结合医院北区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "红星路一段44号-4(红星桥地铁站D口步行340米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.087563,
+        "gcj_lat": 30.668347,
+        "wgs84_lon": 104.085026129,
+        "wgs84_lat": 30.6707428307,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIM0U2X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08502612857735,
+          30.670742830740966
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8ORJX",
+        "name": "西部战区空军医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "工农院街1号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.096146,
+        "gcj_lat": 30.633413,
+        "wgs84_lon": 104.093606015,
+        "wgs84_lat": 30.6358214179,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C8ORJX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09360601475429,
+          30.635821417875466
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C929MO",
+        "name": "蓉城老妈宾馆(成都九眼桥店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "莲花北路150号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.097831,
+        "gcj_lat": 30.639507,
+        "wgs84_lon": 104.095290247,
+        "wgs84_lat": 30.6419127795,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C929MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09529024661258,
+          30.64191277952637
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10063208",
+        "name": "牛王庙(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;6号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.094539,
+        "gcj_lat": 30.645023,
+        "wgs84_lon": 104.091999078,
+        "wgs84_lat": 30.6474267484,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10063208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0919990784756,
+          30.647426748353293
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKVU57MN",
+        "name": "成都宝石花医院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "石油路19-21(红星桥地铁站G1口步行430米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.094563,
+        "gcj_lat": 30.673458,
+        "wgs84_lon": 104.092021758,
+        "wgs84_lat": 30.675849308,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GKVU57MN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09202175835966,
+          30.675849308004494
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8OQ7Z",
+        "name": "布丁严选酒店(成都火车东站牛市口地铁站万象城店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "牛市口路30号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.107238,
+        "gcj_lat": 30.640917,
+        "wgs84_lon": 104.104697036,
+        "wgs84_lat": 30.6433239206,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C8OQ7Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10469703592516,
+          30.64332392063168
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH9BXMQ",
+        "name": "四川省成都列五中学(双林校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "双林路双园巷9号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.108825,
+        "gcj_lat": 30.655704,
+        "wgs84_lon": 104.106283749,
+        "wgs84_lat": 30.6581052527,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH9BXMQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10628374942436,
+          30.65810525274301
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GU5UTYBA",
+        "name": "成都喜马拉雅藏医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "光明滨河路60号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.111728,
+        "gcj_lat": 30.663975,
+        "wgs84_lon": 104.109187393,
+        "wgs84_lat": 30.6663741045,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GU5UTYBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10918739294574,
+          30.666374104522188
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK7HZHRT",
+        "name": "SM购物广场成华店停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "二环路东二段29号SM广场F4",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "停车场",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.113035,
+        "gcj_lat": 30.668942,
+        "wgs84_lon": 104.110494751,
+        "wgs84_lat": 30.6713396751,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0GK7HZHRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.11049475071172,
+          30.671339675117988
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425895",
+        "name": "踏水桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "17号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.108357,
+        "gcj_lat": 30.675292,
+        "wgs84_lon": 104.105814717,
+        "wgs84_lat": 30.6776843752,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1058147174328,
+          30.677684375238442
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C9208U",
+        "name": "佳福酒店(东郊记忆店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "怡福路268号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.107648,
+        "gcj_lat": 30.686408,
+        "wgs84_lon": 104.105105029,
+        "wgs84_lat": 30.6887950181,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C9208U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10510502901118,
+          30.688795018105388
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHTNZUZ",
+        "name": "东大社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "双桂路街道通汇街26号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.118196,
+        "gcj_lat": 30.636884,
+        "wgs84_lon": 104.11566028,
+        "wgs84_lat": 30.6392992242,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHTNZUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.11566027997885,
+          30.639299224249758
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10614672",
+        "name": "万年场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.119188,
+        "gcj_lat": 30.644231,
+        "wgs84_lon": 104.116652659,
+        "wgs84_lat": 30.6466439564,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10614672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.11665265913898,
+          30.646643956352765
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10856178",
+        "name": "杉板桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.119292,
+        "gcj_lat": 30.66417,
+        "wgs84_lon": 104.116755819,
+        "wgs84_lat": 30.6665744097,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10856178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.11675581858829,
+          30.666574409688952
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536727",
+        "name": "前锋路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线;6号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.092124,
+        "gcj_lat": 30.679037,
+        "wgs84_lon": 104.089583657,
+        "wgs84_lat": 30.6814263183,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08958365729707,
+          30.68142631827657
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536730",
+        "name": "新南门(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "13号线;3号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.075161,
+        "gcj_lat": 30.644361,
+        "wgs84_lon": 104.072638741,
+        "wgs84_lat": 30.6467766392,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07263874085844,
+          30.646776639157064
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536721",
+        "name": "李家沱(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.094528,
+        "gcj_lat": 30.689393,
+        "wgs84_lon": 104.091986038,
+        "wgs84_lat": 30.691777049,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09198603795602,
+          30.69177704901403
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IU5CXKLB",
+        "name": "星巴克(成都高升桥新华文轩店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "武侯祠大街266号高升桥新华文轩成都购书中心地上第1层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "咖啡厅",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.041967,
+        "gcj_lat": 30.641787,
+        "wgs84_lon": 104.03951762,
+        "wgs84_lat": 30.6442608491,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IU5CXKLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03951761977684,
+          30.644260849056796
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8MYT9",
+        "name": "成都德馨客栈",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "人民中路二段5号(骡马市地铁站G口步行120米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.065798,
+        "gcj_lat": 30.667864,
+        "wgs84_lon": 104.063290034,
+        "wgs84_lat": 30.670281024,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C8MYT9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06329003392356,
+          30.67028102396259
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGO8VQL",
+        "name": "成都老友记青年旅舍",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "领事馆路12号棕北公寓1单元5楼8号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.070833,
+        "gcj_lat": 30.625513,
+        "wgs84_lon": 104.068318165,
+        "wgs84_lat": 30.6279413708,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGO8VQL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06831816469806,
+          30.627941370842077
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGTUTUSJ",
+        "name": "杏林春堂国医馆(青羊馆)",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "一环路西二段18号2楼",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.040541,
+        "gcj_lat": 30.660434,
+        "wgs84_lon": 104.038094946,
+        "wgs84_lat": 30.662903188,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LGTUTUSJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03809494583228,
+          30.662903187987116
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C80MK3",
+        "name": "玉林社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "电信南街1号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.059132,
+        "gcj_lat": 30.637838,
+        "wgs84_lon": 104.056638942,
+        "wgs84_lat": 30.6402785205,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C80MK3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05663894192236,
+          30.640278520543404
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10069526",
+        "name": "天府广场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;2号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.065891,
+        "gcj_lat": 30.657141,
+        "wgs84_lon": 104.06338335,
+        "wgs84_lat": 30.6595626101,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10069526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06338335018945,
+          30.65956261005771
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C08U8M",
+        "name": "成都广电宾馆(市二医院春熙路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "红星路二段庆云西街65号广福大厦F1层",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.085703,
+        "gcj_lat": 30.662277,
+        "wgs84_lon": 104.08316793,
+        "wgs84_lat": 30.6646764819,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C08U8M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08316792977253,
+          30.664676481933565
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6MZG3WY",
+        "name": "富临大厦停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "猛追湾街道双林路388号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "停车场",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.09379,
+        "gcj_lat": 30.659958,
+        "wgs84_lon": 104.091249714,
+        "wgs84_lat": 30.6623554378,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H6MZG3WY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09124971414676,
+          30.662355437759093
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8XITV",
+        "name": "成都八二幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "一环路东2段-1号-附31号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.101324,
+        "gcj_lat": 30.667048,
+        "wgs84_lon": 104.098781418,
+        "wgs84_lat": 30.6694420759,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001C8XITV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0987814179811,
+          30.669442075922337
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLQ9E0Y",
+        "name": "四川省人民医院医疗集团三博东篱医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "杉板桥南一路219号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.12017,
+        "gcj_lat": 30.656954,
+        "wgs84_lon": 104.117634824,
+        "wgs84_lat": 30.6593623394,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLQ9E0Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1176348238065,
+          30.659362339352594
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HG3UDWEI",
+        "name": "四川省建筑医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "星辉东路9号(红星桥地铁站D口步行320米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.088238,
+        "gcj_lat": 30.672479,
+        "wgs84_lon": 104.08570043,
+        "wgs84_lat": 30.6748726728,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HG3UDWEI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08570043008096,
+          30.674872672816495
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRJRJRNF",
+        "name": "龙户人家串串香店(建设路店)",
+        "type": "餐饮",
+        "typecode": 50117,
+        "address": "建设南新路77号附6号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "餐厅",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.105558,
+        "gcj_lat": 30.664824,
+        "wgs84_lon": 104.103015645,
+        "wgs84_lat": 30.6672200091,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0JRJRJRNF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10301564543788,
+          30.667220009068743
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HA7HXZV9",
+        "name": "蛙蛙鸡冷锅鱼府",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "新鸿路268号(新鸿路地铁站C1口步行110米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "餐厅",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.103178,
+        "gcj_lat": 30.66154,
+        "wgs84_lon": 104.10063562,
+        "wgs84_lat": 30.6639368299,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0HA7HXZV9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1006724198987,
+          30.66396686766515
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10738796",
+        "name": "梁家巷(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.083337,
+        "gcj_lat": 30.682348,
+        "wgs84_lon": 104.0808032,
+        "wgs84_lat": 30.6847399351,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10738796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08080319983124,
+          30.684739935140655
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C06FMV",
+        "name": "中国农业银行(锦东支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "新华大道双林路117号(玉双路地铁站D口步行370米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "银行",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.100238,
+        "gcj_lat": 30.657886,
+        "wgs84_lon": 104.09769595,
+        "wgs84_lat": 30.6602839894,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B001C06FMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09769594951875,
+          30.660283989437527
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11471855",
+        "name": "电子科大建设北路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "17号线;6号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.099991,
+        "gcj_lat": 30.672735,
+        "wgs84_lon": 104.097448298,
+        "wgs84_lat": 30.6751263978,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11471855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0974482977922,
+          30.675126397838767
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIRV31J",
+        "name": "签年时光火锅串串香(新鸿店)",
+        "type": "餐饮",
+        "typecode": 50117,
+        "address": "成华大道新鸿路118号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "餐厅",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.099501,
+        "gcj_lat": 30.661838,
+        "wgs84_lon": 104.096958875,
+        "wgs84_lat": 30.6642342068,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFIRV31J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0969588745987,
+          30.664234206791136
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WISI",
+        "name": "巴蜀大宅门火锅(新华公园店)",
+        "type": "餐饮",
+        "typecode": 50117,
+        "address": "新鸿南路75号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "餐厅",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.106285,
+        "gcj_lat": 30.658951,
+        "wgs84_lon": 104.103743025,
+        "wgs84_lat": 30.6613498303,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B001C7WISI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10374302463757,
+          30.661349830334007
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C05T2R",
+        "name": "交通银行(成都成华支行)",
+        "type": "银行",
+        "typecode": 160108,
+        "address": "一环路东三段60号附2-3号(玉双路地铁站E1口旁)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "银行",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.098414,
+        "gcj_lat": 30.654198,
+        "wgs84_lon": 104.095872434,
+        "wgs84_lat": 30.6565975074,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B001C05T2R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0958724342267,
+          30.65659750743197
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFACGN2",
+        "name": "成都市成华区双林幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "双华路223号五冶住宅区44栋",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.102921,
+        "gcj_lat": 30.653412,
+        "wgs84_lon": 104.100378991,
+        "wgs84_lat": 30.6558123198,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFACGN2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10037899146656,
+          30.655812319756784
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8OPGZ",
+        "name": "成都市成华区特殊教育学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "成都市成华区东风路北一巷3号附16号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.093758,
+        "gcj_lat": 30.654361,
+        "wgs84_lon": 104.091217986,
+        "wgs84_lat": 30.6567608824,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001C8OPGZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09121798646166,
+          30.65676088236803
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425913",
+        "name": "城隍庙(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "17号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "金牛区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.079755,
+        "gcj_lat": 30.679306,
+        "wgs84_lon": 104.07722521,
+        "wgs84_lat": 30.6817020004,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07722521026923,
+          30.681702000393766
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZENDI",
+        "name": "威登酒店(春熙路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "暑袜北二街89号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "北京城区",
+        "district": "锦江区",
+        "gcj_lon": 104.076615,
+        "gcj_lat": 30.66056,
+        "wgs84_lon": 104.074090006,
+        "wgs84_lat": 30.6629671919,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFZENDI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07409000577618,
+          30.6629671919488
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C09ITL",
+        "name": "攀钢集团成都医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "双华南路12号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "成华区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.102764,
+        "gcj_lat": 30.648788,
+        "wgs84_lon": 104.100222204,
+        "wgs84_lat": 30.6511902788,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C09ITL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10022220448394,
+          30.651190278849082
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7VSMZ",
+        "name": "成都紫金臻宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "暑袜中街51号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.074366,
+        "gcj_lat": 30.657077,
+        "wgs84_lon": 104.071844292,
+        "wgs84_lat": 30.6594880066,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001C7VSMZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0718442922753,
+          30.659488006582922
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHN21SY",
+        "name": "笑脸里·好久不见青年旅舍(成都锦里武侯祠店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "超洋路68号衣冠庙地铁站旁",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "酒店",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.049526,
+        "gcj_lat": 30.633401,
+        "wgs84_lon": 104.047056189,
+        "wgs84_lat": 30.635861641,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHN21SY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0470561893298,
+          30.635861641038122
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFV30J7",
+        "name": "成都军大医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "玉沙路142号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.079264,
+        "gcj_lat": 30.667022,
+        "wgs84_lon": 104.076735357,
+        "wgs84_lat": 30.6694239296,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFV30J7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07673535679052,
+          30.669423929625953
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIAVXKB",
+        "name": "殊德医馆",
+        "type": "医院",
+        "typecode": 0,
+        "address": "白云寺街60号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "青羊区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.074264,
+        "gcj_lat": 30.673053,
+        "wgs84_lon": 104.071741707,
+        "wgs84_lat": 30.6754570492,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIAVXKB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07174170731754,
+          30.675457049199377
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C04A3A",
+        "name": "四川大学华西第四医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "人民南路3段18号(华西坝地铁站B口步行270米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.065457,
+        "gcj_lat": 30.64024,
+        "wgs84_lon": 104.062950937,
+        "wgs84_lat": 30.642669476,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C04A3A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06295093747109,
+          30.64266947596882
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11489183",
+        "name": "一环菊乐路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "115路;11路;280路;34路;82路;G69路",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "公交站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.041251,
+        "gcj_lat": 30.646777,
+        "wgs84_lon": 104.038803478,
+        "wgs84_lat": 30.6492504123,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11489183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03880347761503,
+          30.649250412287035
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKX7TU51",
+        "name": "成都锦欣中医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "海椒市横街78号(牛市口地铁站A1口步行400米)",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.104729,
+        "gcj_lat": 30.637607,
+        "wgs84_lon": 104.102187807,
+        "wgs84_lat": 30.6400144797,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HKX7TU51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10218780713572,
+          30.640014479745275
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLFWT35",
+        "name": "成都高新区肖家河社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "兴蓉街4号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.046669,
+        "gcj_lat": 30.635883,
+        "wgs84_lon": 104.044206681,
+        "wgs84_lat": 30.6383486994,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLFWT35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04420668136603,
+          30.638348699377463
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C8ORF6",
+        "name": "中国人民武装警察部队四川省总队成都医院(内部专用)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "浆洗街5号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "医院",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.056835,
+        "gcj_lat": 30.642483,
+        "wgs84_lon": 104.054346873,
+        "wgs84_lat": 30.6449256124,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001C8ORF6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05434687281668,
+          30.644925612415147
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001C7WQWX",
+        "name": "中国工商银行24小时自助银行(武侯祠支行)",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "武侯祠大街232号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "银行",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.049235,
+        "gcj_lat": 30.644067,
+        "wgs84_lon": 104.046765466,
+        "wgs84_lat": 30.6465237737,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B001C7WQWX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0467263992096,
+          30.6465229789307
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0713GQB",
+        "name": "成都体育学院(武侯校区教师公寓1号楼)",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "励志路与怀贤路交叉口南60米",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "学校",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.045175,
+        "gcj_lat": 30.646875,
+        "wgs84_lon": 104.04271629,
+        "wgs84_lat": 30.6493393595,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0L0713GQB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04271628977848,
+          30.649339359500974
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060963",
+        "name": "锦江宾馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "锦江区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.066053,
+        "gcj_lat": 30.650046,
+        "wgs84_lon": 104.063545373,
+        "wgs84_lat": 30.6524704467,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06354537250094,
+          30.65247044674086
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11424789",
+        "name": "九眼桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "13号线",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "地铁站",
+        "city": "成都",
+        "district": "成华区",
+        "gcj_lon": 104.087977,
+        "gcj_lat": 30.639475,
+        "wgs84_lon": 104.085441143,
+        "wgs84_lat": 30.6418831325,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11424789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08544114285142,
+          30.64188313249048
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFOX4D0",
+        "name": "平安银行(成都高升桥支行)",
+        "type": "银行",
+        "typecode": 160117,
+        "address": "高升桥路16号",
+        "pname": "四川省",
+        "cityname": "成都市",
+        "adname": "武侯区",
+        "query_category": "银行",
+        "city": "成都",
+        "district": "武侯区",
+        "gcj_lon": 104.03674,
+        "gcj_lat": 30.640038,
+        "wgs84_lon": 104.034306311,
+        "wgs84_lat": 30.6425252171,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFOX4D0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0343063113454,
+          30.642525217126117
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2591 @@
+{
+  "source": "E:\\GradOpening\\MapGenAI\\Datasets\\datasets0324.shp",
+  "source_crs": "EPSG:4326",
+  "metric_crs": "EPSG:3857",
+  "sample_count_per_scale": 50,
+  "scales": {
+    "Scale_1_86000": {
+      "scale": 86000,
+      "window_m": {
+        "width": 22000.0,
+        "height": 18000.0
+      },
+      "grid_m": 10000.0,
+      "min_count": 90,
+      "samples": [
+        {
+          "sample": "sample_01.geojson",
+          "count": 1690,
+          "cityname": "大连市",
+          "bbox_wgs84": [
+            121.533122,
+            38.863716,
+            121.714305,
+            38.980225
+          ],
+          "span_lon": 0.181183,
+          "span_lat": 0.116509,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_02.geojson",
+          "count": 1404,
+          "cityname": "乌鲁木齐市",
+          "bbox_wgs84": [
+            87.487762,
+            43.778681,
+            87.677716,
+            43.893648
+          ],
+          "span_lon": 0.189955,
+          "span_lat": 0.114967,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_03.geojson",
+          "count": 1171,
+          "cityname": "南昌市",
+          "bbox_wgs84": [
+            115.785482,
+            28.570757,
+            115.977879,
+            28.710862
+          ],
+          "span_lon": 0.192397,
+          "span_lat": 0.140105,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_04.geojson",
+          "count": 1125,
+          "cityname": "天津市",
+          "bbox_wgs84": [
+            117.131782,
+            39.0685,
+            117.328633,
+            39.170213
+          ],
+          "span_lon": 0.196851,
+          "span_lat": 0.101713,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_05.geojson",
+          "count": 1073,
+          "cityname": "东莞市",
+          "bbox_wgs84": [
+            113.628003,
+            22.909209,
+            113.825447,
+            23.057526
+          ],
+          "span_lon": 0.197444,
+          "span_lat": 0.148317,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_06.geojson",
+          "count": 1070,
+          "cityname": "绍兴市",
+          "bbox_wgs84": [
+            120.455745,
+            29.980387,
+            120.650471,
+            30.119882
+          ],
+          "span_lon": 0.194725,
+          "span_lat": 0.139496,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_07.geojson",
+          "count": 1014,
+          "cityname": "南通市",
+          "bbox_wgs84": [
+            120.814607,
+            31.906267,
+            121.012022,
+            32.043192
+          ],
+          "span_lon": 0.197415,
+          "span_lat": 0.136925,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_08.geojson",
+          "count": 949,
+          "cityname": "广州市",
+          "bbox_wgs84": [
+            113.178896,
+            23.079361,
+            113.37626,
+            23.186206
+          ],
+          "span_lon": 0.197364,
+          "span_lat": 0.106845,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_09.geojson",
+          "count": 946,
+          "cityname": "深圳市",
+          "bbox_wgs84": [
+            113.988747,
+            22.426996,
+            114.182277,
+            22.560642
+          ],
+          "span_lon": 0.19353,
+          "span_lat": 0.133646,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_10.geojson",
+          "count": 923,
+          "cityname": "海口市",
+          "bbox_wgs84": [
+            110.262467,
+            19.983108,
+            110.408676,
+            20.068756
+          ],
+          "span_lon": 0.146209,
+          "span_lat": 0.085648,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_11.geojson",
+          "count": 913,
+          "cityname": "合肥市",
+          "bbox_wgs84": [
+            117.16095,
+            31.759894,
+            117.328701,
+            31.889823
+          ],
+          "span_lon": 0.167751,
+          "span_lat": 0.129929,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_12.geojson",
+          "count": 910,
+          "cityname": "太原市",
+          "bbox_wgs84": [
+            112.466236,
+            37.798771,
+            112.621055,
+            37.926053
+          ],
+          "span_lon": 0.154819,
+          "span_lat": 0.127282,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_13.geojson",
+          "count": 904,
+          "cityname": "南京市",
+          "bbox_wgs84": [
+            118.698159,
+            31.982411,
+            118.848164,
+            32.111846
+          ],
+          "span_lon": 0.150005,
+          "span_lat": 0.129435,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_14.geojson",
+          "count": 903,
+          "cityname": "常州市",
+          "bbox_wgs84": [
+            119.826443,
+            31.75377,
+            120.01819,
+            31.88826
+          ],
+          "span_lon": 0.191747,
+          "span_lat": 0.13449,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_15.geojson",
+          "count": 890,
+          "cityname": "烟台市",
+          "bbox_wgs84": [
+            121.263751,
+            37.443376,
+            121.460228,
+            37.570255
+          ],
+          "span_lon": 0.196477,
+          "span_lat": 0.126879,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_16.geojson",
+          "count": 870,
+          "cityname": "武汉市",
+          "bbox_wgs84": [
+            114.18339,
+            30.523854,
+            114.35922,
+            30.66121
+          ],
+          "span_lon": 0.175831,
+          "span_lat": 0.137356,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_17.geojson",
+          "count": 866,
+          "cityname": "嘉兴市",
+          "bbox_wgs84": [
+            120.651442,
+            30.684946,
+            120.831511,
+            30.809671
+          ],
+          "span_lon": 0.18007,
+          "span_lat": 0.124725,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_18.geojson",
+          "count": 862,
+          "cityname": "郑州市",
+          "bbox_wgs84": [
+            113.540609,
+            34.683851,
+            113.735512,
+            34.816676
+          ],
+          "span_lon": 0.194903,
+          "span_lat": 0.132825,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_19.geojson",
+          "count": 847,
+          "cityname": "汕头市",
+          "bbox_wgs84": [
+            116.592633,
+            23.239606,
+            116.750862,
+            23.38451
+          ],
+          "span_lon": 0.158228,
+          "span_lat": 0.144904,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_20.geojson",
+          "count": 844,
+          "cityname": "上海市",
+          "bbox_wgs84": [
+            121.364158,
+            31.163783,
+            121.550293,
+            31.278496
+          ],
+          "span_lon": 0.186135,
+          "span_lat": 0.114713,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_21.geojson",
+          "count": 830,
+          "cityname": "南宁市",
+          "bbox_wgs84": [
+            108.239288,
+            22.743953,
+            108.417642,
+            22.892048
+          ],
+          "span_lon": 0.178354,
+          "span_lat": 0.148095,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_22.geojson",
+          "count": 818,
+          "cityname": "济南市",
+          "bbox_wgs84": [
+            116.965987,
+            36.582739,
+            117.149191,
+            36.711691
+          ],
+          "span_lon": 0.183204,
+          "span_lat": 0.128952,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_23.geojson",
+          "count": 812,
+          "cityname": "盐城市",
+          "bbox_wgs84": [
+            120.010841,
+            33.268583,
+            120.203445,
+            33.402971
+          ],
+          "span_lon": 0.192604,
+          "span_lat": 0.134389,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_24.geojson",
+          "count": 812,
+          "cityname": "长沙市",
+          "bbox_wgs84": [
+            112.909716,
+            28.174833,
+            113.103597,
+            28.30762
+          ],
+          "span_lon": 0.193882,
+          "span_lat": 0.132786,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_25.geojson",
+          "count": 794,
+          "cityname": "兰州市",
+          "bbox_wgs84": [
+            103.659949,
+            36.002844,
+            103.854229,
+            36.133306
+          ],
+          "span_lon": 0.19428,
+          "span_lat": 0.130462,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_26.geojson",
+          "count": 744,
+          "cityname": "沈阳市",
+          "bbox_wgs84": [
+            123.330243,
+            41.733076,
+            123.493376,
+            41.848736
+          ],
+          "span_lon": 0.163132,
+          "span_lat": 0.11566,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_27.geojson",
+          "count": 734,
+          "cityname": "临沂市",
+          "bbox_wgs84": [
+            118.256582,
+            34.97881,
+            118.406673,
+            35.110999
+          ],
+          "span_lon": 0.150091,
+          "span_lat": 0.132189,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_28.geojson",
+          "count": 716,
+          "cityname": "厦门市",
+          "bbox_wgs84": [
+            118.029964,
+            24.425926,
+            118.194011,
+            24.53644
+          ],
+          "span_lon": 0.164046,
+          "span_lat": 0.110514,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_29.geojson",
+          "count": 662,
+          "cityname": "嘉峪关市",
+          "bbox_wgs84": [
+            98.205799,
+            39.693231,
+            98.373964,
+            39.813135
+          ],
+          "span_lon": 0.168165,
+          "span_lat": 0.119904,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_30.geojson",
+          "count": 659,
+          "cityname": "北京市",
+          "bbox_wgs84": [
+            116.246859,
+            39.831228,
+            116.430564,
+            39.952019
+          ],
+          "span_lon": 0.183705,
+          "span_lat": 0.120792,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_31.geojson",
+          "count": 658,
+          "cityname": "青岛市",
+          "bbox_wgs84": [
+            120.341076,
+            36.075395,
+            120.473054,
+            36.172572
+          ],
+          "span_lon": 0.131978,
+          "span_lat": 0.097177,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_32.geojson",
+          "count": 656,
+          "cityname": "宁波市",
+          "bbox_wgs84": [
+            121.463592,
+            29.824487,
+            121.638207,
+            29.964544
+          ],
+          "span_lon": 0.174616,
+          "span_lat": 0.140057,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_33.geojson",
+          "count": 629,
+          "cityname": "烟台市",
+          "bbox_wgs84": [
+            121.4437,
+            37.372435,
+            121.592957,
+            37.483337
+          ],
+          "span_lon": 0.149257,
+          "span_lat": 0.110902,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_34.geojson",
+          "count": 612,
+          "cityname": "潍坊市",
+          "bbox_wgs84": [
+            119.017824,
+            36.654145,
+            119.215324,
+            36.781441
+          ],
+          "span_lon": 0.1975,
+          "span_lat": 0.127297,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_35.geojson",
+          "count": 608,
+          "cityname": "长春市",
+          "bbox_wgs84": [
+            125.252797,
+            43.779228,
+            125.393449,
+            43.885962
+          ],
+          "span_lon": 0.140653,
+          "span_lat": 0.106734,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_36.geojson",
+          "count": 586,
+          "cityname": "仙桃市",
+          "bbox_wgs84": [
+            113.275651,
+            30.295021,
+            113.465619,
+            30.430362
+          ],
+          "span_lon": 0.189968,
+          "span_lat": 0.13534,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_37.geojson",
+          "count": 579,
+          "cityname": "辽源市",
+          "bbox_wgs84": [
+            125.058151,
+            42.88769,
+            125.210379,
+            42.97219
+          ],
+          "span_lon": 0.152228,
+          "span_lat": 0.0845,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_38.geojson",
+          "count": 571,
+          "cityname": "贵阳市",
+          "bbox_wgs84": [
+            106.571267,
+            26.579352,
+            106.727744,
+            26.708185
+          ],
+          "span_lon": 0.156477,
+          "span_lat": 0.128833,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_39.geojson",
+          "count": 568,
+          "cityname": "佛山市",
+          "bbox_wgs84": [
+            113.001267,
+            22.926357,
+            113.190634,
+            23.057405
+          ],
+          "span_lon": 0.189367,
+          "span_lat": 0.131048,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_40.geojson",
+          "count": 516,
+          "cityname": "台州市",
+          "bbox_wgs84": [
+            121.263952,
+            28.569934,
+            121.458712,
+            28.701434
+          ],
+          "span_lon": 0.194761,
+          "span_lat": 0.1315,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_41.geojson",
+          "count": 497,
+          "cityname": "丽江市",
+          "bbox_wgs84": [
+            100.169984,
+            26.820693,
+            100.295801,
+            26.963367
+          ],
+          "span_lon": 0.125817,
+          "span_lat": 0.142674,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_42.geojson",
+          "count": 467,
+          "cityname": "四平市",
+          "bbox_wgs84": [
+            124.321376,
+            43.125185,
+            124.460079,
+            43.205835
+          ],
+          "span_lon": 0.138703,
+          "span_lat": 0.080651,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_43.geojson",
+          "count": 458,
+          "cityname": "三亚市",
+          "bbox_wgs84": [
+            109.406541,
+            18.200397,
+            109.599401,
+            18.33433
+          ],
+          "span_lon": 0.19286,
+          "span_lat": 0.133933,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_44.geojson",
+          "count": 451,
+          "cityname": "兰州市",
+          "bbox_wgs84": [
+            103.836333,
+            35.942557,
+            104.015869,
+            36.060811
+          ],
+          "span_lon": 0.179536,
+          "span_lat": 0.118254,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_45.geojson",
+          "count": 449,
+          "cityname": "泉州市",
+          "bbox_wgs84": [
+            118.525979,
+            24.716871,
+            118.666946,
+            24.814249
+          ],
+          "span_lon": 0.140967,
+          "span_lat": 0.097378,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_46.geojson",
+          "count": 449,
+          "cityname": "成都市",
+          "bbox_wgs84": [
+            103.942023,
+            30.606687,
+            104.118363,
+            30.691777
+          ],
+          "span_lon": 0.176341,
+          "span_lat": 0.08509,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_47.geojson",
+          "count": 448,
+          "cityname": "福州市",
+          "bbox_wgs84": [
+            119.241254,
+            26.025243,
+            119.348591,
+            26.111656
+          ],
+          "span_lon": 0.107337,
+          "span_lat": 0.086413,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_48.geojson",
+          "count": 447,
+          "cityname": "石家庄市",
+          "bbox_wgs84": [
+            114.415763,
+            37.992148,
+            114.540838,
+            38.067691
+          ],
+          "span_lon": 0.125075,
+          "span_lat": 0.075543,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_49.geojson",
+          "count": 446,
+          "cityname": "苏州市",
+          "bbox_wgs84": [
+            120.583606,
+            31.294229,
+            120.666739,
+            31.400967
+          ],
+          "span_lon": 0.083133,
+          "span_lat": 0.106738,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        },
+        {
+          "sample": "sample_50.geojson",
+          "count": 437,
+          "cityname": "合肥市",
+          "bbox_wgs84": [
+            117.311383,
+            31.830117,
+            117.500286,
+            31.941866
+          ],
+          "span_lon": 0.188904,
+          "span_lat": 0.111749,
+          "window_m": {
+            "width": 22000.0,
+            "height": 18000.0
+          }
+        }
+      ]
+    },
+    "Scale_1_324000": {
+      "scale": 324000,
+      "window_m": {
+        "width": 95000.0,
+        "height": 76000.0
+      },
+      "grid_m": 42000.0,
+      "min_count": 350,
+      "samples": [
+        {
+          "sample": "sample_01.geojson",
+          "count": 3758,
+          "cityname": "东莞市",
+          "bbox_wgs84": [
+            113.138328,
+            22.801348,
+            113.991498,
+            23.42816
+          ],
+          "span_lon": 0.85317,
+          "span_lat": 0.626813,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_02.geojson",
+          "count": 3152,
+          "cityname": "绍兴市",
+          "bbox_wgs84": [
+            119.929732,
+            29.934417,
+            120.727747,
+            30.465512
+          ],
+          "span_lon": 0.798015,
+          "span_lat": 0.531095,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_03.geojson",
+          "count": 2606,
+          "cityname": "乌鲁木齐市",
+          "bbox_wgs84": [
+            87.280599,
+            43.742025,
+            87.811377,
+            44.205996
+          ],
+          "span_lon": 0.530778,
+          "span_lat": 0.463972,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_04.geojson",
+          "count": 2334,
+          "cityname": "大连市",
+          "bbox_wgs84": [
+            121.139654,
+            38.801026,
+            121.902071,
+            39.131946
+          ],
+          "span_lon": 0.762417,
+          "span_lat": 0.330919,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_05.geojson",
+          "count": 2334,
+          "cityname": "深圳市",
+          "bbox_wgs84": [
+            113.893065,
+            22.452999,
+            114.738794,
+            23.082495
+          ],
+          "span_lon": 0.845729,
+          "span_lat": 0.629496,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_06.geojson",
+          "count": 2298,
+          "cityname": "泉州市",
+          "bbox_wgs84": [
+            118.044418,
+            24.529817,
+            118.895951,
+            25.146727
+          ],
+          "span_lon": 0.851532,
+          "span_lat": 0.616911,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_07.geojson",
+          "count": 2062,
+          "cityname": "南通市",
+          "bbox_wgs84": [
+            120.721874,
+            31.614932,
+            121.414667,
+            32.096595
+          ],
+          "span_lon": 0.692793,
+          "span_lat": 0.481663,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_08.geojson",
+          "count": 1991,
+          "cityname": "嘉兴市",
+          "bbox_wgs84": [
+            120.307206,
+            30.546656,
+            121.159826,
+            31.132673
+          ],
+          "span_lon": 0.85262,
+          "span_lat": 0.586017,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_09.geojson",
+          "count": 1975,
+          "cityname": "武汉市",
+          "bbox_wgs84": [
+            113.521896,
+            30.546881,
+            114.340585,
+            31.125166
+          ],
+          "span_lon": 0.818689,
+          "span_lat": 0.578285,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_10.geojson",
+          "count": 1927,
+          "cityname": "太原市",
+          "bbox_wgs84": [
+            112.018445,
+            37.430995,
+            112.668027,
+            37.958597
+          ],
+          "span_lon": 0.649581,
+          "span_lat": 0.527602,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_11.geojson",
+          "count": 1893,
+          "cityname": "郑州市",
+          "bbox_wgs84": [
+            113.469324,
+            34.58647,
+            113.770949,
+            34.867118
+          ],
+          "span_lon": 0.301625,
+          "span_lat": 0.280648,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_12.geojson",
+          "count": 1777,
+          "cityname": "佛山市",
+          "bbox_wgs84": [
+            112.81695,
+            22.814271,
+            113.237026,
+            23.42816
+          ],
+          "span_lon": 0.420076,
+          "span_lat": 0.613889,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_13.geojson",
+          "count": 1772,
+          "cityname": "烟台市",
+          "bbox_wgs84": [
+            121.216772,
+            37.121247,
+            121.859653,
+            37.580145
+          ],
+          "span_lon": 0.642881,
+          "span_lat": 0.458899,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_14.geojson",
+          "count": 1718,
+          "cityname": "南京市",
+          "bbox_wgs84": [
+            118.596879,
+            31.899782,
+            118.932803,
+            32.353665
+          ],
+          "span_lon": 0.335923,
+          "span_lat": 0.453883,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_15.geojson",
+          "count": 1714,
+          "cityname": "长沙市",
+          "bbox_wgs84": [
+            112.522466,
+            28.091076,
+            113.124778,
+            28.42272
+          ],
+          "span_lon": 0.602312,
+          "span_lat": 0.331644,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_16.geojson",
+          "count": 1666,
+          "cityname": "上海市",
+          "bbox_wgs84": [
+            121.096004,
+            30.892384,
+            121.654726,
+            31.455065
+          ],
+          "span_lon": 0.558722,
+          "span_lat": 0.562681,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_17.geojson",
+          "count": 1663,
+          "cityname": "青岛市",
+          "bbox_wgs84": [
+            119.998214,
+            35.941164,
+            120.493982,
+            36.41755
+          ],
+          "span_lon": 0.495768,
+          "span_lat": 0.476386,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_18.geojson",
+          "count": 1659,
+          "cityname": "汕头市",
+          "bbox_wgs84": [
+            116.406564,
+            23.217685,
+            117.008056,
+            23.6183
+          ],
+          "span_lon": 0.601493,
+          "span_lat": 0.400615,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_19.geojson",
+          "count": 1610,
+          "cityname": "常州市",
+          "bbox_wgs84": [
+            119.552945,
+            31.527342,
+            120.132095,
+            31.936726
+          ],
+          "span_lon": 0.57915,
+          "span_lat": 0.409384,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_20.geojson",
+          "count": 1589,
+          "cityname": "成都市",
+          "bbox_wgs84": [
+            103.497189,
+            30.55637,
+            104.17994,
+            31.004568
+          ],
+          "span_lon": 0.682751,
+          "span_lat": 0.448198,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_21.geojson",
+          "count": 1572,
+          "cityname": "合肥市",
+          "bbox_wgs84": [
+            117.035564,
+            31.680463,
+            117.500286,
+            31.972982
+          ],
+          "span_lon": 0.464722,
+          "span_lat": 0.292519,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_22.geojson",
+          "count": 1546,
+          "cityname": "天津市",
+          "bbox_wgs84": [
+            116.536165,
+            38.98464,
+            117.336378,
+            39.407022
+          ],
+          "span_lon": 0.800213,
+          "span_lat": 0.422382,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_23.geojson",
+          "count": 1540,
+          "cityname": "南昌市",
+          "bbox_wgs84": [
+            115.409848,
+            28.35129,
+            116.254325,
+            28.845512
+          ],
+          "span_lon": 0.844477,
+          "span_lat": 0.494222,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_24.geojson",
+          "count": 1526,
+          "cityname": "宁波市",
+          "bbox_wgs84": [
+            121.122319,
+            29.638297,
+            121.862181,
+            30.157872
+          ],
+          "span_lon": 0.739862,
+          "span_lat": 0.519575,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_25.geojson",
+          "count": 1477,
+          "cityname": "兰州市",
+          "bbox_wgs84": [
+            103.619162,
+            35.942557,
+            104.015869,
+            36.168695
+          ],
+          "span_lon": 0.396707,
+          "span_lat": 0.226138,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_26.geojson",
+          "count": 1471,
+          "cityname": "盐城市",
+          "bbox_wgs84": [
+            120.010841,
+            33.231535,
+            120.307334,
+            33.468543
+          ],
+          "span_lon": 0.296493,
+          "span_lat": 0.237007,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_27.geojson",
+          "count": 1459,
+          "cityname": "台州市",
+          "bbox_wgs84": [
+            120.697068,
+            28.577785,
+            121.492193,
+            29.171326
+          ],
+          "span_lon": 0.795125,
+          "span_lat": 0.593542,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_28.geojson",
+          "count": 1454,
+          "cityname": "济南市",
+          "bbox_wgs84": [
+            116.818951,
+            36.522972,
+            117.262657,
+            36.770236
+          ],
+          "span_lon": 0.443706,
+          "span_lat": 0.247264,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_29.geojson",
+          "count": 1394,
+          "cityname": "临沂市",
+          "bbox_wgs84": [
+            118.043228,
+            34.837787,
+            118.855783,
+            35.225536
+          ],
+          "span_lon": 0.812555,
+          "span_lat": 0.387749,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_30.geojson",
+          "count": 1360,
+          "cityname": "贵阳市",
+          "bbox_wgs84": [
+            106.46171,
+            26.571207,
+            106.97968,
+            27.105773
+          ],
+          "span_lon": 0.51797,
+          "span_lat": 0.534566,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_31.geojson",
+          "count": 1358,
+          "cityname": "三亚市",
+          "bbox_wgs84": [
+            108.991531,
+            18.212193,
+            109.79117,
+            18.849
+          ],
+          "span_lon": 0.799639,
+          "span_lat": 0.636807,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_32.geojson",
+          "count": 1333,
+          "cityname": "海口市",
+          "bbox_wgs84": [
+            109.744717,
+            19.662583,
+            110.499567,
+            20.068756
+          ],
+          "span_lon": 0.75485,
+          "span_lat": 0.406173,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_33.geojson",
+          "count": 1296,
+          "cityname": "潍坊市",
+          "bbox_wgs84": [
+            118.420847,
+            36.517086,
+            119.225074,
+            37.058056
+          ],
+          "span_lon": 0.804227,
+          "span_lat": 0.54097,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_34.geojson",
+          "count": 1268,
+          "cityname": "天门市",
+          "bbox_wgs84": [
+            112.78635,
+            30.222654,
+            113.608652,
+            30.805772
+          ],
+          "span_lon": 0.822302,
+          "span_lat": 0.583118,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_35.geojson",
+          "count": 1208,
+          "cityname": "沈阳市",
+          "bbox_wgs84": [
+            123.280021,
+            41.684748,
+            123.606576,
+            41.929168
+          ],
+          "span_lon": 0.326556,
+          "span_lat": 0.24442,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_36.geojson",
+          "count": 1195,
+          "cityname": "洛阳市",
+          "bbox_wgs84": [
+            112.096709,
+            34.393913,
+            112.812645,
+            34.841705
+          ],
+          "span_lon": 0.715936,
+          "span_lat": 0.447792,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_37.geojson",
+          "count": 1173,
+          "cityname": "石家庄市",
+          "bbox_wgs84": [
+            114.415763,
+            37.741893,
+            115.067599,
+            38.187041
+          ],
+          "span_lon": 0.651836,
+          "span_lat": 0.445149,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_38.geojson",
+          "count": 1124,
+          "cityname": "北京市",
+          "bbox_wgs84": [
+            115.99194,
+            39.491451,
+            116.510481,
+            40.00809
+          ],
+          "span_lon": 0.518542,
+          "span_lat": 0.51664,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_39.geojson",
+          "count": 1035,
+          "cityname": "金华市",
+          "bbox_wgs84": [
+            119.552789,
+            28.909153,
+            120.264412,
+            29.485229
+          ],
+          "span_lon": 0.711624,
+          "span_lat": 0.576076,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_40.geojson",
+          "count": 1031,
+          "cityname": "福州市",
+          "bbox_wgs84": [
+            118.922632,
+            25.700489,
+            119.611773,
+            26.156134
+          ],
+          "span_lon": 0.689142,
+          "span_lat": 0.455645,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_41.geojson",
+          "count": 986,
+          "cityname": "南宁市",
+          "bbox_wgs84": [
+            107.897625,
+            22.581602,
+            108.50074,
+            22.892048
+          ],
+          "span_lon": 0.603115,
+          "span_lat": 0.310446,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_42.geojson",
+          "count": 950,
+          "cityname": "东营市",
+          "bbox_wgs84": [
+            118.146087,
+            37.421378,
+            118.896505,
+            37.957079
+          ],
+          "span_lon": 0.750418,
+          "span_lat": 0.535701,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_43.geojson",
+          "count": 941,
+          "cityname": "昆明市",
+          "bbox_wgs84": [
+            102.454029,
+            24.874158,
+            103.0496,
+            25.345771
+          ],
+          "span_lon": 0.595571,
+          "span_lat": 0.471613,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_44.geojson",
+          "count": 828,
+          "cityname": "长春市",
+          "bbox_wgs84": [
+            125.139268,
+            43.511987,
+            125.67506,
+            43.938722
+          ],
+          "span_lon": 0.535792,
+          "span_lat": 0.426734,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_45.geojson",
+          "count": 795,
+          "cityname": "娄底市",
+          "bbox_wgs84": [
+            111.253,
+            27.366971,
+            112.104878,
+            27.848802
+          ],
+          "span_lon": 0.851878,
+          "span_lat": 0.481831,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_46.geojson",
+          "count": 778,
+          "cityname": "常州市",
+          "bbox_wgs84": [
+            118.824985,
+            31.203451,
+            119.606755,
+            31.754318
+          ],
+          "span_lon": 0.78177,
+          "span_lat": 0.550867,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_47.geojson",
+          "count": 731,
+          "cityname": "天水市",
+          "bbox_wgs84": [
+            105.619426,
+            34.368028,
+            106.369436,
+            34.904159
+          ],
+          "span_lon": 0.750009,
+          "span_lat": 0.536131,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_48.geojson",
+          "count": 721,
+          "cityname": "嘉峪关市",
+          "bbox_wgs84": [
+            98.174454,
+            39.671704,
+            98.45752,
+            39.945871
+          ],
+          "span_lon": 0.283066,
+          "span_lat": 0.274167,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_49.geojson",
+          "count": 711,
+          "cityname": "哈尔滨市",
+          "bbox_wgs84": [
+            126.229178,
+            45.356578,
+            126.736637,
+            45.810172
+          ],
+          "span_lon": 0.507459,
+          "span_lat": 0.453594,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        },
+        {
+          "sample": "sample_50.geojson",
+          "count": 709,
+          "cityname": "丽江市",
+          "bbox_wgs84": [
+            99.955985,
+            26.572747,
+            100.764693,
+            27.179182
+          ],
+          "span_lon": 0.808708,
+          "span_lat": 0.606435,
+          "window_m": {
+            "width": 95000.0,
+            "height": 76000.0
+          }
+        }
+      ]
+    },
+    "Scale_1_625000": {
+      "scale": 625000,
+      "window_m": {
+        "width": 190000.0,
+        "height": 150000.0
+      },
+      "grid_m": 80000.0,
+      "min_count": 550,
+      "samples": [
+        {
+          "sample": "sample_01.geojson",
+          "count": 7673,
+          "cityname": "广州市",
+          "bbox_wgs84": [
+            112.81695,
+            22.444831,
+            114.399938,
+            23.57145
+          ],
+          "span_lon": 1.582988,
+          "span_lat": 1.126619,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_02.geojson",
+          "count": 5634,
+          "cityname": "苏州市",
+          "bbox_wgs84": [
+            119.880977,
+            30.788667,
+            121.56882,
+            31.935631
+          ],
+          "span_lon": 1.687843,
+          "span_lat": 1.146964,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_03.geojson",
+          "count": 5522,
+          "cityname": "绍兴市",
+          "bbox_wgs84": [
+            119.926055,
+            29.638297,
+            121.586856,
+            30.708875
+          ],
+          "span_lon": 1.660802,
+          "span_lat": 1.070577,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_04.geojson",
+          "count": 4078,
+          "cityname": "武汉市",
+          "bbox_wgs84": [
+            112.699192,
+            30.169385,
+            114.366994,
+            31.274426
+          ],
+          "span_lon": 1.667802,
+          "span_lat": 1.105041,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_05.geojson",
+          "count": 3864,
+          "cityname": "泉州市",
+          "bbox_wgs84": [
+            117.922373,
+            24.425926,
+            118.928947,
+            25.52195
+          ],
+          "span_lon": 1.006574,
+          "span_lat": 1.096024,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_06.geojson",
+          "count": 3673,
+          "cityname": "南京市",
+          "bbox_wgs84": [
+            118.596879,
+            31.402335,
+            120.132095,
+            32.353665
+          ],
+          "span_lon": 1.535216,
+          "span_lat": 0.951331,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_07.geojson",
+          "count": 3123,
+          "cityname": "洛阳市",
+          "bbox_wgs84": [
+            112.06703,
+            33.859515,
+            113.681346,
+            34.867118
+          ],
+          "span_lon": 1.614317,
+          "span_lat": 1.007603,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_08.geojson",
+          "count": 2949,
+          "cityname": "天津市",
+          "bbox_wgs84": [
+            116.286998,
+            39.024237,
+            117.834838,
+            40.00809
+          ],
+          "span_lon": 1.547841,
+          "span_lat": 0.983853,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_09.geojson",
+          "count": 2905,
+          "cityname": "乌鲁木齐市",
+          "bbox_wgs84": [
+            87.280599,
+            43.353964,
+            88.494223,
+            44.319337
+          ],
+          "span_lon": 1.213624,
+          "span_lat": 0.965373,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_10.geojson",
+          "count": 2866,
+          "cityname": "台州市",
+          "bbox_wgs84": [
+            119.880264,
+            28.318196,
+            121.58541,
+            29.464934
+          ],
+          "span_lon": 1.705146,
+          "span_lat": 1.146738,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_11.geojson",
+          "count": 2701,
+          "cityname": "烟台市",
+          "bbox_wgs84": [
+            121.317563,
+            36.797154,
+            122.701705,
+            37.580145
+          ],
+          "span_lon": 1.384142,
+          "span_lat": 0.782992,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_12.geojson",
+          "count": 2667,
+          "cityname": "大连市",
+          "bbox_wgs84": [
+            121.139654,
+            38.801026,
+            122.243599,
+            39.500337
+          ],
+          "span_lon": 1.103946,
+          "span_lat": 0.699311,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_13.geojson",
+          "count": 2292,
+          "cityname": "长沙市",
+          "bbox_wgs84": [
+            111.975288,
+            27.655763,
+            113.662584,
+            28.816783
+          ],
+          "span_lon": 1.687297,
+          "span_lat": 1.161019,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_14.geojson",
+          "count": 2236,
+          "cityname": "太原市",
+          "bbox_wgs84": [
+            111.625536,
+            37.335689,
+            112.695426,
+            38.274468
+          ],
+          "span_lon": 1.06989,
+          "span_lat": 0.938779,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_15.geojson",
+          "count": 2161,
+          "cityname": "潍坊市",
+          "bbox_wgs84": [
+            118.444646,
+            36.238785,
+            120.056422,
+            37.238237
+          ],
+          "span_lon": 1.611776,
+          "span_lat": 0.999451,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_16.geojson",
+          "count": 2108,
+          "cityname": "合肥市",
+          "bbox_wgs84": [
+            117.035564,
+            31.475376,
+            118.711538,
+            32.49221
+          ],
+          "span_lon": 1.675973,
+          "span_lat": 1.016834,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_17.geojson",
+          "count": 2038,
+          "cityname": "南昌市",
+          "bbox_wgs84": [
+            114.960376,
+            28.35129,
+            116.409124,
+            29.465039
+          ],
+          "span_lon": 1.448747,
+          "span_lat": 1.113749,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_18.geojson",
+          "count": 1983,
+          "cityname": "海口市",
+          "bbox_wgs84": [
+            109.165683,
+            19.174893,
+            110.636891,
+            20.068756
+          ],
+          "span_lon": 1.471208,
+          "span_lat": 0.893862,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_19.geojson",
+          "count": 1972,
+          "cityname": "福州市",
+          "bbox_wgs84": [
+            118.613751,
+            25.724553,
+            120.130382,
+            26.928682
+          ],
+          "span_lon": 1.516631,
+          "span_lat": 1.20413,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_20.geojson",
+          "count": 1927,
+          "cityname": "宁波市",
+          "bbox_wgs84": [
+            121.358321,
+            29.080538,
+            121.949446,
+            29.991785
+          ],
+          "span_lon": 0.591124,
+          "span_lat": 0.911248,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_21.geojson",
+          "count": 1912,
+          "cityname": "成都市",
+          "bbox_wgs84": [
+            103.497189,
+            30.38512,
+            104.564189,
+            31.120836
+          ],
+          "span_lon": 1.067,
+          "span_lat": 0.735716,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_22.geojson",
+          "count": 1825,
+          "cityname": "汕头市",
+          "bbox_wgs84": [
+            116.406564,
+            23.217685,
+            117.040208,
+            23.6183
+          ],
+          "span_lon": 0.633644,
+          "span_lat": 0.400615,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_23.geojson",
+          "count": 1804,
+          "cityname": "三亚市",
+          "bbox_wgs84": [
+            108.644751,
+            18.200397,
+            109.79117,
+            18.984018
+          ],
+          "span_lon": 1.146419,
+          "span_lat": 0.783621,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_24.geojson",
+          "count": 1803,
+          "cityname": "四平市",
+          "bbox_wgs84": [
+            124.212151,
+            42.88769,
+            125.67506,
+            43.802793
+          ],
+          "span_lon": 1.462909,
+          "span_lat": 0.915104,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_25.geojson",
+          "count": 1696,
+          "cityname": "临沂市",
+          "bbox_wgs84": [
+            117.860536,
+            35.009371,
+            119.430278,
+            36.031562
+          ],
+          "span_lon": 1.569742,
+          "span_lat": 1.022191,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_26.geojson",
+          "count": 1693,
+          "cityname": "石家庄市",
+          "bbox_wgs84": [
+            114.026917,
+            37.741893,
+            115.067599,
+            38.365257
+          ],
+          "span_lon": 1.040682,
+          "span_lat": 0.623364,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_27.geojson",
+          "count": 1677,
+          "cityname": "南宁市",
+          "bbox_wgs84": [
+            107.669311,
+            22.54632,
+            109.332073,
+            23.445299
+          ],
+          "span_lon": 1.662762,
+          "span_lat": 0.898979,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_28.geojson",
+          "count": 1667,
+          "cityname": "烟台市",
+          "bbox_wgs84": [
+            121.001375,
+            37.345036,
+            121.58695,
+            37.71409
+          ],
+          "span_lon": 0.585575,
+          "span_lat": 0.369054,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_29.geojson",
+          "count": 1663,
+          "cityname": "青岛市",
+          "bbox_wgs84": [
+            119.998214,
+            35.941164,
+            120.493982,
+            36.41755
+          ],
+          "span_lon": 0.495768,
+          "span_lat": 0.476386,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_30.geojson",
+          "count": 1651,
+          "cityname": "贵阳市",
+          "bbox_wgs84": [
+            106.253324,
+            26.39282,
+            106.97968,
+            27.105773
+          ],
+          "span_lon": 0.726356,
+          "span_lat": 0.712953,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_31.geojson",
+          "count": 1633,
+          "cityname": "武汉市",
+          "bbox_wgs84": [
+            114.131044,
+            30.349331,
+            115.773265,
+            31.173629
+          ],
+          "span_lon": 1.642221,
+          "span_lat": 0.824298,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_32.geojson",
+          "count": 1622,
+          "cityname": "兰州市",
+          "bbox_wgs84": [
+            102.876325,
+            35.594805,
+            104.015869,
+            36.526766
+          ],
+          "span_lon": 1.139544,
+          "span_lat": 0.93196,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_33.geojson",
+          "count": 1612,
+          "cityname": "金华市",
+          "bbox_wgs84": [
+            118.578742,
+            28.916376,
+            120.097874,
+            30.068122
+          ],
+          "span_lon": 1.519132,
+          "span_lat": 1.151746,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_34.geojson",
+          "count": 1480,
+          "cityname": "沈阳市",
+          "bbox_wgs84": [
+            122.802928,
+            41.760646,
+            123.606576,
+            42.74755
+          ],
+          "span_lon": 0.803648,
+          "span_lat": 0.986904,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_35.geojson",
+          "count": 1471,
+          "cityname": "盐城市",
+          "bbox_wgs84": [
+            120.010841,
+            33.231535,
+            120.307334,
+            33.468543
+          ],
+          "span_lon": 0.296493,
+          "span_lat": 0.237007,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_36.geojson",
+          "count": 1459,
+          "cityname": "惠州市",
+          "bbox_wgs84": [
+            114.131266,
+            22.444831,
+            114.953244,
+            23.196968
+          ],
+          "span_lon": 0.821978,
+          "span_lat": 0.752137,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_37.geojson",
+          "count": 1456,
+          "cityname": "济南市",
+          "bbox_wgs84": [
+            116.818951,
+            36.223388,
+            117.717823,
+            37.188044
+          ],
+          "span_lon": 0.898872,
+          "span_lat": 0.964656,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_38.geojson",
+          "count": 1348,
+          "cityname": "昆明市",
+          "bbox_wgs84": [
+            102.454029,
+            24.627628,
+            103.269725,
+            25.572002
+          ],
+          "span_lon": 0.815696,
+          "span_lat": 0.944374,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_39.geojson",
+          "count": 1206,
+          "cityname": "固原市",
+          "bbox_wgs84": [
+            105.508534,
+            35.039216,
+            107.017892,
+            36.098577
+          ],
+          "span_lon": 1.509359,
+          "span_lat": 1.059361,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_40.geojson",
+          "count": 1155,
+          "cityname": "北京市",
+          "bbox_wgs84": [
+            115.382269,
+            39.025527,
+            116.536165,
+            40.00809
+          ],
+          "span_lon": 1.153896,
+          "span_lat": 0.982563,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_41.geojson",
+          "count": 1148,
+          "cityname": "丽江市",
+          "bbox_wgs84": [
+            99.120149,
+            25.724841,
+            100.745885,
+            26.927212
+          ],
+          "span_lon": 1.625737,
+          "span_lat": 1.202371,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_42.geojson",
+          "count": 1139,
+          "cityname": "丹东市",
+          "bbox_wgs84": [
+            122.804466,
+            39.595158,
+            124.461485,
+            40.575398
+          ],
+          "span_lon": 1.657019,
+          "span_lat": 0.98024,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_43.geojson",
+          "count": 1125,
+          "cityname": "大同市",
+          "bbox_wgs84": [
+            112.694453,
+            39.609915,
+            114.368943,
+            40.440878
+          ],
+          "span_lon": 1.674491,
+          "span_lat": 0.830962,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_44.geojson",
+          "count": 1098,
+          "cityname": "合肥市",
+          "bbox_wgs84": [
+            115.615056,
+            31.406268,
+            117.274744,
+            32.49221
+          ],
+          "span_lon": 1.659688,
+          "span_lat": 1.085942,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_45.geojson",
+          "count": 1063,
+          "cityname": "重庆市",
+          "bbox_wgs84": [
+            106.250694,
+            29.148905,
+            107.114551,
+            30.004036
+          ],
+          "span_lon": 0.863857,
+          "span_lat": 0.85513,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_46.geojson",
+          "count": 1024,
+          "cityname": "东营市",
+          "bbox_wgs84": [
+            118.146087,
+            37.363164,
+            119.004123,
+            38.101741
+          ],
+          "span_lon": 0.858036,
+          "span_lat": 0.738577,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_47.geojson",
+          "count": 976,
+          "cityname": "娄底市",
+          "bbox_wgs84": [
+            110.950358,
+            27.284996,
+            112.24011,
+            28.140521
+          ],
+          "span_lon": 1.289751,
+          "span_lat": 0.855525,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_48.geojson",
+          "count": 957,
+          "cityname": "天水市",
+          "bbox_wgs84": [
+            104.830129,
+            34.225128,
+            106.405986,
+            34.931883
+          ],
+          "span_lon": 1.575857,
+          "span_lat": 0.706755,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_49.geojson",
+          "count": 957,
+          "cityname": "洛阳市",
+          "bbox_wgs84": [
+            110.866666,
+            34.044471,
+            112.202055,
+            34.802248
+          ],
+          "span_lon": 1.33539,
+          "span_lat": 0.757777,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        },
+        {
+          "sample": "sample_50.geojson",
+          "count": 937,
+          "cityname": "亳州市",
+          "bbox_wgs84": [
+            115.57769,
+            33.224217,
+            117.21012,
+            34.268704
+          ],
+          "span_lon": 1.63243,
+          "span_lat": 1.044488,
+          "window_m": {
+            "width": 190000.0,
+            "height": 150000.0
+          }
+        }
+      ]
+    }
+  }
+}

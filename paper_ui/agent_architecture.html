@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Architecture Diagram</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f8fafc;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px;
+            gap: 40px;
+        }
+        .svg-container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            width: 100%;
+            max-width: 900px;
+        }
+        h2 { color: #1e293b; text-align: center; margin-bottom: 20px; }
+        
+        svg text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+    </style>
+</head>
+<body>
+
+    <div class="svg-container">
+        <h2>Agent Platform Architecture (English)</h2>
+        <svg viewBox="0 0 800 500" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+            <!-- Definitions for drop shadows and gradients -->
+            <defs>
+                <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+                    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity="0.1"/>
+                </filter>
+                <linearGradient id="grad-main" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#3b82f6" />
+                    <stop offset="100%" stop-color="#2563eb" />
+                </linearGradient>
+                <linearGradient id="grad-sub" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#f8fafc" />
+                    <stop offset="100%" stop-color="#e2e8f0" />
+                </linearGradient>
+            </defs>
+
+            <!-- Background boundary for platform -->
+            <rect x="150" y="80" width="500" height="360" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="8 4"/>
+            <text x="400" y="110" font-size="14" font-weight="bold" fill="#64748b" text-anchor="middle" letter-spacing="1">MAPGEN AI PLATFORM</text>
+
+            <!-- User Input -->
+            <rect x="20" y="220" width="100" height="60" rx="8" fill="url(#grad-sub)" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="70" y="248" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">User Request</text>
+            <text x="70" y="265" font-size="11" fill="#64748b" text-anchor="middle">Natural Language</text>
+
+            <!-- Arrow User to Agent -->
+            <path d="M 125 250 L 190 250" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+            <defs>
+                <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8" />
+                </marker>
+            </defs>
+
+            <!-- Main Agent -->
+            <rect x="200" y="210" width="160" height="80" rx="12" fill="url(#grad-main)" filter="url(#shadow)"/>
+            <text x="280" y="248" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Orchestrator Agent</text>
+            <text x="280" y="268" font-size="12" fill="#bfdbfe" text-anchor="middle">(LLM Reasoning Core)</text>
+
+            <!-- Tools Box -->
+            <rect x="420" y="140" width="200" height="220" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="520" y="165" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">Agent Tools</text>
+
+            <!-- Tool 1 -->
+            <rect x="440" y="180" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="205" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">Spatial Data Profiler</text>
+
+            <!-- Tool 2 -->
+            <rect x="440" y="230" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="255" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">Rule Engine & Thresholds</text>
+
+            <!-- Tool 3 -->
+            <rect x="440" y="280" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="305" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">Python Generalizer</text>
+
+            <!-- Arrows Agent <-> Tools -->
+            <path d="M 365 240 L 410 240" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
+            <path d="M 410 260 L 365 260" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
+            <defs>
+                <marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6" />
+                </marker>
+            </defs>
+            <text x="387" y="232" font-size="10" fill="#3b82f6" text-anchor="middle">Call</text>
+            <text x="387" y="278" font-size="10" fill="#3b82f6" text-anchor="middle">Result</text>
+
+            <!-- Visual Engine Output -->
+            <rect x="200" y="360" width="420" height="60" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="410" y="395" font-size="15" font-weight="bold" fill="#0f172a" text-anchor="middle">Dual-Map Visualization Engine</text>
+
+            <!-- Arrow Tools -> Visual Engine -->
+            <path d="M 520 365 L 520 380" fill="none" stroke="#94a3b8" stroke-width="2"/>
+            <path d="M 280 295 L 280 350" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+            <text x="290" y="325" font-size="11" fill="#64748b">Iteration State</text>
+
+            <!-- Final Output -->
+            <rect x="680" y="360" width="100" height="60" rx="8" fill="#10b981" filter="url(#shadow)"/>
+            <text x="730" y="388" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">Final Map</text>
+            <text x="730" y="405" font-size="11" fill="#d1fae5" text-anchor="middle">(GeoJSON/PNG)</text>
+
+            <!-- Arrow Visual Engine -> Output -->
+            <path d="M 625 390 L 670 390" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+
+        </svg>
+    </div>
+
+    <div class="svg-container">
+        <h2>Agent Platform Architecture (Chinese) / 智能体平台架构图</h2>
+        <svg viewBox="0 0 800 500" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+            
+            <!-- Background boundary for platform -->
+            <rect x="150" y="80" width="500" height="360" rx="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="8 4"/>
+            <text x="400" y="110" font-size="14" font-weight="bold" fill="#64748b" text-anchor="middle" letter-spacing="1">MAPGEN AI 智能体平台</text>
+
+            <!-- User Input -->
+            <rect x="20" y="220" width="100" height="60" rx="8" fill="url(#grad-sub)" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="70" y="248" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">用户请求</text>
+            <text x="70" y="265" font-size="11" fill="#64748b" text-anchor="middle">自然语言输入</text>
+
+            <!-- Arrow User to Agent -->
+            <path d="M 125 250 L 190 250" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+
+            <!-- Main Agent -->
+            <rect x="200" y="210" width="160" height="80" rx="12" fill="url(#grad-main)" filter="url(#shadow)"/>
+            <text x="280" y="248" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">编排智能体 (Orchestrator)</text>
+            <text x="280" y="268" font-size="12" fill="#bfdbfe" text-anchor="middle">(大模型推理核心)</text>
+
+            <!-- Tools Box -->
+            <rect x="420" y="140" width="200" height="220" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="520" y="165" font-size="14" font-weight="bold" fill="#334155" text-anchor="middle">智能体工具集</text>
+
+            <!-- Tool 1 -->
+            <rect x="440" y="180" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="205" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">空间数据特征分析</text>
+
+            <!-- Tool 2 -->
+            <rect x="440" y="230" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="255" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">综合规则与阈值引擎</text>
+
+            <!-- Tool 3 -->
+            <rect x="440" y="280" width="160" height="40" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+            <text x="520" y="305" font-size="13" font-weight="bold" fill="#475569" text-anchor="middle">Python 综合执行器</text>
+
+            <!-- Arrows Agent <-> Tools -->
+            <path d="M 365 240 L 410 240" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
+            <path d="M 410 260 L 365 260" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
+            <text x="387" y="232" font-size="10" fill="#3b82f6" text-anchor="middle">调用</text>
+            <text x="387" y="278" font-size="10" fill="#3b82f6" text-anchor="middle">返回</text>
+
+            <!-- Visual Engine Output -->
+            <rect x="200" y="360" width="420" height="60" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#shadow)"/>
+            <text x="410" y="395" font-size="15" font-weight="bold" fill="#0f172a" text-anchor="middle">双窗地图可视化引擎 (可视化对比界面)</text>
+
+            <!-- Arrow Tools -> Visual Engine -->
+            <path d="M 280 295 L 280 350" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+            <text x="290" y="325" font-size="11" fill="#64748b">迭代状态推送</text>
+
+            <!-- Final Output -->
+            <rect x="680" y="360" width="100" height="60" rx="8" fill="#10b981" filter="url(#shadow)"/>
+            <text x="730" y="388" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">最终综合地图</text>
+            <text x="730" y="405" font-size="11" fill="#d1fae5" text-anchor="middle">(GeoJSON/PNG)</text>
+
+            <!-- Arrow Visual Engine -> Output -->
+            <path d="M 625 390 L 670 390" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+
+        </svg>
+    </div>
+</body>
+</html>

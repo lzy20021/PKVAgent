@@ -1,0 +1,4935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGRLZ1U",
+        "name": "海沧区嵩屿街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "嵩屿南二路118号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.039727,
+        "gcj_lat": 24.454703,
+        "wgs84_lon": 118.034807337,
+        "wgs84_lat": 24.4574179123,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGRLZ1U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03480733692484,
+          24.45741791227285
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I2CK6XF7",
+        "name": "瑞幸咖啡(厦门中心店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "海沧大道569号厦门中心F座F1层",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "咖啡厅",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.039475,
+        "gcj_lat": 24.474846,
+        "wgs84_lon": 118.034554441,
+        "wgs84_lat": 24.4775650276,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I2CK6XF7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0345544414666,
+          24.477565027573956
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LB5SMU8M",
+        "name": "海鹰便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "建发缦云滨湖路1737号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.037685,
+        "gcj_lat": 24.478588,
+        "wgs84_lon": 118.032768095,
+        "wgs84_lat": 24.4813120001,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LB5SMU8M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03276809543543,
+          24.48131200009184
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRKR9UW7",
+        "name": "金沙书院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "沧凤路1号(海沧商务中心地铁站3号口步行220米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.040266,
+        "gcj_lat": 24.482922,
+        "wgs84_lon": 118.035343165,
+        "wgs84_lat": 24.4856404263,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0KRKR9UW7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03534316476623,
+          24.485640426342684
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFYV3NN",
+        "name": "博涛便利店(东方名园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "滨海北路371-429,沧林三路100-134号东方名园",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.034998,
+        "gcj_lat": 24.488427,
+        "wgs84_lon": 118.030086469,
+        "wgs84_lat": 24.4911592597,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFFYV3NN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03008646933982,
+          24.491159259653173
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I6UZGJZ0",
+        "name": "沧翔地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "沧翔路与海发路交叉口东北180米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.034876,
+        "gcj_lat": 24.498296,
+        "wgs84_lon": 118.029964046,
+        "wgs84_lat": 24.5010300156,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0I6UZGJZ0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.02996404555233,
+          24.501030015587798
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J6MN8SCF",
+        "name": "瑞幸咖啡(泰地海西中心店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "海沧大道891号SEC泰地海西中心A座一层大堂",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "咖啡厅",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.043548,
+        "gcj_lat": 24.481179,
+        "wgs84_lon": 118.038618466,
+        "wgs84_lat": 24.4838894854,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J6MN8SCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03861846606237,
+          24.48388948536936
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHLJNOU",
+        "name": "星巴克(厦门海沧天虹店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "沧林东路天虹商场地上一层1033-1036铺位",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "咖啡厅",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.048529,
+        "gcj_lat": 24.491469,
+        "wgs84_lon": 118.043589114,
+        "wgs84_lat": 24.4941701048,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFHLJNOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0435891143827,
+          24.49417010477078
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIQCRHW",
+        "name": "海沧区桥南社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "坪山南里88号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.055258,
+        "gcj_lat": 24.494031,
+        "wgs84_lon": 118.050306475,
+        "wgs84_lat": 24.4967190794,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIQCRHW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.05030647524029,
+          24.496719079442126
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025001OHH",
+        "name": "福建省厦门第二中学(鼓浪屿校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "安海路14号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.06714,
+        "gcj_lat": 24.446887,
+        "wgs84_lon": 118.062176369,
+        "wgs84_lat": 24.4495477932,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025001OHH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.06217636903408,
+          24.449547793183957
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKC7ESOB",
+        "name": "小埕戏·饮茶肆|流水席",
+        "type": "餐饮",
+        "typecode": 50110,
+        "address": "鹭江道3号和平码头1电梯4楼",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐厅",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.077922,
+        "gcj_lat": 24.44957,
+        "wgs84_lon": 118.072949792,
+        "wgs84_lat": 24.4522189489,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0HKC7ESOB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07294979222219,
+          24.452218948880127
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ2WXGI",
+        "name": "海湾公园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "西堤路海湾公园内(南侧)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.075312,
+        "gcj_lat": 24.470272,
+        "wgs84_lon": 118.07033982,
+        "wgs84_lat": 24.4729271713,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFJ2WXGI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07033982043347,
+          24.472927171325978
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11688954",
+        "name": "东渡狐尾山(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)309路;(停运)B92路;107路;139路;22路;26路;321路;436路;43路;4路;51路;655路;841路;842路;84路;853路;858路;87路;946路;954路;955路/955路大站快线;958路;B91路;M1路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.078015,
+        "gcj_lat": 24.479737,
+        "wgs84_lon": 118.073040575,
+        "wgs84_lat": 24.4823911218,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11688954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0730405753254,
+          24.48239112181715
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025002QI6",
+        "name": "厦港碧寿便利店",
+        "type": "便利店",
+        "typecode": 60703,
+        "address": "碧山路187号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.084375,
+        "gcj_lat": 24.444425,
+        "wgs84_lon": 118.079400846,
+        "wgs84_lat": 24.4470680464,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B025002QI6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07940084552861,
+          24.447068046410187
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11521745",
+        "name": "海湾公园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)B92路;107路;115路;139路;22路;321路;43路;4路;655路;841路;853路;858路;881路;88路;946路;954路;B10路;M1路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.078456,
+        "gcj_lat": 24.473686,
+        "wgs84_lon": 118.073481789,
+        "wgs84_lat": 24.4763387438,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11521745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07348178918022,
+          24.476338743809407
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IGSA5LQH",
+        "name": "鸿泉大厦地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "石泉路与白鹿路交叉口西240米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.087454,
+        "gcj_lat": 24.449377,
+        "wgs84_lon": 118.082479106,
+        "wgs84_lat": 24.4520193089,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IGSA5LQH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08247910639486,
+          24.452019308936485
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFF96J4",
+        "name": "美宜佳(电子城店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "天湖路46号-101",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.089976,
+        "gcj_lat": 24.469571,
+        "wgs84_lon": 118.084999688,
+        "wgs84_lat": 24.4722158674,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFFF96J4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08499968767725,
+          24.472215867364696
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10211035",
+        "name": "和通路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "101路;139路;23路;24路;4路;954路;B3路;D1路;D200路;M16路;M35路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.090192,
+        "gcj_lat": 24.491409,
+        "wgs84_lon": 118.085214133,
+        "wgs84_lat": 24.494057261,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10211035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08521413329534,
+          24.494057261042286
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025002YTW",
+        "name": "福建省厦门第六中学(东渡校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "湖里街道和宁路50号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.089281,
+        "gcj_lat": 24.495073,
+        "wgs84_lon": 118.084302812,
+        "wgs84_lat": 24.4977221397,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025002YTW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0843028116364,
+          24.497722139651565
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJFCSUD",
+        "name": "美邻便利店(厦港新村店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "成功大道厦港新村2号楼",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.092468,
+        "gcj_lat": 24.444714,
+        "wgs84_lon": 118.087493815,
+        "wgs84_lat": 24.4473535883,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJFCSUD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08749381471844,
+          24.447353588284003
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HARN0OVW",
+        "name": "美宜佳(福达里店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "筼筜街道滨北七星西路11号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.09569,
+        "gcj_lat": 24.487494,
+        "wgs84_lon": 118.090713625,
+        "wgs84_lat": 24.4901404011,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0HARN0OVW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09071362496842,
+          24.490140401146864
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIUDOG1",
+        "name": "梧村街道社区卫生服务中心(万寿北站)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "万寿路21-7附近(将军祠地铁站4号口步行350米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.102642,
+        "gcj_lat": 24.460971,
+        "wgs84_lon": 118.097671146,
+        "wgs84_lat": 24.4636133286,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIUDOG1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09767114621344,
+          24.463613328636246
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003HP2",
+        "name": "厦门大学附属中山医院厦禾分部",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "后滨路1号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.098708,
+        "gcj_lat": 24.465088,
+        "wgs84_lon": 118.093734523,
+        "wgs84_lat": 24.4677306213,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B025003HP2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09373452328416,
+          24.467730621286762
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10210992",
+        "name": "岳阳小区(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)770路;101路;115路;15路;23路;24路;25路;46路;752路;850路;854路;855路;859路;880路;8路;954路;D1路;D200路;M16路;M34路;M35路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.098719,
+        "gcj_lat": 24.489398,
+        "wgs84_lon": 118.09374378,
+        "wgs84_lat": 24.492044562,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10210992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09374377955722,
+          24.492044562010644
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025002LI5",
+        "name": "佳味餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "华盛路25号之4号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.099107,
+        "gcj_lat": 24.508472,
+        "wgs84_lon": 118.094130603,
+        "wgs84_lat": 24.5111212651,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B025002LI5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09413060320678,
+          24.51112126513289
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGTGQ0MA",
+        "name": "厦门湖里天伦医院",
+        "type": "医院",
+        "typecode": 90201,
+        "address": "厦门天伦医院东门旁",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.103683,
+        "gcj_lat": 24.511793,
+        "wgs84_lon": 118.098709226,
+        "wgs84_lat": 24.514443341,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JGTGQ0MA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09870922627076,
+          24.514443340955896
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09405162",
+        "name": "白城(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)3号线南延段",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.108806,
+        "gcj_lat": 24.430227,
+        "wgs84_lon": 118.103842444,
+        "wgs84_lat": 24.4328654113,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09405162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1038424437058,
+          24.432865411330628
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500RQ27",
+        "name": "厦门哥尔曼酒店(厦门火车站湖滨东路地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "湖滨南路268号(湖滨东路地铁站2号口步行220米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.106543,
+        "gcj_lat": 24.472631,
+        "wgs84_lon": 118.101574328,
+        "wgs84_lat": 24.4752764181,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02500RQ27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10157432775631,
+          24.475276418149182
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFITZBCC",
+        "name": "厦门亚当医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "湖滨东路307号(宏泰中心/体育中心地铁站5号口)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.10417,
+        "gcj_lat": 24.486448,
+        "wgs84_lon": 118.099198413,
+        "wgs84_lat": 24.4890948922,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFITZBCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09919841311914,
+          24.48909489224346
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025004L6P",
+        "name": "厦门市仙岳医院北区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "南山路121-123号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.107283,
+        "gcj_lat": 24.502799,
+        "wgs84_lon": 118.102312809,
+        "wgs84_lat": 24.5054492789,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B025004L6P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10231280880673,
+          24.505449278930726
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QHLY",
+        "name": "厦门中山医院金榜分部",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "金榜路58号(厦门火车站地铁站3号口步行430米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.11065,
+        "gcj_lat": 24.467057,
+        "wgs84_lon": 118.105685654,
+        "wgs84_lat": 24.4697032986,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02500QHLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10568565355749,
+          24.469703298604397
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946721",
+        "name": "育秀东路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.113059,
+        "gcj_lat": 24.485516,
+        "wgs84_lon": 118.108095975,
+        "wgs84_lat": 24.4881666949,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10809597474866,
+          24.488166694942006
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500S53B",
+        "name": "思明区筼筜街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "莲岳路179号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.115949,
+        "gcj_lat": 24.489678,
+        "wgs84_lon": 118.11098918,
+        "wgs84_lat": 24.4923312927,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02500S53B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1109891795946,
+          24.492331292670364
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003YIH",
+        "name": "厦门市仙岳医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "仙岳路399号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.111082,
+        "gcj_lat": 24.495411,
+        "wgs84_lon": 118.106116071,
+        "wgs84_lat": 24.4980620163,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B025003YIH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10611607119088,
+          24.498062016309053
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF5SQAJ",
+        "name": "厦门市儿童医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "宜宾路92-98号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.112275,
+        "gcj_lat": 24.50572,
+        "wgs84_lon": 118.107309632,
+        "wgs84_lat": 24.5083731326,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF5SQAJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10730963208434,
+          24.508373132638297
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677767",
+        "name": "殿前(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.11617,
+        "gcj_lat": 24.524893,
+        "wgs84_lon": 118.111207929,
+        "wgs84_lat": 24.5275511369,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11120792903655,
+          24.527551136874546
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIQ7CIC",
+        "name": "厦门曾厝垵落脚点客栈",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "曾厝垵北二路与曾厝垵西路交叉口东北240米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.118458,
+        "gcj_lat": 24.436717,
+        "wgs84_lon": 118.113505305,
+        "wgs84_lat": 24.439362957,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFIQ7CIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1135053047667,
+          24.439362957027658
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QJMN",
+        "name": "泊捷连锁酒店(厦门火车站明发商业广场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "莲前西路2号莲富大厦A座3层301",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.12087,
+        "gcj_lat": 24.475882,
+        "wgs84_lon": 118.115917927,
+        "wgs84_lat": 24.4785372027,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02500QJMN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11591792670164,
+          24.478537202654906
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHGTUST",
+        "name": "厦门市康复医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "屿后北路与屿后北里交叉口北60米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.120123,
+        "gcj_lat": 24.495417,
+        "wgs84_lon": 118.115168436,
+        "wgs84_lat": 24.4980745343,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHGTUST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1151684357984,
+          24.498074534251405
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK1UYM1P",
+        "name": "SM城市广场厦门湖里店立体停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "嘉禾路468号SM城市广场(厦门湖里店)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.127613,
+        "gcj_lat": 24.502521,
+        "wgs84_lon": 118.122669786,
+        "wgs84_lat": 24.5051871841,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0GK1UYM1P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12266978619108,
+          24.505187184128424
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677778",
+        "name": "塘边(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.122619,
+        "gcj_lat": 24.506304,
+        "wgs84_lon": 118.117667373,
+        "wgs84_lat": 24.5089653834,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11766737294232,
+          24.50896538339348
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LG0RXTZ1",
+        "name": "全家酒店(SM广场台湾街店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "台湾街224号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.132586,
+        "gcj_lat": 24.497076,
+        "wgs84_lon": 118.127652148,
+        "wgs84_lat": 24.4997475085,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LG0RXTZ1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12765214772286,
+          24.499747508513238
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GRU650MF",
+        "name": "厦门筱金酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "西林路2-12号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.14151,
+        "gcj_lat": 24.476299,
+        "wgs84_lon": 118.136595632,
+        "wgs84_lat": 24.4789800092,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0GRU650MF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13659563160098,
+          24.47898000916528
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500T4YP",
+        "name": "厦门伊佳园旅馆(SM城市广场店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "金尚路249号一元花园店面",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.146449,
+        "gcj_lat": 24.493759,
+        "wgs84_lon": 118.141544235,
+        "wgs84_lat": 24.4964505485,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02500T4YP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14154423505111,
+          24.49645054853343
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK9CPVY0",
+        "name": "厦门市华师希平双语学校",
+        "type": "学校",
+        "typecode": 0,
+        "address": "吕岭路868号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.149385,
+        "gcj_lat": 24.487047,
+        "wgs84_lon": 118.144487417,
+        "wgs84_lat": 24.4897424412,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0GK9CPVY0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1444874170609,
+          24.489742441216887
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GRX17WDP",
+        "name": "和星公寓(厦门高崎机场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "县后社300号2楼",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.152992,
+        "gcj_lat": 24.527255,
+        "wgs84_lon": 118.1481,
+        "wgs84_lat": 24.5299620073,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0GRX17WDP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14809999986494,
+          24.529962007344988
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFA0ML2",
+        "name": "海渔家餐厅",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "环岛路黄厝社205号面朝大海(公交总站旁)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.158408,
+        "gcj_lat": 24.443588,
+        "wgs84_lon": 118.153535034,
+        "wgs84_lat": 24.4462918046,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFA0ML2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15353503362323,
+          24.44629180455622
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946728",
+        "name": "蔡塘(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.153481,
+        "gcj_lat": 24.487156,
+        "wgs84_lon": 118.148593026,
+        "wgs84_lat": 24.4898585345,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14859302606222,
+          24.489858534481904
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1J7P56Y",
+        "name": "厦门市禾穆实验幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "金湖四路1号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.156236,
+        "gcj_lat": 24.507679,
+        "wgs84_lon": 118.15135318,
+        "wgs84_lat": 24.5103893573,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H1J7P56Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15135317972404,
+          24.51038935730024
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH8LJQI",
+        "name": "五缘第二实验学校小学部",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "钟智西三路99号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.15984,
+        "gcj_lat": 24.521264,
+        "wgs84_lon": 118.154965017,
+        "wgs84_lat": 24.5239826148,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH8LJQI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1549650165254,
+          24.52398261476452
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946729",
+        "name": "古地石(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.163646,
+        "gcj_lat": 24.485644,
+        "wgs84_lon": 118.158782993,
+        "wgs84_lat": 24.4883647969,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1587829932,
+          24.48836479685728
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK0ZA04O",
+        "name": "湾悦城地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "枋湖路与钟宅西三路交叉口东100米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.161149,
+        "gcj_lat": 24.516713,
+        "wgs84_lon": 118.156277574,
+        "wgs84_lat": 24.5194334723,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0GK0ZA04O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15627757383982,
+          24.519433472258783
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIU6ZIW",
+        "name": "湖里区金山街道金湖社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "龙湫亭路24-28号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.170813,
+        "gcj_lat": 24.493695,
+        "wgs84_lon": 118.16596742,
+        "wgs84_lat": 24.4964304961,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIU6ZIW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.16596742038357,
+          24.49643049608672
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10873277",
+        "name": "五缘湾(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;3号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.167067,
+        "gcj_lat": 24.532477,
+        "wgs84_lon": 118.162209229,
+        "wgs84_lat": 24.5352103549,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10873277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.16220922879003,
+          24.535210354875925
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946723",
+        "name": "岭兜(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.17386,
+        "gcj_lat": 24.484305,
+        "wgs84_lon": 118.169022766,
+        "wgs84_lat": 24.4870448477,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.16902276609626,
+          24.48704484765524
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHH3J7M",
+        "name": "厦门大学附属心血管病医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "金山路2999号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.172321,
+        "gcj_lat": 24.508707,
+        "wgs84_lon": 118.167478156,
+        "wgs84_lat": 24.5114474332,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHH3J7M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1674781555436,
+          24.511447433241365
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946732",
+        "name": "钟宅(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.173035,
+        "gcj_lat": 24.523927,
+        "wgs84_lon": 118.168192874,
+        "wgs84_lat": 24.526670673,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1681928737154,
+          24.526670672964723
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKJRZIR3",
+        "name": "厦门高新学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "规划路与金安路交叉口东北120米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.183979,
+        "gcj_lat": 24.50458,
+        "wgs84_lon": 118.179165557,
+        "wgs84_lat": 24.507341716,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0GKJRZIR3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.17916555692129,
+          24.50734171602348
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946727",
+        "name": "软件园二期(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.185164,
+        "gcj_lat": 24.480522,
+        "wgs84_lon": 118.180355159,
+        "wgs84_lat": 24.4832823442,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.18035515932705,
+          24.48328234420209
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG862J2",
+        "name": "厦门市音乐学校(五通校区)",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "五缘湾美仑路396号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.186216,
+        "gcj_lat": 24.519942,
+        "wgs84_lon": 118.18140693,
+        "wgs84_lat": 24.5227097638,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFG862J2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.18140692981011,
+          24.52270976379327
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J16H00EC",
+        "name": "闽南渔港·町潮(观音山店)",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "环岛东路2188-23号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.198789,
+        "gcj_lat": 24.501217,
+        "wgs84_lon": 118.194010528,
+        "wgs84_lat": 24.5040040173,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J16H00EC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.19401052794119,
+          24.5040040172802
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKPZQSP",
+        "name": "南普陀寺中医院妙湛药堂",
+        "type": "医院",
+        "typecode": 90601,
+        "address": "钟鼓南路与思明南路交叉口东北约100米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.095725,
+        "gcj_lat": 24.440975,
+        "wgs84_lon": 118.090751983,
+        "wgs84_lat": 24.4436132736,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKPZQSP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0907519833512,
+          24.443613273560285
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHI0BFJ",
+        "name": "思明区教师进修学校",
+        "type": "学校",
+        "typecode": 141205,
+        "address": "思明南路394号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.090793,
+        "gcj_lat": 24.438281,
+        "wgs84_lon": 118.085819015,
+        "wgs84_lat": 24.4409198098,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHI0BFJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08581901538356,
+          24.440919809819885
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677759",
+        "name": "文灶(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.103441,
+        "gcj_lat": 24.467703,
+        "wgs84_lon": 118.098470223,
+        "wgs84_lat": 24.4703466729,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0984702234824,
+          24.470346672862217
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677762",
+        "name": "湖滨东路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;3号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.110656,
+        "gcj_lat": 24.474027,
+        "wgs84_lon": 118.105691159,
+        "wgs84_lat": 24.4766744767,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.10569115886891,
+          24.476674476702932
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3YDCWSM",
+        "name": "海医咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "厦门医学院附属海沧医院南门旁",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "咖啡厅",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.039089,
+        "gcj_lat": 24.489797,
+        "wgs84_lon": 118.03416821,
+        "wgs84_lat": 24.4925193111,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K3YDCWSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03416820957169,
+          24.49251931114741
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025004MOD",
+        "name": "7天酒店(厦门金尚蔡塘地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "后坑前社185号之一",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.152654,
+        "gcj_lat": 24.492242,
+        "wgs84_lon": 118.147763699,
+        "wgs84_lat": 24.4949438472,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B025004MOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14776369870832,
+          24.494943847197487
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025004LBM",
+        "name": "佳丽海鲜酒楼(环岛路店)",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "环岛路曾厝埯",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.124971,
+        "gcj_lat": 24.423277,
+        "wgs84_lon": 118.120029049,
+        "wgs84_lat": 24.4259263361,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B025004LBM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12002904900896,
+          24.4259263361304
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025001ICH",
+        "name": "厦门外国语学校(海沧校区高中部)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "嵩屿路厦门外国语学校",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "海沧区",
+        "gcj_lon": 118.035708,
+        "gcj_lat": 24.454671,
+        "wgs84_lon": 118.030797252,
+        "wgs84_lat": 24.4573958045,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025001ICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03079725180412,
+          24.457395804503495
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11685332",
+        "name": "海山东荣广场(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "436路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.083338,
+        "gcj_lat": 24.487153,
+        "wgs84_lon": 118.078361007,
+        "wgs84_lat": 24.4898041087,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11685332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07836100651244,
+          24.48980410873244
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QI6I",
+        "name": "厦门诺一酒店(仙岳医院.SM城市广场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "仙岳路452号(松柏湖花园旁)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.116252,
+        "gcj_lat": 24.493917,
+        "wgs84_lon": 118.111292263,
+        "wgs84_lat": 24.4965711445,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02500QI6I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1112922625025,
+          24.496571144508685
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRY536SX",
+        "name": "悦馨阁雅居(厦门高崎机场店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "林后社149号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.137382,
+        "gcj_lat": 24.527135,
+        "wgs84_lon": 118.132455385,
+        "wgs84_lat": 24.5298169166,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JRY536SX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13245538495795,
+          24.52981691659276
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHH3NCQ",
+        "name": "复旦大学附属中山医院厦门医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "五缘湾道与金湖路交叉口东北140米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.164004,
+        "gcj_lat": 24.512311,
+        "wgs84_lon": 118.159139988,
+        "wgs84_lat": 24.5150362236,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHH3NCQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1591399884528,
+          24.515036223583365
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHNDDYL",
+        "name": "厦门国际银行(厦门五缘湾支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "穆厝路3号C栋112-114号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.15918,
+        "gcj_lat": 24.51363,
+        "wgs84_lon": 118.154303937,
+        "wgs84_lat": 24.5163464665,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHNDDYL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15426828594073,
+          24.51634001127123
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025002P9W",
+        "name": "福建省厦门双十中学(枋湖校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "枋湖路789号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.1551,
+        "gcj_lat": 24.517154,
+        "wgs84_lon": 118.150213761,
+        "wgs84_lat": 24.5198635367,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025002P9W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15021376124453,
+          24.519863536729236
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLJXNVO",
+        "name": "围里社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "围里社1000-102号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.144311,
+        "gcj_lat": 24.52797,
+        "wgs84_lon": 118.13939902,
+        "wgs84_lat": 24.5306625173,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLJXNVO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1393990197173,
+          24.530662517316188
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10873271",
+        "name": "安兜(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.138383,
+        "gcj_lat": 24.5178,
+        "wgs84_lon": 118.133459099,
+        "wgs84_lat": 24.5204822595,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10873271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1334590992796,
+          24.520482259461847
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09210390",
+        "name": "尚忠(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "108路;91路;940路;947路;959路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.148852,
+        "gcj_lat": 24.520956,
+        "wgs84_lon": 118.143950764,
+        "wgs84_lat": 24.5236551549,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09210390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1439507641463,
+          24.523655154936055
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G1OZE2BN",
+        "name": "厦门市禾盛幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "枋湖东四里82号(水晶森林)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.155571,
+        "gcj_lat": 24.51368,
+        "wgs84_lon": 118.150686144,
+        "wgs84_lat": 24.5163899432,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0G1OZE2BN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15068614409502,
+          24.516389943186407
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1C16FBU",
+        "name": "满佳喜超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "尚福路与卢安街交叉口西北140米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.150325,
+        "gcj_lat": 24.517075,
+        "wgs84_lon": 118.145427453,
+        "wgs84_lat": 24.5197761836,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1C16FBU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1454426288474,
+          24.519758463291204
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2T186WZ",
+        "name": "老陈便利店(梧桐路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金色阳光西北门旁(坂尚地铁站2号口步行470米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.145212,
+        "gcj_lat": 24.516935,
+        "wgs84_lon": 118.140302807,
+        "wgs84_lat": 24.5196276594,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0G2T186WZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14030280672443,
+          24.51962765943717
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QJV6",
+        "name": "教师进修学校第二附属小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "坂上社591号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.148694,
+        "gcj_lat": 24.525483,
+        "wgs84_lon": 118.143792077,
+        "wgs84_lat": 24.5281824206,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02500QJV6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14379207687486,
+          24.5281824205608
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003T4R",
+        "name": "中国农业银行(阳光城支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "祥店路145号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.14382,
+        "gcj_lat": 24.501264,
+        "wgs84_lon": 118.138908851,
+        "wgs84_lat": 24.5039523777,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B025003T4R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13890885091269,
+          24.503952377710444
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRBSNTBM",
+        "name": "台嗑疯新台菜",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "枋湖南路165-106号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "餐厅",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.150059,
+        "gcj_lat": 24.512873,
+        "wgs84_lon": 118.145161134,
+        "wgs84_lat": 24.5155732024,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0LRBSNTBM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14513839416489,
+          24.515577701646862
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHVL9QO",
+        "name": "厦门市中医院(南区)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "江头东路339号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.13529,
+        "gcj_lat": 24.499142,
+        "wgs84_lon": 118.13036121,
+        "wgs84_lat": 24.5018174188,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHVL9QO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13036121040805,
+          24.501817418789305
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IKTRLDHF",
+        "name": "中国建设银行(湖里支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "薛岭里5号101-107单元",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.140107,
+        "gcj_lat": 24.50453,
+        "wgs84_lon": 118.135187636,
+        "wgs84_lat": 24.5072130954,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0IKTRLDHF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13518763588121,
+          24.507213095408847
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKYB2CHQ",
+        "name": "无人便利店(枋湖西路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "枋湖西路与枋湖路交叉口北60米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.141715,
+        "gcj_lat": 24.51412,
+        "wgs84_lon": 118.136798364,
+        "wgs84_lat": 24.5168067936,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LKYB2CHQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13679836372924,
+          24.5168067935579
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GUKDBXW5",
+        "name": "猪角·闽南猪脚饭(恒通店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "逮辽路19号恒通中心106单元",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "餐厅",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.145764,
+        "gcj_lat": 24.511798,
+        "wgs84_lon": 118.140856407,
+        "wgs84_lat": 24.5144909064,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0GUKDBXW5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14085640665184,
+          24.514490906372586
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09070131",
+        "name": "湖里政务服务中心(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "7路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.138638,
+        "gcj_lat": 24.512055,
+        "wgs84_lon": 118.133715036,
+        "wgs84_lat": 24.5147369111,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09070131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13371503637232,
+          24.514736911057724
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500U9G6",
+        "name": "其隆便利店(金湖店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金湖二里72号(城上城大门旁第一家)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.146269,
+        "gcj_lat": 24.508282,
+        "wgs84_lon": 118.141362791,
+        "wgs84_lat": 24.510975272,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B02500U9G6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14136279136213,
+          24.51097527204904
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDT522O6",
+        "name": "闽南渔港·云端(枋湖店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "梧桐西路58-1",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "餐厅",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.142671,
+        "gcj_lat": 24.508948,
+        "wgs84_lon": 118.137756795,
+        "wgs84_lat": 24.5116356084,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0KDT522O6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13775679495207,
+          24.51163560835294
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09047654",
+        "name": "薛岭山公园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "308路;315路;31路;423路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.146642,
+        "gcj_lat": 24.503932,
+        "wgs84_lon": 118.141736943,
+        "wgs84_lat": 24.5066253005,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09047654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14173694293348,
+          24.506625300519058
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09194907",
+        "name": "金湖一里(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "118路;134路;18路;423路;42路;652路;68路;755路;7路;81路;82路;843路;857路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.138714,
+        "gcj_lat": 24.507965,
+        "wgs84_lon": 118.133791486,
+        "wgs84_lat": 24.5106464897,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09194907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13379148634938,
+          24.510646489671554
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6BZFXEX",
+        "name": "天虹购物中心五缘湾店停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "金湖路516号天虹购物中心(五缘湾店)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.161301,
+        "gcj_lat": 24.51017,
+        "wgs84_lon": 118.156430417,
+        "wgs84_lat": 24.5128899229,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H6BZFXEX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1564304165842,
+          24.51288992291509
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946730",
+        "name": "后埔(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.145838,
+        "gcj_lat": 24.489755,
+        "wgs84_lon": 118.140932149,
+        "wgs84_lat": 24.4924449582,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14093214875136,
+          24.49244495816539
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HK5DKMHW",
+        "name": "厦门银行(金山支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "金山西路171号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.15576,
+        "gcj_lat": 24.503891,
+        "wgs84_lon": 118.150876299,
+        "wgs84_lat": 24.5065999949,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0HK5DKMHW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15087629889445,
+          24.506599994889758
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10873260",
+        "name": "湖里创新园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.156149,
+        "gcj_lat": 24.522939,
+        "wgs84_lon": 118.15126488,
+        "wgs84_lat": 24.5256511098,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10873260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15126487997192,
+          24.5256511098138
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10946726",
+        "name": "江头(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.137911,
+        "gcj_lat": 24.492323,
+        "wgs84_lon": 118.132987957,
+        "wgs84_lat": 24.4950011337,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10946726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.13298795704388,
+          24.49500113371628
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLBBZOH",
+        "name": "金山街道社区卫生服务中心金湖站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "金山街道后坑后社389号湖里区金山街道社区卫生服务中心",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.159985,
+        "gcj_lat": 24.499684,
+        "wgs84_lon": 118.155111912,
+        "wgs84_lat": 24.5024000805,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLBBZOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.15511191223764,
+          24.50240008053292
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11312259",
+        "name": "吉家家世界总站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "23路;M40路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.152842,
+        "gcj_lat": 24.509838,
+        "wgs84_lon": 118.147950888,
+        "wgs84_lat": 24.5125426208,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11312259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14795088808299,
+          24.512542620786885
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2D7F295",
+        "name": "虎头山公园停车点",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "金湖三路与金尚路辅路交叉口东60米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "停车场",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.149829,
+        "gcj_lat": 24.506263,
+        "wgs84_lon": 118.144931073,
+        "wgs84_lat": 24.5089619469,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2D7F295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.14493107254859,
+          24.508961946906325
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500TMJB",
+        "name": "厦门马垅健康体检",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "嘉禾路616号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.118565,
+        "gcj_lat": 24.517705,
+        "wgs84_lon": 118.113606635,
+        "wgs84_lat": 24.520364169,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02500TMJB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11360058825196,
+          24.520448629569305
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10873269",
+        "name": "小东山(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.125966,
+        "gcj_lat": 24.514116,
+        "wgs84_lon": 118.121019168,
+        "wgs84_lat": 24.516781869,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10873269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.12101916847469,
+          24.516781868968756
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJH3O2G",
+        "name": "招商银行(厦门分行营业部)",
+        "type": "银行",
+        "typecode": 160109,
+        "address": "领事馆路18号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "银行",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.188256,
+        "gcj_lat": 24.473322,
+        "wgs84_lon": 118.183455153,
+        "wgs84_lat": 24.4760867627,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFJH3O2G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.18345515290072,
+          24.476086762654784
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003KVC",
+        "name": "福建省厦门第三中学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "兴隆路627-633号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.121396,
+        "gcj_lat": 24.511619,
+        "wgs84_lon": 118.116442138,
+        "wgs84_lat": 24.5142799098,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025003KVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11644213831055,
+          24.514279909798525
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677777",
+        "name": "乌石浦(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.126403,
+        "gcj_lat": 24.498734,
+        "wgs84_lon": 118.121458003,
+        "wgs84_lat": 24.5013982925,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1214580027322,
+          24.501398292541637
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677766",
+        "name": "吕厝(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;2号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.127959,
+        "gcj_lat": 24.49068,
+        "wgs84_lon": 118.123017233,
+        "wgs84_lat": 24.4933448862,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.1230172331796,
+          24.493344886158443
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500SZH5",
+        "name": "思明区嘉莲街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "莲景路60号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.117955,
+        "gcj_lat": 24.482867,
+        "wgs84_lon": 118.112998305,
+        "wgs84_lat": 24.4855208,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02500SZH5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11299830541519,
+          24.4855207999666
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500SZD3",
+        "name": "湖里区湖里街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "海天路53号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "医院",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.097946,
+        "gcj_lat": 24.504836,
+        "wgs84_lon": 118.092969296,
+        "wgs84_lat": 24.5074847608,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02500SZD3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09296929644212,
+          24.507484760824017
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF4IXO7",
+        "name": "阿兰便利店社区服务站(湖滨中路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "湖滨中路与体育路交叉口南80米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.094144,
+        "gcj_lat": 24.483409,
+        "wgs84_lon": 118.08916743,
+        "wgs84_lat": 24.4860549927,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFF4IXO7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08916743020126,
+          24.486054992691525
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10677770",
+        "name": "莲花路口(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "地铁站",
+        "city": "厦门",
+        "district": "湖里区",
+        "gcj_lon": 118.122857,
+        "gcj_lat": 24.483483,
+        "wgs84_lon": 118.117907379,
+        "wgs84_lat": 24.4861413096,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10677770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.11790737922398,
+          24.486141309589957
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0250049OU",
+        "name": "易捷便利店(湖滨北路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "湖滨北路126号(湖滨中路地铁站4号口步行180米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.096488,
+        "gcj_lat": 24.480818,
+        "wgs84_lon": 118.091512403,
+        "wgs84_lat": 24.483463291,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0250049OU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09151240301811,
+          24.483463290979067
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0MB1NVJYE",
+        "name": "凤凰山庄地上停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "狐尾山路与凤凰山庄交叉口北60米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.087945,
+        "gcj_lat": 24.48097,
+        "wgs84_lon": 118.082967816,
+        "wgs84_lat": 24.4836175693,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0MB1NVJYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08296781588126,
+          24.483617569310614
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI9QIFC",
+        "name": "品都酒店(厦门中山路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "水仙路52号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.076533,
+        "gcj_lat": 24.453167,
+        "wgs84_lon": 118.071561299,
+        "wgs84_lat": 24.4558179251,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFI9QIFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07156129930968,
+          24.45581792508013
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG654VK",
+        "name": "厦门白鹭洲公园白鹭洲东路停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "环湖步道厦门宝龙铂尔曼大酒店",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.095316,
+        "gcj_lat": 24.475357,
+        "wgs84_lon": 118.09034037,
+        "wgs84_lat": 24.4780015267,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFG654VK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09034036964658,
+          24.47800152671069
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JU1MGWFK",
+        "name": "季朵·观山海别墅(中山路步行街店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "成功大道出口与思明南路交叉口北160米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.087924,
+        "gcj_lat": 24.445401,
+        "wgs84_lon": 118.082949375,
+        "wgs84_lat": 24.4480423306,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JU1MGWFK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08294937477312,
+          24.44804233058729
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFW9ATU",
+        "name": "厦门应如商贸有限公司",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "石亭路17-113号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.091866,
+        "gcj_lat": 24.480527,
+        "wgs84_lon": 118.086889129,
+        "wgs84_lat": 24.4831730588,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFFW9ATU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08688912896655,
+          24.48317305876107
+        ]
+      }
+    },
+    {
+      "id": "117",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JK1SFU6N",
+        "name": "LAWSON罗森(中山医院店)",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "湖滨南路166-103、166-104房屋",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.098091,
+        "gcj_lat": 24.470394,
+        "wgs84_lon": 118.093116843,
+        "wgs84_lat": 24.4730375236,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JK1SFU6N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0931168432093,
+          24.473037523581535
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0250043MG",
+        "name": "厦门城市职业学院(禾祥校区)",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "禾祥西路92-98",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.08958,
+        "gcj_lat": 24.465525,
+        "wgs84_lon": 118.084603953,
+        "wgs84_lat": 24.4681693213,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0250043MG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08460395279965,
+          24.468169321257776
+        ]
+      }
+    },
+    {
+      "id": "119",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025002K49",
+        "name": "好食来大排档(32年美食航标店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "湖滨南路24号(市工商局对面)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.085364,
+        "gcj_lat": 24.466844,
+        "wgs84_lon": 118.08038806,
+        "wgs84_lat": 24.4694905599,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B025002K49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08038805957104,
+          24.469490559949765
+        ]
+      }
+    },
+    {
+      "id": "120",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JUTHEE4L",
+        "name": "富彩兴便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "湖里街道东渡路70号之5号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "便利店",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.079865,
+        "gcj_lat": 24.483846,
+        "wgs84_lon": 118.074889415,
+        "wgs84_lat": 24.4864991758,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JUTHEE4L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07488941463981,
+          24.48649917575978
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGAQKRX",
+        "name": "停车场(世纪海湾伦敦楼西北)",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "湖滨西路辅路与湖滨北路交叉口北260米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.081455,
+        "gcj_lat": 24.480248,
+        "wgs84_lon": 118.076479064,
+        "wgs84_lat": 24.4828993621,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGAQKRX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07647906423777,
+          24.482899362115326
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10211060",
+        "name": "建兴路站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)309路;115路;15路;25路;26路;27路;28路;51路;58路;842路;84路;86路;87路;88路;955路/955路大站快线;958路;B10路;D169路;D170路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.088133,
+        "gcj_lat": 24.47676,
+        "wgs84_lon": 118.083156115,
+        "wgs84_lat": 24.4794068086,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10211060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08315611512396,
+          24.47940680859857
+        ]
+      }
+    },
+    {
+      "id": "123",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAG7WU7I",
+        "name": "中银大厦停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "湖滨北路40号中银大厦(建业路)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "停车场",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.084166,
+        "gcj_lat": 24.477774,
+        "wgs84_lon": 118.07918949,
+        "wgs84_lat": 24.4804231018,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HAG7WU7I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07918949019715,
+          24.48042310176746
+        ]
+      }
+    },
+    {
+      "id": "124",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11688932",
+        "name": "白鹭洲公园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)309路;15路;25路;26路;27路;28路;51路;86路;86路(绕行演武大桥);87路;D170路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.09178,
+        "gcj_lat": 24.473763,
+        "wgs84_lon": 118.086803601,
+        "wgs84_lat": 24.4764079858,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11688932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08680360149464,
+          24.476407985825237
+        ]
+      }
+    },
+    {
+      "id": "125",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025004EDV",
+        "name": "海沧育斌学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "石塘村南片1号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.039719,
+        "gcj_lat": 24.498335,
+        "wgs84_lon": 118.034796236,
+        "wgs84_lat": 24.5010570357,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025004EDV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03479623555788,
+          24.50105703570212
+        ]
+      }
+    },
+    {
+      "id": "126",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11688918",
+        "name": "邮轮中心码头站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)309路;11路;436路;海上世界环线巴士;鹭岛观光直通车",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "湖里区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "湖里区",
+        "gcj_lon": 118.075922,
+        "gcj_lat": 24.483147,
+        "wgs84_lon": 118.07094851,
+        "wgs84_lat": 24.485803649,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11688918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07094851035524,
+          24.485803648992203
+        ]
+      }
+    },
+    {
+      "id": "127",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QEDU",
+        "name": "厦门红枫酒店(世茂双子塔沙坡尾店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "大学路沙坡尾74-101号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "酒店",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.087707,
+        "gcj_lat": 24.436734,
+        "wgs84_lon": 118.082733004,
+        "wgs84_lat": 24.4393737244,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02500QEDU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08273300435228,
+          24.439373724425717
+        ]
+      }
+    },
+    {
+      "id": "128",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11370111",
+        "name": "非矿(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "10路;123路;20路;20路(绕行演武大桥);27路;28路;30路;33路;43路;45路;881路;940路;99路;B10路;D170路;M9路",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.093624,
+        "gcj_lat": 24.469537,
+        "wgs84_lon": 118.08864829,
+        "wgs84_lat": 24.472180832,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11370111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08864829009764,
+          24.4721808319863
+        ]
+      }
+    },
+    {
+      "id": "129",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02500QE7A",
+        "name": "小眼镜大排档(万佳东方店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "虎园路1号(中山公园地铁站4号口步行340米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.092616,
+        "gcj_lat": 24.453966,
+        "wgs84_lon": 118.087641179,
+        "wgs84_lat": 24.4566072999,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B02500QE7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08764117928756,
+          24.456607299856113
+        ]
+      }
+    },
+    {
+      "id": "130",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ42SVH",
+        "name": "野草莓自由市场",
+        "type": "餐饮",
+        "typecode": 60000,
+        "address": "鹭江道176号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.073074,
+        "gcj_lat": 24.459099,
+        "wgs84_lon": 118.068104187,
+        "wgs84_lat": 24.4617546266,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFJ42SVH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.06810418699361,
+          24.46175462661228
+        ]
+      }
+    },
+    {
+      "id": "131",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025000E77",
+        "name": "福建省厦门第一中学(思明校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "文园路93号(将军祠地铁站1号口步行60米)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.097813,
+        "gcj_lat": 24.458283,
+        "wgs84_lon": 118.092839586,
+        "wgs84_lat": 24.4609244119,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025000E77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.09283958575233,
+          24.460924411896713
+        ]
+      }
+    },
+    {
+      "id": "132",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0250007FB",
+        "name": "厦门银行(海沧支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "沧林路119号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.035651,
+        "gcj_lat": 24.492195,
+        "wgs84_lon": 118.030737703,
+        "wgs84_lat": 24.4949261702,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0250007FB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03078595778085,
+          24.4949535038779
+        ]
+      }
+    },
+    {
+      "id": "133",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003OYQ",
+        "name": "中国工商银行(厦门思北支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "厦禾路274号源通中心1层",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.079151,
+        "gcj_lat": 24.459647,
+        "wgs84_lon": 118.074177469,
+        "wgs84_lat": 24.4622967212,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B025003OYQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07417746912948,
+          24.462296721246915
+        ]
+      }
+    },
+    {
+      "id": "134",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL8CVDT",
+        "name": "麦当劳(中华城店)",
+        "type": "餐饮",
+        "typecode": 50302,
+        "address": "思明南路137-199号中华城D区三楼173号之74号/C区五楼5006号之3号商铺",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐厅",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.083624,
+        "gcj_lat": 24.451459,
+        "wgs84_lon": 118.078649504,
+        "wgs84_lat": 24.454103861,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFL8CVDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0786495042316,
+          24.454103861038668
+        ]
+      }
+    },
+    {
+      "id": "135",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025003IT9",
+        "name": "中国工商银行(厦门华侨支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "中山路444-110",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.085754,
+        "gcj_lat": 24.45569,
+        "wgs84_lon": 118.080778806,
+        "wgs84_lat": 24.45833436,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B025003IT9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08077880636937,
+          24.45833436002336
+        ]
+      }
+    },
+    {
+      "id": "136",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10210931",
+        "name": "二市站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "1路;1路(绕行演武大桥);1路(绕行演武西路/演武大桥);26路;321路;40路;4路;5路;96路;D168路;M9路;快1路;快8路高峰区间线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.094676,
+        "gcj_lat": 24.463752,
+        "wgs84_lon": 118.089701,
+        "wgs84_lat": 24.4663946486,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10210931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0897009997379,
+          24.466394648550477
+        ]
+      }
+    },
+    {
+      "id": "137",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAFCTSDQ",
+        "name": "中华街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "南中广场北门东南60米",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "医院",
+        "city": "厦门",
+        "district": "思明区",
+        "gcj_lon": 118.080016,
+        "gcj_lat": 24.454704,
+        "wgs84_lon": 118.075042447,
+        "wgs84_lat": 24.4573521039,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HAFCTSDQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07504244737127,
+          24.45735210386704
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025001092",
+        "name": "厦门银行(故宫支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "厦禾路362-101号(建设大厦一楼)",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.084102,
+        "gcj_lat": 24.460297,
+        "wgs84_lon": 118.079126761,
+        "wgs84_lat": 24.4629431701,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B025001092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07912676098672,
+          24.462943170059997
+        ]
+      }
+    },
+    {
+      "id": "139",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLBC538",
+        "name": "林四喜·闽南传家菜(鼓浪屿店)",
+        "type": "餐饮",
+        "typecode": 50110,
+        "address": "龙头路300号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "餐饮",
+        "city": "厦门市",
+        "district": "思明区",
+        "gcj_lon": 118.070923,
+        "gcj_lat": 24.444973,
+        "wgs84_lon": 118.065955931,
+        "wgs84_lat": 24.4476285102,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFLBC538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.06595593129353,
+          24.44762851024885
+        ]
+      }
+    },
+    {
+      "id": "140",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFMB43",
+        "name": "中国农业银行(厦门天鹭支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "同安路2号天鹭大厦A座",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "银行",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.088711,
+        "gcj_lat": 24.453793,
+        "wgs84_lon": 118.083735767,
+        "wgs84_lat": 24.4564355691,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFFMB43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08373576658695,
+          24.4564355691473
+        ]
+      }
+    },
+    {
+      "id": "141",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H3SCMQAO",
+        "name": "厦门市海沧区海裕幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "海裕路200号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "海沧区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "海沧区",
+        "gcj_lon": 118.041036,
+        "gcj_lat": 24.493309,
+        "wgs84_lon": 118.036110788,
+        "wgs84_lat": 24.4960271719,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H3SCMQAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.03611078762272,
+          24.496027171921014
+        ]
+      }
+    },
+    {
+      "id": "142",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B025001CBK",
+        "name": "厦门市第一幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "公园北路1号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.092139,
+        "gcj_lat": 24.460957,
+        "wgs84_lon": 118.087163585,
+        "wgs84_lat": 24.4635996888,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B025001CBK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08716358461548,
+          24.463599688833224
+        ]
+      }
+    },
+    {
+      "id": "143",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09342426",
+        "name": "斗西路口(快速公交站)",
+        "type": "交通设施",
+        "typecode": 150704,
+        "address": "快1路;快2线",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "公交站",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.087438,
+        "gcj_lat": 24.461909,
+        "wgs84_lon": 118.082462206,
+        "wgs84_lat": 24.4645536092,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09342426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.08246220605083,
+          24.464553609199655
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G1RX58GU",
+        "name": "顶顶学堂(故宫小学校区)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "故宫路119号",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "学校",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.082661,
+        "gcj_lat": 24.464557,
+        "wgs84_lon": 118.077685814,
+        "wgs84_lat": 24.467204875,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0G1RX58GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07768581379699,
+          24.467204875009916
+        ]
+      }
+    }
+  ]
+}

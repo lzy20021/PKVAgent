@@ -1,0 +1,26 @@
+Raw POI distribution figure rebuild summary
+
+1. This figure is a raw data presentation figure. No point generalization, sampling, deletion, aggregation, or merging was applied to the POI dataset.
+2. Only visualization-level optimization was performed.
+3. The optimization includes background whitening, lighter gridlines, slightly larger point symbols, controlled transparency, fine white point outlines, cleaner legend design, lighter title hierarchy, adjusted subplot layout, and thinner subplot/map borders.
+4. The purpose of these changes is to preserve the full sense of original data volume, spatial coverage, and category richness while improving publication quality and readability for a paper figure.
+
+Primary title: Raw POI Distribution and Representative Local Spatial Patterns
+Alternative title: Spatial Distribution of Original POI Data Across the Study Area
+
+Input dataset: E:\GradOpening\MapGenAI\Datasets\datasets0324.shp
+Total retained POI points: 125327
+CRS used for plotting: EPSG:4326
+
+Output files:
+- E:\GradOpening\MapGenAI\output\poi_raw_distribution_figure\final_poi_raw_distribution.png
+- E:\GradOpening\MapGenAI\output\poi_raw_distribution_figure\final_poi_raw_distribution.pdf
+- E:\GradOpening\MapGenAI\output\poi_raw_distribution_figure\final_poi_raw_distribution.svg
+- E:\GradOpening\MapGenAI\output\poi_raw_distribution_figure\plot_rebuild_raw_distribution.py
+- E:\GradOpening\MapGenAI\output\poi_raw_distribution_figure\raw_distribution_summary.txt
+
+This revision further increases background brightness and point size to improve readability in print and on-screen viewing while preserving all original POI data.
+
+The color palette was further brightened by replacing the dominant dark green category with a lighter sky-blue tone, improving the overall visual brightness and reducing the heavy appearance of the figure.
+
+The Schools category was reassigned to a brighter light-blue tone, the Other category was removed from visualization, and the point symbols were further enlarged to improve clarity.

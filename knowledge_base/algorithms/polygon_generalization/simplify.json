@@ -1,0 +1,54 @@
+{
+  "name": "面要素简化",
+  "task_type": "polygon_generalization",
+  "algorithm": "simplify",
+  "description": "简化面边界并尽量保持拓扑关系。",
+  "parameters": {
+    "tolerance": {
+      "type": "float",
+      "description": "???????",
+      "default": 10.0,
+      "range": [
+        0.1,
+        500
+      ]
+    },
+    "preserve_topology": {
+      "type": "boolean",
+      "description": "??????",
+      "default": true
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.copy()\nresult['geometry'] = result.geometry.simplify(tolerance={tolerance}, preserve_topology={preserve_topology})\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "面要素",
+    "简化",
+    "polygon"
+  ],
+  "examples": [
+    {
+      "input": "简化 landuse.shp，容差15米",
+      "parameters": {
+        "input_file": "data/landuse.shp",
+        "output_file": "out/landuse_simplify.shp",
+        "layer_name": "landuse_simplify",
+        "tolerance": 15.0,
+        "preserve_topology": true
+      }
+    },
+    {
+      "input": "?????????5?",
+      "parameters": {
+        "input_file": "data/buildings.shp",
+        "output_file": "out/buildings_simplify.shp",
+        "layer_name": "buildings_simplify",
+        "tolerance": 5.0,
+        "preserve_topology": true
+      }
+    }
+  ]
+}

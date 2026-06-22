@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KAX5CFZR",
+        "name": "见福便利店(源昌国际城店)",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "鹭江街道厦禾路源昌国际城",
+        "pname": "福建省",
+        "cityname": "厦门市",
+        "adname": "思明区",
+        "query_category": "便利店",
+        "city": "厦门",
+        "district": "中华街道",
+        "gcj_lon": 118.081412,
+        "gcj_lat": 24.460807,
+        "wgs84_lon": 118.076437477,
+        "wgs84_lat": 24.4634551165,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KAX5CFZR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.07643747747774,
+          24.463455116495297
+        ]
+      }
+    }
+  ]
+}

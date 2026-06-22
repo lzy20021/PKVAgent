@@ -1,0 +1,17 @@
+Generalization failed to pass verification at 1:250000 after 4 rounds.
+VLM verify still failed (score=50, mode=heuristic_fallback, real=False).
+Completion status: failed
+Failed rules: ['retention_rate >= class_min', 'point_rgb_hotspot_overdraw <= max']
+Output files: E:\GradOpening\MapGenAI\output\pointgenai_process_sequence_sample13_1_250000\agent_input_sample13_8class_gen_1_250000_r1.geojson, E:\GradOpening\MapGenAI\output\pointgenai_process_sequence_sample13_1_250000\agent_input_sample13_8class_gen_1_250000_r1.png, E:\GradOpening\MapGenAI\output\pointgenai_process_sequence_sample13_1_250000\agent_input_sample13_8class_gen_1_250000_r1.pdf, E:\GradOpening\MapGenAI\output\pointgenai_process_sequence_sample13_1_250000\agent_input_sample13_8class_gen_1_250000_selection_basis.md
+【决策摘要 | 目标 1:250000】将数据判为「商业兴趣点」，空间格局「中心-边缘型」。
+【依据】 语义：detected POI/business-like fields | 结构：high nearest-neighbor CV=0.96；center share=0.40
+【执行链】 selection {"keep_ratio": 0.108, "structure_type": "center-periphery", "semantic_type": "commercial_poi_points"} → simplify {"tolerance_m": 0.0, "preserve_topology": true} → typification {"pattern": "center_periphery_balanced"} → displacement {"min_sep_m": 75.0, "max_shift_m": 135.0, "strict_no_overlap": true, "strict_pixel_gap": 32.0, "strict_density_factor...
+【停轮阈值】 {"target_conflict_count": 0, "target_vlm_score": 80, "max_rounds": 4, "point_max_middle_gap_ratio": 0.35, "point_min_axis_coverage_ratio": 0.6, "point_min_ho...
+【本轮指标 | 第 4 轮】输入 904 → 输出 232，保留率 25.7%；热点格覆盖 1.000，区域覆盖 0.984；符号冲突 0。
+【验收】VLM 未通过，score=50
+【未满足项】['retention_rate >= class_min', 'point_rgb_hotspot_overdraw <= max']
+【验收说明】retention_rate=0.097, min=0.120 point_axis_coverage_ratio=0.931, min=0.600 point_middle_gap_ratio=0.034, max=0.350
+【附录】算子参数与校验字段全文见同目录：agent_input_sample13_8class_gen_1_250000_selection_basis.md
+Verified: outputs generated but acceptance thresholds not fully met.
+Runtime: 0.00s
+Projected CRS used: EPSG:32650

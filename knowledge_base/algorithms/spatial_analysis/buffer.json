@@ -1,0 +1,58 @@
+{
+  "name": "缓冲区分析",
+  "task_type": "spatial_analysis",
+  "algorithm": "buffer",
+  "description": "为输入要素创建指定距离缓冲区。",
+  "parameters": {
+    "distance": {
+      "type": "float",
+      "description": "???????",
+      "default": 100.0,
+      "range": [
+        0.1,
+        100000
+      ]
+    },
+    "resolution": {
+      "type": "int",
+      "description": "??????",
+      "default": 8,
+      "range": [
+        4,
+        32
+      ]
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.copy()\nresult['geometry'] = result.geometry.buffer(distance={distance}, resolution={resolution})\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "空间分析",
+    "缓冲区",
+    "buffer"
+  ],
+  "examples": [
+    {
+      "input": "对 schools.shp 创建500米缓冲区",
+      "parameters": {
+        "input_file": "data/schools.shp",
+        "output_file": "out/schools_buffer.shp",
+        "layer_name": "schools_buffer",
+        "distance": 500.0,
+        "resolution": 8
+      }
+    },
+    {
+      "input": "? roads.shp ??20??????",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "output_file": "out/roads_buffer.shp",
+        "layer_name": "roads_buffer",
+        "distance": 20.0,
+        "resolution": 8
+      }
+    }
+  ]
+}

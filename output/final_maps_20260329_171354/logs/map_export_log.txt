@@ -1,0 +1,42 @@
+2026-03-29 17:13:54,952 | INFO | Output directory: E:\GradOpening\MapGenAI\output\final_maps_20260329_171354
+2026-03-29 17:13:54,952 | INFO | Using font: Microsoft YaHei
+2026-03-29 17:14:00,093 | INFO | Selected representative region from prior experiment: 三亚市_天涯区 (all_poi_expanded.geojson, score 3258.00)
+2026-03-29 17:14:00,210 | INFO | Processing scale 1:84000
+2026-03-29 17:14:22,206 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_raw_84000.png
+2026-03-29 17:14:22,206 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_raw_84000.pdf
+2026-03-29 17:14:22,206 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_raw_84000.svg
+2026-03-29 17:14:22,213 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_generalized_84000.png
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_generalized_84000.pdf
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_generalized_84000.svg
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_comparison_84000.png
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_comparison_84000.pdf
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_comparison_84000.svg
+2026-03-29 17:14:22,214 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_zoom_comparison_84000.png
+2026-03-29 17:14:22,215 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_zoom_comparison_84000.pdf
+2026-03-29 17:14:22,215 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\84000\map_zoom_comparison_84000.svg
+2026-03-29 17:14:23,046 | INFO | Processing scale 1:253000
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_raw_253000.png
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_raw_253000.pdf
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_raw_253000.svg
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_generalized_253000.png
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_generalized_253000.pdf
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_generalized_253000.svg
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_comparison_253000.png
+2026-03-29 17:14:56,973 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_comparison_253000.pdf
+2026-03-29 17:14:56,975 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_comparison_253000.svg
+2026-03-29 17:14:56,975 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_zoom_comparison_253000.png
+2026-03-29 17:14:56,975 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_zoom_comparison_253000.pdf
+2026-03-29 17:14:56,975 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\253000\map_zoom_comparison_253000.svg
+2026-03-29 17:14:57,707 | INFO | Processing scale 1:532000
+2026-03-29 17:15:28,561 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_raw_532000.png
+2026-03-29 17:15:28,561 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_raw_532000.pdf
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_raw_532000.svg
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_generalized_532000.png
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_generalized_532000.pdf
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_generalized_532000.svg
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_comparison_532000.png
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_comparison_532000.pdf
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_comparison_532000.svg
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_zoom_comparison_532000.png
+2026-03-29 17:15:28,562 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_zoom_comparison_532000.pdf
+2026-03-29 17:15:28,563 | INFO | Exported E:\GradOpening\MapGenAI\output\final_maps_20260329_171354\figures\532000\map_zoom_comparison_532000.svg

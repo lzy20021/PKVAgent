@@ -1,0 +1,55 @@
+{
+  "name": "Douglas-Peucker线简化",
+  "task_type": "line_simplification",
+  "algorithm": "douglas-peucker",
+  "description": "使用 Douglas-Peucker 算法简化线要素，减少节点并保持主要形态。",
+  "parameters": {
+    "tolerance": {
+      "type": "float",
+      "description": "???????",
+      "default": 10.0,
+      "range": [
+        0.1,
+        1000
+      ]
+    },
+    "preserve_topology": {
+      "type": "boolean",
+      "description": "??????",
+      "default": true
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.copy()\nresult['geometry'] = result.geometry.simplify(tolerance={tolerance}, preserve_topology={preserve_topology})\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "线要素",
+    "简化",
+    "道路",
+    "douglas-peucker"
+  ],
+  "examples": [
+    {
+      "input": "对 roads.shp 进行 Douglas-Peucker 简化，容差10米",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "output_file": "out/roads_dp.shp",
+        "layer_name": "roads_dp",
+        "tolerance": 10.0,
+        "preserve_topology": true
+      }
+    },
+    {
+      "input": "????????25???????",
+      "parameters": {
+        "input_file": "data/rivers.shp",
+        "output_file": "out/rivers_dp.shp",
+        "layer_name": "rivers_dp",
+        "tolerance": 25.0,
+        "preserve_topology": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "target_city_count": 130,
+  "successful_city_count": 97,
+  "total_requests": 1253,
+  "new_rows": 16134,
+  "merged_rows": 132617,
+  "api_endpoints": [
+    "https://restapi.amap.com/v3/config/district",
+    "https://restapi.amap.com/v3/place/text"
+  ],
+  "output_csv": "E:/GradOpening/MapGenAI/amap_poi_dataset_expanded/all_poi_expanded.csv",
+  "output_geojson": "E:/GradOpening/MapGenAI/amap_poi_dataset_expanded/all_poi_expanded.geojson",
+  "expanded_city_list": "E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/expanded_city_list.csv"
+}

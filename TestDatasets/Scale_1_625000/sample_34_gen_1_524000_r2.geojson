@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH9PS9N",
+        "name": "同康医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "中心路",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "康平县",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "康平县",
+        "gcj_lon": 123.372955,
+        "gcj_lat": 42.741705,
+        "wgs84_lon": 123.366709039,
+        "wgs84_lat": 42.7392549141,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH9PS9N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.36670903887045,
+          42.739254914088235
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGX5YZY1",
+        "name": "辽宁中医二院康复医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "滨湖三街(大辽圣市街)12号楼(康平博物馆西)",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "康平县",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "康平县",
+        "gcj_lon": 123.335481,
+        "gcj_lat": 42.730771,
+        "wgs84_lon": 123.329338052,
+        "wgs84_lat": 42.7283845628,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HGX5YZY1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3298002051184,
+          42.72838414170687
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JULAKHQM",
+        "name": "Real幸咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "边门街39-1号",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "法库县",
+        "query_category": "咖啡厅",
+        "city": "沈阳",
+        "district": "法库县",
+        "gcj_lon": 123.414813,
+        "gcj_lat": 42.501734,
+        "wgs84_lon": 123.40856326,
+        "wgs84_lat": 42.499320285,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JULAKHQM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.40856326000564,
+          42.49932028501491
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L32R3Z3A",
+        "name": "法库县东湖中学停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "7号小院东北侧260米",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "法库县",
+        "query_category": "停车场",
+        "city": "沈阳",
+        "district": "法库县",
+        "gcj_lon": 123.444612,
+        "gcj_lat": 42.486304,
+        "wgs84_lon": 123.438401004,
+        "wgs84_lat": 42.4839277406,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L32R3Z3A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4384010035281,
+          42.483927740628936
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10536795",
+        "name": "长安路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "大东区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "大东区",
+        "gcj_lon": 123.485925,
+        "gcj_lat": 41.798948,
+        "wgs84_lon": 123.479934677,
+        "wgs84_lat": 41.7966422141,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10536795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.47993467738148,
+          41.79664221409981
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09262853",
+        "name": "英雄公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "皇姑区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "皇姑区",
+        "gcj_lon": 123.456926,
+        "gcj_lat": 41.851119,
+        "wgs84_lon": 123.450835553,
+        "wgs84_lat": 41.8487363897,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09262853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.45083555282025,
+          41.848736389671956
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10829127",
+        "name": "洮昌街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "大东区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "大东区",
+        "gcj_lon": 123.467487,
+        "gcj_lat": 41.822262,
+        "wgs84_lon": 123.461431195,
+        "wgs84_lat": 41.8199048539,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10829127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.46143119546518,
+          41.819904853866056
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10998903",
+        "name": "富民街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)3号线东段",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈河区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "沈河区",
+        "gcj_lon": 123.472475,
+        "gcj_lat": 41.768961,
+        "wgs84_lon": 123.466442553,
+        "wgs84_lat": 41.7666188403,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10998903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4664425526078,
+          41.766618840310414
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10049675",
+        "name": "北陵公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "皇姑区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "皇姑区",
+        "gcj_lon": 123.42424,
+        "gcj_lat": 41.839395,
+        "wgs84_lon": 123.418091447,
+        "wgs84_lat": 41.8369584384,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10049675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41809144728636,
+          41.83695843842794
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10050035",
+        "name": "青年公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈河区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "和平区",
+        "gcj_lon": 123.435952,
+        "gcj_lat": 41.784517,
+        "wgs84_lon": 123.429825797,
+        "wgs84_lat": 41.7820958566,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10050035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.42982579747017,
+          41.78209585662282
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10052120",
+        "name": "重工街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "铁西区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "于洪区",
+        "gcj_lon": 123.331973,
+        "gcj_lat": 41.805072,
+        "wgs84_lon": 123.32597282,
+        "wgs84_lat": 41.8027104712,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10052120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.32597282013016,
+          41.80271047123662
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00180CZOX",
+        "name": "沈阳市康平县东关屯镇卫生院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "东五线与203国道交汇北200米",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "康平县",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "康平县",
+        "gcj_lon": 123.356463,
+        "gcj_lat": 42.708753,
+        "wgs84_lon": 123.350261432,
+        "wgs84_lat": 42.7063354074,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00180CZOX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.35026143204787,
+          42.706335407409725
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00180JIF3",
+        "name": "沈阳美景旅馆(三江街店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "华山路47号(大家购生鲜连锁超市东30米)",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "皇姑区",
+        "query_category": "酒店",
+        "city": "沈阳",
+        "district": "和平区",
+        "gcj_lon": 123.407325,
+        "gcj_lat": 41.817525,
+        "wgs84_lon": 123.401173249,
+        "wgs84_lat": 41.8150785758,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00180JIF3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4011732494675,
+          41.81507857582217
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00181749Q",
+        "name": "李红路社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "东平湖街30号6门7门",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "于洪区",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "于洪区",
+        "gcj_lon": 123.285888,
+        "gcj_lat": 41.801785,
+        "wgs84_lon": 123.280020502,
+        "wgs84_lat": 41.7995026785,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00181749Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.28002050234976,
+          41.799502678544556
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K12SF14D",
+        "name": "沈阳七中沈北蒲河分校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "蒲河北路6甲",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈北新区",
+        "query_category": "学校",
+        "city": "沈阳",
+        "district": "沈北新区",
+        "gcj_lon": 123.612315,
+        "gcj_lat": 41.928027,
+        "wgs84_lon": 123.606576271,
+        "wgs84_lat": 41.9259435027,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K12SF14D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6065762714057,
+          41.9259435026759
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001816VXY",
+        "name": "英姬炭火烤肉专门店(民族街店)",
+        "type": "餐饮",
+        "typecode": 50203,
+        "address": "民族街水利局对面",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "新民市",
+        "query_category": "餐厅",
+        "city": "沈阳",
+        "district": "新民市",
+        "gcj_lon": 122.837856,
+        "gcj_lat": 41.989337,
+        "wgs84_lon": 122.8324937,
+        "wgs84_lat": 41.98720954,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B001816VXY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.83249369980831,
+          41.98720953997916
+        ]
+      }
+    }
+  ]
+}

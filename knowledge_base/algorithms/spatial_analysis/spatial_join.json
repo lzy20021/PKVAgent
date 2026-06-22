@@ -1,0 +1,57 @@
+{
+  "name": "空间连接",
+  "task_type": "spatial_analysis",
+  "algorithm": "spatial-join",
+  "description": "按空间关系连接目标图层属性。",
+  "parameters": {
+    "join_layer": {
+      "type": "string",
+      "description": "??????",
+      "default": "data/join_layer.shp"
+    },
+    "how": {
+      "type": "string",
+      "description": "????",
+      "default": "left"
+    },
+    "predicate": {
+      "type": "string",
+      "description": "????",
+      "default": "intersects"
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\njoin_gdf = gpd.read_file('{join_layer}')\nif gdf.crs != join_gdf.crs:\n    join_gdf = join_gdf.to_crs(gdf.crs)\nresult = gpd.sjoin(gdf, join_gdf, how='{how}', predicate='{predicate}')\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "空间分析",
+    "空间连接",
+    "sjoin"
+  ],
+  "examples": [
+    {
+      "input": "将 poi.shp 与 districts.shp 做空间连接",
+      "parameters": {
+        "input_file": "data/poi.shp",
+        "join_layer": "data/districts.shp",
+        "how": "left",
+        "predicate": "within",
+        "output_file": "out/poi_join.shp",
+        "layer_name": "poi_join"
+      }
+    },
+    {
+      "input": "????????????",
+      "parameters": {
+        "input_file": "data/intersections.shp",
+        "join_layer": "data/roads_buffer.shp",
+        "how": "left",
+        "predicate": "intersects",
+        "output_file": "out/intersections_join.shp",
+        "layer_name": "intersections_join"
+      }
+    }
+  ]
+}

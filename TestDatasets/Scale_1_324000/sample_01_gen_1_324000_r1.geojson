@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10022634",
+        "name": "人和(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)22号线北延段;3号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "白云区",
+        "query_category": "地铁站",
+        "city": "北京城区",
+        "district": "白云区",
+        "gcj_lon": 113.295995,
+        "gcj_lat": 23.335224,
+        "wgs84_lon": 113.290613107,
+        "wgs84_lat": 23.3377990084,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10022634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.29061310698268,
+          23.337799008358456
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03017WDFZ",
+        "name": "庆丰智享酒店(虎门新天地购物广场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "镇兴大路33号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.668503,
+        "gcj_lat": 22.83072,
+        "wgs84_lon": 113.66338659,
+        "wgs84_lat": 22.8336225711,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03017WDFZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66338658967177,
+          22.833622571097038
+        ]
+      }
+    }
+  ]
+}

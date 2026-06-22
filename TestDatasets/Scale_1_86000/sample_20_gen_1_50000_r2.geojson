@@ -1,0 +1,6193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155ERTZ",
+        "name": "长征社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "千阳路209号(近同普路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.369472,
+        "gcj_lat": 31.233017,
+        "wgs84_lon": 121.364845854,
+        "wgs84_lat": 31.2348729282,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155ERTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36484585364846,
+          31.234872928189205
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLPDCUC",
+        "name": "童君堂中医门诊部",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "真新街道曹安路1558号101室-3号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "嘉定区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.368785,
+        "gcj_lat": 31.252753,
+        "wgs84_lon": 121.364158164,
+        "wgs84_lat": 31.2546009115,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLPDCUC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3641581639564,
+          31.254600911546895
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKFL5E0",
+        "name": "上海德胜堂医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "真新街道曹安公路1352-1、2、3、4号,1354-1、2、3号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "嘉定区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.377669,
+        "gcj_lat": 31.250426,
+        "wgs84_lon": 121.373030483,
+        "wgs84_lat": 31.2522648108,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKFL5E0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.37303048283997,
+          31.252264810801716
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBT5WYKQ",
+        "name": "固生堂上海长枫中医门诊部",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "泸定路108号115",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.387442,
+        "gcj_lat": 31.222429,
+        "wgs84_lon": 121.382796656,
+        "wgs84_lat": 31.2242726427,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0KBT5WYKQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38279665572702,
+          31.22427264272351
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9ZBJZ",
+        "name": "上海市儿童医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "泸定路355号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.386483,
+        "gcj_lat": 31.226745,
+        "wgs84_lon": 121.381837998,
+        "wgs84_lat": 31.2285872453,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF9ZBJZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3818379982473,
+          31.22858724530536
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0XZZMRX",
+        "name": "百联中环购物广场地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "长征镇真光路1288号(百联中环购物广场)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.384373,
+        "gcj_lat": 31.246656,
+        "wgs84_lon": 121.379727994,
+        "wgs84_lat": 31.2484906505,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0G0XZZMRX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.379727994301,
+          31.248490650491693
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156OAUR",
+        "name": "小铃铛幼儿园(真光新村第七小区南)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "铜川路1781弄88号(真光路地铁站2号口步行270米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.386079,
+        "gcj_lat": 31.251646,
+        "wgs84_lon": 121.381432144,
+        "wgs84_lat": 31.2534772152,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00156OAUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38143214397346,
+          31.25347721515489
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00152D4B2",
+        "name": "上海市普陀区利群医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "桃浦路910号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.385523,
+        "gcj_lat": 31.260867,
+        "wgs84_lon": 121.380875787,
+        "wgs84_lat": 31.2626945638,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00152D4B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38087578667357,
+          31.26269456384396
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF5VSI2",
+        "name": "全家便利店(梅川路五店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "梅川路890号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.389715,
+        "gcj_lat": 31.240448,
+        "wgs84_lon": 121.385066556,
+        "wgs84_lat": 31.2422820126,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFF5VSI2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38506655579312,
+          31.242282012552447
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KU1GPY3N",
+        "name": "逸刻便利店(真北路二店)",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "真北路2219号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.391025,
+        "gcj_lat": 31.255025,
+        "wgs84_lon": 121.386374515,
+        "wgs84_lat": 31.2568518455,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KU1GPY3N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38637451494337,
+          31.256851845515317
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFLIHDQ",
+        "name": "上海天佑医院(综合医院)",
+        "type": "医院",
+        "typecode": 90202,
+        "address": "真南路528号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.389842,
+        "gcj_lat": 31.269746,
+        "wgs84_lon": 121.385190922,
+        "wgs84_lat": 31.2715670914,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFLIHDQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38519092223254,
+          31.27156709138822
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001538EB2",
+        "name": "长风社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "金沙江路906号(大渡河路地铁站9号口步行80米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.396862,
+        "gcj_lat": 31.232296,
+        "wgs84_lon": 121.392211091,
+        "wgs84_lat": 31.2341309539,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001538EB2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39221109070867,
+          31.234130953945463
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1NCAIDL",
+        "name": "诗丰冷饮批发",
+        "type": "便利店",
+        "typecode": 60000,
+        "address": "武宁路与杨柳青路交叉口东120米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.400189,
+        "gcj_lat": 31.244404,
+        "wgs84_lon": 121.39553643,
+        "wgs84_lat": 31.2462328902,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0H1NCAIDL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3955364300618,
+          31.24623289019581
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2G7UEI9",
+        "name": "北石路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "北石路与铜川路交叉口南160米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.394131,
+        "gcj_lat": 31.24947,
+        "wgs84_lon": 121.389479508,
+        "wgs84_lat": 31.2512979967,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2G7UEI9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38947950841572,
+          31.251297996717785
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KCM2",
+        "name": "快客便利店(星河世纪城樱树芳庭店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "桃浦镇桃浦路328号1楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.39423,
+        "gcj_lat": 31.259449,
+        "wgs84_lon": 121.389577598,
+        "wgs84_lat": 31.2612725769,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B00155KCM2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3895775981016,
+          31.261272576937575
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRRHU0YC",
+        "name": "上海市普陀区万里街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "万泉路115号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.398812,
+        "gcj_lat": 31.26847,
+        "wgs84_lon": 121.394157512,
+        "wgs84_lat": 31.2702885358,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HRRHU0YC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39415751150877,
+          31.270288535766582
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10820972",
+        "name": "姚虹路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "15号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.406405,
+        "gcj_lat": 31.19155,
+        "wgs84_lon": 121.401757442,
+        "wgs84_lat": 31.1934041336,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10820972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40175744169926,
+          31.193404133555134
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155HWN5",
+        "name": "曹杨二中附属学校分部",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "桐柏路108号上海市曹杨二中附属学校",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.401541,
+        "gcj_lat": 31.235862,
+        "wgs84_lon": 121.396889092,
+        "wgs84_lat": 31.2376946705,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155HWN5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39688909184284,
+          31.237694670532
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LR15U867",
+        "name": "百联超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "南石一路75弄1-4号南石一路75弄小区",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.405625,
+        "gcj_lat": 31.245925,
+        "wgs84_lon": 121.400972541,
+        "wgs84_lat": 31.2477533349,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LR15U867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40097254078631,
+          31.247753334905738
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JR2HJJH9",
+        "name": "韩渔面馆",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "兰溪路473号-3(铜川路地铁站2号口步行420米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "餐厅",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.401602,
+        "gcj_lat": 31.250544,
+        "wgs84_lon": 121.39694881,
+        "wgs84_lat": 31.252370059,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0JR2HJJH9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39694880957862,
+          31.25237005895109
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGCEW3Y",
+        "name": "上海西站地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "桃浦路与兰溪路交叉口东北220米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.400315,
+        "gcj_lat": 31.262031,
+        "wgs84_lon": 121.39566088,
+        "wgs84_lat": 31.263852112,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGCEW3Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39566088013407,
+          31.26385211204258
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10820988",
+        "name": "吴中路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "15号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "闵行区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.413905,
+        "gcj_lat": 31.184345,
+        "wgs84_lon": 121.409261274,
+        "wgs84_lat": 31.1862053196,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10820988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.409261274094,
+          31.18620531957203
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039971",
+        "name": "宋园路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.41208,
+        "gcj_lat": 31.19654,
+        "wgs84_lon": 121.407434157,
+        "wgs84_lat": 31.1983934034,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4074341567385,
+          31.198393403447657
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L39MRVM5",
+        "name": "上海虹桥酒店公寓(中山公园店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "长宁路1557号虹桥国际大厦3层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.407905,
+        "gcj_lat": 31.216845,
+        "wgs84_lon": 121.40325564,
+        "wgs84_lat": 31.2186871854,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L39MRVM5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40325564027248,
+          31.218687185405496
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024842",
+        "name": "桂林公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "12号线;15号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.419647,
+        "gcj_lat": 31.166985,
+        "wgs84_lon": 121.415009267,
+        "wgs84_lat": 31.1688578336,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41500926656096,
+          31.168857833615785
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG0V4N2",
+        "name": "上海田林公寓",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "田林路114号-4(近桂林路/9号线桂林路站4号口)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.416572,
+        "gcj_lat": 31.170815,
+        "wgs84_lon": 121.411931314,
+        "wgs84_lat": 31.1726837031,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG0V4N2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41193131406317,
+          31.172683703101857
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039879",
+        "name": "桂林路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "15号线;9号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.418064,
+        "gcj_lat": 31.174791,
+        "wgs84_lon": 121.413424176,
+        "wgs84_lat": 31.1766586738,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41342417635322,
+          31.17665867382681
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156DHEV",
+        "name": "领尚国际酒店公寓",
+        "type": "酒店",
+        "typecode": 100103,
+        "address": "宋园路58号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.414458,
+        "gcj_lat": 31.192084,
+        "wgs84_lon": 121.409813956,
+        "wgs84_lat": 31.1939407571,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00156DHEV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40981395569358,
+          31.19394075712318
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155LDVO",
+        "name": "虹桥街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "虹桥路961弄4号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.418255,
+        "gcj_lat": 31.19689,
+        "wgs84_lon": 121.413613417,
+        "wgs84_lat": 31.198746763,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155LDVO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41361341719106,
+          31.19874676295227
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LUG5K6BF",
+        "name": "船长五号青年酒店(东华大学延安西路地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "凯旋路1068号(延安西路地铁站2号口步行410米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.417497,
+        "gcj_lat": 31.206513,
+        "wgs84_lon": 121.412853943,
+        "wgs84_lat": 31.2083645499,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LUG5K6BF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4128539430751,
+          31.208364549921516
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKJ4IRU",
+        "name": "石泉街道社区卫生服务中心分中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "宁川路53弄2号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.418503,
+        "gcj_lat": 31.247951,
+        "wgs84_lon": 121.413857184,
+        "wgs84_lat": 31.2497839955,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKJ4IRU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4138571843223,
+          31.249783995507332
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHJJCFC",
+        "name": "上海市普陀区中医医院(万里门诊)",
+        "type": "医院",
+        "typecode": 0,
+        "address": "新村路1317号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.413767,
+        "gcj_lat": 31.266796,
+        "wgs84_lon": 121.409116002,
+        "wgs84_lat": 31.2686178535,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHJJCFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4091160024791,
+          31.26861785351121
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL9J5IE",
+        "name": "上海市同济医院大华门诊部",
+        "type": "医院",
+        "typecode": 0,
+        "address": "新沪路950号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "宝山区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.418446,
+        "gcj_lat": 31.272408,
+        "wgs84_lon": 121.413798001,
+        "wgs84_lat": 31.2742303451,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL9J5IE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41379800123008,
+          31.274230345070983
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KAF5IPKP",
+        "name": "侠客行青年旅社(徐汇店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "钦州北路175弄88号103室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.421392,
+        "gcj_lat": 31.180602,
+        "wgs84_lon": 121.416754794,
+        "wgs84_lat": 31.1824693195,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KAF5IPKP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41675479355757,
+          31.182469319488092
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRZR2XDI",
+        "name": "微青春青年酒店(上海胸科医院虹桥路地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "凯旋路1669号6层(虹桥路地铁站6号口步行160米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.421899,
+        "gcj_lat": 31.194915,
+        "wgs84_lon": 121.417261076,
+        "wgs84_lat": 31.1967756242,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LRZR2XDI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4172610762689,
+          31.196775624202743
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G3PHT09V",
+        "name": "上海市光华中西医结合医院(延安西路院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "延安西路1508号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.422424,
+        "gcj_lat": 31.208509,
+        "wgs84_lon": 121.417785454,
+        "wgs84_lat": 31.2103634688,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G3PHT09V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41778545413581,
+          31.210363468790792
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156F67V",
+        "name": "华阳街道社区卫生服务中心(金阳小区东北)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "华阳路292号(近长宁路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.423413,
+        "gcj_lat": 31.222044,
+        "wgs84_lon": 121.418774372,
+        "wgs84_lat": 31.223892943,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00156F67V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41877437193494,
+          31.223892943033402
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0015129A6",
+        "name": "上海市白玉社区卫生服务",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "曹杨路421号尚诚国际苑东门旁(近宁夏路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.419614,
+        "gcj_lat": 31.236043,
+        "wgs84_lon": 121.414970226,
+        "wgs84_lat": 31.2378822001,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0015129A6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41497022568235,
+          31.237882200139172
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00151C931",
+        "name": "石泉街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "管弄路297号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.423818,
+        "gcj_lat": 31.254826,
+        "wgs84_lon": 121.41917698,
+        "wgs84_lat": 31.2566604268,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00151C931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41917698011363,
+          31.256660426765027
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2RMNL9S",
+        "name": "甘泉街道社区卫生服务中心分中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "双山路271号(新村路地铁站2号口步行170米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.423601,
+        "gcj_lat": 31.263659,
+        "wgs84_lon": 121.41895896,
+        "wgs84_lat": 31.2654893791,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J2RMNL9S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.41895896044254,
+          31.265489379053324
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KUS743ES",
+        "name": "MCAA当代艺术学院",
+        "type": "学校",
+        "typecode": 60000,
+        "address": "文定路218号画家街C108-113",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.4308,
+        "gcj_lat": 31.186115,
+        "wgs84_lon": 121.426174304,
+        "wgs84_lat": 31.1879895339,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0KUS743ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42617430391168,
+          31.187989533932793
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI2OFEX",
+        "name": "索菲拉艺术学校徐汇校区",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "南丹路191号诚品商务楼四楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.431833,
+        "gcj_lat": 31.189919,
+        "wgs84_lon": 121.42720857,
+        "wgs84_lat": 31.1917929709,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI2OFEX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42720857009591,
+          31.19179297087808
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJPVBCT",
+        "name": "中国人民解放军海军特色医学中心",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "淮海西路338号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.427922,
+        "gcj_lat": 31.200425,
+        "wgs84_lon": 121.423290902,
+        "wgs84_lat": 31.2022889981,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJPVBCT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42329090168451,
+          31.202288998127134
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKY53TB1",
+        "name": "和光青年酒店(上海光大会展中心漕宝路地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "康健路2号4层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.433421,
+        "gcj_lat": 31.165416,
+        "wgs84_lon": 121.428801257,
+        "wgs84_lat": 31.1673045104,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LKY53TB1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42880125676643,
+          31.16730451037703
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00154DU1M",
+        "name": "上海仁爱医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "漕溪路111号,127号1层102-112室、2层、3层,129号,135号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.436051,
+        "gcj_lat": 31.175859,
+        "wgs84_lon": 121.43143487,
+        "wgs84_lat": 31.1777459435,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00154DU1M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43143486986295,
+          31.177745943542465
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10026004",
+        "name": "上海体育馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;4号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.437423,
+        "gcj_lat": 31.182813,
+        "wgs84_lon": 121.432808761,
+        "wgs84_lat": 31.1846985163,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10026004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43280876083941,
+          31.184698516252595
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10025307",
+        "name": "交通大学(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线;11号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.435253,
+        "gcj_lat": 31.202213,
+        "wgs84_lon": 121.430633175,
+        "wgs84_lat": 31.2040856615,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10025307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43063317501414,
+          31.204085661462845
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00154DQPK",
+        "name": "复旦大学附属华山医院(江苏路分部)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "江苏路796号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.433136,
+        "gcj_lat": 31.212084,
+        "wgs84_lon": 121.428511736,
+        "wgs84_lat": 31.2139489086,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00154DQPK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42851173628486,
+          31.21394890864472
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGX9CYO",
+        "name": "登巴客栈(上海旗舰店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "延安西路576号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.435379,
+        "gcj_lat": 31.216636,
+        "wgs84_lon": 121.430758143,
+        "wgs84_lat": 31.2185019143,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGX9CYO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43075814262248,
+          31.218501914320843
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039938",
+        "name": "龙漕路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)23号线;12号线;3号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.444383,
+        "gcj_lat": 31.169458,
+        "wgs84_lon": 121.439783969,
+        "wgs84_lat": 31.1713620438,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43978396946422,
+          31.17136204383787
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024941",
+        "name": "上海游泳馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.441424,
+        "gcj_lat": 31.179123,
+        "wgs84_lon": 121.436817877,
+        "wgs84_lat": 31.1810168936,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43681787747798,
+          31.18101689361863
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LDDDCVRI",
+        "name": "登巴客栈(上海体育馆天钥桥路店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "天钥桥路458号2楼(上海体育场地铁站3号口步行300米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.442248,
+        "gcj_lat": 31.187107,
+        "wgs84_lon": 121.437642887,
+        "wgs84_lat": 31.1889983078,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LDDDCVRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43764288660954,
+          31.188998307846116
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039973",
+        "name": "上海图书馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.444363,
+        "gcj_lat": 31.20796,
+        "wgs84_lon": 121.439760591,
+        "wgs84_lat": 31.2098448534,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43976059136132,
+          31.209844853404924
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFL3682",
+        "name": "复旦大学附属华东医院(总院)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "延安西路221号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "静安区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.441656,
+        "gcj_lat": 31.218317,
+        "wgs84_lon": 121.437046955,
+        "wgs84_lat": 31.2201921107,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFL3682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43704695519143,
+          31.220192110746876
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156NM0G",
+        "name": "龙华街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "龙华西路249-251号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.447255,
+        "gcj_lat": 31.173277,
+        "wgs84_lon": 121.442662095,
+        "wgs84_lat": 31.175184495,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00156NM0G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44266209495336,
+          31.175184494998938
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155BWFZ",
+        "name": "枫林街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "双峰路450号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.449105,
+        "gcj_lat": 31.18009,
+        "wgs84_lon": 121.44451586,
+        "wgs84_lat": 31.1819976848,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155BWFZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4445158595622,
+          31.18199768479935
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH99G9W",
+        "name": "上海市规划和自然资源局干部学校",
+        "type": "学校",
+        "typecode": 141205,
+        "address": "南丹东路25号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.445803,
+        "gcj_lat": 31.191945,
+        "wgs84_lon": 121.441205169,
+        "wgs84_lat": 31.1938403455,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH99G9W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44120516857348,
+          31.193840345487867
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039861",
+        "name": "肇嘉浜路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线;9号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.450212,
+        "gcj_lat": 31.199436,
+        "wgs84_lon": 121.445623863,
+        "wgs84_lat": 31.2013363144,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44562386329898,
+          31.201336314416558
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFW36IR",
+        "name": "上海雅诗阁衡山服务公寓",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "衡山路99号(近乌鲁木齐南路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.44787,
+        "gcj_lat": 31.205208,
+        "wgs84_lon": 121.443275763,
+        "wgs84_lat": 31.2071008189,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFW36IR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44327576263962,
+          31.207100818947968
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039862",
+        "name": "常熟路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;7号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.449141,
+        "gcj_lat": 31.213524,
+        "wgs84_lon": 121.444549053,
+        "wgs84_lat": 31.2154153407,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44454905303306,
+          31.215415340697778
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024943",
+        "name": "龙华(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线;12号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.452958,
+        "gcj_lat": 31.172672,
+        "wgs84_lon": 121.448379041,
+        "wgs84_lat": 31.1745914337,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44837904107725,
+          31.174591433737806
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039859",
+        "name": "龙华中路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "12号线;7号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.457064,
+        "gcj_lat": 31.184379,
+        "wgs84_lon": 121.452494869,
+        "wgs84_lat": 31.1863015882,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45249486885471,
+          31.186301588213265
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039860",
+        "name": "东安路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线;7号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.454897,
+        "gcj_lat": 31.190819,
+        "wgs84_lon": 121.450321509,
+        "wgs84_lat": 31.1927335188,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45032150870567,
+          31.19273351882816
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001556X1H",
+        "name": "复旦大学附属中山医院(西院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "枫林路180号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.453999,
+        "gcj_lat": 31.197422,
+        "wgs84_lon": 121.449420587,
+        "wgs84_lat": 31.1993312936,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001556X1H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44942058744941,
+          31.199331293634284
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHJOOPL",
+        "name": "上海建业里嘉佩乐酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "建国西路480号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.451864,
+        "gcj_lat": 31.20326,
+        "wgs84_lon": 121.447279625,
+        "wgs84_lat": 31.2051618756,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHJOOPL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44727962512144,
+          31.205161875565707
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAFOBJFH",
+        "name": "上海敦复医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "冠霖大楼西北门旁",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.461239,
+        "gcj_lat": 31.18899,
+        "wgs84_lon": 121.456681157,
+        "wgs84_lat": 31.1909200679,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0IAFOBJFH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45668115683975,
+          31.190920067887095
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039940",
+        "name": "大木桥路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "12号线;4号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.463278,
+        "gcj_lat": 31.194057,
+        "wgs84_lon": 121.458725656,
+        "wgs84_lat": 31.1959895255,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45872565586139,
+          31.195989525466587
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155IKLQ",
+        "name": "上海大学延长校区",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "延长路149号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "静安区",
+        "query_category": "学校",
+        "city": "北京城区",
+        "district": "静安区",
+        "gcj_lon": 121.45765,
+        "gcj_lat": 31.275858,
+        "wgs84_lon": 121.453074565,
+        "wgs84_lat": 31.2777397146,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155IKLQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45307456531998,
+          31.27773971463352
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JD1OE5CA",
+        "name": "上海聚住民宿(打浦桥斜土路店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "斜土路1118号2层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.466245,
+        "gcj_lat": 31.200186,
+        "wgs84_lon": 121.461701016,
+        "wgs84_lat": 31.2021229547,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JD1OE5CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46170101641086,
+          31.202122954748514
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024678",
+        "name": "人民广场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;2号线;8号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "黄浦区",
+        "query_category": "地铁站",
+        "city": "北京城区",
+        "district": "黄浦区",
+        "gcj_lon": 121.475108,
+        "gcj_lat": 31.232687,
+        "wgs84_lon": 121.470589358,
+        "wgs84_lat": 31.2346320643,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47058935781382,
+          31.234632064300822
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001558FY4",
+        "name": "上海馨家宾馆(天津路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "南京东路558号南京路步行街",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "黄浦区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.479336,
+        "gcj_lat": 31.236986,
+        "wgs84_lon": 121.474831124,
+        "wgs84_lat": 31.2389409057,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001558FY4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47483112359022,
+          31.238940905695582
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L6D614G1",
+        "name": "上海固生堂菁北中医门诊部",
+        "type": "医院",
+        "typecode": 70000,
+        "address": "山西北路与七浦路交叉口南100米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "静安区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.479921,
+        "gcj_lat": 31.244546,
+        "wgs84_lon": 121.475417462,
+        "wgs84_lat": 31.2464991435,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L6D614G1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47541746175669,
+          31.246499143468323
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024871",
+        "name": "虹口足球场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线;8号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.479154,
+        "gcj_lat": 31.271392,
+        "wgs84_lon": 121.474645555,
+        "wgs84_lat": 31.2733312637,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47464555486245,
+          31.27333126374637
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I0OC827P",
+        "name": "上海曜影医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "江西中路350号(南京东路地铁站6号口步行190米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "黄浦区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.486121,
+        "gcj_lat": 31.239373,
+        "wgs84_lon": 121.481639344,
+        "wgs84_lat": 31.241346377,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I0OC827P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48163934412122,
+          31.241346376965698
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039974",
+        "name": "四川北路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.484208,
+        "gcj_lat": 31.252035,
+        "wgs84_lon": 121.479718576,
+        "wgs84_lat": 31.2539971272,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47971857608128,
+          31.253997127226132
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LAM54EMV",
+        "name": "豫住民宿(四川北路店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "川北路街道四川北路1885号民达大厦上海多伦多1106室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.483564,
+        "gcj_lat": 31.261788,
+        "wgs84_lon": 121.479071503,
+        "wgs84_lat": 31.2637439965,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LAM54EMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47907150315768,
+          31.26374399645517
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KBTT",
+        "name": "上海市第一人民医院北部",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "武进路85/86号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.489433,
+        "gcj_lat": 31.253401,
+        "wgs84_lon": 121.484961839,
+        "wgs84_lat": 31.2553778565,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155KBTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48496183884588,
+          31.255377856511295
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0015231F9",
+        "name": "嘉兴路街道社区卫生服务中心胡家木桥路分中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "胡家木桥路41号(海伦路地铁站1号口步行360米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.493334,
+        "gcj_lat": 31.2588,
+        "wgs84_lon": 121.488876308,
+        "wgs84_lat": 31.2607861014,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0015231F9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48887630802432,
+          31.26078610141413
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039912",
+        "name": "曲阳路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.491138,
+        "gcj_lat": 31.276524,
+        "wgs84_lon": 121.486670934,
+        "wgs84_lat": 31.2784959936,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48667093444169,
+          31.278495993580496
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039932",
+        "name": "国际客运中心(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "12号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.498158,
+        "gcj_lat": 31.25016,
+        "wgs84_lon": 121.493718421,
+        "wgs84_lat": 31.2521643664,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49371842135344,
+          31.252164366390595
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156YN9N",
+        "name": "全家便利店(天宝路二店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "天宝路554、556号101室(近和平公园3号门)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.499076,
+        "gcj_lat": 31.268562,
+        "wgs84_lon": 121.494638173,
+        "wgs84_lat": 31.2705611267,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B00156YN9N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49463817279882,
+          31.27056112665057
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10029743",
+        "name": "陆家嘴(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "14号线;2号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.502129,
+        "gcj_lat": 31.238259,
+        "wgs84_lon": 121.49770479,
+        "wgs84_lat": 31.2402806545,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10029743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4977047900488,
+          31.24028065448234
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155I6XI",
+        "name": "上海半月里国际青年旅社(陆家嘴浦东南路地铁站店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "东昌路498弄内东园二村210号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.511302,
+        "gcj_lat": 31.231627,
+        "wgs84_lon": 121.50691135,
+        "wgs84_lat": 31.2336790804,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00155I6XI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50691134958062,
+          31.23367908041861
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039949",
+        "name": "浦东南路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)19号线;14号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.512412,
+        "gcj_lat": 31.238532,
+        "wgs84_lon": 121.508024717,
+        "wgs84_lat": 31.240584192,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508024717017,
+          31.240584191996586
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H04Z8YBP",
+        "name": "北外滩来福士广场地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "东大名路999号北外滩来福士,东塔",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.508252,
+        "gcj_lat": 31.253227,
+        "wgs84_lon": 121.503848604,
+        "wgs84_lat": 31.2552602883,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H04Z8YBP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50384860443864,
+          31.25526028831092
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039831",
+        "name": "临沂新村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.516695,
+        "gcj_lat": 31.193202,
+        "wgs84_lon": 121.512326648,
+        "wgs84_lat": 31.195288221,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51232664814698,
+          31.19528822100013
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JBT1AXVD",
+        "name": "益友居公寓(临沂路店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "临沂路8弄42号楼2楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.516782,
+        "gcj_lat": 31.200784,
+        "wgs84_lon": 121.512413313,
+        "wgs84_lat": 31.2028667493,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JBT1AXVD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51241331348987,
+          31.202866749270534
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156DYZI",
+        "name": "7天连锁酒店(上海陆家嘴世茂滨江花园店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "浦明路999号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.514698,
+        "gcj_lat": 31.216221,
+        "wgs84_lon": 121.510320695,
+        "wgs84_lat": 31.218290264,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00156DYZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51032069453538,
+          31.218290263971273
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039950",
+        "name": "浦东大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "14号线;4号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.519302,
+        "gcj_lat": 31.240308,
+        "wgs84_lon": 121.514938743,
+        "wgs84_lat": 31.2423793782,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51493874342219,
+          31.242379378183365
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156E0MG",
+        "name": "南泉大酒店",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "北张家浜路151号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.525241,
+        "gcj_lat": 31.217344,
+        "wgs84_lon": 121.520899865,
+        "wgs84_lat": 31.2194426656,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00156E0MG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52089986459676,
+          31.219442665552847
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJIVX2B",
+        "name": "固生堂峨山中医门诊部",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "峨山路91弄-58号伟泰大厦一楼01A-01B室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.532311,
+        "gcj_lat": 31.216111,
+        "wgs84_lon": 121.527992944,
+        "wgs84_lat": 31.2182291155,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJIVX2B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52799294425976,
+          31.2182291155461
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039835",
+        "name": "世纪大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;4号线;6号线;9号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.527213,
+        "gcj_lat": 31.228682,
+        "wgs84_lon": 121.522877448,
+        "wgs84_lat": 31.230780725,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52287744778282,
+          31.230780725008003
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZKIZL",
+        "name": "大隐国际青年旅舍(上海陆家嘴滨江道店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "陆家嘴街道浦东大道834弄-840号甲",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.527291,
+        "gcj_lat": 31.239356,
+        "wgs84_lon": 121.522954808,
+        "wgs84_lat": 31.2414500378,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFZKIZL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52295480772972,
+          31.241450037774676
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HK5DJ96E",
+        "name": "肯德基(平凉路地铁站餐厅)",
+        "type": "餐饮",
+        "typecode": 50300,
+        "address": "江浦路538号1层1-2",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "餐厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.526273,
+        "gcj_lat": 31.260245,
+        "wgs84_lon": 121.52193169,
+        "wgs84_lat": 31.2623269996,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0HK5DJ96E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52193169004039,
+          31.262326999583284
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAT5QHYP",
+        "name": "大桥社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "黄兴路300号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.529695,
+        "gcj_lat": 31.274729,
+        "wgs84_lon": 121.525363672,
+        "wgs84_lat": 31.276814015,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0IAT5QHYP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52536367194361,
+          31.276814014960912
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156TKD2",
+        "name": "东城社区卫生服务站(东绣路)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "东绣路1011号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.537176,
+        "gcj_lat": 31.200532,
+        "wgs84_lon": 121.532874247,
+        "wgs84_lat": 31.2026698783,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00156TKD2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53287424672935,
+          31.202669878275373
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KD2O1QX1",
+        "name": "上海丽合元中医门诊部",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "东建路203、205、209、213、217、221、225、227号二层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.533215,
+        "gcj_lat": 31.202202,
+        "wgs84_lon": 121.52890095,
+        "wgs84_lat": 31.2043291304,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0KD2O1QX1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52890094997973,
+          31.204329130425226
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LB377WT8",
+        "name": "登巴客栈(上海新国际博览中心世纪公园地铁站店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "浦建路1143号3楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.54119,
+        "gcj_lat": 31.207326,
+        "wgs84_lon": 121.536899482,
+        "wgs84_lat": 31.2094701889,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LB377WT8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53689948208545,
+          31.20947018886908
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155I5S6",
+        "name": "上海美和假日旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "商城路1986号商城商务楼3层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.538946,
+        "gcj_lat": 31.23816,
+        "wgs84_lon": 121.534646373,
+        "wgs84_lat": 31.2402844156,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00155I5S6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53464637282241,
+          31.24028441558188
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039952",
+        "name": "昌邑路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "14号线;18号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.540104,
+        "gcj_lat": 31.24394,
+        "wgs84_lon": 121.535807283,
+        "wgs84_lat": 31.2460645611,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53580728277961,
+          31.246064561148117
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156EP3A",
+        "name": "上海紫都宾馆(龙阳路地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "浦建路1569号(距龙阳路50米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.546753,
+        "gcj_lat": 31.200831,
+        "wgs84_lon": 121.542478434,
+        "wgs84_lat": 31.2029908187,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00156EP3A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54247843396355,
+          31.202990818733127
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK3JO83",
+        "name": "花木社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "玉兰路96号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.548941,
+        "gcj_lat": 31.204663,
+        "wgs84_lon": 121.544671852,
+        "wgs84_lat": 31.206825577,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK3JO83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54467185181277,
+          31.206825577013248
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00150DF0D",
+        "name": "上海市建平世纪中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "玉兰路356号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.546316,
+        "gcj_lat": 31.209501,
+        "wgs84_lon": 121.542039543,
+        "wgs84_lat": 31.2116556766,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00150DF0D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54203954310653,
+          31.211655676629768
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2V5WPFU",
+        "name": "Manner Coffee(上海世纪公园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "世纪公园1号门内镜天湖对面",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.547716,
+        "gcj_lat": 31.216127,
+        "wgs84_lon": 121.543442708,
+        "wgs84_lat": 31.2182815085,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0H2V5WPFU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54344270801755,
+          31.21828150849503
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KAN91R5E",
+        "name": "际庭青年旅舍(隆昌路地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "杨树浦路2294号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.548266,
+        "gcj_lat": 31.264994,
+        "wgs84_lon": 121.543990072,
+        "wgs84_lat": 31.2671275502,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KAN91R5E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543990072205,
+          31.267127550171498
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KV5N",
+        "name": "上海市杨浦区中心医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "腾越路450号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.550158,
+        "gcj_lat": 31.271791,
+        "wgs84_lon": 121.545886366,
+        "wgs84_lat": 31.2739255611,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155KV5N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54588636576902,
+          31.2739255611367
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155QH7D",
+        "name": "上海市进才中学北校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "苗圃路555号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.552152,
+        "gcj_lat": 31.23394,
+        "wgs84_lon": 121.547888484,
+        "wgs84_lat": 31.23609523,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155QH7D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54788848381921,
+          31.236095229968157
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039838",
+        "name": "北洋泾路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.552314,
+        "gcj_lat": 31.239145,
+        "wgs84_lon": 121.548050446,
+        "wgs84_lat": 31.24129817,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54805044620991,
+          31.241298169988717
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10031172",
+        "name": "歇浦路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "14号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.551506,
+        "gcj_lat": 31.250728,
+        "wgs84_lon": 121.547239496,
+        "wgs84_lat": 31.2528743836,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10031172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54723949573128,
+          31.252874383561814
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155DH0L",
+        "name": "上海新新招待所",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "武夷路303号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "长宁区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.424954,
+        "gcj_lat": 31.213412,
+        "wgs84_lon": 121.420317934,
+        "wgs84_lat": 31.2152665344,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00155DH0L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4203179338481,
+          31.215266534354477
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHUK0HG",
+        "name": "上海东尚青年旅舍",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "宜山路515弄一号楼9层(宜山路地铁站9号口步行460米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.425767,
+        "gcj_lat": 31.18052,
+        "wgs84_lon": 121.421134799,
+        "wgs84_lat": 31.182391516,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHUK0HG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42111055550183,
+          31.182410190233206
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J6LBQPE3",
+        "name": "登巴国际连锁客栈(中山医院店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "肇嘉浜路359号1幢兵工大厦5楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.459837,
+        "gcj_lat": 31.202157,
+        "wgs84_lon": 121.455274026,
+        "wgs84_lat": 31.2040772432,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J6LBQPE3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45527402556252,
+          31.20407724321558
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIVCEXH",
+        "name": "固生堂上海真安堂中医门诊部",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "龙漕路23、29、31、33号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.436388,
+        "gcj_lat": 31.168796,
+        "wgs84_lon": 121.431773086,
+        "wgs84_lat": 31.1706870522,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIVCEXH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4317730862831,
+          31.17068705216267
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00154DH2Z",
+        "name": "上海市针灸经络研究所(爱中爱华公寓西)",
+        "type": "医院",
+        "typecode": 141300,
+        "address": "宛平南路650号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.448963,
+        "gcj_lat": 31.186415,
+        "wgs84_lon": 121.444372973,
+        "wgs84_lat": 31.1883192258,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00154DH2Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.44437297305866,
+          31.18831922581122
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ5HX6F",
+        "name": "上海艺考星艺术培训学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "中山西路2368-1号华鼎大厦2001室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.43201,
+        "gcj_lat": 31.180531,
+        "wgs84_lon": 121.427386664,
+        "wgs84_lat": 31.1824099013,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJ5HX6F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4273866642488,
+          31.182409901324476
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155G8EL",
+        "name": "东亚银行(徐家汇支行)",
+        "type": "银行",
+        "typecode": 160123,
+        "address": "南丹东路396号(徐家汇地铁站2号口步行70米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "银行",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.437581,
+        "gcj_lat": 31.188792,
+        "wgs84_lon": 121.432966535,
+        "wgs84_lat": 31.1906747721,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00155G8EL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43296653544262,
+          31.19067477212258
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JK5CDRPC",
+        "name": "汇丰银行(上海徐家汇中心支行)",
+        "type": "银行",
+        "typecode": 160126,
+        "address": "虹桥路183号徐家汇中心三期A座办公楼31层(实际楼层30层)3101-12、18-20室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "徐汇区",
+        "query_category": "银行",
+        "city": "上海",
+        "district": "徐汇区",
+        "gcj_lon": 121.434993,
+        "gcj_lat": 31.19347,
+        "wgs84_lon": 121.430373482,
+        "wgs84_lat": 31.1953465704,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0JK5CDRPC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.43037348213474,
+          31.195346570431198
+        ]
+      }
+    },
+    {
+      "id": "117",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKRU1Q9H",
+        "name": "上海真如环宇城MAX地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "铜川路699弄1号上海真如环宇城MAX",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.409973,
+        "gcj_lat": 31.250915,
+        "wgs84_lon": 121.405321419,
+        "wgs84_lat": 31.2527421583,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JKRU1Q9H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.40532141940822,
+          31.252742158300723
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KAZUIWKH",
+        "name": "信泰中心停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "大渡河路1438号(梅岭北路地铁站4号口步行130米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "停车场",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.395289,
+        "gcj_lat": 31.24219,
+        "wgs84_lon": 121.39063771,
+        "wgs84_lat": 31.2440208735,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0KAZUIWKH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39063770954529,
+          31.244020873505505
+        ]
+      }
+    },
+    {
+      "id": "119",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH8N158",
+        "name": "真如镇街道社区学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "兰溪路968号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.400809,
+        "gcj_lat": 31.256095,
+        "wgs84_lon": 121.39615536,
+        "wgs84_lat": 31.2579186545,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH8N158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.39615536005611,
+          31.257918654457686
+        ]
+      }
+    },
+    {
+      "id": "120",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155R1DT",
+        "name": "上海市曹杨第二中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "梅川路160号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.401103,
+        "gcj_lat": 31.240517,
+        "wgs84_lon": 121.396450702,
+        "wgs84_lat": 31.2423475734,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155R1DT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3964507024697,
+          31.24234757338912
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155GONJ",
+        "name": "雅兰宾馆(上海平凉路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "平凉路1850-1号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.544101,
+        "gcj_lat": 31.268796,
+        "wgs84_lon": 121.539813557,
+        "wgs84_lat": 31.2709188897,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00155GONJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53981355708471,
+          31.270918889704937
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00154DL9P",
+        "name": "杨建华大酒店(上海沪南店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "沪南路355号(近地铁七号线芳华路站)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.550106,
+        "gcj_lat": 31.194163,
+        "wgs84_lon": 121.545840702,
+        "wgs84_lat": 31.1963331048,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00154DL9P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54584070204217,
+          31.1963331047596
+        ]
+      }
+    },
+    {
+      "id": "123",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIAPPV9",
+        "name": "浦明师范学校附属小学(锦绣校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "银融路87号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.535859,
+        "gcj_lat": 31.208471,
+        "wgs84_lon": 121.531552595,
+        "wgs84_lat": 31.2106017739,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFIAPPV9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53155259456452,
+          31.21060177387276
+        ]
+      }
+    },
+    {
+      "id": "124",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039883",
+        "name": "商城路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)19号线;9号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.516275,
+        "gcj_lat": 31.230258,
+        "wgs84_lon": 121.511902054,
+        "wgs84_lat": 31.2323252718,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51190205358216,
+          31.23232527184109
+        ]
+      }
+    },
+    {
+      "id": "125",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024783",
+        "name": "邮电新村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.494247,
+        "gcj_lat": 31.268431,
+        "wgs84_lon": 121.489791765,
+        "wgs84_lat": 31.2704156859,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4897917654782,
+          31.27041568592332
+        ]
+      }
+    },
+    {
+      "id": "126",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMH8IBB",
+        "name": "贝壳酒店(上海陆家嘴世纪大道地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "商城路1118号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.52693,
+        "gcj_lat": 31.234141,
+        "wgs84_lon": 121.522593057,
+        "wgs84_lat": 31.2362364406,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFMH8IBB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52259305684952,
+          31.2362364405662
+        ]
+      }
+    },
+    {
+      "id": "127",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LDGA5L5R",
+        "name": "纬度拾光屋",
+        "type": "其他",
+        "typecode": 100200,
+        "address": "庄河路148号1层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.519016,
+        "gcj_lat": 31.26653,
+        "wgs84_lon": 121.514649542,
+        "wgs84_lat": 31.2685890104,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LDGA5L5R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51464954228489,
+          31.268589010390745
+        ]
+      }
+    },
+    {
+      "id": "128",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JAG78M9E",
+        "name": "上海新泰中西医结合医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "双辽路165号(江浦路地铁站6号口步行220米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.518193,
+        "gcj_lat": 31.270634,
+        "wgs84_lon": 121.513823341,
+        "wgs84_lat": 31.2726889063,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JAG78M9E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51382334058596,
+          31.272688906295254
+        ]
+      }
+    },
+    {
+      "id": "129",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039911",
+        "name": "江浦路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "18号线;8号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.518379,
+        "gcj_lat": 31.274946,
+        "wgs84_lon": 121.514009623,
+        "wgs84_lat": 31.2769996229,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5140096227992,
+          31.276999622931307
+        ]
+      }
+    },
+    {
+      "id": "130",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155MN2H",
+        "name": "上海市新大桥中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "眉州支路77号(宁国路地铁站1号口步行190米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.53121,
+        "gcj_lat": 31.26992,
+        "wgs84_lon": 121.526883938,
+        "wgs84_lat": 31.2720110286,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155MN2H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52688393786592,
+          31.27201102861061
+        ]
+      }
+    },
+    {
+      "id": "131",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00154DJQR",
+        "name": "上海市浦东新区公利医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "苗圃路219号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.546819,
+        "gcj_lat": 31.241738,
+        "wgs84_lon": 121.542541199,
+        "wgs84_lat": 31.243878725,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00154DJQR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54254119934843,
+          31.24387872501281
+        ]
+      }
+    },
+    {
+      "id": "132",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156E30X",
+        "name": "驿亭四季酒店",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "东方路1486号(蓝村路口)(蓝村路地铁站3号口旁)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "酒店",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.527184,
+        "gcj_lat": 31.211407,
+        "wgs84_lon": 121.522849803,
+        "wgs84_lat": 31.2135137909,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00156E30X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52284980284868,
+          31.213513790885546
+        ]
+      }
+    },
+    {
+      "id": "133",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001537709",
+        "name": "霍兰托儿所",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "长阳路1220弄6号(江浦公园地铁站1号口步行360米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.527118,
+        "gcj_lat": 31.265334,
+        "wgs84_lon": 121.522779054,
+        "wgs84_lat": 31.267416099,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001537709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5227790543647,
+          31.26741609900075
+        ]
+      }
+    },
+    {
+      "id": "134",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KF2C",
+        "name": "上海市辽阳中学西校区",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "眉州路515弄100号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.5311,
+        "gcj_lat": 31.262892,
+        "wgs84_lon": 121.526774177,
+        "wgs84_lat": 31.2649857479,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155KF2C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52677417717969,
+          31.26498574788436
+        ]
+      }
+    },
+    {
+      "id": "135",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024557",
+        "name": "控江路打虎山路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "103路;14路;220路;308路;6路;70路;713路;春运8线(原308路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.509148,
+        "gcj_lat": 31.27257,
+        "wgs84_lon": 121.504746181,
+        "wgs84_lat": 31.2745976131,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50474618062809,
+          31.27459761306996
+        ]
+      }
+    },
+    {
+      "id": "136",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10025639",
+        "name": "江浦路长阳路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "310路;70路;843路;春运9线(原310路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.523034,
+        "gcj_lat": 31.265343,
+        "wgs84_lon": 121.518681406,
+        "wgs84_lat": 31.2674138681,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10025639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51868140627168,
+          31.26741386814818
+        ]
+      }
+    },
+    {
+      "id": "137",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10025635",
+        "name": "兰州路杨树浦路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "310路;70路;春运9线(原310路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.53404,
+        "gcj_lat": 31.256382,
+        "wgs84_lon": 121.529723983,
+        "wgs84_lat": 31.2584861545,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10025635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52972398283768,
+          31.25848615451041
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10025184",
+        "name": "和平公园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "103路;14路;70路;746路;79路;853路;962路;975路",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.504106,
+        "gcj_lat": 31.272635,
+        "wgs84_lon": 121.499686016,
+        "wgs84_lat": 31.274647519,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10025184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49968601647518,
+          31.274647519022636
+        ]
+      }
+    },
+    {
+      "id": "139",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039928",
+        "name": "隆昌路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "12号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.544692,
+        "gcj_lat": 31.275213,
+        "wgs84_lon": 121.54040565,
+        "wgs84_lat": 31.2773344981,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54040565008067,
+          31.277334498133087
+        ]
+      }
+    },
+    {
+      "id": "140",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I2T5T8SA",
+        "name": "中国建设银行(上海长阳路支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "长阳路666号(大连路地铁站2号口步行460米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "银行",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.516775,
+        "gcj_lat": 31.260725,
+        "wgs84_lon": 121.512401232,
+        "wgs84_lat": 31.2627800675,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0I2T5T8SA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5124012323179,
+          31.26278006752753
+        ]
+      }
+    },
+    {
+      "id": "141",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKQW3FK",
+        "name": "杨浦区季进便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "打虎山路1弄1-5号打虎山路1弄小区",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.511023,
+        "gcj_lat": 31.268702,
+        "wgs84_lon": 121.506628217,
+        "wgs84_lat": 31.2707368107,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFKQW3FK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5066282168376,
+          31.270736810655475
+        ]
+      }
+    },
+    {
+      "id": "142",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K37BPJGG",
+        "name": "苏咏顺汤包馆(齐齐哈尔路店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "杨浦区齐齐哈尔路400号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "餐厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.529899,
+        "gcj_lat": 31.258923,
+        "wgs84_lon": 121.525569658,
+        "wgs84_lat": 31.2610153099,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0K37BPJGG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52556965824931,
+          31.261015309926908
+        ]
+      }
+    },
+    {
+      "id": "143",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KBWG",
+        "name": "快客便利店(新港店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "新港路26号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.50439,
+        "gcj_lat": 31.268563,
+        "wgs84_lon": 121.499971388,
+        "wgs84_lat": 31.2705780958,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B00155KBWG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4999713883236,
+          31.270578095816987
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155MT4C",
+        "name": "易捷便利店(唐山路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "周家嘴路1500号中国石化唐山加油站",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.512107,
+        "gcj_lat": 31.263505,
+        "wgs84_lon": 121.50771652,
+        "wgs84_lat": 31.2655452352,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B00155MT4C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5077165200138,
+          31.265545235186217
+        ]
+      }
+    },
+    {
+      "id": "145",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMHS08C",
+        "name": "Tims咖啡(渔人码头店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "杨树浦路1088号A楼1层102-1室102-2室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.531216,
+        "gcj_lat": 31.252523,
+        "wgs84_lon": 121.526891418,
+        "wgs84_lat": 31.2546215762,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFMHS08C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268914176464,
+          31.254621576170774
+        ]
+      }
+    },
+    {
+      "id": "146",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2PZ2EI2",
+        "name": "小无锡面馆(明园村小区店)",
+        "type": "餐饮",
+        "typecode": 50000,
+        "address": "明园村小区西南门东南70米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "餐厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.522039,
+        "gcj_lat": 31.261596,
+        "wgs84_lon": 121.517683343,
+        "wgs84_lat": 31.2636656977,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J2PZ2EI2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51768334252861,
+          31.263665697732407
+        ]
+      }
+    },
+    {
+      "id": "147",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10029774",
+        "name": "平凉路通北路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "155路;25路;317路;330路;37路;842路;853路;868路;春运1线(原申川专线);申川专线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.521305,
+        "gcj_lat": 31.255161,
+        "wgs84_lon": 121.516947379,
+        "wgs84_lat": 31.2572314364,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10029774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51694737934992,
+          31.257231436369068
+        ]
+      }
+    },
+    {
+      "id": "148",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2AP0KEM",
+        "name": "全家便利店(大连路八店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "海上海·弘基休闲广场东南门旁",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.507924,
+        "gcj_lat": 31.265095,
+        "wgs84_lon": 121.50351842,
+        "wgs84_lat": 31.2671221488,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2AP0KEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5035381036641,
+          31.267085067116163
+        ]
+      }
+    },
+    {
+      "id": "149",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024881",
+        "name": "杨树浦路许昌路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "135路;28路;853路;DZ118线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.524323,
+        "gcj_lat": 31.252534,
+        "wgs84_lon": 121.519975832,
+        "wgs84_lat": 31.254614022,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51997583209105,
+          31.254614022046283
+        ]
+      }
+    },
+    {
+      "id": "150",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGAHGBTP",
+        "name": "牛犇犇牛馆",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "怀德路398号(平凉路地铁站3号口步行230米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "餐厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.526243,
+        "gcj_lat": 31.256387,
+        "wgs84_lon": 121.521901915,
+        "wgs84_lat": 31.2584705992,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0JGAHGBTP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52188133475428,
+          31.258443475799336
+        ]
+      }
+    },
+    {
+      "id": "151",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039951",
+        "name": "源深路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "14号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.531016,
+        "gcj_lat": 31.241318,
+        "wgs84_lon": 121.52669172,
+        "wgs84_lat": 31.2434210599,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52669171990178,
+          31.2434210599341
+        ]
+      }
+    },
+    {
+      "id": "152",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10025183",
+        "name": "大连路长阳路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "25路;317路;597路;746路;79路;853路;870路;871路;975路;春运1线(原申川专线);申川专线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.512073,
+        "gcj_lat": 31.259074,
+        "wgs84_lon": 121.507682774,
+        "wgs84_lat": 31.2611160531,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10025183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50768277400962,
+          31.26111605307779
+        ]
+      }
+    },
+    {
+      "id": "153",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09051474",
+        "name": "虹镇老街飞虹路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "1219路;751路",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.501715,
+        "gcj_lat": 31.263797,
+        "wgs84_lon": 121.497287123,
+        "wgs84_lat": 31.2658061019,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09051474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49728712294618,
+          31.265806101912563
+        ]
+      }
+    },
+    {
+      "id": "154",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0ID6S2LAP",
+        "name": "Manner Coffee(杨浦光大安石中心店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "荆州路11号光大安石中心T1座B1层",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.515525,
+        "gcj_lat": 31.256575,
+        "wgs84_lon": 121.511147199,
+        "wgs84_lat": 31.2586282507,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0ID6S2LAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51114719889271,
+          31.258628250661978
+        ]
+      }
+    },
+    {
+      "id": "155",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155MWOE",
+        "name": "上海市浦东新区陆家嘴社区卫生服务中心乳山社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "崂山路332号B13栋(商城路地铁站1号口步行490米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.52098,
+        "gcj_lat": 31.232378,
+        "wgs84_lon": 121.516623186,
+        "wgs84_lat": 31.2344577655,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00155MWOE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51662318622421,
+          31.23445776552469
+        ]
+      }
+    },
+    {
+      "id": "156",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024898",
+        "name": "平凉路大连路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "137路;155路;25路;317路;842路;853路;春运1线(原申川专线);申川专线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.517879,
+        "gcj_lat": 31.253283,
+        "wgs84_lon": 121.513509713,
+        "wgs84_lat": 31.2553445033,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51350971300054,
+          31.25534450327013
+        ]
+      }
+    },
+    {
+      "id": "157",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10030156",
+        "name": "唐山路安国路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "19路;25路;317路",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "公交站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.507371,
+        "gcj_lat": 31.257548,
+        "wgs84_lon": 121.502964071,
+        "wgs84_lat": 31.2595767658,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10030156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50296407118942,
+          31.25957676576847
+        ]
+      }
+    },
+    {
+      "id": "158",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G34DRO4B",
+        "name": "全家便利店(周家嘴路二店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "周家嘴路与舟山路交叉口北100米",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.503426,
+        "gcj_lat": 31.260313,
+        "wgs84_lon": 121.499004606,
+        "wgs84_lat": 31.2623287482,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0G34DRO4B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49898468278744,
+          31.262310356246125
+        ]
+      }
+    },
+    {
+      "id": "159",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KKXA3OPO",
+        "name": "LAWSON罗森(瑞虹新天地星星堂店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "天宝路280弄瑞虹新天地星星堂",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.497328,
+        "gcj_lat": 31.26413,
+        "wgs84_lon": 121.492884234,
+        "wgs84_lat": 31.2661257684,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KKXA3OPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49288423428045,
+          31.266125768391742
+        ]
+      }
+    },
+    {
+      "id": "160",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG3O0HQ",
+        "name": "东昌幼儿园恬园部",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "民生路999弄38号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.550149,
+        "gcj_lat": 31.230396,
+        "wgs84_lon": 121.545880794,
+        "wgs84_lat": 31.232548868,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFG3O0HQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54588079424803,
+          31.232548867952843
+        ]
+      }
+    },
+    {
+      "id": "161",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00153B0E1",
+        "name": "上海长航医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "崂山路523号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.522028,
+        "gcj_lat": 31.227773,
+        "wgs84_lon": 121.517675154,
+        "wgs84_lat": 31.2298578474,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00153B0E1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51767515359472,
+          31.229857847387663
+        ]
+      }
+    },
+    {
+      "id": "162",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039975",
+        "name": "海伦路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)19号线;10号线;4号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.488697,
+        "gcj_lat": 31.259303,
+        "wgs84_lon": 121.484222724,
+        "wgs84_lat": 31.2612750964,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4842227237244,
+          31.261275096449587
+        ]
+      }
+    },
+    {
+      "id": "163",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG2J4LK",
+        "name": "LAWSON罗森(瑞虹坊店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "临平路133号瑞虹坊L1层SL1-3、SL1-4",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "便利店",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.499425,
+        "gcj_lat": 31.26037,
+        "wgs84_lon": 121.494989132,
+        "wgs84_lat": 31.2623736963,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFG2J4LK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49498913188023,
+          31.262373696340696
+        ]
+      }
+    },
+    {
+      "id": "164",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF00EOW",
+        "name": "羽灵幼儿园(羽山部)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "羽山路392号(民生路地铁站6号口步行250米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.543944,
+        "gcj_lat": 31.232161,
+        "wgs84_lon": 121.539659183,
+        "wgs84_lat": 31.2342997783,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF00EOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5396591825005,
+          31.234299778346333
+        ]
+      }
+    },
+    {
+      "id": "165",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155LBGO",
+        "name": "上海市建平中学西校华城校区",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "洋泾街道源深路383号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.53397,
+        "gcj_lat": 31.234941,
+        "wgs84_lon": 121.529655563,
+        "wgs84_lat": 31.2370545819,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155LBGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52965556256599,
+          31.23705458191991
+        ]
+      }
+    },
+    {
+      "id": "166",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK7H0XG3",
+        "name": "星巴克臻选(上海佳纷天地店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "民生路1188号佳兆业金融中心一楼",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.548177,
+        "gcj_lat": 31.226676,
+        "wgs84_lon": 121.543904036,
+        "wgs84_lat": 31.2288265196,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0GK7H0XG3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5439040360788,
+          31.228826519572124
+        ]
+      }
+    },
+    {
+      "id": "167",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10039989",
+        "name": "东宝兴路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.480202,
+        "gcj_lat": 31.259886,
+        "wgs84_lon": 121.475698103,
+        "wgs84_lat": 31.2618331673,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10039989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47569810281523,
+          31.261833167308044
+        ]
+      }
+    },
+    {
+      "id": "168",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJBME1M",
+        "name": "瑞幸咖啡(信息大厦店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "民生路1403号上海信息大厦一层101B室",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.551211,
+        "gcj_lat": 31.224197,
+        "wgs84_lon": 121.546945974,
+        "wgs84_lat": 31.2263548869,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJBME1M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54694597414073,
+          31.226354886934374
+        ]
+      }
+    },
+    {
+      "id": "169",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10031164",
+        "name": "上海科技馆(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.544439,
+        "gcj_lat": 31.21882,
+        "wgs84_lon": 121.540156664,
+        "wgs84_lat": 31.2209661109,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10031164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54015666375881,
+          31.220966110924714
+        ]
+      }
+    },
+    {
+      "id": "170",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155KOE6",
+        "name": "上海浦东新区民办欣竹中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "潍坊路357号(近松林路)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.533408,
+        "gcj_lat": 31.228663,
+        "wgs84_lon": 121.529092337,
+        "wgs84_lat": 31.2307780433,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155KOE6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5290923373092,
+          31.230778043272867
+        ]
+      }
+    },
+    {
+      "id": "171",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6D5AD5T",
+        "name": "上海市浦东新区潍坊社区卫生服务中心东明社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "浦东南路1678号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.518672,
+        "gcj_lat": 31.21873,
+        "wgs84_lon": 121.514308381,
+        "wgs84_lat": 31.2208095668,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H6D5AD5T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51430838123882,
+          31.2208095667719
+        ]
+      }
+    },
+    {
+      "id": "172",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBNGFZ2V",
+        "name": "Manner Coffee(金鹰大厦店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "含笑路80号金鹰大厦(迎春路地铁站4号口步行70米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.550402,
+        "gcj_lat": 31.220252,
+        "wgs84_lon": 121.546135278,
+        "wgs84_lat": 31.2224101159,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KBNGFZ2V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5461352779168,
+          31.222410115873846
+        ]
+      }
+    },
+    {
+      "id": "173",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGSU4KKE",
+        "name": "Hopemill Coffee(红睦房店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "沈阳路166号一层A区",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "杨浦区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "杨浦区",
+        "gcj_lon": 121.535714,
+        "gcj_lat": 31.260421,
+        "wgs84_lon": 121.531402802,
+        "wgs84_lat": 31.2625276077,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0HGSU4KKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53140280210106,
+          31.2625276077295
+        ]
+      }
+    },
+    {
+      "id": "174",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10032793",
+        "name": "世纪公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.550909,
+        "gcj_lat": 31.209421,
+        "wgs84_lon": 121.546644452,
+        "wgs84_lat": 31.2115852924,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10032793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54664445156428,
+          31.211585292357135
+        ]
+      }
+    },
+    {
+      "id": "175",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1ZLNKQV",
+        "name": "Tims天好咖啡(平安财富大厦店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "源深路1088号108,109单元",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.536967,
+        "gcj_lat": 31.225147,
+        "wgs84_lon": 121.532662559,
+        "wgs84_lat": 31.2272726061,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1ZLNKQV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53266255900212,
+          31.22727260606731
+        ]
+      }
+    },
+    {
+      "id": "176",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10426327",
+        "name": "浦电路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "地铁站",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.529351,
+        "gcj_lat": 31.220154,
+        "wgs84_lon": 121.525023143,
+        "wgs84_lat": 31.2222624444,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10426327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52502314254636,
+          31.222262444426207
+        ]
+      }
+    },
+    {
+      "id": "177",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKP410J",
+        "name": "上海四一一医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "上海四一一医院停车场",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "虹口区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "虹口区",
+        "gcj_lon": 121.480704,
+        "gcj_lat": 31.265028,
+        "wgs84_lon": 121.476201375,
+        "wgs84_lat": 31.2669743781,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKP410J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47620137493044,
+          31.266974378113044
+        ]
+      }
+    },
+    {
+      "id": "178",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00151D963",
+        "name": "洋泾中学东校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "东方路900号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.526795,
+        "gcj_lat": 31.223592,
+        "wgs84_lon": 121.522458498,
+        "wgs84_lat": 31.2256919648,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00151D963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5224584975806,
+          31.225691964766717
+        ]
+      }
+    },
+    {
+      "id": "179",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG4BBYW",
+        "name": "塘桥社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "浦建路131号(塘桥地铁站2号口步行260米)",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "医院",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.521792,
+        "gcj_lat": 31.209019,
+        "wgs84_lon": 121.517439927,
+        "wgs84_lat": 31.2111120528,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG4BBYW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51743992743349,
+          31.211112052841933
+        ]
+      }
+    },
+    {
+      "id": "180",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00155GD3E",
+        "name": "建桥好好幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "东绣路73号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.54041,
+        "gcj_lat": 31.215239,
+        "wgs84_lon": 121.536116571,
+        "wgs84_lat": 31.2173775686,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00155GD3E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53611657056447,
+          31.217377568601133
+        ]
+      }
+    },
+    {
+      "id": "181",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2TLPBUO",
+        "name": "M Stand(上海花木时光里店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "花木镇杨高南路99弄1号花木时光里1层L1-108a",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "浦东新区",
+        "query_category": "咖啡厅",
+        "city": "上海",
+        "district": "浦东新区",
+        "gcj_lon": 121.537703,
+        "gcj_lat": 31.218634,
+        "wgs84_lon": 121.533401314,
+        "wgs84_lat": 31.2207644682,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K2TLPBUO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53340131373604,
+          31.220764468181095
+        ]
+      }
+    }
+  ]
+}

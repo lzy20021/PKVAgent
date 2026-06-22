@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK4PUG0",
+        "name": "天津西站南地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "西青道(复兴路地铁站D口步行260米)",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "红桥区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "南开区",
+        "gcj_lon": 117.158907,
+        "gcj_lat": 39.156163,
+        "wgs84_lon": 117.152524746,
+        "wgs84_lat": 39.15503804,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFK4PUG0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15252474572425,
+          39.15503804000913
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001608F4K",
+        "name": "天津市中医药研究院(北马路)",
+        "type": "医院",
+        "typecode": 141300,
+        "address": "北马路354号",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "红桥区",
+        "query_category": "医院",
+        "city": "天津",
+        "district": "南开区",
+        "gcj_lon": 117.176852,
+        "gcj_lat": 39.146844,
+        "wgs84_lon": 117.170504404,
+        "wgs84_lat": 39.1457579589,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001608F4K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17050440416382,
+          39.145757958865595
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J17UFKJG",
+        "name": "汉庭酒店(天津职业技术师范大学店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "外环南路西侧兴客商业中心五号楼2F",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "津南区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "东丽区",
+        "gcj_lon": 117.306225,
+        "gcj_lat": 39.062175,
+        "wgs84_lon": 117.299866456,
+        "wgs84_lat": 39.0611685555,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J17UFKJG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.29986645622475,
+          39.06116855545892
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0016115XZ",
+        "name": "瑞杰酒店(天津滨海国际机场屿东城地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "卫国道太阳城紫玉名邸1-01(屿东城地铁站A口旁)",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河东区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "河东区",
+        "gcj_lon": 117.278977,
+        "gcj_lat": 39.147603,
+        "wgs84_lon": 117.272668218,
+        "wgs84_lat": 39.1465834868,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0016115XZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.27266821776871,
+          39.14658348678039
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH683N4",
+        "name": "招远路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "招远路与栖霞道交叉口西南20米",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "东丽区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "东丽区",
+        "gcj_lon": 117.311054,
+        "gcj_lat": 39.08759,
+        "wgs84_lon": 117.304679494,
+        "wgs84_lat": 39.0865593464,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH683N4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.30467949356479,
+          39.08655934636767
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10040568",
+        "name": "靖江路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;5号线",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河东区",
+        "query_category": "地铁站",
+        "city": "天津",
+        "district": "河东区",
+        "gcj_lon": 117.244216,
+        "gcj_lat": 39.142967,
+        "wgs84_lon": 117.237942593,
+        "wgs84_lat": 39.1419658892,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10040568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.23794259254346,
+          39.14196588919593
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF08X93",
+        "name": "博盛园社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "博盛园东南门旁",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "武清区",
+        "query_category": "医院",
+        "city": "天津",
+        "district": "武清区",
+        "gcj_lon": 117.061129,
+        "gcj_lat": 39.389903,
+        "wgs84_lon": 117.054727845,
+        "wgs84_lat": 39.3886208421,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF08X93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.05472784494836,
+          39.3886208420629
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL524PN",
+        "name": "光明道中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "金都花园(西南门)",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "武清区",
+        "query_category": "学校",
+        "city": "天津",
+        "district": "武清区",
+        "gcj_lon": 117.028563,
+        "gcj_lat": 39.392495,
+        "wgs84_lon": 117.022274122,
+        "wgs84_lat": 39.3912841505,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFL524PN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.02227412184018,
+          39.39128415049856
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H317Z2FG",
+        "name": "泉达医院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "泉达路与北财源道交叉口东北100米",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "武清区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "武清区",
+        "gcj_lon": 117.044576,
+        "gcj_lat": 39.39923,
+        "wgs84_lon": 117.038225229,
+        "wgs84_lat": 39.3979762706,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H317Z2FG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.03837907813379,
+          39.39831373703779
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0R6GE3E",
+        "name": "翠亨花园第一社区卫生服务站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "泉达路翠亨花园北里",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "武清区",
+        "query_category": "医院",
+        "city": "天津",
+        "district": "武清区",
+        "gcj_lon": 117.026671,
+        "gcj_lat": 39.374141,
+        "wgs84_lon": 117.02039223,
+        "wgs84_lat": 39.3729434208,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J0R6GE3E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.02039222975108,
+          39.37294342079456
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JR61RBQ8",
+        "name": "星巴克(辰悦广场店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "天穆镇京津路蓝岸森林花园1/2/3/4/5增1-101-1A-01",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "咖啡厅",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.140836,
+        "gcj_lat": 39.212652,
+        "wgs84_lon": 117.134417314,
+        "wgs84_lat": 39.2114637877,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JR61RBQ8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.13441731398696,
+          39.21146378770729
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KR9UIKMH",
+        "name": "浪wave咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "悦动辰星体育乐园",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "咖啡厅",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.153793,
+        "gcj_lat": 39.235838,
+        "wgs84_lon": 117.147391583,
+        "wgs84_lat": 39.2346578947,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KR9UIKMH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.14739158318427,
+          39.23465789466258
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KD7CVG9O",
+        "name": "万达广场天津东丽店地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "先锋路外环南路万达广场(天津东丽店)",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "东丽区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "东丽区",
+        "gcj_lon": 117.326132,
+        "gcj_lat": 39.080184,
+        "wgs84_lon": 117.319716882,
+        "wgs84_lat": 39.0791296058,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0KD7CVG9O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.31971688186744,
+          39.079129605771435
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGJC4TN",
+        "name": "中国工商银行24小时自助银行(红星国际支行)",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "睿品大厦104号",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河东区",
+        "query_category": "银行",
+        "city": "天津",
+        "district": "河东区",
+        "gcj_lon": 117.252103,
+        "gcj_lat": 39.121094,
+        "wgs84_lon": 117.245829363,
+        "wgs84_lat": 39.1201064838,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFGJC4TN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.24547440921312,
+          39.12018969294037
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGZBDD08",
+        "name": "天津上上签民宿",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "南仓道悦盛商业广场6栋814室",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.159151,
+        "gcj_lat": 39.209867,
+        "wgs84_lon": 117.152762327,
+        "wgs84_lat": 39.2087110884,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JGZBDD08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15308999474219,
+          39.20885407594095
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLC0WAB",
+        "name": "喆·啡酒店(天津火车站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "新开路南横街27号",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河东区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "河东区",
+        "gcj_lon": 117.225615,
+        "gcj_lat": 39.13414,
+        "wgs84_lon": 117.219338311,
+        "wgs84_lat": 39.1331341909,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFLC0WAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.21933831100404,
+          39.13313419091282
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGMHATGQ",
+        "name": "ESTJFLOW COFFEE&BAR",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "延吉道与高峰路交口盛耀华府底商78、80号",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "咖啡厅",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.136423,
+        "gcj_lat": 39.233554,
+        "wgs84_lon": 117.129995829,
+        "wgs84_lat": 39.2323476154,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LGMHATGQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1299958294437,
+          39.23234761536292
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFPAVU9",
+        "name": "延成苑宾馆(滨江道店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长春道248号",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "和平区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "河西区",
+        "gcj_lon": 117.19493,
+        "gcj_lat": 39.121218,
+        "wgs84_lon": 117.188618041,
+        "wgs84_lat": 39.1201797673,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFPAVU9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.18861804108096,
+          39.12017976729605
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10045172",
+        "name": "金狮桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河北区",
+        "query_category": "地铁站",
+        "city": "天津",
+        "district": "河北区",
+        "gcj_lon": 117.207758,
+        "gcj_lat": 39.151064,
+        "wgs84_lon": 117.201461402,
+        "wgs84_lat": 39.1500275745,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10045172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20146140200337,
+          39.15002757445144
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LBNZ1VY4",
+        "name": "德邻威智选酒店(天津滨海国际机场民航大学店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "津北公路航双路地铁站向东方向500米",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "东丽区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "东丽区",
+        "gcj_lon": 117.340444,
+        "gcj_lat": 39.109983,
+        "wgs84_lon": 117.33398544,
+        "wgs84_lat": 39.1088831188,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LBNZ1VY4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.33398544006825,
+          39.10888311883505
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14S85",
+        "name": "任庄子学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "王庄子镇任庄子村",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "霸州市",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "霸州市",
+        "gcj_lon": 116.563041,
+        "gcj_lat": 39.024993,
+        "wgs84_lon": 116.557334016,
+        "wgs84_lat": 39.0242374875,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14S85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5573340160932,
+          39.02423748747702
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGAPH0G",
+        "name": "刘街中心学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "刘街乡",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "永清县",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "永清县",
+        "gcj_lon": 116.541937,
+        "gcj_lat": 39.166935,
+        "wgs84_lon": 116.536164689,
+        "wgs84_lat": 39.1660523279,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGAPH0G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.53616468856421,
+          39.16605232792248
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFSDBC7",
+        "name": "宜青学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "502乡道与后奕连接线交叉口北180米",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "永清县",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "永清县",
+        "gcj_lon": 116.570562,
+        "gcj_lat": 39.215519,
+        "wgs84_lon": 116.564844379,
+        "wgs84_lat": 39.214659024,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFSDBC7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.56484437866966,
+          39.21465902397649
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14RXB",
+        "name": "王泊学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "王庄子镇王泊村",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "霸州市",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "霸州市",
+        "gcj_lon": 116.614642,
+        "gcj_lat": 39.091069,
+        "wgs84_lon": 116.608941466,
+        "wgs84_lat": 39.0902929125,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14RXB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60894146581822,
+          39.09029291254323
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J37SW5GH",
+        "name": "学校小区",
+        "type": "学校",
+        "typecode": 120302,
+        "address": [],
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "霸州市",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "霸州市",
+        "gcj_lon": 116.672012,
+        "gcj_lat": 39.087505,
+        "wgs84_lon": 116.666183368,
+        "wgs84_lat": 39.08664472,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J37SW5GH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66618336784761,
+          39.086644719998716
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJN4TZZ",
+        "name": "西滩里学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "滩艾路与廊大路交叉口西220米",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "文安县",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "文安县",
+        "gcj_lon": 116.690046,
+        "gcj_lat": 38.985936,
+        "wgs84_lon": 116.684179553,
+        "wgs84_lat": 38.9851043604,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJN4TZZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68417955326638,
+          38.98510436035778
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14T0N",
+        "name": "聚华学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "巨华路2号",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "霸州市",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "霸州市",
+        "gcj_lon": 116.68842,
+        "gcj_lat": 39.061665,
+        "wgs84_lon": 116.682548885,
+        "wgs84_lat": 39.0607897156,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14T0N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6825488845382,
+          39.06078971560284
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFGQNGC",
+        "name": "廊坊市南郭庄学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "调河头镇南郭庄村",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "安次区",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "安次区",
+        "gcj_lon": 116.708869,
+        "gcj_lat": 39.297216,
+        "wgs84_lon": 116.702918639,
+        "wgs84_lat": 39.2961708424,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFGQNGC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70291863884846,
+          39.29617084242891
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFGR1DS",
+        "name": "衡胜津东学校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "东段乡霸杨线津东小学(霸州市十二中旁)",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "霸州市",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "霸州市",
+        "gcj_lon": 116.739698,
+        "gcj_lat": 39.113697,
+        "wgs84_lon": 116.733719711,
+        "wgs84_lat": 39.1127273363,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFGR1DS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73371971119364,
+          39.11272733630516
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGLKWCO",
+        "name": "永清县新宏宇学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "后奕连接线与永信线交叉口西南100米",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "永清县",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "永清县",
+        "gcj_lon": 116.71832,
+        "gcj_lat": 39.201968,
+        "wgs84_lon": 116.712361758,
+        "wgs84_lat": 39.2009627704,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGLKWCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71236175834755,
+          39.20096277039751
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11631374",
+        "name": "高新区管委会(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)43路;(停运)44路;41路;42路;定制3路",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "安次区",
+        "query_category": "公交站",
+        "city": "天津城区",
+        "district": "安次区",
+        "gcj_lon": 116.77092,
+        "gcj_lat": 39.26963,
+        "wgs84_lon": 116.764915587,
+        "wgs84_lat": 39.2685757754,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11631374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.76491558672555,
+          39.26857577539711
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14S19",
+        "name": "磨汊港学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "旺港中路2号",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "安次区",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "安次区",
+        "gcj_lon": 116.790825,
+        "gcj_lat": 39.15955,
+        "wgs84_lon": 116.784851752,
+        "wgs84_lat": 39.1585795001,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14S19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7848517521541,
+          39.158579500131026
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14SCR",
+        "name": "后屯村学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "码头镇后屯",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "安次区",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "安次区",
+        "gcj_lon": 116.816343,
+        "gcj_lat": 39.330368,
+        "wgs84_lon": 116.810389526,
+        "wgs84_lat": 39.3293455218,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14SCR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.81038952608351,
+          39.329345521844196
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B013C14S1R",
+        "name": "桃园学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "东沽港镇",
+        "pname": "河北省",
+        "cityname": "廊坊市",
+        "adname": "安次区",
+        "query_category": "学校",
+        "city": "天津城区",
+        "district": "安次区",
+        "gcj_lon": 116.854614,
+        "gcj_lat": 39.19767,
+        "wgs84_lon": 116.848745115,
+        "wgs84_lat": 39.1967877955,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B013C14S1R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.84874511485877,
+          39.19678779547848
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H625Y1FA",
+        "name": "创意米兰生活广场停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "前进道1066号(创意米兰)",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "武清区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "武清区",
+        "gcj_lon": 117.041125,
+        "gcj_lat": 39.36556,
+        "wgs84_lon": 117.034790861,
+        "wgs84_lat": 39.3643291543,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H625Y1FA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.03479086147647,
+          39.364329154345064
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10045154",
+        "name": "天拖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "南开区",
+        "query_category": "地铁站",
+        "city": "天津",
+        "district": "南开区",
+        "gcj_lon": 117.149438,
+        "gcj_lat": 39.109224,
+        "wgs84_lon": 117.143045508,
+        "wgs84_lat": 39.1081108184,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10045154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.143045508148,
+          39.10811081842183
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10045131",
+        "name": "丹河北道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "地铁站",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.163651,
+        "gcj_lat": 39.252431,
+        "wgs84_lon": 117.157265104,
+        "wgs84_lat": 39.2512595272,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10045131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1572651044119,
+          39.251259527151255
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0F58OIC",
+        "name": "熙悦汇停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "黄河道513号熙悦汇",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "南开区",
+        "query_category": "停车场",
+        "city": "天津",
+        "district": "南开区",
+        "gcj_lon": 117.125388,
+        "gcj_lat": 39.137158,
+        "wgs84_lon": 117.118961817,
+        "wgs84_lat": 39.1359942051,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0G0F58OIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1189618172492,
+          39.13599420511948
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IUYK2P5V",
+        "name": "天津汉釜宫太空舱青年旅社",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "龙泉道燕宇艺术家园18-2-102",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "北辰区",
+        "query_category": "酒店",
+        "city": "天津",
+        "district": "北辰区",
+        "gcj_lon": 117.120088,
+        "gcj_lat": 39.197624,
+        "wgs84_lon": 117.113650418,
+        "wgs84_lat": 39.1964193301,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0IUYK2P5V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.11365041825862,
+          39.19641933007948
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1VPUWBA",
+        "name": "易采便利(荣华小区店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "苏州道114号荣华小区",
+        "pname": "天津市",
+        "cityname": "天津市",
+        "adname": "河西区",
+        "query_category": "便利店",
+        "city": "天津",
+        "district": "和平区",
+        "gcj_lon": 117.212423,
+        "gcj_lat": 39.108921,
+        "wgs84_lon": 117.206137482,
+        "wgs84_lat": 39.1079162957,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I1VPUWBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.20613748227336,
+          39.10791629570688
+        ]
+      }
+    }
+  ]
+}

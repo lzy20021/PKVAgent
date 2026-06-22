@@ -1,0 +1,957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10784652",
+        "name": "望月湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "岳麓区",
+        "gcj_lon": 112.955938,
+        "gcj_lat": 28.206613,
+        "wgs84_lon": 112.950446639,
+        "wgs84_lat": 28.2100867595,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10784652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.95044663896564,
+          28.210086759506453
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1XCRXOL",
+        "name": "长沙市岳麓区观沙岭街道三汊矶社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "北津城路与潇湘北路交叉口西180米",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.956422,
+        "gcj_lat": 28.257575,
+        "wgs84_lon": 112.950925183,
+        "wgs84_lat": 28.261047338,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I1XCRXOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9509251826985,
+          28.26104733803579
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF6Q1G6",
+        "name": "长沙市周南中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "秀峰街道鹅羊山路20号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "学校",
+        "city": "北京城区",
+        "district": "开福区",
+        "gcj_lon": 112.96581,
+        "gcj_lat": 28.304173,
+        "wgs84_lon": 112.960280787,
+        "wgs84_lat": 28.3076196946,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF6Q1G6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9602807872138,
+          28.307619694580694
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB02H5H",
+        "name": "长郡中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "坡子街街道登仁桥社区黄兴南路309号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "天心区",
+        "query_category": "学校",
+        "city": "北京城区",
+        "district": "天心区",
+        "gcj_lon": 112.97501,
+        "gcj_lat": 28.186398,
+        "wgs84_lon": 112.969459587,
+        "wgs84_lat": 28.1898226214,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02DB02H5H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.96945958707744,
+          28.18982262137717
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JBOZJSTC",
+        "name": "长沙市开福区浏阳河街道海棠湾社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "福元西路508号五矿·长沙Live25栋2层224a",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 113.011075,
+        "gcj_lat": 28.250175,
+        "wgs84_lon": 113.005387572,
+        "wgs84_lat": 28.2534929763,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JBOZJSTC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.00538757183726,
+          28.253492976323894
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB10HLF",
+        "name": "友良宾馆(长沙大道地铁口店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "黎托街道花侯路合丰小区A9栋",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "雨花区",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.060515,
+        "gcj_lat": 28.171638,
+        "wgs84_lon": 113.054682999,
+        "wgs84_lat": 28.1748334741,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02DB10HLF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.05468299854624,
+          28.17483347410136
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK6U3CH",
+        "name": "马坡岭街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "芙蓉生态新城2号安置点C8栋",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "芙蓉区",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.060793,
+        "gcj_lat": 28.205613,
+        "wgs84_lon": 113.054957589,
+        "wgs84_lat": 28.2088092875,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK6U3CH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.05495758867318,
+          28.208809287526563
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB0X1FK",
+        "name": "长沙县西城大酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "湘龙街道潇湘路社区城西小区B2栋8号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.066389,
+        "gcj_lat": 28.273162,
+        "wgs84_lon": 113.060536776,
+        "wgs84_lat": 28.2763487408,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02DB0X1FK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.06053677639862,
+          28.276348740777376
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKV565Z",
+        "name": "七颗星时尚酒店(中茂城店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "泉塘街道板桥社区3栋31号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.082968,
+        "gcj_lat": 28.218729,
+        "wgs84_lon": 113.077096222,
+        "wgs84_lat": 28.2218994437,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKV565Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.07709622219845,
+          28.221899443741457
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K6SS6229",
+        "name": "慢通堂中医AI慢病康复馆",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "星沙街道开元东路95号华润置地广场二期4-102",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.109481,
+        "gcj_lat": 28.247615,
+        "wgs84_lon": 113.103597408,
+        "wgs84_lat": 28.2507827543,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K6SS6229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.10359740839807,
+          28.25078275430113
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHGKSQH",
+        "name": "教师进修学校附属小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "德兴街120号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "学校",
+        "city": "长沙",
+        "district": "岳麓区",
+        "gcj_lon": 112.919899,
+        "gcj_lat": 28.228021,
+        "wgs84_lon": 112.91448138,
+        "wgs84_lat": 28.2315518063,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHGKSQH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.91448138020192,
+          28.23155180634948
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10784654",
+        "name": "六沟垅(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线;6号线",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "岳麓区",
+        "gcj_lon": 112.954316,
+        "gcj_lat": 28.221049,
+        "wgs84_lon": 112.948828099,
+        "wgs84_lat": 28.2245265833,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10784654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.94882809903784,
+          28.2245265832636
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10231736",
+        "name": "金星路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "岳麓区",
+        "gcj_lon": 112.928603,
+        "gcj_lat": 28.206047,
+        "wgs84_lon": 112.923174494,
+        "wgs84_lat": 28.2095688301,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10231736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.92317449372158,
+          28.209568830053186
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11461930",
+        "name": "宿龙桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.978551,
+        "gcj_lat": 28.278738,
+        "wgs84_lon": 112.972980833,
+        "wgs84_lat": 28.2821519725,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11461930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.97298083314251,
+          28.282151972476527
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10784669",
+        "name": "火炬村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "芙蓉区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.031218,
+        "gcj_lat": 28.208453,
+        "wgs84_lon": 113.025463553,
+        "wgs84_lat": 28.2117139368,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10784669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.02546355287814,
+          28.211713936811567
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11487740",
+        "name": "五里牌(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)7号线一期;(规划)7号线一期东延伸段",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "芙蓉区",
+        "query_category": "地铁站",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.006749,
+        "gcj_lat": 28.197256,
+        "wgs84_lon": 113.001081828,
+        "wgs84_lat": 28.200586832,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11487740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.00108182847823,
+          28.200586832049527
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB10LB6",
+        "name": "瑞腾凤巢假日酒店(长沙松雅湖大众传媒学院店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "板仓北路318号星沙灰埠小区(近大众传媒)",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.077184,
+        "gcj_lat": 28.261076,
+        "wgs84_lon": 113.071315512,
+        "wgs84_lat": 28.2642505301,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02DB10LB6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0713155118211,
+          28.264250530064746
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB07NXT",
+        "name": "肯德基(开元路店)",
+        "type": "餐饮",
+        "typecode": 0,
+        "address": "星沙开发区开元路45号一层",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "餐厅",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.085237,
+        "gcj_lat": 28.246098,
+        "wgs84_lon": 113.079360736,
+        "wgs84_lat": 28.2492668319,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B02DB07NXT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.07936073610962,
+          28.24926683194596
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJM1NVQ",
+        "name": "好家宾馆",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "一区85栋629号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.074857,
+        "gcj_lat": 28.233731,
+        "wgs84_lon": 113.068994017,
+        "wgs84_lat": 28.2369084667,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFJM1NVQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.06899401740692,
+          28.236908466684245
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL0H2OG",
+        "name": "中国人民解放军国防科技大学医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "万家丽北路与特立西路交叉口西南200米",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "长沙县",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "长沙县",
+        "gcj_lon": 113.053189,
+        "gcj_lat": 28.257069,
+        "wgs84_lon": 113.047366859,
+        "wgs84_lat": 28.2602786872,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL0H2OG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0473668586647,
+          28.260278687225693
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFF1VSI",
+        "name": "长沙金春家庭旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "三一大道四方商贸城A17栋",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 113.008646,
+        "gcj_lat": 28.235392,
+        "wgs84_lon": 113.002968713,
+        "wgs84_lat": 28.2387175112,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFF1VSI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.00296871288064,
+          28.238717511231236
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11184789",
+        "name": "福城路金龙路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "283路",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "公交站",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.983741,
+        "gcj_lat": 28.248083,
+        "wgs84_lon": 112.978154788,
+        "wgs84_lat": 28.2514832283,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11184789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.97815478831784,
+          28.25148322830738
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10971697",
+        "name": "金泰路金马路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "408路;9路;9路区间",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "公交站",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.982666,
+        "gcj_lat": 28.264601,
+        "wgs84_lon": 112.977082328,
+        "wgs84_lat": 28.2680038286,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10971697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.97708232816616,
+          28.268003828584973
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02DB10M6Z",
+        "name": "开福区新河街道友谊社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "伍家岭路40号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "开福区",
+        "query_category": "医院",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.987195,
+        "gcj_lat": 28.230124,
+        "wgs84_lon": 112.981597688,
+        "wgs84_lat": 28.2335142897,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02DB10M6Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9815976884218,
+          28.23351428973711
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRV4IRHI",
+        "name": "苏可可青年旅舍(湖南金融中心店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "茶山馨苑5栋2单元(茶子山地铁站3号口步行320米)",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "酒店",
+        "city": "长沙",
+        "district": "开福区",
+        "gcj_lon": 112.957666,
+        "gcj_lat": 28.243348,
+        "wgs84_lon": 112.952166693,
+        "wgs84_lat": 28.2468178401,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JRV4IRHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9521666934083,
+          28.246817840126134
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKPUZNXA",
+        "name": "winwin coffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "望岳街道茶子山西路64号",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "岳麓区",
+        "query_category": "咖啡厅",
+        "city": "长沙",
+        "district": "岳麓区",
+        "gcj_lon": 112.930825,
+        "gcj_lat": 28.240975,
+        "wgs84_lon": 112.925389906,
+        "wgs84_lat": 28.2444941596,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LKPUZNXA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.92541779534507,
+          28.244463913092286
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMCE8YD",
+        "name": "赛特福德幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "人民东路329号湘域熙岸西1门",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "芙蓉区",
+        "query_category": "学校",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.041812,
+        "gcj_lat": 28.184935,
+        "wgs84_lon": 113.036026613,
+        "wgs84_lat": 28.1881687835,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFMCE8YD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0360266130341,
+          28.188168783502846
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUNZA4KN",
+        "name": "湖南宏达职业学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "人民东路5号东方之珠商铺楼3、4楼",
+        "pname": "湖南省",
+        "cityname": "长沙市",
+        "adname": "芙蓉区",
+        "query_category": "学校",
+        "city": "长沙",
+        "district": "芙蓉区",
+        "gcj_lon": 113.01911,
+        "gcj_lat": 28.184956,
+        "wgs84_lon": 113.013398869,
+        "wgs84_lat": 28.1882497938,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HUNZA4KN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.01339886857248,
+          28.18824979382892
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MapGenAI IDE Mockup</title>
+    <style>
+        :root {
+            --bg-color: #f3f4f6;
+            --panel-bg: #ffffff;
+            --border-color: #e5e7eb;
+            --text-main: #1f2937;
+            --text-muted: #6b7280;
+            --primary: #3b82f6;
+            --primary-hover: #2563eb;
+            --success: #10b981;
+            --sidebar-w: 280px;
+            --ai-sidebar-w: 380px;
+            --header-h: 44px;
+            --toolbar-h: 40px;
+            --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            font-size: 13px;
+        }
+
+        /* Header & Toolbar */
+        .header {
+            height: var(--header-h);
+            background-color: var(--panel-bg);
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            padding: 0 16px;
+            gap: 20px;
+        }
+        .menu-item { cursor: pointer; color: var(--text-main); }
+        .menu-item:hover { color: var(--primary); }
+
+        .toolbar {
+            height: var(--toolbar-h);
+            background-color: var(--panel-bg);
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            padding: 0 12px;
+            gap: 8px;
+        }
+        .tool-btn {
+            padding: 6px 12px;
+            background: #fff;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            cursor: pointer;
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+        }
+        .tool-btn:hover { background: #f9fafb; border-color: #d1d5db; }
+        .tool-btn.active { background: #eff6ff; border-color: #bfdbfe; color: var(--primary); }
+
+        /* Main Layout */
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        /* Left Sidebar */
+        .sidebar {
+            width: var(--sidebar-w);
+            background-color: var(--panel-bg);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+        }
+        .panel-header {
+            padding: 10px 12px;
+            font-weight: 600;
+            background: #f9fafb;
+            border-bottom: 1px solid var(--border-color);
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .panel-header:first-child { border-top: none; }
+        .file-list { flex: 1; overflow-y: auto; padding: 8px 0; }
+        .file-item {
+            padding: 6px 16px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .file-item:hover { background: #f3f4f6; }
+        .file-item.selected { background: var(--primary); color: white; }
+        
+        .layer-manager { height: 45%; display: flex; flex-direction: column; border-top: 1px solid var(--border-color); }
+        .layer-list { flex: 1; overflow-y: auto; padding: 8px 0; }
+        .layer-item {
+            padding: 4px 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .layer-item input[type="checkbox"] { cursor: pointer; }
+
+        /* Map Area */
+        .map-area {
+            flex: 1;
+            display: flex;
+            position: relative;
+            background: #fafafa;
+        }
+        .map-view {
+            flex: 1;
+            position: relative;
+            overflow: hidden;
+        }
+        .map-divider {
+            width: 2px;
+            background: var(--primary);
+            cursor: col-resize;
+            z-index: 10;
+        }
+        .map-label {
+            position: absolute;
+            top: 16px;
+            left: 16px;
+            background: rgba(255,255,255,0.9);
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-weight: 600;
+            color: var(--primary);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid rgba(0,0,0,0.05);
+            z-index: 5;
+        }
+        .point {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            border: 1px solid rgba(0,0,0,0.2);
+        }
+
+        /* Right Sidebar (AI) */
+        .ai-sidebar {
+            width: var(--ai-sidebar-w);
+            background-color: var(--panel-bg);
+            border-left: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+        }
+        .chat-area {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            background: #f9fafb;
+        }
+        .chat-bubble {
+            max-width: 90%;
+            padding: 12px 16px;
+            border-radius: 8px;
+            line-height: 1.5;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .chat-user {
+            align-self: flex-end;
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            color: #1e3a8a;
+        }
+        .chat-ai {
+            align-self: flex-start;
+            background: #ffffff;
+            border: 1px solid var(--border-color);
+            width: 100%;
+        }
+        .ai-reasoning {
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            margin-top: 10px;
+            background: #ffffff;
+            overflow: hidden;
+        }
+        .reasoning-header {
+            padding: 8px 12px;
+            background: #f0fdf4;
+            color: #047857;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        .reasoning-content {
+            padding: 12px;
+            font-size: 12px;
+            color: #4b5563;
+            max-height: 250px;
+            overflow-y: auto;
+        }
+        .tool-call {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 12px;
+            background: #ffffff;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+            margin-top: 8px;
+            font-size: 12px;
+        }
+        .tool-call-name { font-weight: 600; color: #1f2937; }
+        .tool-call-status { color: #059669; background: #d1fae5; padding: 2px 8px; border-radius: 10px; }
+
+        .chat-input {
+            padding: 16px;
+            background: var(--panel-bg);
+            border-top: 1px solid var(--border-color);
+        }
+        .input-box {
+            width: 100%;
+            padding: 10px 14px;
+            border: 1px solid #d1d5db;
+            border-radius: 20px;
+            outline: none;
+        }
+        .input-box:focus { border-color: var(--primary); box-shadow: 0 0 0 2px rgba(59,130,246,0.1); }
+        
+        .status-bar {
+            height: 28px;
+            background: var(--panel-bg);
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            padding: 0 16px;
+            font-size: 11px;
+            color: var(--text-muted);
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div style="font-weight: 700; font-size: 15px; color: var(--primary);">MapGenAI IDE</div>
+        <div class="menu-item">File</div>
+        <div class="menu-item">Edit</div>
+        <div class="menu-item">View</div>
+        <div class="menu-item">Layer</div>
+        <div class="menu-item">Settings</div>
+        <div class="menu-item">Help</div>
+    </div>
+
+    <div class="toolbar">
+        <button class="tool-btn">📂 Open</button>
+        <button class="tool-btn">🔍 Zoom In</button>
+        <button class="tool-btn">🔎 Zoom Out</button>
+        <button class="tool-btn">🗺️ Full Extent</button>
+        <div style="width: 1px; height: 24px; background: var(--border-color); margin: 0 8px;"></div>
+        <button class="tool-btn active">Split Compare</button>
+        <button class="tool-btn">Export</button>
+    </div>
+
+    <div class="main-container">
+        <!-- Left Sidebar -->
+        <div class="sidebar">
+            <div class="panel-header">
+                <span>Workspace: Scale_1_86000</span>
+                <button class="tool-btn" style="padding: 2px 6px; font-size: 11px;">Refresh</button>
+            </div>
+            <div class="file-list">
+                <div class="file-item">📄 sample_07.geojson</div>
+                <div class="file-item">📄 sample_08.geojson</div>
+                <div class="file-item">📄 sample_11.geojson</div>
+                <div class="file-item">📄 sample_12.geojson</div>
+                <div class="file-item selected">📄 sample_13.geojson</div>
+                <div class="file-item">📄 sample_13_gen_1_50000_r1.geojson</div>
+                <div class="file-item">📄 sample_13_gen_1_50000_r2.geojson</div>
+                <div class="file-item">📄 sample_13_gen_1_50000_r3.geojson</div>
+                <div class="file-item">📄 sample_13_gen_1_50000_r4.geojson</div>
+            </div>
+
+            <div class="layer-manager">
+                <div class="panel-header">
+                    <span>Layer Manager</span>
+                </div>
+                <div style="padding: 6px 12px; border-bottom: 1px solid var(--border-color); display: flex; gap: 4px;">
+                    <button class="tool-btn" style="padding: 2px 6px;">↑</button>
+                    <button class="tool-btn" style="padding: 2px 6px;">↓</button>
+                </div>
+                <div class="layer-list">
+                    <div class="layer-item"><input type="checkbox" checked> <span>sample_13 (Point, 904 features)</span></div>
+                    <div class="layer-item"><input type="checkbox"> <span>result_layer_r1 (Point, 218 features)</span></div>
+                    <div class="layer-item" style="background: #eef2ff;"><input type="checkbox" checked> <span>sample_13_gen_1_50000_r1 (Point, 218 features)</span></div>
+                    <div class="layer-item"><input type="checkbox"> <span>result_layer_r2 (Point, 216 features)</span></div>
+                    <div class="layer-item"><input type="checkbox" checked> <span>result_layer_r3 (Point, 209 features)</span></div>
+                    <div class="layer-item"><input type="checkbox"> <span>sample_13_gen_1_50000_r4 (Point, 171 features)</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Center Map Area -->
+        <div class="map-area">
+            <div class="map-view" id="map-before">
+                <div class="map-label">Before Gen</div>
+                <!-- Points will be injected here via JS -->
+            </div>
+            <div class="map-divider"></div>
+            <div class="map-view" id="map-after">
+                <div class="map-label">After Gen</div>
+                <!-- Points will be injected here via JS -->
+            </div>
+        </div>
+
+        <!-- Right Sidebar -->
+        <div class="ai-sidebar">
+            <div class="panel-header">
+                <span>AI Assistant</span>
+                <span style="font-size: 11px; color: var(--primary); cursor:pointer;">Clear</span>
+            </div>
+            <div class="chat-area">
+                <div class="chat-bubble chat-user">
+                    Generalize current layer to 1:50,000
+                </div>
+                
+                <div class="chat-bubble chat-ai">
+                    <div style="font-weight: 600; margin-bottom: 8px;">MapGenAI</div>
+                    
+                    <div class="ai-reasoning">
+                        <div class="reasoning-header">✓ Done</div>
+                        <div class="reasoning-content">
+                            <div>Current reasoning progress (elapsed 78.3s)</div>
+                            <div style="margin-left: 10px; color: #6b7280;">· Planning iteration 4 / 4.</div>
+                            <div style="margin-left: 10px; color: #6b7280;">· Executing generalization iteration 4 / 4.</div>
+                            <div style="margin-top: 8px; font-weight: 600;">Assessment of Current Data</div>
+                            <div style="margin-left: 10px; color: #6b7280;">· The current data is classified as "commercial POI points"; Spatial pattern: "center-periphery pattern".</div>
+                            <div style="margin-top: 8px; font-weight: 600;">Why This Workflow Was Chosen</div>
+                            <div style="margin-left: 10px; color: #6b7280;">· Selecting suitable generalization operators and parameters from current data characteristics. Candidate operators prioritized: selection, simplify, typification.</div>
+                        </div>
+                    </div>
+
+                    <div class="tool-call">
+                        <div style="display:flex; align-items:center; gap:6px;">
+                            <span style="color:#059669;">✓</span> <span class="tool-call-name">Calling run_python_script</span>
+                        </div>
+                        <span class="tool-call-status">Done 5.8s</span>
+                    </div>
+                    <div class="tool-call">
+                        <div style="display:flex; align-items:center; gap:6px;">
+                            <span style="color:#059669;">✓</span> <span class="tool-call-name">Calling run_python_script</span>
+                        </div>
+                        <span class="tool-call-status">Done 3.7s</span>
+                    </div>
+
+                    <div style="margin-top: 12px; background: #f0f9ff; padding: 10px; border-radius: 6px; border: 1px solid #bae6fd;">
+                        <div style="font-weight: 600; color: #0369a1; margin-bottom: 4px;">Generalization Summary</div>
+                        <div style="font-size: 12px; color: #0c4a6e;">Method: 【Decision Summary | Target 1:50000】 Data classified as 'Commercial POI'.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="chat-input">
+                <input type="text" class="input-box" placeholder="Ask MapGenAI to generalize this layer...">
+            </div>
+        </div>
+    </div>
+
+    <div class="status-bar">
+        <span>Layer loaded: sample_13_gen_1_50000_r4 (Point, 171 features)</span>
+        <span>1.2x | Mouse wheel zoom · left drag pan | Coords: 118.784, 32.016 | Zoom: 1946.7x | Scale: 1:50005 | 81.8ms</span>
+    </div>
+
+    <script>
+        // Generate pseudo-random points to simulate map data
+        function generatePoints(containerId, count, isGeneralized) {
+            const container = document.getElementById(containerId);
+            const colors = ['#e11d48', '#2563eb', '#16a34a', '#d97706', '#9333ea'];
+            
+            // Seeded random-like generation for consistency
+            let seed = 1;
+            function random() {
+                const x = Math.sin(seed++) * 10000;
+                return x - Math.floor(x);
+            }
+
+            for (let i = 0; i < count; i++) {
+                // Concentrate points somewhat in the middle to mimic "center-periphery pattern"
+                let x = (random() + random() + random()) / 3 * 100;
+                let y = (random() + random() + random()) / 3 * 100;
+                
+                // If generalized, skip points that are too close to center to simulate simplification
+                if (isGeneralized && random() > 0.3) {
+                    continue; // Skip some points
+                }
+
+                const pt = document.createElement('div');
+                pt.className = 'point';
+                pt.style.left = `${x}%`;
+                pt.style.top = `${y}%`;
+                pt.style.backgroundColor = colors[Math.floor(random() * colors.length)];
+                
+                if(isGeneralized) {
+                    pt.style.width = '10px';
+                    pt.style.height = '10px';
+                }
+
+                container.appendChild(pt);
+            }
+        }
+
+        generatePoints('map-before', 600, false);
+        generatePoints('map-after', 600, true); // The true flag will cull points
+    </script>
+</body>
+</html>

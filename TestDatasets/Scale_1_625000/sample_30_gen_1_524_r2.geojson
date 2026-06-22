@@ -1,0 +1,991 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFC4MP",
+        "name": "平坝第一高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "第一高级中学(贵黄公路南)",
+        "pname": "贵州省",
+        "cityname": "安顺市",
+        "adname": "平坝区",
+        "query_category": "学校",
+        "city": "安顺市",
+        "district": "平坝区",
+        "gcj_lon": 106.307895,
+        "gcj_lat": 26.428806,
+        "wgs84_lon": 106.304229221,
+        "wgs84_lat": 26.4322154163,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFFC4MP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30422922086343,
+          26.432215416273788
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI0JW8I",
+        "name": "贵州省实验中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "马场镇文化路113号",
+        "pname": "贵州省",
+        "cityname": "安顺市",
+        "adname": "平坝区",
+        "query_category": "学校",
+        "city": "安顺市",
+        "district": "平坝区",
+        "gcj_lon": 106.457638,
+        "gcj_lat": 26.396346,
+        "wgs84_lon": 106.453855076,
+        "wgs84_lat": 26.3996809685,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI0JW8I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45385507599782,
+          26.399680968455975
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLHQ8UZ",
+        "name": "清镇铂斯曼酒店",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "东门桥村寒坡岭组巢凤大道17号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "清镇市",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "清镇市",
+        "gcj_lon": 106.490094,
+        "gcj_lat": 26.554715,
+        "wgs84_lon": 106.486386433,
+        "wgs84_lat": 26.5581819835,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFLHQ8UZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48638643326072,
+          26.55818198346835
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL87SGB",
+        "name": "干井村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "114县道与北京西路交叉口西北80米",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "观山湖区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "观山湖区",
+        "gcj_lon": 106.576531,
+        "gcj_lat": 26.598312,
+        "wgs84_lon": 106.573006708,
+        "wgs84_lat": 26.6019889676,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL87SGB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5730067075016,
+          26.601988967580706
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K67CBG39",
+        "name": "观山湖区云潭街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "宾阳大道与金朱西路交叉路口往西南约200米",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "观山湖区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "白云区",
+        "gcj_lon": 106.594421,
+        "gcj_lat": 26.651781,
+        "wgs84_lon": 106.590895363,
+        "wgs84_lat": 26.655471733,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K67CBG39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.59089536266956,
+          26.655471733006397
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03530P7ZX",
+        "name": "幸福村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "S305龙场派出所",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "修文县",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "修文县",
+        "gcj_lon": 106.621186,
+        "gcj_lat": 26.857459,
+        "wgs84_lon": 106.617622252,
+        "wgs84_lat": 26.8611219884,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B03530P7ZX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61762225227262,
+          26.861121988440573
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJXVCCD",
+        "name": "贵阳依元酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长岭北路贵阳国际金融中心二期商务区第N5栋1单元2层",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "观山湖区",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "白云区",
+        "gcj_lon": 106.651711,
+        "gcj_lat": 26.656387,
+        "wgs84_lon": 106.64809276,
+        "wgs84_lat": 26.660023847,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFJXVCCD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6480927595028,
+          26.660023846980494
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGBC6TN7",
+        "name": "贵阳市经济贸易中等专业学校(清镇校区)7号楼",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "将军石路与王官路交叉路口往东约260米6号贵阳市经济贸易中等专业学校",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "清镇市",
+        "query_category": "学校",
+        "city": "贵阳",
+        "district": "清镇市",
+        "gcj_lon": 106.479915,
+        "gcj_lat": 26.587907,
+        "wgs84_lon": 106.476176987,
+        "wgs84_lat": 26.5913491911,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0JGBC6TN7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.47617698702976,
+          26.59134919112984
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFCE6R",
+        "name": "安顺平坝白云大酒店客房部",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "中山南路20附近",
+        "pname": "贵州省",
+        "cityname": "安顺市",
+        "adname": "平坝区",
+        "query_category": "酒店",
+        "city": "安顺市",
+        "district": "平坝区",
+        "gcj_lon": 106.256913,
+        "gcj_lat": 26.402764,
+        "wgs84_lon": 106.253324012,
+        "wgs84_lat": 26.4062205987,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFFCE6R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25332401220004,
+          26.406220598732794
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHVZ8C2",
+        "name": "和谐城市酒店(开阳政务中心高铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "麒龙美家居3楼",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "开阳县",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "开阳县",
+        "gcj_lon": 106.976337,
+        "gcj_lat": 27.041368,
+        "wgs84_lon": 106.972403554,
+        "wgs84_lat": 27.0448791934,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHVZ8C2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.97240355419495,
+          27.044879193430216
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFILHD9W",
+        "name": "开阳金鸿旅店",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "城关镇开阳汽车客运站后门斜对面(聚兴食府旁)",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "开阳县",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "开阳县",
+        "gcj_lon": 106.969588,
+        "gcj_lat": 27.061803,
+        "wgs84_lon": 106.965678844,
+        "wgs84_lat": 27.0653270891,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFILHD9W"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.96567884445189,
+          27.065327089072806
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KD35YXQ9",
+        "name": "桂德旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "镇府路商业步行街D栋2单元2层",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "息烽县",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "息烽县",
+        "gcj_lon": 106.736956,
+        "gcj_lat": 27.097861,
+        "wgs84_lon": 106.733116334,
+        "wgs84_lat": 27.1012929964,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KD35YXQ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73311633356931,
+          27.10129299639022
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFDC60T",
+        "name": "息烽梦香旅馆",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "龙港新城1号楼8号门面",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "息烽县",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "息烽县",
+        "gcj_lon": 106.745504,
+        "gcj_lat": 27.077619,
+        "wgs84_lon": 106.741656573,
+        "wgs84_lat": 27.0810536151,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFDC60T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7416565727372,
+          27.081053615097588
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KKAKH7QY",
+        "name": "贵阳市白云区大山洞第五社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "朝阳路与通化路交叉口东北460米",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "白云区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "白云区",
+        "gcj_lon": 106.640373,
+        "gcj_lat": 26.690357,
+        "wgs84_lon": 106.636780344,
+        "wgs84_lat": 26.6940129133,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0KKAKH7QY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63678034388812,
+          26.694012913312537
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRBSNLU9",
+        "name": "贵阳银行贵阳大上海商贸城支行",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "云岩区新添大道南段302号大上海商贸城一层376号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "云岩区",
+        "query_category": "银行",
+        "city": "贵阳",
+        "district": "乌当区",
+        "gcj_lon": 106.743261,
+        "gcj_lat": 26.619525,
+        "wgs84_lon": 106.739441066,
+        "wgs84_lat": 26.6230279888,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0LRBSNLU9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73938505368204,
+          26.622984971418134
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAJ4QTIQ",
+        "name": "航楷幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "黄家湾路南侧",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "云岩区",
+        "query_category": "学校",
+        "city": "贵阳",
+        "district": "云岩区",
+        "gcj_lon": 106.729275,
+        "gcj_lat": 26.599631,
+        "wgs84_lon": 106.725473441,
+        "wgs84_lat": 26.603139442,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IAJ4QTIQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72547344089656,
+          26.603139442011877
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B035300Q6P",
+        "name": "贵阳钢厂职工医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "油榨街38号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "南明区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "南明区",
+        "gcj_lon": 106.736287,
+        "gcj_lat": 26.559969,
+        "wgs84_lon": 106.732477977,
+        "wgs84_lat": 26.5634674921,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B035300Q6P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73247797743922,
+          26.563467492083873
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03530P0GI",
+        "name": "鑫宇商务宾馆(贵阳云岩店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "南垭路1号(南垭路地铁站B口步行370米)",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "云岩区",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "云岩区",
+        "gcj_lon": 106.703133,
+        "gcj_lat": 26.614106,
+        "wgs84_lon": 106.699381863,
+        "wgs84_lat": 26.617646916,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03530P0GI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69938186286318,
+          26.61764691595752
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B035300IN9",
+        "name": "贵州大学南校区",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "霞晖路24号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "花溪区",
+        "query_category": "学校",
+        "city": "贵阳",
+        "district": "花溪区",
+        "gcj_lon": 106.671784,
+        "gcj_lat": 26.421901,
+        "wgs84_lon": 106.668124829,
+        "wgs84_lat": 26.4254554416,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B035300IN9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66812482914804,
+          26.425455441587527
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03530P8FH",
+        "name": "贵阳市烟草公司修文县分公司",
+        "type": "银行",
+        "typecode": 0,
+        "address": "翠屏西路6号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "修文县",
+        "query_category": "银行",
+        "city": "贵阳",
+        "district": "修文县",
+        "gcj_lon": 106.595714,
+        "gcj_lat": 26.839032,
+        "wgs84_lon": 106.592177987,
+        "wgs84_lat": 26.8427096418,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B03530P8FH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.59220239811557,
+          26.842709702036217
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIDCFVT",
+        "name": "谁的·咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "友邻路中天未来方舟G6组团1层9-2",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "云岩区",
+        "query_category": "咖啡厅",
+        "city": "贵阳",
+        "district": "乌当区",
+        "gcj_lon": 106.764072,
+        "gcj_lat": 26.603108,
+        "wgs84_lon": 106.760242122,
+        "wgs84_lat": 26.6066121135,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFIDCFVT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76024212229028,
+          26.606612113542365
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2YSXALO",
+        "name": "贵阳协正医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "威清门街道办事处瑞金北路48号地下负一层至12层1号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "云岩区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "云岩区",
+        "gcj_lon": 106.70461,
+        "gcj_lat": 26.586526,
+        "wgs84_lon": 106.700856924,
+        "wgs84_lat": 26.5900616939,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H2YSXALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7008569239352,
+          26.590061693931776
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03530QAIS",
+        "name": "贵阳湘缘宾馆(富康路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "新添寨富康路三产一区16号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "乌当区",
+        "query_category": "酒店",
+        "city": "贵阳",
+        "district": "乌当区",
+        "gcj_lon": 106.770383,
+        "gcj_lat": 26.630043,
+        "wgs84_lon": 106.76655183,
+        "wgs84_lat": 26.6335533957,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03530QAIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76655801335497,
+          26.633527876253662
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09159080",
+        "name": "浪风关(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "花溪区",
+        "query_category": "地铁站",
+        "city": "贵阳",
+        "district": "花溪区",
+        "gcj_lon": 106.676923,
+        "gcj_lat": 26.392348,
+        "wgs84_lon": 106.673251403,
+        "wgs84_lat": 26.3958816091,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09159080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67325140272938,
+          26.395881609079638
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGXJ1NT",
+        "name": "贵阳市骨科医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "解放西路115号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "南明区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "南明区",
+        "gcj_lon": 106.694426,
+        "gcj_lat": 26.56183,
+        "wgs84_lon": 106.690698979,
+        "wgs84_lat": 26.5653786504,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGXJ1NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6906989786806,
+          26.565378650428958
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF3NB0Y",
+        "name": "白云区艳山红镇曹关村第一卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "马掌坡路542号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "白云区",
+        "query_category": "医院",
+        "city": "贵阳",
+        "district": "白云区",
+        "gcj_lon": 106.607714,
+        "gcj_lat": 26.696299,
+        "wgs84_lon": 106.604176673,
+        "wgs84_lat": 26.6999882889,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF3NB0Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.60417667275657,
+          26.699988288892506
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LAXR4LS5",
+        "name": "瑞幸咖啡(中铁逸都店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "石林东路中铁逸都国际B区43栋负一层8号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "观山湖区",
+        "query_category": "咖啡厅",
+        "city": "贵阳",
+        "district": "观山湖区",
+        "gcj_lon": 106.607752,
+        "gcj_lat": 26.606113,
+        "wgs84_lon": 106.604219369,
+        "wgs84_lat": 26.6097986292,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LAXR4LS5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.60421936872116,
+          26.609798629214385
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J254JCFH",
+        "name": "中信银行(贵阳观山湖支行)",
+        "type": "银行",
+        "typecode": 160111,
+        "address": "云潭路西侧银海元隆·熙府商业C2栋1层1-7号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "观山湖区",
+        "query_category": "银行",
+        "city": "贵阳",
+        "district": "观山湖区",
+        "gcj_lon": 106.60836,
+        "gcj_lat": 26.627226,
+        "wgs84_lon": 106.604825629,
+        "wgs84_lat": 26.6309131656,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0J254JCFH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.60482562922392,
+          26.630913165574377
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1VUBTHY",
+        "name": "Pull-Tab拉环咖啡(贵阳市白云区梵华里店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "泉湖街道梵华里13栋F区5号",
+        "pname": "贵州省",
+        "cityname": "贵阳市",
+        "adname": "白云区",
+        "query_category": "咖啡厅",
+        "city": "贵阳",
+        "district": "白云区",
+        "gcj_lon": 106.622283,
+        "gcj_lat": 26.667421,
+        "wgs84_lon": 106.618727507,
+        "wgs84_lat": 26.6710998412,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1VUBTHY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61872750664337,
+          26.67109984124588
+        ]
+      }
+    }
+  ]
+}

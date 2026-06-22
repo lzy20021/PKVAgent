@@ -1,0 +1,54 @@
+{
+  "models": [
+    {
+      "name": "zhipu_glm5",
+      "provider": "zhipu",
+      "model": "glm-5",
+      "vlm_model": "glm-4.6v",
+      "api_key_env": "ZHIPU_API_KEY"
+    },
+    {
+      "name": "zhipu_glm4_7",
+      "provider": "zhipu",
+      "model": "glm-4-7b",
+      "vlm_model": "glm-4v-plus",
+      "api_key_env": "ZHIPU_API_KEY"
+    },
+    {
+      "name": "deepseek_chat",
+      "provider": "openai",
+      "base_url": "https://api.deepseek.com",
+      "model": "deepseek-chat",
+      "vlm_model": "deepseek-vl2",
+      "api_key_env": "DEEPSEEK_API_KEY"
+    },
+    {
+      "name": "moonshot_kimi",
+      "provider": "openai",
+      "base_url": "https://api.moonshot.cn/v1",
+      "model": "moonshot-v1-8k",
+      "vlm_model": "moonshot-v1-vision-preview",
+      "api_key_env": "MOONSHOT_API_KEY"
+    },
+    {
+      "name": "qwen_plus",
+      "provider": "qwen",
+      "model": "qwen-plus",
+      "vlm_model": "qwen-vl-max",
+      "api_key_env": "QWEN_API_KEY"
+    },
+    {
+      "name": "qwen_max",
+      "provider": "qwen",
+      "model": "qwen-max",
+      "vlm_model": "qwen-vl-max",
+      "api_key_env": "QWEN_API_KEY"
+    },
+    {
+      "name": "offline_null_debug",
+      "provider": "null",
+      "model": "null",
+      "vlm_model": "heuristic"
+    }
+  ]
+}

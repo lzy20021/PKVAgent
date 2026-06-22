@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G231EO9I",
+        "name": "金发商务公寓",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "凤岗镇沙岭路12号2号铺",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 114.172366,
+        "gcj_lat": 22.713166,
+        "wgs84_lon": 114.167381733,
+        "wgs84_lat": 22.71590895,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0G231EO9I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1673817327932,
+          22.715908949973404
+        ]
+      }
+    }
+  ]
+}

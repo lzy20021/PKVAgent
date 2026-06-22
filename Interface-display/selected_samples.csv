@@ -1,0 +1,9 @@
+﻿structure_type_8,structure_display,city,point_count,density,anisotropy,selection_seed,selection_pool,mapping_note
+多簇集型,Multi-cluster,洛阳,1834,1402.693,4.07,20260409,潍坊|洛阳|绍兴,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+单核心集聚型,Single-core concentration,北京,2068,1.788,4.772,20260409,北京,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+双核心/多核心型,Dual / multi core,南通,1592,1185.596,3.245,20260409,南通|大同|天水,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+廊道带状型,Corridor-belt,乌鲁木齐,2298,1604.295,7.9,20260409,乌鲁木齐|中山|亳州,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+边缘偏置型,Edge-biased,广州,1677,3233.249,1.411,20260409,天津|泉州|广州,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+稀疏离散型,Sparse-dispersed,南平,200,90.069,1.557,20260409,上饶|南平|南阳,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+均匀分布型,Uniform,三沙,9,225685.623,9.754,20260409,三沙,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。
+混合过渡型,Hybrid transition,嘉兴,2222,3934.723,1.373,20260409,大连|嘉兴|太原,论文结构名称与 structure_type_8 字段直接一致，无需语义改写。

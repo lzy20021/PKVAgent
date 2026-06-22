@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JR7YCYKC",
+        "name": "楼上咖啡(远洋钻石湾时代海店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "共享街时代海146号5层",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "咖啡厅",
+        "city": "中山",
+        "district": "人民路街道",
+        "gcj_lon": 121.628808,
+        "gcj_lat": 38.958123,
+        "wgs84_lon": 121.62384587,
+        "wgs84_lat": 38.9573055673,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JR7YCYKC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62384587046304,
+          38.95730556732957
+        ]
+      }
+    }
+  ]
+}

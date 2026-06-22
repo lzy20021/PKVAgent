@@ -1,0 +1,47 @@
+{
+  "name": "Chaikin线平滑",
+  "task_type": "line_simplification",
+  "algorithm": "chaikin",
+  "description": "对线要素进行平滑处理，提高视觉连续性。",
+  "parameters": {
+    "iterations": {
+      "type": "int",
+      "description": "??????",
+      "default": 2,
+      "range": [
+        1,
+        8
+      ]
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.copy()\nfor _ in range({iterations}):\n    result['geometry'] = result.geometry.simplify(0.5, preserve_topology=True)\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "线要素",
+    "平滑",
+    "chaikin"
+  ],
+  "examples": [
+    {
+      "input": "对 rivers.shp 进行 Chaikin 平滑，迭代3次",
+      "parameters": {
+        "input_file": "data/rivers.shp",
+        "output_file": "out/rivers_smooth.shp",
+        "layer_name": "rivers_smooth",
+        "iterations": 3
+      }
+    },
+    {
+      "input": "??????????2?",
+      "parameters": {
+        "input_file": "data/centerline.shp",
+        "output_file": "out/centerline_smooth.shp",
+        "layer_name": "centerline_smooth",
+        "iterations": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,5080 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF8YU9B",
+        "name": "江苏省奔牛高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "南观路2号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.831292,
+        "gcj_lat": 31.84364,
+        "wgs84_lon": 119.826443041,
+        "wgs84_lat": 31.8457132316,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF8YU9B",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8264430406318,
+          31.84571323157072
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020705R77",
+        "name": "西林街道东岱社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "西林街道(东岱社区服务中心旁边)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.877234,
+        "gcj_lat": 31.773008,
+        "wgs84_lon": 119.872514679,
+        "wgs84_lat": 31.7751406768,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B020705R77",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.87251467907454,
+          31.775140676842145
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH5YHD8",
+        "name": "常州市明德实验中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "玫瑰路5号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.885714,
+        "gcj_lat": 31.779276,
+        "wgs84_lon": 119.881009787,
+        "wgs84_lat": 31.7814165771,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH5YHD8",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88100978656706,
+          31.78141657713376
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKRKNMM",
+        "name": "常州市钟楼区北港街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "棕榈路49号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.879596,
+        "gcj_lat": 31.791828,
+        "wgs84_lon": 119.874879697,
+        "wgs84_lat": 31.793965731,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKRKNMM",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.874879697138,
+          31.793965731029868
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0207047B7",
+        "name": "常州市钟楼实验中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "钟楼区经济开发区水杉路18号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.885683,
+        "gcj_lat": 31.798647,
+        "wgs84_lon": 119.88097704,
+        "wgs84_lat": 31.8007905785,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0207047B7",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88097704040393,
+          31.800790578453995
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGLSM3LT",
+        "name": "七喜精品酒店(常州中天凤凰汽配城店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "怀德南路77号中天凤凰城28栋7层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.886297,
+        "gcj_lat": 31.773261,
+        "wgs84_lon": 119.881594274,
+        "wgs84_lat": 31.7754010764,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LGLSM3LT",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8815942738997,
+          31.775401076357756
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2KC9NVE",
+        "name": "常州市妇幼保健院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "丁香路16号常州市妇幼保健院",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.89323,
+        "gcj_lat": 31.78145,
+        "wgs84_lon": 119.888536789,
+        "wgs84_lat": 31.7835947722,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2KC9NVE",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8885367887467,
+          31.783594772180024
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IBHCI1AR",
+        "name": "常州钟楼宝龙广场停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "茶花路宝龙广场B1层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.893456,
+        "gcj_lat": 31.792643,
+        "wgs84_lon": 119.888762106,
+        "wgs84_lat": 31.7947895837,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IBHCI1AR",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88876210617421,
+          31.79478958365263
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GRHYQAZ7",
+        "name": "欣欣奶屋便利店(御源林城店)",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "水杉路18号御源林城西区",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.891822,
+        "gcj_lat": 31.797687,
+        "wgs84_lon": 119.887125475,
+        "wgs84_lat": 31.7998337619,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0GRHYQAZ7",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88712547513234,
+          31.799833761916698
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1A5AA1M",
+        "name": "十足便利店(常州大数据产业园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "玉兰南路280号大数据产业园5号楼12铺",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.896484,
+        "gcj_lat": 31.810077,
+        "wgs84_lon": 119.8917923,
+        "wgs84_lat": 31.8122273315,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I1A5AA1M",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89179229952238,
+          31.81222733146937
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020701R5A",
+        "name": "常州怡悦旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "新闸凌家村委龚家塘10-5号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.894927,
+        "gcj_lat": 31.826635,
+        "wgs84_lon": 119.890231996,
+        "wgs84_lat": 31.8287878442,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B020701R5A",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89023199616491,
+          31.8287878441643
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAZ7YJJT",
+        "name": "常州市教科院附属高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "崇贤北路8号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州市",
+        "district": "钟楼区",
+        "gcj_lon": 119.901639,
+        "gcj_lat": 31.762767,
+        "wgs84_lon": 119.896956711,
+        "wgs84_lat": 31.7649106399,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IAZ7YJJT",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89695671093332,
+          31.76491063989797
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LR6HFTI4",
+        "name": "西诺尔口腔连锁中吴机构",
+        "type": "医院",
+        "typecode": 90202,
+        "address": "檀香湾花园9栋1号、2号西诺尔口腔",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.896067,
+        "gcj_lat": 31.77321,
+        "wgs84_lon": 119.891378034,
+        "wgs84_lat": 31.7753544162,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LR6HFTI4",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89137803433954,
+          31.775354416237334
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G1YMRU6G",
+        "name": "文军超市(新昌路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "新闸街道新昌路518号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.903481,
+        "gcj_lat": 31.814233,
+        "wgs84_lon": 119.898795781,
+        "wgs84_lat": 31.8163845649,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0G1YMRU6G",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89879578118524,
+          31.816384564900837
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGSGHTL",
+        "name": "常州市钟楼区昕弘实验学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "新龙路86号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.901743,
+        "gcj_lat": 31.824258,
+        "wgs84_lon": 119.897055436,
+        "wgs84_lat": 31.8264114054,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGSGHTL",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89705543602345,
+          31.826411405383663
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070VS4L",
+        "name": "常州市工贸高级技工学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "新冶路489号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.899679,
+        "gcj_lat": 31.830507,
+        "wgs84_lon": 119.894988945,
+        "wgs84_lat": 31.8326614519,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070VS4L",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.894988945306,
+          31.83266145185328
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070RFZ9",
+        "name": "常州冶金技师学院",
+        "type": "学校",
+        "typecode": 0,
+        "address": "新冶路39号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州市",
+        "district": "钟楼区",
+        "gcj_lon": 119.901001,
+        "gcj_lat": 31.841934,
+        "wgs84_lon": 119.896311216,
+        "wgs84_lat": 31.8440906639,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070RFZ9",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89631121644683,
+          31.84409066389752
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL1LNUG",
+        "name": "常州花园医院·妇科早孕·月经不调",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "怀德南路203号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.913116,
+        "gcj_lat": 31.773897,
+        "wgs84_lon": 119.908439613,
+        "wgs84_lat": 31.776039306,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL1LNUG",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.90843961322864,
+          31.776039306046332
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070W4A5",
+        "name": "星明医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": null,
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.910764,
+        "gcj_lat": 31.778538,
+        "wgs84_lon": 119.906086358,
+        "wgs84_lat": 31.7806820596,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02070W4A5",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9060863580921,
+          31.780682059558572
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JDTX98L3",
+        "name": "十足便利店(常州香悦半岛店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "新城香悦半岛北区南门旁",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.910345,
+        "gcj_lat": 31.793466,
+        "wgs84_lon": 119.905665874,
+        "wgs84_lat": 31.7956125211,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JDTX98L3",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.90566587426068,
+          31.79561252107972
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GUK7G76F",
+        "name": "青枫超市(青枫公园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "龙江路青枫公馆8号楼小店",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.909326,
+        "gcj_lat": 31.797317,
+        "wgs84_lon": 119.904646058,
+        "wgs84_lat": 31.7994645084,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0GUK7G76F",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.90464605756908,
+          31.799464508427707
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JACCUVYB",
+        "name": "家和馨酒店(常州青枫店)地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "河枫御景花苑9幢21-24号家和馨酒店(常州青枫店)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.906052,
+        "gcj_lat": 31.805406,
+        "wgs84_lon": 119.901369441,
+        "wgs84_lat": 31.8075557114,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JACCUVYB",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.90136944113806,
+          31.807555711353448
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0207044QI",
+        "name": "马公桥社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "花园新村22号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.91613,
+        "gcj_lat": 31.777564,
+        "wgs84_lon": 119.91145396,
+        "wgs84_lat": 31.7797051013,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0207044QI",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9114539597046,
+          31.779705101337928
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK54DUQ",
+        "name": "常州市钟楼区五星街道龙湖社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "龙与城49幢4号5号6号11号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.915264,
+        "gcj_lat": 31.789243,
+        "wgs84_lon": 119.910586799,
+        "wgs84_lat": 31.7913864175,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK54DUQ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.91058679874837,
+          31.791386417545233
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020705MQO",
+        "name": "钟楼区五星街道星鑫社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "星鑫家园小区(东区)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.922574,
+        "gcj_lat": 31.805189,
+        "wgs84_lon": 119.917895378,
+        "wgs84_lat": 31.8073293629,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B020705MQO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.91789537798589,
+          31.807329362891956
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJOYORC",
+        "name": "绿地社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "绿地世纪城B区西北2门北60米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.923157,
+        "gcj_lat": 31.822089,
+        "wgs84_lon": 119.91847678,
+        "wgs84_lat": 31.8242317333,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJOYORC",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.91847678006565,
+          31.824231733269755
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09200305",
+        "name": "马公桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)5号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.928959,
+        "gcj_lat": 31.777239,
+        "wgs84_lon": 119.924280519,
+        "wgs84_lat": 31.7793680842,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09200305",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9242805193698,
+          31.779368084182217
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10803722",
+        "name": "勤业(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.928603,
+        "gcj_lat": 31.786329,
+        "wgs84_lon": 119.92392391,
+        "wgs84_lat": 31.7884598846,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10803722",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92392390954609,
+          31.788459884604055
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070TTDP",
+        "name": "三井街道飞龙社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "天山花园151号3层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.929979,
+        "gcj_lat": 31.811961,
+        "wgs84_lon": 119.925296929,
+        "wgs84_lat": 31.8140943722,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02070TTDP",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92529692882525,
+          31.814094372189672
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGWOM9N",
+        "name": "常州市新北区三井街道万和城社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "三井街道绿都万和城5区16-11号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.932449,
+        "gcj_lat": 31.820658,
+        "wgs84_lon": 119.927764595,
+        "wgs84_lat": 31.8227896432,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGWOM9N",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92776459483876,
+          31.82278964323968
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070W3HZ",
+        "name": "常州市清潭中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "清潭路232号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州市",
+        "district": "钟楼区",
+        "gcj_lon": 119.937295,
+        "gcj_lat": 31.769381,
+        "wgs84_lon": 119.932611106,
+        "wgs84_lat": 31.7714973106,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070W3HZ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.93261110615126,
+          31.771497310615374
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10803717",
+        "name": "怀德(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)5号线;2号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.942478,
+        "gcj_lat": 31.780272,
+        "wgs84_lon": 119.937787665,
+        "wgs84_lat": 31.7823811975,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10803717",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.93778766473987,
+          31.782381197490928
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIAJPB9",
+        "name": "阳光康复医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "龙城大道1398号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.943385,
+        "gcj_lat": 31.817243,
+        "wgs84_lon": 119.938690343,
+        "wgs84_lat": 31.8193565841,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIAJPB9",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9386903426347,
+          31.81935658414733
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020705LQA",
+        "name": "常州兰庭宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "乾盛兰庭13幢A3-1号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "酒店",
+        "city": "常州市",
+        "district": "天宁区",
+        "gcj_lon": 119.948612,
+        "gcj_lat": 31.762636,
+        "wgs84_lon": 119.94391512,
+        "wgs84_lat": 31.7647310249,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B020705LQA",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94391512044662,
+          31.764731024857447
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020700GM1",
+        "name": "中国建设银行(常州分行营业部)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "广化街299号302路苏宁电器站",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州市",
+        "district": "钟楼区",
+        "gcj_lon": 119.952069,
+        "gcj_lat": 31.774496,
+        "wgs84_lon": 119.94736581,
+        "wgs84_lat": 31.7765855067,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020700GM1",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9473658100403,
+          31.776585506724135
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHOSHYU",
+        "name": "江南农村商业银行(飞龙桥支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "飞龙路15-3号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.943783,
+        "gcj_lat": 31.796939,
+        "wgs84_lon": 119.939089628,
+        "wgs84_lat": 31.799048434,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHOSHYU",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9390896284802,
+          31.79904843396468
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JD7REX0U",
+        "name": "晨曦超市(尚枫澜湾店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "前桥尚枫苑85号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "便利店",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.949615,
+        "gcj_lat": 31.818252,
+        "wgs84_lon": 119.944911775,
+        "wgs84_lat": 31.8203536979,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JD7REX0U",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9449117753986,
+          31.8203536978913
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0M7VLD5",
+        "name": "鹤艺术餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "三井街道长江北路18号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.94531,
+        "gcj_lat": 31.828567,
+        "wgs84_lon": 119.940611914,
+        "wgs84_lat": 31.8306790387,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J0M7VLD5",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9406119143089,
+          31.830679038681193
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF8PB49",
+        "name": "朱家社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "新桥镇",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.954406,
+        "gcj_lat": 31.886155,
+        "wgs84_lon": 119.949689172,
+        "wgs84_lat": 31.8882596802,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF8PB49",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94968917223774,
+          31.888259680246527
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020701JQM",
+        "name": "常州市第一人民医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "局前街185号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.960866,
+        "gcj_lat": 31.779492,
+        "wgs84_lon": 119.956146819,
+        "wgs84_lat": 31.7815621289,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B020701JQM",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95614681880676,
+          31.78156212889453
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMH8VZB",
+        "name": "常州市钟楼区万福幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "通江南路216号万福花园10号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.957949,
+        "gcj_lat": 31.796827,
+        "wgs84_lon": 119.953233779,
+        "wgs84_lat": 31.7989067678,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFMH8VZB",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95323377895944,
+          31.79890676779971
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ44EZQ",
+        "name": "三井街道中海龙城社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "中海龙城公馆北区东北门西120米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.96093,
+        "gcj_lat": 31.81452,
+        "wgs84_lon": 119.956207621,
+        "wgs84_lat": 31.8165956336,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJ44EZQ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95620762149068,
+          31.81659563364419
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L02CONZH",
+        "name": "常州市第一人民医院(新北区人民医院)(建设中)",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "乐山路与嫩江路交叉口北440米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.959133,
+        "gcj_lat": 31.878384,
+        "wgs84_lon": 119.954408427,
+        "wgs84_lat": 31.8804761947,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L02CONZH",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95440842673399,
+          31.88047619466494
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFRRBAD",
+        "name": "常州市田家炳高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "龙游南路8号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州市",
+        "district": "天宁区",
+        "gcj_lon": 119.969778,
+        "gcj_lat": 31.751726,
+        "wgs84_lon": 119.96504276,
+        "wgs84_lat": 31.7537695695,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFRRBAD",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96504276006212,
+          31.753769569540612
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HB2ZW7R0",
+        "name": "常州隽新鼎武中医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "博爱路72号(博爱路地铁站3号口步行370米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.964271,
+        "gcj_lat": 31.783815,
+        "wgs84_lon": 119.959544669,
+        "wgs84_lat": 31.7858773519,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HB2ZW7R0",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9595446693733,
+          31.78587735186997
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020700082",
+        "name": "武进人民医院本部",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "永宁北路2号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.968984,
+        "gcj_lat": 31.792096,
+        "wgs84_lon": 119.964246959,
+        "wgs84_lat": 31.7941474477,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B020700082",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96424695922475,
+          31.7941474477216
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9QAFS",
+        "name": "喜洋洋宾馆(新北万达广场店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "嵩山路嘉顺花园20-1号(汇丰菜场北150米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.964575,
+        "gcj_lat": 31.822541,
+        "wgs84_lon": 119.959844644,
+        "wgs84_lat": 31.8246090049,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFF9QAFS",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95984464408966,
+          31.82460900491496
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09340117",
+        "name": "泰山路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.965709,
+        "gcj_lat": 31.833339,
+        "wgs84_lon": 119.960975343,
+        "wgs84_lat": 31.83540608,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09340117",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96097534293813,
+          31.83540607999029
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020703V8W",
+        "name": "江苏银行(常州分行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "延陵中路500号(红梅公园地铁站2号口旁)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州市",
+        "district": "天宁区",
+        "gcj_lon": 119.972311,
+        "gcj_lat": 31.771007,
+        "wgs84_lon": 119.96756838,
+        "wgs84_lat": 31.7730463381,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020703V8W",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96756838020559,
+          31.773046338122484
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFEZ1RA",
+        "name": "常州站北广场地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "竹林西路西100米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.976083,
+        "gcj_lat": 31.786279,
+        "wgs84_lon": 119.971330265,
+        "wgs84_lat": 31.7883101758,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFFEZ1RA",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97133026527096,
+          31.78831017579287
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAMZIVVF",
+        "name": "常州市天宁区红梅街道北环社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "晋陵中路576号奥韵家园商铺1-8号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.973025,
+        "gcj_lat": 31.797032,
+        "wgs84_lon": 119.968278457,
+        "wgs84_lat": 31.79907335,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0IAMZIVVF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96827845678467,
+          31.79907335001584
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JBZLQT0K",
+        "name": "新北区河海街道兰翔社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "岷江路与燕山路交叉口东140米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.979972,
+        "gcj_lat": 31.822683,
+        "wgs84_lon": 119.975206674,
+        "wgs84_lat": 31.8247092076,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JBZLQT0K",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97520667376834,
+          31.824709207585375
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIXBR0M",
+        "name": "常州九悦医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "珠江路120号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.973943,
+        "gcj_lat": 31.826502,
+        "wgs84_lon": 119.969191741,
+        "wgs84_lat": 31.8285458839,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIXBR0M",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.969191740675,
+          31.82854588394068
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10589235",
+        "name": "环球港(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "地铁站",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.9807,
+        "gcj_lat": 31.839471,
+        "wgs84_lon": 119.9759314,
+        "wgs84_lat": 31.8414981966,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10589235",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97593140035244,
+          31.841498196644682
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070USLR",
+        "name": "新桥卫生院门诊",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "云河路66号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.974554,
+        "gcj_lat": 31.862765,
+        "wgs84_lon": 119.969798118,
+        "wgs84_lat": 31.8648141277,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02070USLR",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96979811831888,
+          31.86481412768311
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0SBHCW9",
+        "name": "瑞幸咖啡(江苏省常州技师学院店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "华山北路与新锦路交叉口东200米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.976775,
+        "gcj_lat": 31.875825,
+        "wgs84_lon": 119.972012717,
+        "wgs84_lat": 31.8778705808,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L0SBHCW9",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97201271724114,
+          31.87787058078419
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09340111",
+        "name": "兆丰(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.987678,
+        "gcj_lat": 31.762721,
+        "wgs84_lon": 119.982898585,
+        "wgs84_lat": 31.7647151655,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09340111",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98289858457285,
+          31.764715165461514
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHMX0IO",
+        "name": "红梅街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "竹林南路20号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.981344,
+        "gcj_lat": 31.781848,
+        "wgs84_lon": 119.976578897,
+        "wgs84_lat": 31.7838635078,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHMX0IO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97657889698817,
+          31.783863507828617
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI6BUTV",
+        "name": "常州康瑞世纪医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "竹林北路303号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.985448,
+        "gcj_lat": 31.784581,
+        "wgs84_lon": 119.980672354,
+        "wgs84_lat": 31.7865849279,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFI6BUTV",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98067235388264,
+          31.786584927891013
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGB8R0G",
+        "name": "新北区绿洲家园社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "世府·邻里中心西北门西南60米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.987362,
+        "gcj_lat": 31.805131,
+        "wgs84_lon": 119.982579648,
+        "wgs84_lat": 31.8071325528,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGB8R0G",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98257964751224,
+          31.80713255277973
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JU4CG16A",
+        "name": "常州市新北区三井街道阳光社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "天润园6-10商铺二楼(河海地铁站4号口步行450米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.98997,
+        "gcj_lat": 31.819667,
+        "wgs84_lon": 119.985179626,
+        "wgs84_lat": 31.8216632732,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JU4CG16A",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98517962591481,
+          31.82166327322177
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJHXE3J",
+        "name": "久宴·天目湖大鱼头(新区公园店)",
+        "type": "餐饮",
+        "typecode": 50000,
+        "address": "庐山路东1门东北50米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.983304,
+        "gcj_lat": 31.826757,
+        "wgs84_lon": 119.978530043,
+        "wgs84_lat": 31.8287742856,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFJHXE3J",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97853004326926,
+          31.828774285623204
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020702S75",
+        "name": "红梅街道红梅东村社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "翠虹路188号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.991429,
+        "gcj_lat": 31.782706,
+        "wgs84_lon": 119.986638101,
+        "wgs84_lat": 31.7846918156,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B020702S75",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98663810136594,
+          31.784691815625287
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAKLKMD0",
+        "name": "钟艺舞蹈学校(天宁阳光龙庭校区)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "阳光龙庭南1门旁",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.996549,
+        "gcj_lat": 31.802067,
+        "wgs84_lon": 119.991742941,
+        "wgs84_lat": 31.8040404126,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HAKLKMD0",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99174294126514,
+          31.804040412595167
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG206B0",
+        "name": "世茂香槟社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "太湖东路世茂香槟湖58号楼",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.997982,
+        "gcj_lat": 31.81364,
+        "wgs84_lon": 119.993171129,
+        "wgs84_lat": 31.815611022,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG206B0",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99317112903246,
+          31.8156110220132
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070S2FJ",
+        "name": "常州市天宁区青龙街道紫云苑社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "紫云苑社区会所2层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.006344,
+        "gcj_lat": 31.764806,
+        "wgs84_lon": 120.001515396,
+        "wgs84_lat": 31.7667440487,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02070S2FJ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00151539551412,
+          31.766744048716955
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10803728",
+        "name": "紫云(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线;2号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.005607,
+        "gcj_lat": 31.769136,
+        "wgs84_lon": 120.000779947,
+        "wgs84_lat": 31.771076879,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10803728",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00077994658744,
+          31.771076879030357
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ68WTH",
+        "name": "常州市虹景中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "三丰路99号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.000162,
+        "gcj_lat": 31.783129,
+        "wgs84_lon": 119.995348073,
+        "wgs84_lat": 31.7850884412,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJ68WTH",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99534807337554,
+          31.785088441212256
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09340114",
+        "name": "北塘河路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.006129,
+        "gcj_lat": 31.80672,
+        "wgs84_lon": 120.001297232,
+        "wgs84_lat": 31.8086651278,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09340114",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00129723189852,
+          31.808665127768148
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0207039U9",
+        "name": "青龙中心幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "青龙街道青龙苑14幢",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.017413,
+        "gcj_lat": 31.790081,
+        "wgs84_lon": 120.012553681,
+        "wgs84_lat": 31.7919898455,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0207039U9",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.01255368120938,
+          31.791989845544048
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09200314",
+        "name": "横塘河东路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)5号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.023064,
+        "gcj_lat": 31.797445,
+        "wgs84_lon": 120.018190194,
+        "wgs84_lat": 31.799338816,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09200314",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.01819019406852,
+          31.799338815966237
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IG4H26XO",
+        "name": "新紫金大酒店地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "龙汇路与紫林路交叉口北120米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.008568,
+        "gcj_lat": 31.791068,
+        "wgs84_lon": 120.003731238,
+        "wgs84_lat": 31.7930032233,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IG4H26XO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00373123849144,
+          31.793003223256765
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDS7T2LH",
+        "name": "颈肩腰腿痛(妙曲堂)专科门诊",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "青龙苑七期商铺175-2号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.016957,
+        "gcj_lat": 31.798893,
+        "wgs84_lon": 120.012098036,
+        "wgs84_lat": 31.8008045842,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0KDS7T2LH",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.01209803563324,
+          31.80080458422288
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10803724",
+        "name": "三角场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.992655,
+        "gcj_lat": 31.777457,
+        "wgs84_lon": 119.987861362,
+        "wgs84_lat": 31.77943834,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10803724",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98786136209358,
+          31.77943834002485
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09200321",
+        "name": "北环(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)5号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.983666,
+        "gcj_lat": 31.791069,
+        "wgs84_lon": 119.978894287,
+        "wgs84_lat": 31.7930791708,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09200321",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97889428703954,
+          31.79307917079608
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09340127",
+        "name": "朝阳(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "地铁站",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.980705,
+        "gcj_lat": 31.762516,
+        "wgs84_lon": 119.97594318,
+        "wgs84_lat": 31.7645305839,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09340127",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9759431799266,
+          31.764530583942157
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070RAIO",
+        "name": "青枫公园7号门停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "青枫公园南门(近水杉路)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.897688,
+        "gcj_lat": 31.793333,
+        "wgs84_lon": 119.892999115,
+        "wgs84_lat": 31.7954808082,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B02070RAIO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89299911503463,
+          31.795480808238985
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGYS3HX4",
+        "name": "同德医院",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "新福路208号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.907291,
+        "gcj_lat": 31.829534,
+        "wgs84_lon": 119.902607122,
+        "wgs84_lat": 31.8316876704,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LGYS3HX4",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9026071224712,
+          31.831687670427502
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070TQXI",
+        "name": "枫逸幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "童子河东路166号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.887909,
+        "gcj_lat": 31.804606,
+        "wgs84_lon": 119.883206111,
+        "wgs84_lat": 31.8067519464,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070TQXI",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8832061109268,
+          31.8067519463856
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020701QS0",
+        "name": "常州市五星幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "钟楼区实验小学平冈校区(劳动西路)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.923417,
+        "gcj_lat": 31.792452,
+        "wgs84_lon": 119.918739307,
+        "wgs84_lat": 31.7945894823,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B020701QS0",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9187393065672,
+          31.79458948229802
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMAZLBU",
+        "name": "中国民生银行(常州钟楼支行)",
+        "type": "银行",
+        "typecode": 160112,
+        "address": "星港路43号(青枫公园地铁站3号口步行310米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.895685,
+        "gcj_lat": 31.803262,
+        "wgs84_lon": 119.890992958,
+        "wgs84_lat": 31.8054109903,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFMAZLBU",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89099295785117,
+          31.805410990320894
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020703MJB",
+        "name": "中国工商银行24小时自助银行(新闸支行)",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "新闸镇新昌路191号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.9118,
+        "gcj_lat": 31.810929,
+        "wgs84_lon": 119.907119943,
+        "wgs84_lat": 31.8130778012,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020703MJB",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.90713121136953,
+          31.81313502017397
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020703GVV",
+        "name": "中国邮政储蓄银行(新闸营业所)",
+        "type": "银行",
+        "typecode": 160139,
+        "address": "新闸新府路56号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.896071,
+        "gcj_lat": 31.814664,
+        "wgs84_lon": 119.891378418,
+        "wgs84_lat": 31.8168150248,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020703GVV",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8913784180141,
+          31.81681502482822
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J6JA6JDO",
+        "name": "招商银行24小时自助银行(钟楼支行)",
+        "type": "银行",
+        "typecode": 160306,
+        "address": "劳动西路星韵城1-1幢102室",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "钟楼区",
+        "gcj_lon": 119.916584,
+        "gcj_lat": 31.794854,
+        "wgs84_lon": 119.911906511,
+        "wgs84_lat": 31.7969974658,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0J6JA6JDO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9119065110239,
+          31.796997465760295
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFT4CH5",
+        "name": "中视大风车双语幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "三井街道新城玉龙湾花园22号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.945267,
+        "gcj_lat": 31.805881,
+        "wgs84_lon": 119.940570956,
+        "wgs84_lat": 31.807989145,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFT4CH5",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94057095616093,
+          31.80798914498156
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KGZSU7J7",
+        "name": "新北泰山实验学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "锦岱路5号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.953334,
+        "gcj_lat": 31.821205,
+        "wgs84_lon": 119.948624666,
+        "wgs84_lat": 31.8232993416,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0KGZSU7J7",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94862466570376,
+          31.8232993416328
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJMM3IY",
+        "name": "常州市实验初级中学",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "博爱路154号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.960384,
+        "gcj_lat": 31.786225,
+        "wgs84_lon": 119.955665155,
+        "wgs84_lat": 31.7882973145,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJMM3IY",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95566515475865,
+          31.788297314461364
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFT0242",
+        "name": "江南农村商业银行(大名城支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "华山南路9号大名城40-1-8",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.946,
+        "gcj_lat": 31.810444,
+        "wgs84_lon": 119.941302587,
+        "wgs84_lat": 31.8125515221,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFT0242",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94130258684041,
+          31.812551522119872
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LA2UKDH3",
+        "name": "常州市新北区三井人民医院(河海院区)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "建东路19号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "医院",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.990249,
+        "gcj_lat": 31.82613,
+        "wgs84_lon": 119.985457329,
+        "wgs84_lat": 31.8281265928,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LA2UKDH3",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98545732851208,
+          31.82812659280986
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0207044RA",
+        "name": "中国建设银行(常州延陵路支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "延陵中路670号(文化宫地铁站7号口步行140米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州市",
+        "district": "天宁区",
+        "gcj_lon": 119.966247,
+        "gcj_lat": 31.774173,
+        "wgs84_lon": 119.961517413,
+        "wgs84_lat": 31.7762288795,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0207044RA",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96151741348291,
+          31.77622887954941
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGZS5UJ",
+        "name": "常州大剧院-地下停车场",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "广场大道常州市民广场",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "停车场",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.976344,
+        "gcj_lat": 31.809261,
+        "wgs84_lon": 119.971588621,
+        "wgs84_lat": 31.8112951716,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGZS5UJ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97158862054684,
+          31.811295171579804
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H3RUHDW7",
+        "name": "常州奥林匹克体育中心停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "三井街道晋陵北路1号常州奥林匹克体育中心",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "停车场",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.978452,
+        "gcj_lat": 31.804616,
+        "wgs84_lon": 119.973691972,
+        "wgs84_lat": 31.8066434291,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H3RUHDW7",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97369197243606,
+          31.806643429088435
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10589246",
+        "name": "常州北站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "地铁站",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.955802,
+        "gcj_lat": 31.854907,
+        "wgs84_lon": 119.951085517,
+        "wgs84_lat": 31.8570021727,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10589246",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95108551743657,
+          31.857002172714648
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10558457",
+        "name": "辽河路长江路(快速公交站)",
+        "type": "交通设施",
+        "typecode": 150704,
+        "address": "B1路",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "公交站",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.962082,
+        "gcj_lat": 31.855728,
+        "wgs84_lon": 119.957353749,
+        "wgs84_lat": 31.8578084765,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10558457",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95735374907575,
+          31.8578084764902
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070W60L",
+        "name": "常州市新桥中心幼儿园滨江园区",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "滨江明珠城18幢",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.973153,
+        "gcj_lat": 31.869155,
+        "wgs84_lon": 119.968399804,
+        "wgs84_lat": 31.8712092824,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070W60L",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96839980391175,
+          31.871209282355192
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070R8X9",
+        "name": "常州旅游商贸高等职业技术学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "新桥镇红河路88号(旅游学校地铁站5号口步行260米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.960234,
+        "gcj_lat": 31.871515,
+        "wgs84_lon": 119.955507949,
+        "wgs84_lat": 31.8736031477,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02070R8X9",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95550794945751,
+          31.873603147700546
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2PCDAQB",
+        "name": "常州市新北区新龙湖幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "龙六路209号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.978507,
+        "gcj_lat": 31.862081,
+        "wgs84_lon": 119.973741765,
+        "wgs84_lat": 31.8641188803,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J2PCDAQB",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97374176469532,
+          31.864118880305636
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09483782",
+        "name": "云河路乐山路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "Y1路",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "公交站",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.954871,
+        "gcj_lat": 31.867071,
+        "wgs84_lon": 119.950155058,
+        "wgs84_lat": 31.8691706981,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09483782",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95015505814705,
+          31.869170698079028
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09483783",
+        "name": "云河路轩文路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "Y1路",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "公交站",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.950798,
+        "gcj_lat": 31.868119,
+        "wgs84_lon": 119.946088603,
+        "wgs84_lat": 31.8702277324,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09483783",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94608860270806,
+          31.870227732421824
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K6095NYA",
+        "name": "豫锦民宿(常州高铁北站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "龙虎塘街道壹号天禧花园1幢乙单元1001室",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.966004,
+        "gcj_lat": 31.853724,
+        "wgs84_lon": 119.96126793,
+        "wgs84_lat": 31.8557942111,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K6095NYA",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96126793025755,
+          31.855794211119036
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1PN3HYU",
+        "name": "luckincoffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "新景花苑西区",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.969502,
+        "gcj_lat": 31.863652,
+        "wgs84_lon": 119.964757521,
+        "wgs84_lat": 31.8657150334,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1PN3HYU",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9646729617764,
+          31.865644904627857
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKX5N3VD",
+        "name": "吾悦广场停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "乐山路99号吾悦广场(新桥地铁站4号口步行120米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.955365,
+        "gcj_lat": 31.861312,
+        "wgs84_lon": 119.950648714,
+        "wgs84_lat": 31.8634094305,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LKX5N3VD",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9506487143358,
+          31.863409430467602
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLF1UCS",
+        "name": "舅婆家(新景花苑店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "武夷山路新景花苑28-8号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.967056,
+        "gcj_lat": 31.8669,
+        "wgs84_lon": 119.962316542,
+        "wgs84_lat": 31.8689701196,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFLF1UCS",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96231654191718,
+          31.86897011960516
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1767ZMY",
+        "name": "叁野咖啡(新桥店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "馨都苑46号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.964468,
+        "gcj_lat": 31.859896,
+        "wgs84_lon": 119.959734577,
+        "wgs84_lat": 31.8619713482,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1767ZMY",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95973457745961,
+          31.861971348195336
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KA7LZRNO",
+        "name": "7+7私家饭堂(晶曜花园店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "晶?花园12栋6号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.962252,
+        "gcj_lat": 31.866974,
+        "wgs84_lon": 119.957522423,
+        "wgs84_lat": 31.8690563059,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0KA7LZRNO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95752242344764,
+          31.869056305885252
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I137VETN",
+        "name": "h5High Coffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "崇义路5号(新龙湖音乐公园内)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.960125,
+        "gcj_lat": 31.86075,
+        "wgs84_lon": 119.955400104,
+        "wgs84_lat": 31.8628362334,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I137VETN",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95540706159136,
+          31.862811916739265
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020705J0M",
+        "name": "常州天利宾馆(辽河路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "龙虎塘盘龙苑21号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.98426,
+        "gcj_lat": 31.851226,
+        "wgs84_lon": 119.979481471,
+        "wgs84_lat": 31.8532450912,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B020705J0M",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9794814708033,
+          31.853245091154687
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG9CHBF",
+        "name": "徽商酒店(常州高铁北站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "武夷山路锦海星城19栋5-6层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.969076,
+        "gcj_lat": 31.873059,
+        "wgs84_lon": 119.964331628,
+        "wgs84_lat": 31.8751250755,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG9CHBF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96433162827404,
+          31.875125075475147
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070R8YF",
+        "name": "鑫程宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "腾龙苑51-2号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.970648,
+        "gcj_lat": 31.857917,
+        "wgs84_lon": 119.965901482,
+        "wgs84_lat": 31.8599758251,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02070R8YF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9659014816161,
+          31.85997582508791
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070S1JI",
+        "name": "隆达宾馆(创新一路)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "龙虎塘辽河路常澄路综合市场大门旁",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.989472,
+        "gcj_lat": 31.85047,
+        "wgs84_lon": 119.984680188,
+        "wgs84_lat": 31.852473491,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02070S1JI",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98468018787389,
+          31.85247349100085
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070355N",
+        "name": "青龙街道青龙苑卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "青龙苑街道93-16号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.0185,
+        "gcj_lat": 31.795014,
+        "wgs84_lon": 120.013637534,
+        "wgs84_lat": 31.7969204711,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02070355N",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.01363753429511,
+          31.796920471054268
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGZX6C8",
+        "name": "格林豪泰酒店(常州环球港恐龙园高铁北站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "龙虎塘街道南街168号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.987134,
+        "gcj_lat": 31.844348,
+        "wgs84_lon": 119.982348761,
+        "wgs84_lat": 31.8463572784,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGZX6C8",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98234876108593,
+          31.846357278367847
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3SC2YZM",
+        "name": "库迪咖啡(牡丹国际花园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "牡丹国际花园16-14",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.976244,
+        "gcj_lat": 31.850187,
+        "wgs84_lon": 119.971485247,
+        "wgs84_lat": 31.8522289298,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L3SC2YZM",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97148524704797,
+          31.85222892980014
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM5748B",
+        "name": "常州工学院辽河路校区计算机信息工程学院",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "辽河路666号常州工学院辽河路校区",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.946223,
+        "gcj_lat": 31.868154,
+        "wgs84_lon": 119.941520231,
+        "wgs84_lat": 31.8702719425,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFM5748B",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94152023084555,
+          31.87027194247275
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IKJS0SDD",
+        "name": "平安银行(常州分行营业部)",
+        "type": "银行",
+        "typecode": 160117,
+        "address": "东经120路19号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.00467,
+        "gcj_lat": 31.799488,
+        "wgs84_lon": 119.999842714,
+        "wgs84_lat": 31.8014363414,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0IKJS0SDD",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9998427139024,
+          31.80143634142187
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2MHY7A0",
+        "name": "翠竹新村社区卫生服务站北区工作室",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "永宁北路与飞龙东路交叉口东北380米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.978545,
+        "gcj_lat": 31.796078,
+        "wgs84_lon": 119.9737855,
+        "wgs84_lat": 31.7981037636,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G2MHY7A0",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97378550017636,
+          31.79810376355106
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL4A0XS",
+        "name": "常州市第二实验小学(翠竹校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "翠竹路98号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.984762,
+        "gcj_lat": 31.795958,
+        "wgs84_lon": 119.979987089,
+        "wgs84_lat": 31.7979657337,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFL4A0XS",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97998708908972,
+          31.79796573367253
+        ]
+      }
+    },
+    {
+      "id": "117",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9QJWO",
+        "name": "中信银行(常州城东支行)",
+        "type": "银行",
+        "typecode": 160111,
+        "address": "竹林北路凯旋城7-2号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.991985,
+        "gcj_lat": 31.787168,
+        "wgs84_lon": 119.987192255,
+        "wgs84_lat": 31.7891528255,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFF9QJWO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98710748259116,
+          31.789218837270695
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3VUIBIZ",
+        "name": "好运咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "云台山路与辽河路交叉口东北60米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.970349,
+        "gcj_lat": 31.853704,
+        "wgs84_lon": 119.965603521,
+        "wgs84_lat": 31.8557627965,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L3VUIBIZ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96560352057911,
+          31.855762796454155
+        ]
+      }
+    },
+    {
+      "id": "119",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G07C3EIM",
+        "name": "观堂餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "龙虎东路九洲花园4幢会所",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.991284,
+        "gcj_lat": 31.846542,
+        "wgs84_lon": 119.986487823,
+        "wgs84_lat": 31.8485392973,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0G07C3EIM",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98648782330525,
+          31.848539297273874
+        ]
+      }
+    },
+    {
+      "id": "120",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI9N8ZI",
+        "name": "新桥高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "红河路116号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.950885,
+        "gcj_lat": 31.872894,
+        "wgs84_lon": 119.946175049,
+        "wgs84_lat": 31.875003525,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI9N8ZI",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94617504878562,
+          31.875003525002743
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGM73B2H",
+        "name": "南京银行常州龙锦支行",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "琅越龙洲1幢",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 120.003305,
+        "gcj_lat": 31.793253,
+        "wgs84_lon": 119.998481868,
+        "wgs84_lat": 31.7952044728,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0JGM73B2H",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99848186796324,
+          31.7952044728151
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020703MUF",
+        "name": "中国农业银行(黄山路支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "黄山路555号-2-1号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.988022,
+        "gcj_lat": 31.83629,
+        "wgs84_lon": 119.983235192,
+        "wgs84_lat": 31.838295115,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020703MUF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98328857788685,
+          31.838355795528106
+        ]
+      }
+    },
+    {
+      "id": "123",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070RAXF",
+        "name": "中国建设银行24小时自助银行(常州彩虹城支行)",
+        "type": "银行",
+        "typecode": 160303,
+        "address": "彩虹城32-12114号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.988752,
+        "gcj_lat": 31.798851,
+        "wgs84_lon": 119.983966623,
+        "wgs84_lat": 31.8008473758,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02070RAXF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98396662327941,
+          31.800847375826176
+        ]
+      }
+    },
+    {
+      "id": "124",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGZXQ72",
+        "name": "天宁区科技促进中心C区停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "业丰路天宁科技促进中心",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.998951,
+        "gcj_lat": 31.791935,
+        "wgs84_lon": 119.994139494,
+        "wgs84_lat": 31.7938994837,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGZXQ72",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99413949411644,
+          31.79389948365992
+        ]
+      }
+    },
+    {
+      "id": "125",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI25QXI",
+        "name": "米朵小聚餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "龙沧路与河海东路交口世茂香槟湖苑203栋",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 120.004217,
+        "gcj_lat": 31.816496,
+        "wgs84_lon": 119.999389395,
+        "wgs84_lat": 31.8184485916,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFI25QXI",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99938939465164,
+          31.818448591633686
+        ]
+      }
+    },
+    {
+      "id": "126",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G10CE3RA",
+        "name": "青竹幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "青丰路与青业路交叉口南100米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.99981,
+        "gcj_lat": 31.798864,
+        "wgs84_lon": 119.994995607,
+        "wgs84_lat": 31.8008269874,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0G10CE3RA",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99499560731336,
+          31.800826987413828
+        ]
+      }
+    },
+    {
+      "id": "127",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0207045ZW",
+        "name": "中国建设银行(新北支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "峨眉山路1号建设大厦A座1-2层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "银行",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.97414,
+        "gcj_lat": 31.831364,
+        "wgs84_lon": 119.969387854,
+        "wgs84_lat": 31.8334082271,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0207045ZW",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96938785428875,
+          31.83340822714187
+        ]
+      }
+    },
+    {
+      "id": "128",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3H7AVQO",
+        "name": "新丰苑门前停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "新丰苑",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "停车场",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.99404,
+        "gcj_lat": 31.794263,
+        "wgs84_lon": 119.989241241,
+        "wgs84_lat": 31.7962427414,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L3H7AVQO",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9892412411568,
+          31.796242741372897
+        ]
+      }
+    },
+    {
+      "id": "129",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDTS29YJ",
+        "name": "亨星便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "太湖东路170号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "便利店",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.979058,
+        "gcj_lat": 31.814969,
+        "wgs84_lon": 119.974295588,
+        "wgs84_lat": 31.8169964657,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KDTS29YJ",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9742955877388,
+          31.816996465745554
+        ]
+      }
+    },
+    {
+      "id": "130",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10146193",
+        "name": "通江路龙城大道(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "11路",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "公交站",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.965213,
+        "gcj_lat": 31.810551,
+        "wgs84_lon": 119.96048238,
+        "wgs84_lat": 31.8126152877,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10146193",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96048238026897,
+          31.81261528772229
+        ]
+      }
+    },
+    {
+      "id": "131",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM8Y8LF",
+        "name": "莫图鲁尼",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "世茂商业广场8栋101号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 120.004139,
+        "gcj_lat": 31.811695,
+        "wgs84_lon": 119.999312028,
+        "wgs84_lat": 31.8136469962,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFM8Y8LF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.99931202754308,
+          31.81364699618783
+        ]
+      }
+    },
+    {
+      "id": "132",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L25ZCNP8",
+        "name": "慧发便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "新北万达C座1220",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "便利店",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.969503,
+        "gcj_lat": 31.817982,
+        "wgs84_lon": 119.964762542,
+        "wgs84_lat": 31.8200363988,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L25ZCNP8",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9647625421877,
+          31.8200363987842
+        ]
+      }
+    },
+    {
+      "id": "133",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL2XF7X",
+        "name": "常州文化广场地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "锦绣路2号(常州市政务服务中心1号楼)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "停车场",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.974464,
+        "gcj_lat": 31.803155,
+        "wgs84_lon": 119.969713586,
+        "wgs84_lat": 31.8051933888,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFL2XF7X",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96971358594232,
+          31.805193388838745
+        ]
+      }
+    },
+    {
+      "id": "134",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9R61I",
+        "name": "怡康花园社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "怡康机电广场1-121",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "医院",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.965905,
+        "gcj_lat": 31.787532,
+        "wgs84_lon": 119.961174959,
+        "wgs84_lat": 31.7895907626,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF9R61I",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96117495918388,
+          31.789590762648004
+        ]
+      }
+    },
+    {
+      "id": "135",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG8OT66",
+        "name": "羽佳超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "三井街道府西花园7-106",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "便利店",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.970672,
+        "gcj_lat": 31.813725,
+        "wgs84_lon": 119.965929322,
+        "wgs84_lat": 31.8157755313,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFG8OT66",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96592932165281,
+          31.81577553129244
+        ]
+      }
+    },
+    {
+      "id": "136",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070UHOK",
+        "name": "常州生富旅馆",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "北环路陈家塘50号(翠竹地铁站3号口步行350米)",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "酒店",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.978667,
+        "gcj_lat": 31.791273,
+        "wgs84_lon": 119.973907628,
+        "wgs84_lat": 31.7932976502,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02070UHOK",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97390762809825,
+          31.79329765015957
+        ]
+      }
+    },
+    {
+      "id": "137",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HG0AVWM3",
+        "name": "天猫小店优琦超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "三井街道太湖中路9号108",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "便利店",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.96572,
+        "gcj_lat": 31.81635,
+        "wgs84_lon": 119.960987814,
+        "wgs84_lat": 31.8184139941,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0HG0AVWM3",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.96098781413887,
+          31.818413994077908
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2ZZG4F5",
+        "name": "梵泊9号餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "三井街道泰山路178号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "餐饮",
+        "city": "常州市",
+        "district": "新北区",
+        "gcj_lon": 119.95896,
+        "gcj_lat": 31.818843,
+        "wgs84_lon": 119.954240982,
+        "wgs84_lat": 31.8209241133,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0G2ZZG4F5",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95424098230649,
+          31.820924113255693
+        ]
+      }
+    },
+    {
+      "id": "139",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02070TQE1",
+        "name": "招商银行24小时自助银行(常州分行)",
+        "type": "银行",
+        "typecode": 160306,
+        "address": "通江南路88-1号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "钟楼区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.954522,
+        "gcj_lat": 31.794103,
+        "wgs84_lon": 119.949813054,
+        "wgs84_lat": 31.7961901448,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02070TQE1",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.94981305420829,
+          31.796190144788277
+        ]
+      }
+    },
+    {
+      "id": "140",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020703XNL",
+        "name": "常州卫生高等职业技术学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "锦绣路18号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.968253,
+        "gcj_lat": 31.802198,
+        "wgs84_lon": 119.963516663,
+        "wgs84_lat": 31.8042530107,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B020703XNL",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9635166631685,
+          31.80425301071815
+        ]
+      }
+    },
+    {
+      "id": "141",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L6XDSBGF",
+        "name": "幸运咖(常州工学院店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "辽河路666号常州工学院莘园公寓4B-106-1",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "咖啡厅",
+        "city": "常州",
+        "district": "新北区",
+        "gcj_lon": 119.943938,
+        "gcj_lat": 31.87314,
+        "wgs84_lon": 119.939237763,
+        "wgs84_lat": 31.8752632636,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L6XDSBGF",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.93923776320153,
+          31.875263263597088
+        ]
+      }
+    },
+    {
+      "id": "142",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ5VEON",
+        "name": "雅居乐星河湾幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "泰山路辅路与三井河路交叉口西100米",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "新北区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.956949,
+        "gcj_lat": 31.81507,
+        "wgs84_lon": 119.952233987,
+        "wgs84_lat": 31.8171551499,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJ5VEON",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95223398661851,
+          31.81715514987118
+        ]
+      }
+    },
+    {
+      "id": "143",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J06SHNYW",
+        "name": "常州市天宁区北环翕乐幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "庙湾西路65号",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "学校",
+        "city": "常州",
+        "district": "天宁区",
+        "gcj_lon": 119.988055,
+        "gcj_lat": 31.790102,
+        "wgs84_lon": 119.983272195,
+        "wgs84_lat": 31.7920990546,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J06SHNYW",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98327219486256,
+          31.792099054599685
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B020705N1E",
+        "name": "中国农业银行(常州金佰支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "常澄路18号金百国际商业广场F1层",
+        "pname": "江苏省",
+        "cityname": "常州市",
+        "adname": "天宁区",
+        "query_category": "银行",
+        "city": "常州",
+        "district": "三井街道",
+        "gcj_lon": 119.961696,
+        "gcj_lat": 31.803418,
+        "wgs84_lon": 119.956973105,
+        "wgs84_lat": 31.8054898792,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B020705N1E",
+        "__mapgen_user_pick": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95699509657665,
+          31.805503663920934
+        ]
+      }
+    }
+  ]
+}

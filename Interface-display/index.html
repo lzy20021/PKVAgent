@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PointGenAI - IDE</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-left">
+        <p class="eyebrow">PointGenAI</p>
+        <h1>Symbol-aware Point Generalization</h1>
+      </div>
+      <div class="topbar-right">
+        <span class="status-tag">System Ready</span>
+      </div>
+    </header>
+
+    <main class="layout-grid">
+      <!-- Left Sidebar: Samples & Legend -->
+      <aside class="sidebar">
+        <section class="card">
+          <div class="section-head">
+            <h3>Primary Focus</h3>
+            <span class="pill">Current</span>
+          </div>
+          <h2 id="primaryCity">-</h2>
+          <p id="primaryStructure" class="primary-structure"></p>
+          <div class="focus-metrics">
+            <div class="focus-metric">
+              <span>Points (In → Out)</span>
+              <strong id="primaryFlow">0 → 0</strong>
+            </div>
+            <div class="focus-metric">
+              <span>Reduction Rate</span>
+              <strong id="metricReduction">0%</strong>
+            </div>
+          </div>
+        </section>
+        
+        <section class="card">
+          <div class="section-head">
+            <h3>Samples Workspace</h3>
+            <span class="pill">8 Items</span>
+          </div>
+          <div id="sampleList" class="sample-list"></div>
+        </section>
+
+        <section class="card" style="border-bottom: none;">
+          <div class="section-head">
+            <h3>Symbol Reference</h3>
+            <span class="pill">Prototypes</span>
+          </div>
+          <div id="legendList" class="legend-list"></div>
+        </section>
+      </aside>
+
+      <!-- Center: Map Viewer -->
+      <section class="map-column">
+        <div class="toolbar-row">
+          <div class="segmented">
+            <button class="segment-btn active" data-view="overlay">Overlay</button>
+            <button class="segment-btn" data-view="before">Original</button>
+            <button class="segment-btn" data-view="after">Generalized</button>
+          </div>
+          <div class="map-stats">
+            <span class="stat-chip">Render Mode: SVG</span>
+            <span id="reductionBadge" class="stat-chip emphasize">0% red.</span>
+          </div>
+        </div>
+
+        <div class="map-card">
+          <div class="map-head">
+            <h2>Spatial Distribution Viewer</h2>
+            <p id="mapDescription">Select a sample to visualize the generalization process.</p>
+          </div>
+          <div class="map-svg-wrapper">
+            <svg id="mapSvg" viewBox="0 0 860 560" aria-label="Point generalization map"></svg>
+          </div>
+          <div class="map-footer">
+            <div class="footer-metric">
+              <span>Input Features</span>
+              <strong id="footerInputCount">0</strong>
+            </div>
+            <div class="footer-metric">
+              <span>Output Features</span>
+              <strong id="footerOutputCount">0</strong>
+            </div>
+            <div class="footer-metric">
+              <span>Semantic Classes</span>
+              <strong id="footerCategories">0</strong>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Sidebar: Agent & Timeline -->
+      <aside class="dialog-column">
+        <section class="card">
+          <div class="section-head">
+            <h3>Agent Reasoning</h3>
+            <span class="pill">Log</span>
+          </div>
+          <div id="questionList" class="question-list"></div>
+        </section>
+
+        <section class="timeline">
+          <article class="timeline-card">
+            <span class="timeline-index">01</span>
+            <div>
+              <h3>Data Ingestion</h3>
+              <p id="dataInputText">-</p>
+            </div>
+          </article>
+          <article class="timeline-card">
+            <span class="timeline-index">02</span>
+            <div>
+              <h3>Task Instruction</h3>
+              <p id="requestText">-</p>
+            </div>
+          </article>
+          <article class="timeline-card">
+            <span class="timeline-index">03</span>
+            <div>
+              <h3>Context Analysis</h3>
+              <p id="understandingText">-</p>
+            </div>
+          </article>
+          <article class="timeline-card">
+            <span class="timeline-index">04</span>
+            <div>
+              <h3>Skill Execution</h3>
+              <p id="strategyText">-</p>
+            </div>
+          </article>
+          <article class="timeline-card">
+            <span class="timeline-index">05</span>
+            <div>
+              <h3>Final Output</h3>
+              <p id="outputText">-</p>
+            </div>
+          </article>
+        </section>
+
+        <section class="category-card" style="border-top: 1px solid var(--border);">
+          <div class="section-head">
+            <h3>Semantic Retention</h3>
+            <span class="pill">Metrics</span>
+          </div>
+          <div id="categoryBars" class="category-bars"></div>
+        </section>
+      </aside>
+    </main>
+  </div>
+  <script src="./demo_bundle.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

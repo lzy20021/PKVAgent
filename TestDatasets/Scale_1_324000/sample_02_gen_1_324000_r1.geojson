@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F032O0",
+        "name": "牌口村幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "皋埠镇牌口村",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.692519,
+        "gcj_lat": 29.942093,
+        "wgs84_lon": 120.688324551,
+        "wgs84_lat": 29.9446063638,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F032O0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68832455077565,
+          29.944606363752612
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGDJAUF",
+        "name": "杭州师范大学附属医院仓前校区卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "杭州师范大学博文苑7号楼1层",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "余杭区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "余杭区",
+        "gcj_lon": 120.008285,
+        "gcj_lat": 30.28945,
+        "wgs84_lon": 120.003578933,
+        "wgs84_lat": 30.2918798338,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGDJAUF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00357893330778,
+          30.29187983375654
+        ]
+      }
+    }
+  ]
+}

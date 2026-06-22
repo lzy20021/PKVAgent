@@ -1,0 +1,41 @@
+扩展全国POI结构图生成总结
+========================================
+实际城市数量: 152
+总POI数量: 125326
+
+8类结构统计（点数 / 城市数）:
+- 多簇集型: 点 27218 / 城市 27
+- 单核心集聚型: 点 2068 / 城市 1
+- 双核心/多核心型: 点 8265 / 城市 13
+- 廊道带状型: 点 4885 / 城市 6
+- 边缘偏置型: 点 21540 / 城市 29
+- 稀疏离散型: 点 1200 / 城市 6
+- 均匀分布型: 点 9 / 城市 1
+- 混合过渡型: 点 60141 / 城市 69
+
+POI类别点数:
+- 公交站/地铁站: 18762
+- 餐饮: 16136
+- 便利店: 16051
+- 学校: 15726
+- 停车场: 15475
+- 酒店: 14968
+- 银行: 14553
+- 医院: 13655
+
+输入文件:
+- E:/GradOpening/MapGenAI/amap_poi_dataset_expanded/all_poi_expanded.csv
+- API接口:
+  - https://restapi.amap.com/v3/config/district
+  - https://restapi.amap.com/v3/place/text
+- 抓取目标城市数: 130
+- 抓取成功城市记录数: 97
+- API请求数: 1253
+
+输出文件:
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_structure_map_8types.png
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_structure_map_8types.svg
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_structure_map_8types.pdf
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/fig_china_poi_structure_legend_8types.png
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/poi_structure_labels_8types.csv
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/summary_expanded_structure_map.txt

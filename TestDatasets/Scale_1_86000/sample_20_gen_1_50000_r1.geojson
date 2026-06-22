@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00156NU7E",
+        "name": "普陀区教育学院附属中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "子洲路281号",
+        "pname": "上海市",
+        "cityname": "上海市",
+        "adname": "普陀区",
+        "query_category": "学校",
+        "city": "上海",
+        "district": "普陀区",
+        "gcj_lon": 121.388503,
+        "gcj_lat": 31.25516,
+        "wgs84_lon": 121.383854059,
+        "wgs84_lat": 31.2569881334,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00156NU7E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.38385405851768,
+          31.25698813341263
+        ]
+      }
+    }
+  ]
+}

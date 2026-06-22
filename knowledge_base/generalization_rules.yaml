@@ -1,0 +1,116 @@
+version: 1
+
+standards:
+  authority: "国家市场监督管理总局 / 国家标准化管理委员会 / 自然资源部（测绘地理）"
+  basis:
+    topographic_map_products:
+      large: ["GB/T 33176-2016", "1:500 1:1000 1:2000地形图"]
+      medium: ["GB/T 33177-2016", "1:5000 1:10000地形图"]
+      small: ["GB/T 33180-2016", "1:25000 1:50000 1:100000地形图"]
+      smaller: ["GB/T 33181-2016", "1:250000 1:500000 1:1000000地形图"]
+    cartographic_symbols:
+      large: ["GB/T 20257.1-2017", "1:500 1:1000 1:2000地形图图式"]
+      medium: ["GB/T 20257.2-2017", "1:5000 1:10000地形图图式"]
+      small: ["GB/T 20257.3-2017", "1:25000 1:50000 1:100000地形图图式"]
+      smaller: ["GB/T 20257.4-2017", "1:250000 1:500000 1:1000000地形图图式"]
+    compilation_specifications:
+      small: ["GB/T 12343.1-2008", "1:25000 1:50000 1:100000地形图编绘规范"]
+      medium: ["GB/T 12343.2-2009", "1:5000 1:10000地形图编绘规范"]
+  policy:
+    arbitrary_scale_rule: "任意目标比例尺优先吸附到最近国家基本比例尺档，并仅在同一国标序列内插值，不允许跨大档位激进外推。"
+    point_generalization_note: "POI专题点缺少统一逐类保留百分比国标时，按国家基本比例尺地形图产品/图式/编绘规范的尺度分档约束执行，优先保证类别存在性、空间覆盖和图面可读性。"
+
+scale:
+  interpolation_anchors: [5000, 10000, 25000, 50000, 100000, 250000, 500000, 1000000]
+  symbol_mm:
+    min_length: 0.35
+    min_area: 1.0
+    min_separation: 0.30
+
+operators:
+  order: [selection, simplify, aggregate, displacement, smooth]
+  by_geometry:
+    point: [selection, typification, displacement]
+    line: [selection, simplify, smooth, merge, displacement]
+    polygon: [selection, eliminate, aggregate, simplify, displacement]
+
+parameters:
+  line:
+    simplify_tolerance_m:
+      25000: 8.0
+      50000: 20.0
+    displacement_max_shift_m:
+      25000: 12.0
+      50000: 24.0
+  polygon:
+    simplify_tolerance_m:
+      5000: 1.5
+      10000: 3.0
+      25000: 6.0
+      50000: 16.0
+      100000: 36.0
+      250000: 90.0
+      500000: 180.0
+      1000000: 360.0
+    min_area_m2:
+      5000: 80.0
+      10000: 240.0
+      25000: 1200.0
+      50000: 3800.0
+      100000: 12000.0
+      250000: 75000.0
+      500000: 240000.0
+      1000000: 900000.0
+  point:
+    typify_keep_ratio:
+      5000: 0.97
+      10000: 0.94
+      25000: 0.94
+      50000: 0.78
+      100000: 0.66
+      250000: 0.50
+      500000: 0.38
+      1000000: 0.28
+
+density_multipliers:
+  low: 0.85
+  medium: 1.0
+  high: 1.25
+
+thresholds:
+  conflict_count_ratio: 0.005
+  conflict_count_floor: 5
+  vlm_pass_score: 80
+  max_rounds: 4
+  point_min_keep_ratio: 0.28
+  point_transport_min_keep_ratio: 0.36
+  point_commercial_min_keep_ratio: 0.30
+  point_scale_min_keep_ratio:
+    5000: 0.92
+    10000: 0.86
+    25000: 0.72
+    50000: 0.58
+    100000: 0.46
+    250000: 0.34
+    500000: 0.26
+    1000000: 0.20
+  point_structure_min_keep_ratio:
+    corridor: 0.38
+    uniform: 0.30
+    clustered: 0.28
+    mixed: 0.29
+    center-periphery: 0.31
+    multi-core: 0.33
+  point_max_middle_gap_ratio: 0.35
+  point_min_axis_coverage_ratio: 0.60
+  point_min_hotspot_coverage_ratio: 0.50
+  point_min_hotspot_rep_count: 3
+  point_rgb_hotspot_overdraw_max: 0.20
+  point_region_min_coverage_ratio: 0.72
+  point_sparse_region_min_coverage_ratio: 0.85
+  point_dense_region_max_singleton_ratio: 0.25
+
+retention_min:
+  primary_road: 0.98
+  secondary_road: 0.90
+  local_road: 0.70

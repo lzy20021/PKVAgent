@@ -1,0 +1,13 @@
+{
+  "id": "example_002_building_merge",
+  "algorithm": "dissolve",
+  "task_type": "polygon_generalization",
+  "input": "? buildings.shp ? district ????",
+  "parameters": {
+    "input_file": "data/buildings.shp",
+    "output_file": "out/buildings_dissolve.shp",
+    "layer_name": "buildings_dissolve",
+    "by_field": "district",
+    "aggfunc": "first"
+  }
+}

@@ -1,0 +1,5819 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGYS13RV",
+        "name": "南京大学医学院附属南京国际医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "宜悦街16号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.708299,
+        "gcj_lat": 31.983606,
+        "wgs84_lon": 118.703118383,
+        "wgs84_lat": 31.9856579629,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JGYS13RV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7031183830288,
+          31.98565796288106
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRPDRBC8",
+        "name": "石头城老灶堂·湖景餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "扬子江大道266-3号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "建邺区",
+        "gcj_lon": 118.708549,
+        "gcj_lat": 32.005951,
+        "wgs84_lon": 118.703365912,
+        "wgs84_lat": 32.0080077727,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0LRPDRBC8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7033659117764,
+          32.00800777266626
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057596",
+        "name": "江心洲(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.703335,
+        "gcj_lat": 32.031632,
+        "wgs84_lon": 118.69815863,
+        "wgs84_lat": 32.0337023817,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.69815863046597,
+          32.0337023817262
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1YKGCYN",
+        "name": "江苏银行(南京分行营业部)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "江山大街66号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "建邺区",
+        "gcj_lon": 118.711803,
+        "gcj_lat": 31.986807,
+        "wgs84_lon": 118.706616406,
+        "wgs84_lat": 31.9888548766,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0J1YKGCYN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.70661640555626,
+          31.98885487656477
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09479549",
+        "name": "江苏大剧院·宪法公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)9号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.711465,
+        "gcj_lat": 32.014429,
+        "wgs84_lon": 118.706276397,
+        "wgs84_lat": 32.0164837035,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09479549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.70627639677642,
+          32.0164837034867
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10053594",
+        "name": "绿博园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)9号线;10号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.716735,
+        "gcj_lat": 32.024161,
+        "wgs84_lon": 118.711537627,
+        "wgs84_lat": 32.0262112649,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10053594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71153762655328,
+          32.026211264863974
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057726",
+        "name": "上新河(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)9号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.718233,
+        "gcj_lat": 32.03281,
+        "wgs84_lon": 118.713032761,
+        "wgs84_lat": 32.0348604877,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71303276143772,
+          32.03486048770652
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190CKLW",
+        "name": "格林豪泰智选酒店(南京奥体博览中心店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "雨润大街19-4号(雨润大街地铁站1号口步行320米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.723476,
+        "gcj_lat": 31.981355,
+        "wgs84_lon": 118.7182739,
+        "wgs84_lat": 31.9833880887,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190CKLW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71827390021429,
+          31.98338808866808
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAJPRP",
+        "name": "交通银行(江苏省分行营业部)",
+        "type": "银行",
+        "typecode": 160108,
+        "address": "沙洲街道庐山路218号交银大厦",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "建邺区",
+        "gcj_lon": 118.721669,
+        "gcj_lat": 31.991348,
+        "wgs84_lon": 118.716468141,
+        "wgs84_lat": 31.9933852189,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFAJPRP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71646814130379,
+          31.993385218881883
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK15YDG4",
+        "name": "华采天地地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "江东中路258号华采天地",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "停车场",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.720514,
+        "gcj_lat": 31.99783,
+        "wgs84_lon": 118.715313989,
+        "wgs84_lat": 31.9998699349,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0GK15YDG4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71531398922104,
+          31.99986993486763
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRH9CSFT",
+        "name": "罗森便利店(融侨中央花园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "富春江西街20号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "便利店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.721766,
+        "gcj_lat": 32.002623,
+        "wgs84_lon": 118.716563983,
+        "wgs84_lat": 32.0046627243,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JRH9CSFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71656398338692,
+          32.004662724309995
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ3TODG",
+        "name": "星巴克(南京奥体中心店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "江东中路222号奥体中心北商业区一层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.724525,
+        "gcj_lat": 32.009725,
+        "wgs84_lon": 118.719319087,
+        "wgs84_lat": 32.0117636371,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJ3TODG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71931908708756,
+          32.01176363708343
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057025",
+        "name": "梦都大街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.721781,
+        "gcj_lat": 32.015473,
+        "wgs84_lon": 118.716577781,
+        "wgs84_lat": 32.0175156678,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71657778053104,
+          32.01751566777978
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKJDYY4D",
+        "name": "乐和餐饮(兴隆大街店)",
+        "type": "餐饮",
+        "typecode": 50105,
+        "address": "兴隆大街209号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "建邺区",
+        "gcj_lon": 118.720971,
+        "gcj_lat": 32.019703,
+        "wgs84_lon": 118.715768396,
+        "wgs84_lat": 32.0217474843,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0GKJDYY4D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71576839572778,
+          32.02174748426638
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHOQU99",
+        "name": "江苏省省级机关医院河西分院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "集庆门大街与清河路交叉口东南220米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.721965,
+        "gcj_lat": 32.030969,
+        "wgs84_lon": 118.716760126,
+        "wgs84_lat": 32.0330150199,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHOQU99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.71676012637263,
+          32.033015019898166
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ADVG",
+        "name": "明基医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "河西大街71号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.728964,
+        "gcj_lat": 31.987081,
+        "wgs84_lon": 118.723755574,
+        "wgs84_lat": 31.989110557,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190ADVG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72375557369944,
+          31.989110557015184
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190Z6X5",
+        "name": "南京师范大学附属中学黄山路小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "黄山路150号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.727705,
+        "gcj_lat": 31.990827,
+        "wgs84_lon": 118.722497455,
+        "wgs84_lat": 31.9928584473,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00190Z6X5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72249745468685,
+          31.99285844734799
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFWHTZ0",
+        "name": "便利家超市(富春江东街)",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "黄山路128号飞茂市场B1层87号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "便利店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.732319,
+        "gcj_lat": 31.996016,
+        "wgs84_lon": 118.727106793,
+        "wgs84_lat": 31.9980451658,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFFWHTZ0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72710679281292,
+          31.99804516581807
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AKTM",
+        "name": "金陵中学实验小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "松花江西街",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.731548,
+        "gcj_lat": 32.014114,
+        "wgs84_lon": 118.726334762,
+        "wgs84_lat": 32.0161478684,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00190AKTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7263347617424,
+          32.01614786839461
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JB972DPH",
+        "name": "建邺区兴隆社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "月安街",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.727794,
+        "gcj_lat": 32.021079,
+        "wgs84_lon": 118.722583575,
+        "wgs84_lat": 32.0231173435,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JB972DPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72258357536332,
+          32.02311734348674
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGHPUKL",
+        "name": "江东社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "江东街道润江路1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.730941,
+        "gcj_lat": 32.029768,
+        "wgs84_lon": 118.725726837,
+        "wgs84_lat": 32.0318058806,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGHPUKL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72572683662895,
+          32.03180588060902
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AKHH",
+        "name": "金陵汇文学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "清江路19号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.727669,
+        "gcj_lat": 32.041757,
+        "wgs84_lon": 118.722456791,
+        "wgs84_lat": 32.0438001446,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00190AKHH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72245679087312,
+          32.043800144633
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1NXHL2N",
+        "name": "南京泊悦酒店公寓(龙湖南京河西天街店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "楠溪江东街55号龙湖时代上城3栋308",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.738996,
+        "gcj_lat": 31.988522,
+        "wgs84_lon": 118.733779986,
+        "wgs84_lat": 31.9905457437,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0H1NXHL2N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73377998555833,
+          31.99054574368662
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10429734",
+        "name": "黄山路·新安江街(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "133路;305路;306路",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "公交站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.737499,
+        "gcj_lat": 32.000827,
+        "wgs84_lon": 118.732282695,
+        "wgs84_lat": 32.0028542737,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10429734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73228269496924,
+          32.002854273718434
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLLSR1G",
+        "name": "金陵河西学校小学部",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "梦都大街与恒山路交叉口西北100米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.738211,
+        "gcj_lat": 32.006876,
+        "wgs84_lon": 118.732993722,
+        "wgs84_lat": 32.008904333,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFLLSR1G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73299372249284,
+          32.00890433297023
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10056539",
+        "name": "兴隆大街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.736465,
+        "gcj_lat": 32.015197,
+        "wgs84_lon": 118.731248008,
+        "wgs84_lat": 32.0172281054,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10056539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.731248007519,
+          32.017228105350654
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHGN0M1",
+        "name": "南京市第一医院(河西院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "应天大街919号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.734182,
+        "gcj_lat": 32.020928,
+        "wgs84_lon": 118.72896605,
+        "wgs84_lat": 32.0229617093,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHGN0M1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72896604984398,
+          32.022961709290826
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJF7DBZ",
+        "name": "百年世家中医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "新城科技园国际研发总部园六号连廊",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.740676,
+        "gcj_lat": 31.99518,
+        "wgs84_lon": 118.735458537,
+        "wgs84_lat": 31.9972046134,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJF7DBZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73545853666855,
+          31.997204613394302
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057707",
+        "name": "梦都大街东(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.746448,
+        "gcj_lat": 32.003936,
+        "wgs84_lon": 118.741227792,
+        "wgs84_lat": 32.0059611393,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.741227791706,
+          32.00596113931028
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH4T7AD",
+        "name": "南京高等职业技术学校学生创业体验中心",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "历史文化中心东北门旁",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.741341,
+        "gcj_lat": 32.006784,
+        "wgs84_lon": 118.736122168,
+        "wgs84_lat": 32.0088110563,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH4T7AD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73612216835402,
+          32.00881105628753
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0019140P1",
+        "name": "肯定精品酒店(南京河西金鹰世界店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "应天大街849号(褚记北京烤鸭店马路对面)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.745199,
+        "gcj_lat": 32.019057,
+        "wgs84_lon": 118.739977691,
+        "wgs84_lat": 32.0210858345,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0019140P1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73997769055379,
+          32.021085834456294
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2TZ3C1M",
+        "name": "好拾光公寓(南京万达广场莫愁湖公园店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "云锦路58号万达东坊1幢4层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.743275,
+        "gcj_lat": 32.032025,
+        "wgs84_lon": 118.738053081,
+        "wgs84_lat": 32.0340572436,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L2TZ3C1M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73805308110062,
+          32.034057243568284
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0019134VQ",
+        "name": "南京市第二十九中学(龙江校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "蓝天园23号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.745432,
+        "gcj_lat": 32.052905,
+        "wgs84_lon": 118.740207499,
+        "wgs84_lat": 32.0549414438,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0019134VQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7402074994811,
+          32.054941443834046
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190CXPW",
+        "name": "宁海中学分校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "港龙园1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.747838,
+        "gcj_lat": 32.059329,
+        "wgs84_lon": 118.742612419,
+        "wgs84_lat": 32.0613665219,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00190CXPW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74261241949905,
+          32.0613665219044
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909MTV",
+        "name": "文润宾馆(南京文体路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "文体路109号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.755045,
+        "gcj_lat": 32.016317,
+        "wgs84_lon": 118.749823464,
+        "wgs84_lat": 32.0183450982,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001909MTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74982346395471,
+          32.01834509816597
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ACRA",
+        "name": "南京方军招待所",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "玉塘东街4-20号(临近地铁2号线云锦路站,莫愁湖公园)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.754733,
+        "gcj_lat": 32.02944,
+        "wgs84_lon": 118.749510201,
+        "wgs84_lat": 32.0314710448,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190ACRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74951020065788,
+          32.03147104476691
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LG6ZCTU6",
+        "name": "清风酒店(水西门大街莫愁湖公园店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "建邺区水西门大街203-205号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.753865,
+        "gcj_lat": 32.033191,
+        "wgs84_lon": 118.748641737,
+        "wgs84_lat": 32.035222769,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LG6ZCTU6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.748641737135,
+          32.03522276904202
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001908IQN",
+        "name": "南京师范大学附属中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "察哈尔路37号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "北京城区",
+        "district": "鼓楼区",
+        "gcj_lon": 118.756787,
+        "gcj_lat": 32.077639,
+        "wgs84_lon": 118.751560146,
+        "wgs84_lat": 32.0796811523,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001908IQN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75156014591454,
+          32.07968115225997
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJDJKKQ",
+        "name": "蓝湾咖啡(安德门大街店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "安德门大街21号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.76263,
+        "gcj_lat": 31.98441,
+        "wgs84_lon": 118.757413924,
+        "wgs84_lat": 31.9864331475,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJDJKKQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75741392438648,
+          31.98643314754601
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFR53OH",
+        "name": "南京亲亲宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "小行路27号2栋102室",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.756362,
+        "gcj_lat": 31.989305,
+        "wgs84_lon": 118.751143217,
+        "wgs84_lat": 31.991327132,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFR53OH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75114321713752,
+          31.991327132010493
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHFVPAG",
+        "name": "南京茂舟宾馆(凤台南路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "凤台南路60号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.758279,
+        "gcj_lat": 32.005448,
+        "wgs84_lon": 118.753059236,
+        "wgs84_lat": 32.0074743628,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHFVPAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75305923596532,
+          32.00747436278227
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001912J44",
+        "name": "南京晓勇宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "应天大街697号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.760401,
+        "gcj_lat": 32.012684,
+        "wgs84_lon": 118.755181317,
+        "wgs84_lat": 32.0147127441,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001912J44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75518131724584,
+          32.014712744115144
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001906QA7",
+        "name": "建邺区南湖社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "南湖路7号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.75612,
+        "gcj_lat": 32.026372,
+        "wgs84_lon": 118.750897739,
+        "wgs84_lat": 32.0284026095,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001906QA7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75089773899272,
+          32.02840260948318
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH05NID",
+        "name": "南京市第二十九中学初中部",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "龙蟠里5号(开元新居西)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.763169,
+        "gcj_lat": 32.046387,
+        "wgs84_lon": 118.75794747,
+        "wgs84_lat": 32.0484245901,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH05NID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75794746962701,
+          32.0484245901012
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6DS7SAE",
+        "name": "雨花客厅地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "安德门大街47号8幢2楼14c雨花客厅",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "停车场",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.764291,
+        "gcj_lat": 31.980503,
+        "wgs84_lon": 118.759076164,
+        "wgs84_lat": 31.9825260569,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H6DS7SAE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7590761643685,
+          31.982526056866092
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFDCQWT",
+        "name": "中国工商银行(雨花西路支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "雨花西路258号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.763958,
+        "gcj_lat": 31.996476,
+        "wgs84_lon": 118.758741504,
+        "wgs84_lat": 31.9985025801,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFDCQWT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75874150425128,
+          31.998502580077222
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBTH3294",
+        "name": "luckin coffee 瑞幸咖啡(托米社区MALL店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "雨花西路121号托米社区MALLF1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.768975,
+        "gcj_lat": 31.999775,
+        "wgs84_lon": 118.763761488,
+        "wgs84_lat": 32.0018053444,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KBTH3294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76376148751864,
+          32.00180534438335
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001905SLK",
+        "name": "集庆门医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "豆腐坊29号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.769276,
+        "gcj_lat": 32.017941,
+        "wgs84_lon": 118.76406104,
+        "wgs84_lat": 32.0199757352,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001905SLK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76406104016584,
+          32.01997573521032
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190514E",
+        "name": "南京市胸科医院",
+        "type": "医院",
+        "typecode": 90205,
+        "address": "广州路215号(近拉萨路)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.768893,
+        "gcj_lat": 32.047093,
+        "wgs84_lon": 118.763675053,
+        "wgs84_lat": 32.0491340829,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190514E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76367505295781,
+          32.049134082949614
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ABN0",
+        "name": "好运宾馆(南师大省人民医院店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "苏州路18号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.769087,
+        "gcj_lat": 32.05723,
+        "wgs84_lon": 118.763868263,
+        "wgs84_lat": 32.0592734724,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190ABN0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76386826262572,
+          32.059273472358704
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001904987",
+        "name": "江苏省省级机关医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "江苏路65号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.767774,
+        "gcj_lat": 32.065912,
+        "wgs84_lon": 118.762553491,
+        "wgs84_lat": 32.0679565034,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001904987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76255349132701,
+          32.067956503362915
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190CSZ2",
+        "name": "7天酒店(南京玄武湖虹桥地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "中山北路西流湾27号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.770393,
+        "gcj_lat": 32.072947,
+        "wgs84_lon": 118.76517384,
+        "wgs84_lat": 32.0749948444,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190CSZ2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76517384045337,
+          32.07499484438709
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2GCT18L",
+        "name": "瑞幸咖啡(中兴通讯二期店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "花神大道6号中兴通讯1栋一层大堂",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.773459,
+        "gcj_lat": 31.989891,
+        "wgs84_lon": 118.768250208,
+        "wgs84_lat": 31.9919224954,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2GCT18L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76825020755857,
+          31.991922495391204
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001905OG6",
+        "name": "南京市共青团路中学",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "共青团路雨花新村5村19栋",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.772468,
+        "gcj_lat": 31.996545,
+        "wgs84_lon": 118.767257683,
+        "wgs84_lat": 31.9985772148,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001905OG6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7672576830712,
+          31.99857721483728
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909RCQ",
+        "name": "南京市妇幼保健院",
+        "type": "医院",
+        "typecode": 90200,
+        "address": "莫愁路天妃巷123号(上海路地铁站1号口步行300米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.776805,
+        "gcj_lat": 32.040101,
+        "wgs84_lon": 118.771594929,
+        "wgs84_lat": 32.0421470133,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001909RCQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7715949290963,
+          32.0421470133202
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001911PAJ",
+        "name": "南京鼓楼医院(北院)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "中山北路53号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.777905,
+        "gcj_lat": 32.062771,
+        "wgs84_lon": 118.772694031,
+        "wgs84_lat": 32.0648231308,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001911PAJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77269403090462,
+          32.064823130750575
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909BOY",
+        "name": "南京田家炳高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "长江新村8号(近南京工业大学)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.777051,
+        "gcj_lat": 32.084486,
+        "wgs84_lon": 118.771837088,
+        "wgs84_lat": 32.0865419848,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001909BOY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77183708844538,
+          32.08654198479546
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190A8O3",
+        "name": "锦江之星(南京火车站玄武湖钟阜路地铁站酒店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "建宁路16号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.775617,
+        "gcj_lat": 32.091288,
+        "wgs84_lon": 118.770400953,
+        "wgs84_lat": 32.0933440704,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190A8O3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77040095281603,
+          32.09334407041476
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190CY4Z",
+        "name": "中国工商银行24小时自助银行(郁金香路支行)",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "郁金香路19号(近雨花外国语小学)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.777909,
+        "gcj_lat": 31.981841,
+        "wgs84_lon": 118.772705507,
+        "wgs84_lat": 31.9838747168,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190CY4Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77270550678956,
+          31.983874716844618
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHGGLNK",
+        "name": "停车场(紫荆花路)",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "紫荆花路与玉兰路交叉口西300米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "停车场",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.784033,
+        "gcj_lat": 31.988648,
+        "wgs84_lon": 118.778836347,
+        "wgs84_lat": 31.9906899478,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFHGGLNK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77883634722636,
+          31.99068994777035
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRKAGW1D",
+        "name": "学天教育南京消防学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "汇芯谷5层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.780237,
+        "gcj_lat": 32.005148,
+        "wgs84_lon": 118.775034038,
+        "wgs84_lat": 32.0071894965,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0LRKAGW1D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77503403832523,
+          32.00718949647868
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909ZNG",
+        "name": "南京月亮旅社(夫子庙中华门店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "雨花路24-2号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.779965,
+        "gcj_lat": 32.009705,
+        "wgs84_lon": 118.774761295,
+        "wgs84_lat": 32.0117472579,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001909ZNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77476129452668,
+          32.01174725789801
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGY6ADH",
+        "name": "宝明快捷宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "中华门城堡北门中华路531号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.782963,
+        "gcj_lat": 32.014317,
+        "wgs84_lon": 118.77776258,
+        "wgs84_lat": 32.0163636241,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGY6ADH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77776258038917,
+          32.01636362413011
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001906WDQ",
+        "name": "李记清真馆(打钉巷店)",
+        "type": "餐饮",
+        "typecode": 50121,
+        "address": "朝天宫街道评事街打钉巷1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.779783,
+        "gcj_lat": 32.029251,
+        "wgs84_lon": 118.774577276,
+        "wgs84_lat": 32.0312975421,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B001906WDQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7745772757218,
+          32.03129754211166
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HU6940PT",
+        "name": "鼓楼区华侨路社区卫生服务中心(新华大厦西)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "新街口地铁站20号口步行250米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.782274,
+        "gcj_lat": 32.044342,
+        "wgs84_lon": 118.777069928,
+        "wgs84_lat": 32.0463946673,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HU6940PT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7770699281987,
+          32.046394667341104
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRUHGDHM",
+        "name": "南京市口腔医院地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "玄武门街道中央路30南京市口腔医院本部",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.784477,
+        "gcj_lat": 32.06122,
+        "wgs84_lon": 118.779274245,
+        "wgs84_lat": 32.0632789767,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HRUHGDHM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77927424522942,
+          32.06327897669569
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10055207",
+        "name": "玄武门(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.784221,
+        "gcj_lat": 32.070381,
+        "wgs84_lon": 118.779017056,
+        "wgs84_lat": 32.0724416743,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10055207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77901705597219,
+          32.072441674330946
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFEF8PG",
+        "name": "南京香格里拉江南灶中餐厅(中央路店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "中央路329号南京香格里拉1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.782898,
+        "gcj_lat": 32.07841,
+        "wgs84_lon": 118.777691578,
+        "wgs84_lat": 32.0804708632,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFEF8PG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7776915777938,
+          32.08047086318881
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ZHTD",
+        "name": "7天酒店(南京火车站新模范马路地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "中央路280-1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.784545,
+        "gcj_lat": 32.084101,
+        "wgs84_lon": 118.779340222,
+        "wgs84_lat": 32.0861650051,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190ZHTD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77934022201262,
+          32.08616500507744
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1VZ4596",
+        "name": "小西湖小学(新普天校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "养虎仓34号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.790644,
+        "gcj_lat": 31.999712,
+        "wgs84_lon": 118.785455822,
+        "wgs84_lat": 32.0017649316,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J1VZ4596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78545582154214,
+          32.001764931556956
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK413PJ",
+        "name": "瑞幸咖啡(晨光1865创意园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "应天大街388号晨光1865创意园e1栋一层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.79173,
+        "gcj_lat": 32.005896,
+        "wgs84_lon": 118.786542943,
+        "wgs84_lat": 32.0079518561,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFK413PJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7865429426642,
+          32.00795185613024
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909OQD",
+        "name": "仁达宾馆(南京夫子庙长乐路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长乐路88-2号(小西湖70号)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.787675,
+        "gcj_lat": 32.016615,
+        "wgs84_lon": 118.782480827,
+        "wgs84_lat": 32.0186678888,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001909OQD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78248082658504,
+          32.01866788879083
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGOR7Z79",
+        "name": "不舟女生青年旅舍(南京新街口夫子庙店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "洪武路359号福鑫国际大厦西塔3504",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.787056,
+        "gcj_lat": 32.029555,
+        "wgs84_lon": 118.781859743,
+        "wgs84_lat": 32.0316100557,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0LGOR7Z79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78185974315784,
+          32.031610055727306
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10056908",
+        "name": "西家大塘(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "304路",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "公交站",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.790503,
+        "gcj_lat": 32.062426,
+        "wgs84_lon": 118.785308824,
+        "wgs84_lat": 32.0644929484,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10056908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78530882351444,
+          32.064492948392484
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2GUG5DS",
+        "name": "十足便利店(南京玄武湖店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "玄武湖南码头(玄武门地铁站3号口步行380米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.788356,
+        "gcj_lat": 32.070605,
+        "wgs84_lon": 118.783157839,
+        "wgs84_lat": 32.0726708729,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J2GUG5DS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7831578390684,
+          32.072670872869544
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190BU42",
+        "name": "九九聚家商务宾馆(南京站红山动物园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "龙蟠路37-1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.789097,
+        "gcj_lat": 32.090028,
+        "wgs84_lon": 118.783898143,
+        "wgs84_lat": 32.0920989928,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190BU42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78389814316978,
+          32.09209899278892
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGY6TRP",
+        "name": "星巴克(南京紫云智慧广场店)",
+        "type": "其他",
+        "typecode": 50501,
+        "address": "卡子门大街19号紫云智慧广场1号楼第一层A-1F06",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.796648,
+        "gcj_lat": 31.991911,
+        "wgs84_lon": 118.791470307,
+        "wgs84_lat": 31.9939707761,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFGY6TRP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79147030682638,
+          31.993970776139523
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH3BTEC",
+        "name": "中华门社区卫生服务中心晨光路服务点",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "晨光路110-6号(卡子门地铁站1号口步行430米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.79424,
+        "gcj_lat": 31.999708,
+        "wgs84_lon": 118.789057551,
+        "wgs84_lat": 32.0017660043,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH3BTEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78905755086885,
+          32.0017660043238
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001911L1D",
+        "name": "南京百环中医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "龙蟠中路500号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.798836,
+        "gcj_lat": 32.017946,
+        "wgs84_lon": 118.793659714,
+        "wgs84_lat": 32.0200151377,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001911L1D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7936597140494,
+          32.02001513765709
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190BBZE",
+        "name": "江苏省戏剧学校",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "长白街334号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.796251,
+        "gcj_lat": 32.031024,
+        "wgs84_lon": 118.791069031,
+        "wgs84_lat": 32.0330921633,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00190BBZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79106903122914,
+          32.03309216328449
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057660",
+        "name": "南京站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)9号线;1号线;3号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "地铁站",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.796509,
+        "gcj_lat": 32.089322,
+        "wgs84_lon": 118.791322096,
+        "wgs84_lat": 32.0914033613,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79132209624964,
+          32.09140336131588
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G3LRIQKD",
+        "name": "秦淮区宏光路社区卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "宏光路252号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.807237,
+        "gcj_lat": 32.004618,
+        "wgs84_lon": 118.802077556,
+        "wgs84_lat": 32.0066978683,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G3LRIQKD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80207755600186,
+          32.006697868348176
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0019071ZQ",
+        "name": "秦淮区秦虹社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "乔虹苑87",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.806357,
+        "gcj_lat": 32.015068,
+        "wgs84_lon": 118.801194893,
+        "wgs84_lat": 32.0171487689,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0019071ZQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80119489307936,
+          32.01714876893587
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHF6NLR",
+        "name": "大光路社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "公园新寓南门旁",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.803772,
+        "gcj_lat": 32.027545,
+        "wgs84_lon": 118.798603828,
+        "wgs84_lat": 32.0296242796,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHF6NLR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79860382772678,
+          32.029624279569525
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057832",
+        "name": "龙蟠中路·逸仙桥(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "40路;47路;93路;Y8路夜间",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "公交站",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.803428,
+        "gcj_lat": 32.036667,
+        "wgs84_lon": 118.798258344,
+        "wgs84_lat": 32.0387477811,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79825834440202,
+          32.038747781139385
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJRI5KZ",
+        "name": "东部战区总医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "黄埔路3号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.80911,
+        "gcj_lat": 32.041725,
+        "wgs84_lon": 118.80395082,
+        "wgs84_lat": 32.0438165803,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJRI5KZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80395082010446,
+          32.0438165803029
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HDR5UI8K",
+        "name": "中国工商银行(南京南空支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "小营北路1号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.803731,
+        "gcj_lat": 32.053157,
+        "wgs84_lon": 118.798560395,
+        "wgs84_lat": 32.0552419807,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0HDR5UI8K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79856039491581,
+          32.05524198069939
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10595526",
+        "name": "九华山(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.806,
+        "gcj_lat": 32.057314,
+        "wgs84_lon": 118.800833323,
+        "wgs84_lat": 32.0594037069,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10595526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80083332265745,
+          32.05940370694157
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10053853",
+        "name": "迈皋桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "栖霞区",
+        "query_category": "地铁站",
+        "city": "南京市",
+        "district": "栖霞区",
+        "gcj_lon": 118.809677,
+        "gcj_lat": 32.102712,
+        "wgs84_lon": 118.804513334,
+        "wgs84_lat": 32.1048177338,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10053853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80451333397554,
+          32.10481773379726
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH1CE78",
+        "name": "维也纳酒店(南京南站汇景店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "汇景西路18号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "江宁区",
+        "gcj_lon": 118.810536,
+        "gcj_lat": 31.98212,
+        "wgs84_lon": 118.805385124,
+        "wgs84_lat": 31.9842004127,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFH1CE78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80538512350714,
+          31.984200412731255
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10054610",
+        "name": "光华门(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线;5号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.814737,
+        "gcj_lat": 32.02349,
+        "wgs84_lon": 118.80959085,
+        "wgs84_lat": 32.0255874666,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10054610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80959085003433,
+          32.02558746664999
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGTKN6F",
+        "name": "南京太乙堂中医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "瑞金路27号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.814074,
+        "gcj_lat": 32.032095,
+        "wgs84_lon": 118.808925701,
+        "wgs84_lat": 32.034193226,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGTKN6F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80892570071707,
+          32.0341932259572
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001913DUJ",
+        "name": "连心宾馆(明故宫店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "珠江路659号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.813004,
+        "gcj_lat": 32.045794,
+        "wgs84_lon": 118.80785226,
+        "wgs84_lat": 32.0478933894,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001913DUJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80785225963238,
+          32.04789338937225
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10595528",
+        "name": "岗子村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线;4号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.815835,
+        "gcj_lat": 32.065571,
+        "wgs84_lon": 118.810687253,
+        "wgs84_lat": 32.0676798953,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10595528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81068725252238,
+          32.06767989533911
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG8RX9P",
+        "name": "玄武湖景区情侣园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "玄武湖景区(西北角)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.81174,
+        "gcj_lat": 32.07007,
+        "wgs84_lon": 118.806583469,
+        "wgs84_lat": 32.0721724904,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFG8RX9P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80658346854956,
+          32.07217249040035
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10431636",
+        "name": "南京林业大学·新庄(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.810435,
+        "gcj_lat": 32.076463,
+        "wgs84_lon": 118.80527526,
+        "wgs84_lat": 32.0785645598,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10431636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80527526022372,
+          32.07856455980356
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10055597",
+        "name": "明故宫(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)6号线;2号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.819746,
+        "gcj_lat": 32.039218,
+        "wgs84_lon": 118.814608831,
+        "wgs84_lat": 32.0413282391,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10055597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81460883090884,
+          32.04132823912701
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHDD0OP",
+        "name": "雅悠阁宾馆(后宰门店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "北安门街佛心桥44号(苏果超市旁、80路公交站对面)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.819475,
+        "gcj_lat": 32.049565,
+        "wgs84_lon": 118.814336313,
+        "wgs84_lat": 32.0516770583,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHDD0OP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81433631282724,
+          32.051677058270144
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFHBOJX",
+        "name": "栖七宾馆(南京火车站岗子村地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "板仓街90-3号(近南京林业大学,距蒋王庙地铁站956米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.823038,
+        "gcj_lat": 32.071903,
+        "wgs84_lon": 118.817904792,
+        "wgs84_lat": 32.0740266173,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFHBOJX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8179047916108,
+          32.07402661732185
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11332447",
+        "name": "石门坎(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(规划)8号线;5号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.824782,
+        "gcj_lat": 32.017169,
+        "wgs84_lon": 118.81965751,
+        "wgs84_lat": 32.0192836356,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11332447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81965750952968,
+          32.01928363564036
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190B4IU",
+        "name": "中国医学科学院皮肤病医院",
+        "type": "医院",
+        "typecode": 90200,
+        "address": "蒋王庙街12号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "医院",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.827386,
+        "gcj_lat": 32.081093,
+        "wgs84_lon": 118.822261205,
+        "wgs84_lat": 32.0832267656,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190B4IU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82226120451152,
+          32.08322676555596
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HB3X9LWW",
+        "name": "南京外国语学校(南部新城校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "祥天路与汇景南路交叉口东北180米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.833316,
+        "gcj_lat": 31.992751,
+        "wgs84_lon": 118.828211889,
+        "wgs84_lat": 31.9948760624,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HB3X9LWW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82821188949318,
+          31.994876062421064
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190Z6T2",
+        "name": "易佰良品酒店(南京迈皋桥地铁店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "经五路合作村91-84号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "栖霞区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "栖霞区",
+        "gcj_lon": 118.834643,
+        "gcj_lat": 32.109693,
+        "wgs84_lon": 118.829531008,
+        "wgs84_lat": 32.1118463278,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190Z6T2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.82953100776395,
+          32.111846327796776
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001909GJV",
+        "name": "西来顺(小卫街总店)",
+        "type": "餐饮",
+        "typecode": 50121,
+        "address": "小卫街16号2幢-3室",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.853232,
+        "gcj_lat": 32.036269,
+        "wgs84_lon": 118.848163824,
+        "wgs84_lat": 32.0384395028,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B001909GJV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.84816382430411,
+          32.03843950282656
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG039AS",
+        "name": "南京全友宾馆(应天大街黄山路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "应天大街817号(应天大街地铁站3A口步行140米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.750145,
+        "gcj_lat": 32.016904,
+        "wgs84_lon": 118.744923117,
+        "wgs84_lat": 32.0189318268,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG039AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74492311726621,
+          32.018931826771585
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3SA2WKT",
+        "name": "南京西瓜公寓(奥体中心店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "黄山路12号盛世公馆A座",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.747538,
+        "gcj_lat": 32.015133,
+        "wgs84_lon": 118.742316554,
+        "wgs84_lat": 32.0171605756,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L3SA2WKT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74231655444807,
+          32.01716057558466
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGIF7V2",
+        "name": "南京邱文旅馆",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "茶南大街苏果便利店2楼",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.748049,
+        "gcj_lat": 32.031567,
+        "wgs84_lon": 118.742825958,
+        "wgs84_lat": 32.0335982799,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGIF7V2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74282595796274,
+          32.03359827987395
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H02HDHTM",
+        "name": "宴誉恋海·海鲜姿造(河西中央商场店)",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "江东中路237号河西中央商场4楼",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "餐厅",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.732435,
+        "gcj_lat": 32.007791,
+        "wgs84_lon": 118.727221612,
+        "wgs84_lat": 32.0098228059,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0H02HDHTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72722161217962,
+          32.00982280594399
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGVUVU5",
+        "name": "赛虹桥社区卫生服务中心母婴室",
+        "type": "医院",
+        "typecode": 200304,
+        "address": "小行路35号南京小行医院门诊二楼216室",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.745512,
+        "gcj_lat": 31.984263,
+        "wgs84_lon": 118.740293824,
+        "wgs84_lat": 31.9862837491,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGVUVU5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.74029382380614,
+          31.98628374909713
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190Z3BP",
+        "name": "中国银行24小时自助银行(南京恒山路支行)",
+        "type": "银行",
+        "typecode": 160301,
+        "address": "恒山路128号-1",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.734172,
+        "gcj_lat": 32.001091,
+        "wgs84_lon": 118.728957889,
+        "wgs84_lat": 32.0031201522,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190Z3BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72895788873842,
+          32.003120152229485
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUBSCE1V",
+        "name": "中国建设银行(南京恒山路支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "恒山路122号(近西堤国际一区南门)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.736425,
+        "gcj_lat": 32.003825,
+        "wgs84_lon": 118.731209083,
+        "wgs84_lat": 32.0058535083,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0HUBSCE1V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7312090832919,
+          32.00585350825804
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ANY6",
+        "name": "江苏省口腔医院",
+        "type": "医院",
+        "typecode": 90202,
+        "address": "上海路1号(上海路地铁站2号口步行240米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.775761,
+        "gcj_lat": 32.043903,
+        "wgs84_lon": 118.770549484,
+        "wgs84_lat": 32.0459488899,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190ANY6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77054948388047,
+          32.04594888993015
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK3JL7U",
+        "name": "南京市中医院大明路院区急诊",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "大明路157号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.806782,
+        "gcj_lat": 31.995058,
+        "wgs84_lon": 118.801622551,
+        "wgs84_lat": 31.9971348818,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK3JL7U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80162255090949,
+          31.99713488181499
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0019097OV",
+        "name": "中国农业银行24小时自助银行(宁南支行)",
+        "type": "银行",
+        "typecode": 160304,
+        "address": "雨花南路10-2号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.775753,
+        "gcj_lat": 31.992665,
+        "wgs84_lon": 118.770546206,
+        "wgs84_lat": 31.9946991601,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0019097OV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77054620636746,
+          31.99469916013668
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZDZFR",
+        "name": "招商银行24小时自助银行(郁金香支行)",
+        "type": "银行",
+        "typecode": 160306,
+        "address": "郁金香路8-1号附近",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.796186,
+        "gcj_lat": 31.988371,
+        "wgs84_lon": 118.791007845,
+        "wgs84_lat": 31.9904292613,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFZDZFR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79100785318283,
+          31.99034472374223
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH3WFGQ",
+        "name": "江苏警官学院(安德门校区)",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "小行路16号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "学校",
+        "city": "南京市",
+        "district": "雨花台区",
+        "gcj_lon": 118.75691,
+        "gcj_lat": 31.99325,
+        "wgs84_lon": 118.751690982,
+        "wgs84_lat": 31.9952731736,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH3WFGQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75169098229634,
+          31.995273173599884
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001904B83",
+        "name": "玄武区锁金村社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "锁金村63号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "医院",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.817709,
+        "gcj_lat": 32.070817,
+        "wgs84_lon": 118.812564665,
+        "wgs84_lat": 32.0729304735,
+        "source": "amap_api_incremental",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001904B83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81256466477929,
+          32.07293047353226
+        ]
+      }
+    },
+    {
+      "id": "117",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDLZRG9Q",
+        "name": "熙住·新青年旅舍(钟山风景区苜蓿园地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "中山门大街9号(苜蓿园地铁站2号口旁)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.833874,
+        "gcj_lat": 32.040121,
+        "wgs84_lon": 118.828766746,
+        "wgs84_lat": 32.0422579554,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KDLZRG9Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8287667463322,
+          32.04225795538106
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190CSZ0",
+        "name": "7天酒店(南京玄武湖艺术学院虹桥地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "水佐岗56号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "酒店",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.76499,
+        "gcj_lat": 32.071228,
+        "wgs84_lon": 118.759767183,
+        "wgs84_lat": 32.0732720028,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190CSZ0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7597671826926,
+          32.07327200283572
+        ]
+      }
+    },
+    {
+      "id": "119",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2F6YZMW",
+        "name": "中国人民银行(江苏省分行)",
+        "type": "银行",
+        "typecode": 160101,
+        "address": "中山东路200号(大行宫地铁站2号口步行190米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.792588,
+        "gcj_lat": 32.040769,
+        "wgs84_lon": 118.78739909,
+        "wgs84_lat": 32.0428340221,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0G2F6YZMW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78739909034104,
+          32.042834022105026
+        ]
+      }
+    },
+    {
+      "id": "120",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIC6PPK",
+        "name": "中国银行(南京河西支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "江东中路231号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "建邺区",
+        "gcj_lon": 118.734359,
+        "gcj_lat": 32.010386,
+        "wgs84_lon": 118.729143894,
+        "wgs84_lat": 32.0124171824,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFIC6PPK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.72914389371252,
+          32.01241718242554
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190ZB53",
+        "name": "南京银行(城东支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "中山门大街99-1南京银行",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.848788,
+        "gcj_lat": 32.038169,
+        "wgs84_lon": 118.843711297,
+        "wgs84_lat": 32.0403324766,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190ZB53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.84371129652332,
+          32.04033247661931
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001907ETA",
+        "name": "南京伊光旅社",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "丹凤新寓6幢-1(珠江路地铁站3号口步行450米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.788346,
+        "gcj_lat": 32.052287,
+        "wgs84_lon": 118.783149516,
+        "wgs84_lat": 32.0543488325,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001907ETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78314951556634,
+          32.054348832528845
+        ]
+      }
+    },
+    {
+      "id": "123",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09427123",
+        "name": "西安门·浦发银行(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "地铁站",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.805761,
+        "gcj_lat": 32.040108,
+        "wgs84_lon": 118.800595446,
+        "wgs84_lat": 32.042193459,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09427123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80059544636438,
+          32.04219345904998
+        ]
+      }
+    },
+    {
+      "id": "124",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I11P2YHQ",
+        "name": "好的便利(环洲店)",
+        "type": "便利店",
+        "typecode": 60400,
+        "address": "玄武湖公园环洲南段赛炳坤旁",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.793205,
+        "gcj_lat": 32.06949,
+        "wgs84_lon": 118.788014433,
+        "wgs84_lat": 32.0715622641,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I11P2YHQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78801443322254,
+          32.071562264098766
+        ]
+      }
+    },
+    {
+      "id": "125",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190B48R",
+        "name": "南京鼓楼医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "中山路321号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.783042,
+        "gcj_lat": 32.05618,
+        "wgs84_lon": 118.777837818,
+        "wgs84_lat": 32.0582361822,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190B48R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77783781831745,
+          32.058236182211644
+        ]
+      }
+    },
+    {
+      "id": "126",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190YOQM",
+        "name": "清真·西北桥头拉面大王(丁家桥店)",
+        "type": "餐饮",
+        "typecode": 50121,
+        "address": "丁家桥18号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "鼓楼区",
+        "gcj_lon": 118.777301,
+        "gcj_lat": 32.070904,
+        "wgs84_lon": 118.772088616,
+        "wgs84_lat": 32.0729573133,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B00190YOQM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7720886156357,
+          32.07295731327292
+        ]
+      }
+    },
+    {
+      "id": "127",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG2JFXX",
+        "name": "南京外国语学校北京东路校区停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "北京东路30号南京外语学校",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.800198,
+        "gcj_lat": 32.056131,
+        "wgs84_lon": 118.795020626,
+        "wgs84_lat": 32.058210905,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFG2JFXX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7950206260618,
+          32.058210905015734
+        ]
+      }
+    },
+    {
+      "id": "128",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H3254MDO",
+        "name": "南京市市级机关医院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "南京市市级机关医院(鸡鸣寺地铁站6号口步行240米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.796384,
+        "gcj_lat": 32.055743,
+        "wgs84_lon": 118.79119998,
+        "wgs84_lat": 32.057816915,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H3254MDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79121675883194,
+          32.05789863395713
+        ]
+      }
+    },
+    {
+      "id": "129",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L60OPXUK",
+        "name": "便市多24小时便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "北京东路71土壤研究所小区",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.802925,
+        "gcj_lat": 32.057875,
+        "wgs84_lon": 118.797752455,
+        "wgs84_lat": 32.0599596968,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L60OPXUK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79775245481648,
+          32.059959696768736
+        ]
+      }
+    },
+    {
+      "id": "130",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGC9Q3E",
+        "name": "萨莉亚意式餐厅(石鼓路店)",
+        "type": "餐饮",
+        "typecode": 50205,
+        "address": "石鼓路33号环亚广场新街口店2层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.782196,
+        "gcj_lat": 32.038457,
+        "wgs84_lon": 118.776992373,
+        "wgs84_lat": 32.0405082545,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFGC9Q3E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7769923728774,
+          32.040508254502946
+        ]
+      }
+    },
+    {
+      "id": "131",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AB15",
+        "name": "梦秦宾馆(夫子庙店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "中华路258号(三山街地铁站出入口步行210米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.783942,
+        "gcj_lat": 32.021204,
+        "wgs84_lon": 118.778742225,
+        "wgs84_lat": 32.0232533418,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B00190AB15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77874222544077,
+          32.023253341773334
+        ]
+      }
+    },
+    {
+      "id": "132",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190590V",
+        "name": "南京医科大学附属儿童医院广州路院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "广州路72号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "鼓楼区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.779413,
+        "gcj_lat": 32.050885,
+        "wgs84_lon": 118.774204844,
+        "wgs84_lat": 32.0529360312,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190590V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7742048441353,
+          32.052936031229365
+        ]
+      }
+    },
+    {
+      "id": "133",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKTZ4YJK",
+        "name": "南京东南大学榴园宾馆玄武湖店地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "三江路与进香河路交叉口东40米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.791202,
+        "gcj_lat": 32.055863,
+        "wgs84_lon": 118.786009511,
+        "wgs84_lat": 32.0579294586,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HKTZ4YJK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78600951084556,
+          32.0579294586336
+        ]
+      }
+    },
+    {
+      "id": "134",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0RU6NA2",
+        "name": "南京玄外初中",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "雍园与竺桥交叉口西南40米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.804475,
+        "gcj_lat": 32.045339,
+        "wgs84_lon": 118.799306516,
+        "wgs84_lat": 32.0474234729,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0L0RU6NA2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79930651612833,
+          32.04742347294496
+        ]
+      }
+    },
+    {
+      "id": "135",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHH2YHG",
+        "name": "西家大塘-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "西家大塘与台城路交叉口西40米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.794103,
+        "gcj_lat": 32.064254,
+        "wgs84_lon": 118.788914379,
+        "wgs84_lat": 32.0663264158,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFHH2YHG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78891437936122,
+          32.066326415779855
+        ]
+      }
+    },
+    {
+      "id": "136",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0RYGTCS",
+        "name": "快捷购精品超市(玄武店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "长城楼西1门旁",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.804005,
+        "gcj_lat": 32.048468,
+        "wgs84_lon": 118.798835341,
+        "wgs84_lat": 32.0505523903,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K0RYGTCS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79883534136498,
+          32.05055239034781
+        ]
+      }
+    },
+    {
+      "id": "137",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190B62D",
+        "name": "白马公园地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "锁金村街道白马山庄1号(近龙蟠路)白马公园内(南侧)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.816755,
+        "gcj_lat": 32.058778,
+        "wgs84_lon": 118.811609783,
+        "wgs84_lat": 32.0608870862,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B00190B62D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.81160978333376,
+          32.060887086161515
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKHC0TJD",
+        "name": "味波小馆(新街口店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "长白街508号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.797508,
+        "gcj_lat": 32.035762,
+        "wgs84_lon": 118.792327752,
+        "wgs84_lat": 32.0378331448,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0GKHC0TJD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79232775192071,
+          32.037833144824525
+        ]
+      }
+    },
+    {
+      "id": "139",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K64AL6FY",
+        "name": "南京金善化妆美甲培训学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "中山东路378号外贸口岸大楼10层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.798507,
+        "gcj_lat": 32.040436,
+        "wgs84_lon": 118.793328065,
+        "wgs84_lat": 32.0425097411,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K64AL6FY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79332806466329,
+          32.04250974107405
+        ]
+      }
+    },
+    {
+      "id": "140",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3J5EH7Q",
+        "name": "美宜佳(苏02318凯瑟琳广场店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "北极西村步道与高楼门交叉口东120米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.788081,
+        "gcj_lat": 32.060246,
+        "wgs84_lon": 118.782883392,
+        "wgs84_lat": 32.0623092503,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L3J5EH7Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78288339240795,
+          32.062309250257755
+        ]
+      }
+    },
+    {
+      "id": "141",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JG97709I",
+        "name": "茶颜悦色(南京夫子庙游园会店)",
+        "type": "餐饮",
+        "typecode": 50700,
+        "address": "贡院街97号栋商铺一楼",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.791131,
+        "gcj_lat": 32.020995,
+        "wgs84_lon": 118.785941615,
+        "wgs84_lat": 32.0230534952,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0JG97709I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78594161510726,
+          32.02305349518051
+        ]
+      }
+    },
+    {
+      "id": "142",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H32Z360U",
+        "name": "逸仙小学附属幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "汉府大厦东北门西北60米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.802447,
+        "gcj_lat": 32.041544,
+        "wgs84_lon": 118.797275071,
+        "wgs84_lat": 32.0436242705,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H32Z360U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79727507142678,
+          32.04362427048655
+        ]
+      }
+    },
+    {
+      "id": "143",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLBVJMS",
+        "name": "罗森鼓楼·荔枝广场店(不对外开放)",
+        "type": "便利店",
+        "typecode": 60400,
+        "address": "北京东路4号荔枝广场1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.786109,
+        "gcj_lat": 32.056989,
+        "wgs84_lon": 118.780908873,
+        "wgs84_lat": 32.0590490297,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFLBVJMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78090887308637,
+          32.05904902972327
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1VC0YI4",
+        "name": "瑞幸咖啡(东南大学四牌楼东区店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "文昌街2号铺底商(鸡鸣寺地铁站1号口步行450米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.798098,
+        "gcj_lat": 32.053165,
+        "wgs84_lon": 118.792917175,
+        "wgs84_lat": 32.0552409571,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1VC0YI4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79291717547939,
+          32.05524095709208
+        ]
+      }
+    },
+    {
+      "id": "145",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK0NESF",
+        "name": "7-ELEVEn(金盛百货店)",
+        "type": "便利店",
+        "typecode": 60201,
+        "address": "长江路9号金盛百货长江路店F1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.790746,
+        "gcj_lat": 32.044973,
+        "wgs84_lon": 118.785553808,
+        "wgs84_lat": 32.0470364042,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFK0NESF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78555380812038,
+          32.04703640420714
+        ]
+      }
+    },
+    {
+      "id": "146",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LK0Y70QS",
+        "name": "南京市北京东路小学西侧停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "北京东路与太平北路交叉口北140米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "停车场",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.798275,
+        "gcj_lat": 32.058975,
+        "wgs84_lon": 118.79309395,
+        "wgs84_lat": 32.0610525174,
+        "source": "amap_api_incremental",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LK0Y70QS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79309394982872,
+          32.06105251739426
+        ]
+      }
+    },
+    {
+      "id": "147",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ43FVX",
+        "name": "7-ELEVEn(珠江路店)",
+        "type": "便利店",
+        "typecode": 60201,
+        "address": "珠江路1号金鹰国际购物中心(珠江路店)南馆F1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.785295,
+        "gcj_lat": 32.050472,
+        "wgs84_lon": 118.780094348,
+        "wgs84_lat": 32.0525295818,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJ43FVX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78009434796233,
+          32.05252958182693
+        ]
+      }
+    },
+    {
+      "id": "148",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFOL857",
+        "name": "南京市五老村小学(崇实校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "中山东路三条巷8号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.800677,
+        "gcj_lat": 32.034757,
+        "wgs84_lon": 118.795502458,
+        "wgs84_lat": 32.0368328778,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFOL857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79550245789663,
+          32.036832877798695
+        ]
+      }
+    },
+    {
+      "id": "149",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L6PZ9THJ",
+        "name": "MINI-CO小咖咖啡(南京珠江路未来城店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "珠江路498号L111、L112-a单元",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.800732,
+        "gcj_lat": 32.047342,
+        "wgs84_lon": 118.795556399,
+        "wgs84_lat": 32.0494207996,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L6PZ9THJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79551574269645,
+          32.049376273459956
+        ]
+      }
+    },
+    {
+      "id": "150",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH0E2BG",
+        "name": "STANDING ROOM(东大店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "蓁巷9-3号(近东南大学南门)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.793343,
+        "gcj_lat": 32.05248,
+        "wgs84_lon": 118.788154226,
+        "wgs84_lat": 32.0545487196,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFH0E2BG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78815422565648,
+          32.05454871958403
+        ]
+      }
+    },
+    {
+      "id": "151",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J37ASXZL",
+        "name": "蓝湾咖啡(未来城写字楼店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "珠江路488号未来城A1座三楼",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.797476,
+        "gcj_lat": 32.047927,
+        "wgs84_lon": 118.792294576,
+        "wgs84_lat": 32.0500008331,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J37ASXZL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.792252208845,
+          32.05001611677166
+        ]
+      }
+    },
+    {
+      "id": "152",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0KSSV91",
+        "name": "红厨巷淮扬菜(熙南里店)",
+        "type": "餐饮",
+        "typecode": 50105,
+        "address": "双塘街道弓箭坊55号-5",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.780024,
+        "gcj_lat": 32.02402,
+        "wgs84_lon": 118.774819044,
+        "wgs84_lat": 32.0260656036,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0G0KSSV91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77481904352868,
+          32.02606560357698
+        ]
+      }
+    },
+    {
+      "id": "153",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LD6AG33R",
+        "name": "新街口停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "中山东路与新街口步行街交叉口东南20米",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "停车场",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.786578,
+        "gcj_lat": 32.041418,
+        "wgs84_lon": 118.78137997,
+        "wgs84_lat": 32.0434751384,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LD6AG33R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78137996961972,
+          32.04347513840812
+        ]
+      }
+    },
+    {
+      "id": "154",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0019056P0",
+        "name": "文昌巷幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "文昌巷19号(大行宫地铁站出入口步行470米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.795019,
+        "gcj_lat": 32.03769,
+        "wgs84_lon": 118.789834344,
+        "wgs84_lat": 32.0397578398,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0019056P0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78983434355231,
+          32.03975783977089
+        ]
+      }
+    },
+    {
+      "id": "155",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KB9H6DLC",
+        "name": "傻姑超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "五老村街道三条巷95号107-1室门面房",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "便利店",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.800604,
+        "gcj_lat": 32.038126,
+        "wgs84_lon": 118.795429016,
+        "wgs84_lat": 32.0402025232,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KB9H6DLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79542901583838,
+          32.04020252316908
+        ]
+      }
+    },
+    {
+      "id": "156",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190B3QL",
+        "name": "中国建设银行(南京洪武支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "洪武路188号中国建设银行大厦",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "银行",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.786592,
+        "gcj_lat": 32.034794,
+        "wgs84_lon": 118.781394601,
+        "wgs84_lat": 32.03684966,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190B3QL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78139460057903,
+          32.036849659954015
+        ]
+      }
+    },
+    {
+      "id": "157",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KAZBBIQ0",
+        "name": "十足便利店(南京太平门街店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "太平门街81号(九华山地铁站1号口步行440米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "便利店",
+        "city": "南京市",
+        "district": "玄武区",
+        "gcj_lon": 118.810566,
+        "gcj_lat": 32.057192,
+        "wgs84_lon": 118.805408294,
+        "wgs84_lat": 32.0592895869,
+        "source": "amap_api_incremental",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KAZBBIQ0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.80540829392447,
+          32.05928958689629
+        ]
+      }
+    },
+    {
+      "id": "158",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDJU7RUT",
+        "name": "歪脖·THE VIBE·定食咖啡屋(新街口店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "新街口街道鸡鹅巷8号一层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.791028,
+        "gcj_lat": 32.04842,
+        "wgs84_lon": 118.785835927,
+        "wgs84_lat": 32.0504845627,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IDJU7RUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.785835926833,
+          32.05048456274306
+        ]
+      }
+    },
+    {
+      "id": "159",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I13L07U2",
+        "name": "Tims咖啡(总统府1912店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "长江路288号南京1912街区2号楼1F",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "玄武区",
+        "query_category": "咖啡厅",
+        "city": "南京",
+        "district": "玄武区",
+        "gcj_lon": 118.79546,
+        "gcj_lat": 32.04371,
+        "wgs84_lon": 118.790275527,
+        "wgs84_lat": 32.0457798484,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I13L07U2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.79027552651623,
+          32.04577984838811
+        ]
+      }
+    },
+    {
+      "id": "160",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG0BZ7A",
+        "name": "诚信餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "张府园36号101室",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "餐饮",
+        "city": "南京市",
+        "district": "秦淮区",
+        "gcj_lon": 118.782537,
+        "gcj_lat": 32.031873,
+        "wgs84_lon": 118.777334414,
+        "wgs84_lat": 32.033923149,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFG0BZ7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77733441382045,
+          32.033923149023934
+        ]
+      }
+    },
+    {
+      "id": "161",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001914BCZ",
+        "name": "南京市游府西街幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "游府新村24号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "秦淮区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "秦淮区",
+        "gcj_lon": 118.789695,
+        "gcj_lat": 32.03789,
+        "wgs84_lon": 118.784501855,
+        "wgs84_lat": 32.0399503868,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001914BCZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78450185531294,
+          32.03995038676144
+        ]
+      }
+    },
+    {
+      "id": "162",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH6KBQ5",
+        "name": "沐雅·礼酒店(南京奥体东地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "新安街99号东渡新锐大厦2层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.731036,
+        "gcj_lat": 32.003056,
+        "wgs84_lon": 118.72582422,
+        "wgs84_lat": 32.005087685,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFH6KBQ5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7258242201812,
+          32.005087685013294
+        ]
+      }
+    },
+    {
+      "id": "163",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFR4CW",
+        "name": "南京一米阳光酒店公寓(河西万达店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "万达广场万达中心G座20层2005室",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "建邺区",
+        "query_category": "酒店",
+        "city": "南京",
+        "district": "建邺区",
+        "gcj_lon": 118.737109,
+        "gcj_lat": 32.029852,
+        "wgs84_lon": 118.73189025,
+        "wgs84_lat": 32.0318861265,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFFR4CW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73189024981704,
+          32.0318861265113
+        ]
+      }
+    },
+    {
+      "id": "164",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AAWQ",
+        "name": "南京市第一医院南院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "共青团路32号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "医院",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.774504,
+        "gcj_lat": 32.001549,
+        "wgs84_lon": 118.769295134,
+        "wgs84_lat": 32.0035840894,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00190AAWQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76929513380784,
+          32.00358408944297
+        ]
+      }
+    },
+    {
+      "id": "165",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10054614",
+        "name": "宁南小区(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "33路;737路;98路;B32路;Y12路夜间;Y8路夜间",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "公交站",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.788281,
+        "gcj_lat": 31.989264,
+        "wgs84_lon": 118.78309023,
+        "wgs84_lat": 31.9913113653,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10054614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78309022951612,
+          31.991311365278207
+        ]
+      }
+    },
+    {
+      "id": "166",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10416134",
+        "name": "雨花广场(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "机场巴士1号线",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "公交站",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.78498,
+        "gcj_lat": 31.992397,
+        "wgs84_lon": 118.779784274,
+        "wgs84_lat": 31.9944409458,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10416134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77978427404466,
+          31.994440945837493
+        ]
+      }
+    },
+    {
+      "id": "167",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AAWC",
+        "name": "交通银行(南京雨花西路支行)",
+        "type": "银行",
+        "typecode": 160108,
+        "address": "雨花西路11-1号(中华门地铁站3号口步行340米)",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.776903,
+        "gcj_lat": 32.00477,
+        "wgs84_lon": 118.771696296,
+        "wgs84_lat": 32.0068080361,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190AAWC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.77163880815345,
+          32.00681020723945
+        ]
+      }
+    },
+    {
+      "id": "168",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ6C178",
+        "name": "江苏传媒学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "雨花东路156号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "学校",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.791161,
+        "gcj_lat": 31.992067,
+        "wgs84_lon": 118.785974326,
+        "wgs84_lat": 31.994118874,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJ6C178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78597432559494,
+          31.99411887402
+        ]
+      }
+    },
+    {
+      "id": "169",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GK75Z4ND",
+        "name": "中国建设银行24小时自助银行(宁南支行)",
+        "type": "银行",
+        "typecode": 160303,
+        "address": "玉兰路8号国资大厦F1层",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.788758,
+        "gcj_lat": 31.98603,
+        "wgs84_lon": 118.783568231,
+        "wgs84_lat": 31.9880772412,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0GK75Z4ND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78356823061505,
+          31.98807724122967
+        ]
+      }
+    },
+    {
+      "id": "170",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00190AF0Z",
+        "name": "中国农业银行(南京长虹路支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "雨花西路126号",
+        "pname": "江苏省",
+        "cityname": "南京市",
+        "adname": "雨花台区",
+        "query_category": "银行",
+        "city": "南京",
+        "district": "雨花台区",
+        "gcj_lon": 118.770317,
+        "gcj_lat": 32.003097,
+        "wgs84_lon": 118.765104236,
+        "wgs84_lat": 32.0051290663,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B00190AF0Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.76510423595568,
+          32.005129066281455
+        ]
+      }
+    }
+  ]
+}

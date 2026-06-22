@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03830108P",
+        "name": "三亚凤凰机场海航快捷酒店",
+        "type": "酒店",
+        "typecode": 100103,
+        "address": "机场路582号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "酒店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.410826,
+        "gcj_lat": 18.309727,
+        "wgs84_lon": 109.406540873,
+        "wgs84_lat": 18.3112318379,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03830108P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.40654087310854,
+          18.31123183787354
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL1PH3U",
+        "name": "乐思商行",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "水蛟路与水一路交叉口北200米",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "便利店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.443133,
+        "gcj_lat": 18.326223,
+        "wgs84_lon": 109.438873352,
+        "wgs84_lat": 18.3277686252,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFL1PH3U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.4388733520505,
+          18.327768625219743
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K14MZDCN",
+        "name": "妙林村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": [],
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "医院",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.479068,
+        "gcj_lat": 18.30091,
+        "wgs84_lon": 109.474888114,
+        "wgs84_lat": 18.3025334702,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K14MZDCN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.47488811366378,
+          18.302533470198007
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H33RWVE2",
+        "name": "槟和商行",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "槟榔村黄猄一组78号槟和超市",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "便利店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.484575,
+        "gcj_lat": 18.316325,
+        "wgs84_lon": 109.480409437,
+        "wgs84_lat": 18.3179691913,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0H33RWVE2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.48040943693732,
+          18.31796919134135
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0383011EA",
+        "name": "三亚市南海学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "三亚旅游区渔村路139号附近",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "学校",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.508423,
+        "gcj_lat": 18.22224,
+        "wgs84_lon": 109.504330184,
+        "wgs84_lat": 18.2239239687,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0383011EA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.504330183704,
+          18.223923968661275
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRMDNNWN",
+        "name": "奇多多超市(海螺馨苑4期店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "海螺一路海螺馨苑四期217栋1层",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "便利店",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.531552,
+        "gcj_lat": 18.264422,
+        "wgs84_lon": 109.527520243,
+        "wgs84_lat": 18.2661865719,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JRMDNNWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.52752024313544,
+          18.266186571863436
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11341608",
+        "name": "强制隔离戒毒所(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "7路(环线)",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.542397,
+        "gcj_lat": 18.298223,
+        "wgs84_lon": 109.538389219,
+        "wgs84_lat": 18.3000255541,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11341608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.53838921868096,
+          18.300025554055182
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGH460U",
+        "name": "iu酒店(三亚亚龙湾店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "亚龙湾东路新红村",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "酒店",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.597495,
+        "gcj_lat": 18.282052,
+        "wgs84_lon": 109.593547395,
+        "wgs84_lat": 18.2839165092,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGH460U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5935473952913,
+          18.28391650923377
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2N1K8P6",
+        "name": "三亚一山湖幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "一山湖一期南门",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "学校",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.554638,
+        "gcj_lat": 18.28091,
+        "wgs84_lon": 109.550655244,
+        "wgs84_lat": 18.2827326312,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J2N1K8P6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5506552439104,
+          18.28273263115712
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KK1OPKY8",
+        "name": "海南鲁迅中学外语部",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "吉阳镇榆亚路海南鲁迅中学内",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "学校",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.551173,
+        "gcj_lat": 18.240824,
+        "wgs84_lon": 109.547185786,
+        "wgs84_lat": 18.2426261443,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0KK1OPKY8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.54719000070862,
+          18.24263921850261
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J3ZLZ2BD",
+        "name": "修序皮肤经骨调理中心",
+        "type": "医院",
+        "typecode": 90601,
+        "address": "回新村观海巷44号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "医院",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.479088,
+        "gcj_lat": 18.27895,
+        "wgs84_lon": 109.474909202,
+        "wgs84_lat": 18.2805663785,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J3ZLZ2BD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.47491018609793,
+          18.280505688389734
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11634922",
+        "name": "万科森林公园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "221路",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.545885,
+        "gcj_lat": 18.332509,
+        "wgs84_lon": 109.54188308,
+        "wgs84_lat": 18.3343299845,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11634922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.54188307951574,
+          18.334329984520085
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11535864",
+        "name": "高知会所(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "251路",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.529443,
+        "gcj_lat": 18.244037,
+        "wgs84_lon": 109.525406851,
+        "wgs84_lat": 18.2457889206,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11535864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.52540685062556,
+          18.24578892056239
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11240505",
+        "name": "吉圣路与吉阳大道路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "三亚-陵水",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.602753,
+        "gcj_lat": 18.297371,
+        "wgs84_lon": 109.598803268,
+        "wgs84_lat": 18.2992399818,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11240505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.59880326811334,
+          18.29923998181896
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11176715",
+        "name": "半岛云邸(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "219路A线",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.49413,
+        "gcj_lat": 18.198765,
+        "wgs84_lon": 109.489997005,
+        "wgs84_lat": 18.2003971965,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11176715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.48999700543308,
+          18.200397196543125
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11605100",
+        "name": "三亚康复疗养中心(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "125路;125路(16:30之后);125路(18:30之后);157路",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.419228,
+        "gcj_lat": 18.289114,
+        "wgs84_lon": 109.414945941,
+        "wgs84_lat": 18.2906171102,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11605100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.4149459414405,
+          18.290617110244963
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1L9DHNY",
+        "name": "三亚晨曦海景云栖公寓(三亚湾店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "美丽新海岸小区2",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "酒店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.45774,
+        "gcj_lat": 18.286958,
+        "wgs84_lon": 109.453509063,
+        "wgs84_lat": 18.2885214021,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L1L9DHNY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.45350906324914,
+          18.2885214020694
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0383004E2",
+        "name": "中国工商银行三亚榆林支行",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "榆亚路155号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "银行",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.53004,
+        "gcj_lat": 18.224613,
+        "wgs84_lon": 109.52600627,
+        "wgs84_lat": 18.2263595656,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0383004E2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.52600627022646,
+          18.226359565606597
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI25EYJ",
+        "name": "中国工商银行(三亚解放支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "解放一路78号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "银行",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.507604,
+        "gcj_lat": 18.237371,
+        "wgs84_lon": 109.503508125,
+        "wgs84_lat": 18.2390579587,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFI25EYJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.50350812451416,
+          18.23905795872479
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLO0BRO",
+        "name": "三亚吉阳李培磊果蔬店",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "南丁村三罗二组14号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "便利店",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.548766,
+        "gcj_lat": 18.314409,
+        "wgs84_lon": 109.54477075,
+        "wgs84_lat": 18.3162306873,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFLO0BRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.54477075021776,
+          18.31623068733167
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHNTAHI",
+        "name": "浦发银行(三亚分行)",
+        "type": "银行",
+        "typecode": 160115,
+        "address": "中信南航大厦1层",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "银行",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.514251,
+        "gcj_lat": 18.274983,
+        "wgs84_lon": 109.510172336,
+        "wgs84_lat": 18.2767027247,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHNTAHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.51017233569873,
+          18.27670272471748
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11641127",
+        "name": "荔枝苑(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "251路",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.507946,
+        "gcj_lat": 18.291474,
+        "wgs84_lon": 109.503848586,
+        "wgs84_lat": 18.293180428,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11641127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.50384858559003,
+          18.29318042804365
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11441999",
+        "name": "双大山湖湾(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "103路",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "公交站",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.525655,
+        "gcj_lat": 18.308203,
+        "wgs84_lon": 109.521606034,
+        "wgs84_lat": 18.3099660606,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11441999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5216060335105,
+          18.30996606063752
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03830MTD3",
+        "name": "易捷便利店(中国石化海城加油站店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "田独镇榆亚路红土坎村路段路南",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "吉阳区",
+        "query_category": "便利店",
+        "city": "三亚市",
+        "district": "吉阳区",
+        "gcj_lon": 109.578366,
+        "gcj_lat": 18.275165,
+        "wgs84_lon": 109.57441325,
+        "wgs84_lat": 18.2770187054,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B03830MTD3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.57441324980988,
+          18.277018705362
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHFX031",
+        "name": "伊鑫旅租",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "高峰路与凤凰路的交汇处南5米(清真东寺东侧)",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "酒店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.446199,
+        "gcj_lat": 18.300041,
+        "wgs84_lon": 109.441945538,
+        "wgs84_lat": 18.3015841846,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHFX031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.44194553805232,
+          18.30158418462157
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0383011BJ",
+        "name": "三亚市春园社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "新风街三亚博大男科研究院",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "医院",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.505414,
+        "gcj_lat": 18.251598,
+        "wgs84_lon": 109.501311147,
+        "wgs84_lat": 18.2532833873,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0383011BJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5013111474651,
+          18.253283387325375
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B038300CL2",
+        "name": "三亚万吉度假公寓",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "解放四路嘉盛花园2层万吉度假主题公寓(月川桥往农垦医院方向走100米)",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "酒店",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.498362,
+        "gcj_lat": 18.265169,
+        "wgs84_lon": 109.494238106,
+        "wgs84_lat": 18.2668377611,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B038300CL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.49423810644457,
+          18.26683776114761
+        ]
+      }
+    }
+  ]
+}

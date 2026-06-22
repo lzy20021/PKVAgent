@@ -1,0 +1,3949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM3GAJ6",
+        "name": "凤翔宾馆(花都融创店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "狮岭镇杨屋一村首层杨屋中心市场旁边",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "花都区",
+        "query_category": "酒店",
+        "city": "广州",
+        "district": "花都区",
+        "gcj_lon": 113.201219,
+        "gcj_lat": 23.4204,
+        "wgs84_lon": 113.195836385,
+        "wgs84_lat": 23.422955634,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFM3GAJ6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.19583638451856,
+          23.42295563401811
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03018QHMN",
+        "name": "粤晖园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "道滘镇粤晖路1号粤晖园(东北角)",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区01",
+        "gcj_lon": 113.632058,
+        "gcj_lat": 22.975003,
+        "wgs84_lon": 113.626981313,
+        "wgs84_lat": 22.9779080721,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B03018QHMN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.62698131268512,
+          22.977908072077557
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAKZHBA7",
+        "name": "东莞松山湖未来学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "松山湖园区景安路3号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.904875,
+        "gcj_lat": 22.890139,
+        "wgs84_lon": 113.899989638,
+        "wgs84_lat": 22.8931010189,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HAKZHBA7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8999896382738,
+          22.89310101891548
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGX7VLY",
+        "name": "东莞市东华初级中学(生态园校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "松山湖园区南朗路1号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.90142,
+        "gcj_lat": 23.089235,
+        "wgs84_lon": 113.896519619,
+        "wgs84_lat": 23.0921124565,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGX7VLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.89651961893394,
+          23.092112456503667
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2T5W7PD",
+        "name": "招商银行(东莞常平支行)",
+        "type": "银行",
+        "typecode": 160109,
+        "address": "常平大道19号骏宏广场101号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.993403,
+        "gcj_lat": 22.964764,
+        "wgs84_lon": 113.988397715,
+        "wgs84_lat": 22.967528776,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0K2T5W7PD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98839771454831,
+          22.967528775984544
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J3CCFOI2",
+        "name": "佛岭科技园地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "G35济广高速南侧",
+        "pname": "广东省",
+        "cityname": "惠州市",
+        "adname": "博罗县",
+        "query_category": "停车场",
+        "city": "惠州",
+        "district": "园洲镇",
+        "gcj_lon": 113.992839,
+        "gcj_lat": 23.18487,
+        "wgs84_lon": 113.987820754,
+        "wgs84_lat": 23.1875449959,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0J3CCFOI2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98782075429648,
+          23.187544995947057
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGAQ5EZ",
+        "name": "增城中学初中部(西园路)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "文化路9号(挂绿广场正对面)",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "学校",
+        "city": "广州",
+        "district": "增城区",
+        "gcj_lon": 113.834766,
+        "gcj_lat": 23.290481,
+        "wgs84_lon": 113.829722383,
+        "wgs84_lat": 23.2932078229,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGAQ5EZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.82948004033705,
+          23.293111402876264
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHF5AI5",
+        "name": "中国光大银行24小时自助银行(黄埔大道支行)",
+        "type": "银行",
+        "typecode": 160310,
+        "address": "黄埔大道中205号(天河公园地铁站B口步行480米)",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "天河区",
+        "query_category": "银行",
+        "city": "广州",
+        "district": "天河区",
+        "gcj_lon": 113.366918,
+        "gcj_lat": 23.12214,
+        "wgs84_lon": 113.361417654,
+        "wgs84_lat": 23.1246620341,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHF5AI5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.361417653501,
+          23.124662034111953
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF3B3KS",
+        "name": "五光十色幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "太公岭村双岭街十一巷12号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞",
+        "district": "网格城区03",
+        "gcj_lon": 113.81726,
+        "gcj_lat": 22.913636,
+        "wgs84_lon": 113.812193925,
+        "wgs84_lat": 22.916477705,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF3B3KS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.81219392477604,
+          22.91647770498021
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09327060",
+        "name": "金桔(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞",
+        "district": "网格城区04",
+        "gcj_lon": 113.852025,
+        "gcj_lat": 22.911177,
+        "wgs84_lon": 113.847051172,
+        "wgs84_lat": 22.9140836266,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09327060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.84705117187313,
+          22.914083626552618
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF3B2W0",
+        "name": "上海浦东发展银行24小时自助银行(松山湖科技支行)",
+        "type": "银行",
+        "typecode": 160312,
+        "address": "沁园路长城世家35号1层",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区04",
+        "gcj_lon": 113.889945,
+        "gcj_lat": 22.927258,
+        "wgs84_lon": 113.885043665,
+        "wgs84_lat": 22.9302018038,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFF3B2W0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.88504366531583,
+          22.930201803841324
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10255786",
+        "name": "南海人民检察院(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "桂01路",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "公交站",
+        "city": "佛山",
+        "district": "南海区",
+        "gcj_lon": 113.143785,
+        "gcj_lat": 23.025742,
+        "wgs84_lon": 113.138328209,
+        "wgs84_lat": 23.0283220333,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10255786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.13832820850166,
+          23.02832203325231
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH2FMD4",
+        "name": "顺德区大良新球社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "湖畔路与广珠公路交叉口东140米",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "医院",
+        "city": "佛山",
+        "district": "顺德区",
+        "gcj_lon": 113.281057,
+        "gcj_lat": 22.798725,
+        "wgs84_lon": 113.275733273,
+        "wgs84_lat": 22.8015234256,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH2FMD4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.27573327267854,
+          22.801523425555
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11351602",
+        "name": "罗浮山林场(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "博罗16路;博罗222路;莞惠通1路",
+        "pname": "广东省",
+        "cityname": "惠州市",
+        "adname": "博罗县",
+        "query_category": "公交站",
+        "city": "惠州",
+        "district": "园洲镇",
+        "gcj_lon": 113.990017,
+        "gcj_lat": 23.216371,
+        "wgs84_lon": 113.985003782,
+        "wgs84_lat": 23.2190431444,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11351602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98500378165782,
+          23.219043144415526
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10593222",
+        "name": "钟岗(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "21号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "增城区",
+        "gcj_lon": 113.792047,
+        "gcj_lat": 23.279317,
+        "wgs84_lon": 113.786895251,
+        "wgs84_lat": 23.2819720927,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10593222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.78689525111707,
+          23.28197209271196
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2FLMSD9",
+        "name": "华南师范大学附属中学增城学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "荔湖新城南北大道",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "学校",
+        "city": "广州",
+        "district": "增城区",
+        "gcj_lon": 113.817736,
+        "gcj_lat": 23.233588,
+        "wgs84_lon": 113.812650183,
+        "wgs84_lat": 23.2363003043,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H2FLMSD9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.81265018257216,
+          23.236300304277332
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11198222",
+        "name": "锦绣半山(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "增城14路;增城78路;增城82路;增城9路;增城9路快线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "公交站",
+        "city": "广州",
+        "district": "增城区",
+        "gcj_lon": 113.791762,
+        "gcj_lat": 23.255161,
+        "wgs84_lon": 113.786611245,
+        "wgs84_lat": 23.2578230346,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11198222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7866112454532,
+          23.25782303464592
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0ID26O0PQ",
+        "name": "增江街陆村村卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "陆村中路与陆屋街交叉口西南500米",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "增城区",
+        "gcj_lon": 113.840175,
+        "gcj_lat": 23.249945,
+        "wgs84_lon": 113.835148547,
+        "wgs84_lat": 23.2526940829,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0ID26O0PQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83514854740834,
+          23.252694082894397
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFVUTC8",
+        "name": "东莞鑫悦商务酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "振兴南路197号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞",
+        "district": "网格城区10",
+        "gcj_lon": 113.720125,
+        "gcj_lat": 23.080075,
+        "wgs84_lon": 113.714927828,
+        "wgs84_lat": 23.0827888106,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFVUTC8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71500447473878,
+          23.082735790315663
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LAYLM1VD",
+        "name": "野coffee日咖夜酒",
+        "type": "其他",
+        "typecode": 80304,
+        "address": "寮步镇金富一路铭尚美食街126号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "咖啡厅",
+        "city": "东莞",
+        "district": "网格城区08",
+        "gcj_lon": 113.872957,
+        "gcj_lat": 23.023161,
+        "wgs84_lon": 113.868022463,
+        "wgs84_lat": 23.0260495454,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LAYLM1VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.86808747535804,
+          23.02610271919747
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03018JAQX",
+        "name": "东莞友华医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "下岭贝基业中路8号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区08",
+        "gcj_lon": 113.834736,
+        "gcj_lat": 23.019956,
+        "wgs84_lon": 113.829710028,
+        "wgs84_lat": 23.0227851231,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B03018JAQX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.829710028494,
+          23.022785123122528
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRNAUMTT",
+        "name": "斑马咖啡ZCR(蟠龙花园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "寮步镇勤政路3号蟠龙花园170室",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "咖啡厅",
+        "city": "东莞",
+        "district": "网格城区08",
+        "gcj_lon": 113.871862,
+        "gcj_lat": 22.999002,
+        "wgs84_lon": 113.866926908,
+        "wgs84_lat": 23.0018997405,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0HRNAUMTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.86668866557613,
+          23.001735980483257
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03018MMHA",
+        "name": "东莞市茶山镇卢边社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "卢边村怡溪一街26号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区08",
+        "gcj_lon": 113.867605,
+        "gcj_lat": 23.049271,
+        "wgs84_lon": 113.862658065,
+        "wgs84_lat": 23.0521418003,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B03018MMHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.86265806462454,
+          23.052141800296372
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09474193",
+        "name": "富东饭店(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "金梧桐餐厅美食专线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "公交站",
+        "city": "东莞",
+        "district": "网格城区07",
+        "gcj_lon": 113.781491,
+        "gcj_lat": 23.029372,
+        "wgs84_lon": 113.776334771,
+        "wgs84_lat": 23.0321087901,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09474193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.77634025809768,
+          23.032129977933618
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HG45SRX7",
+        "name": "海与江湖海鲜餐厅(南城店)",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "东城街道南城街道雅园产业园路5号6栋101室",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.760961,
+        "gcj_lat": 22.978075,
+        "wgs84_lon": 113.75577855,
+        "wgs84_lat": 22.9808181446,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0HG45SRX7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.75577855007415,
+          22.98081814461926
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03018I6B7",
+        "name": "润景酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "高埗大道北保安围村2区1号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞",
+        "district": "网格城区10",
+        "gcj_lon": 113.717518,
+        "gcj_lat": 23.106322,
+        "wgs84_lon": 113.712320788,
+        "wgs84_lat": 23.109027771,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03018I6B7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71208240668678,
+          23.10835847437699
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09327062",
+        "name": "坝头(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞",
+        "district": "网格城区06",
+        "gcj_lon": 113.726493,
+        "gcj_lat": 23.02243,
+        "wgs84_lon": 113.721296514,
+        "wgs84_lat": 23.0251622731,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09327062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.72118703805494,
+          23.025126147124244
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00140G0FH",
+        "name": "邝维煜纪念中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "新华镇建设北路129号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "花都区",
+        "query_category": "学校",
+        "city": "广州",
+        "district": "花都区",
+        "gcj_lon": 113.204067,
+        "gcj_lat": 23.400047,
+        "wgs84_lon": 113.198690096,
+        "wgs84_lat": 23.4026100095,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B00140G0FH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.19869009575444,
+          23.402610009455394
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03017UMRA",
+        "name": "东莞农村商业银行24小时自助银行(上中路)",
+        "type": "银行",
+        "typecode": 160318,
+        "address": "上中路39号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区04",
+        "gcj_lon": 113.865166,
+        "gcj_lat": 22.964969,
+        "wgs84_lon": 113.860219331,
+        "wgs84_lat": 22.9678729386,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B03017UMRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.86021933061708,
+          22.967872938563822
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10571480",
+        "name": "花城路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "9号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "花都区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "花都区",
+        "gcj_lon": 113.21274,
+        "gcj_lat": 23.379622,
+        "wgs84_lon": 113.207376396,
+        "wgs84_lat": 23.3822006396,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10571480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.20737639579764,
+          23.382200639621544
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLIXNSL",
+        "name": "东莞市北辰高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "望牛墩镇南昌路8号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞",
+        "district": "网格城区05",
+        "gcj_lon": 113.65466,
+        "gcj_lat": 23.040775,
+        "wgs84_lon": 113.64955094,
+        "wgs84_lat": 23.043616037,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFLIXNSL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64955093960852,
+          23.04361603704601
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10525632",
+        "name": "下桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.788305,
+        "gcj_lat": 23.062821,
+        "wgs84_lon": 113.783159751,
+        "wgs84_lat": 23.0655517067,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10525632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7831597510552,
+          23.06555170665437
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKHSBFK9",
+        "name": "大岭山华威·科谷停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "华威科谷",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区04",
+        "gcj_lon": 113.85559,
+        "gcj_lat": 22.942702,
+        "wgs84_lon": 113.850622849,
+        "wgs84_lat": 22.9456012111,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HKHSBFK9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.85062284895464,
+          22.94560121109357
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGE48HQ",
+        "name": "啡文学咖啡(中堂店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "潢涌商业路26-27号附近",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "咖啡厅",
+        "city": "东莞",
+        "district": "网格城区10",
+        "gcj_lon": 113.740974,
+        "gcj_lat": 23.125741,
+        "wgs84_lon": 113.735769325,
+        "wgs84_lat": 23.1284208301,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFGE48HQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.73576932506244,
+          23.128420830055397
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11144925",
+        "name": "大朗(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.92682,
+        "gcj_lat": 22.928006,
+        "wgs84_lon": 113.921933041,
+        "wgs84_lat": 22.9309386212,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11144925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92193304082076,
+          22.93093862118893
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10827186",
+        "name": "官湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "13号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "地铁站",
+        "city": "东莞",
+        "district": "网格城区09",
+        "gcj_lon": 113.636569,
+        "gcj_lat": 23.137226,
+        "wgs84_lon": 113.631477063,
+        "wgs84_lat": 23.1400562584,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10827186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.63147706254809,
+          23.140056258415814
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRMOFRHS",
+        "name": "29咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "广场北路16号科创中心123号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "咖啡厅",
+        "city": "东莞",
+        "district": "网格城区10",
+        "gcj_lon": 113.749675,
+        "gcj_lat": 23.090775,
+        "wgs84_lon": 113.744475998,
+        "wgs84_lat": 23.0934676177,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JRMOFRHS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.74447599830027,
+          23.09346761772271
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHIW7PX",
+        "name": "中国邮政中国邮政储蓄银行",
+        "type": "银行",
+        "typecode": 160139,
+        "address": "东明路12号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区02",
+        "gcj_lon": 113.700601,
+        "gcj_lat": 22.967162,
+        "wgs84_lon": 113.695429241,
+        "wgs84_lat": 22.9699507965,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFHIW7PX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.69542924144176,
+          22.969950796467984
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LK59U36T",
+        "name": "东莞市洪梅毛毛停车场服务部",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "东莞市洪梅镇望沙路洪梅段3号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区05",
+        "gcj_lon": 113.613099,
+        "gcj_lat": 23.01371,
+        "wgs84_lon": 113.608031775,
+        "wgs84_lat": 23.0166170539,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LK59U36T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.60803177530457,
+          23.016617053936063
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09159187",
+        "name": "龙口西(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "天河区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "天河区",
+        "gcj_lon": 113.337669,
+        "gcj_lat": 23.141471,
+        "wgs84_lon": 113.33221849,
+        "wgs84_lat": 23.1440336608,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09159187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.33221848995407,
+          23.144033660830676
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03017UM1Q",
+        "name": "中国农业银行24小时自助银行(东莞厚街河田支行)",
+        "type": "银行",
+        "typecode": 160304,
+        "address": "厚街镇河田沿河路40号远隆商贸大厦1层",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区02",
+        "gcj_lon": 113.677267,
+        "gcj_lat": 22.934351,
+        "wgs84_lon": 113.672130145,
+        "wgs84_lat": 22.9371953273,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B03017UM1Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67213014460164,
+          22.93719532734304
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0301028ZH",
+        "name": "中国工商银行(东莞洪梅支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "洪梅镇明日大厦(建设路25号,工商银行旁)",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区05",
+        "gcj_lon": 113.613856,
+        "gcj_lat": 22.99301,
+        "wgs84_lon": 113.608789907,
+        "wgs84_lat": 22.9959255086,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0301028ZH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.60878990743916,
+          22.99592550860521
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10850278",
+        "name": "云台花园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "越秀区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "白云区",
+        "gcj_lon": 113.29255,
+        "gcj_lat": 23.153902,
+        "wgs84_lon": 113.287186038,
+        "wgs84_lat": 23.1565401229,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10850278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28718603784282,
+          23.15654012294216
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11031577",
+        "name": "乐嘉路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)14号线二期;14号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "白云区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "白云区",
+        "gcj_lon": 113.260291,
+        "gcj_lat": 23.171173,
+        "wgs84_lon": 113.254961004,
+        "wgs84_lat": 23.1738351425,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11031577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25496100440958,
+          23.17383514245356
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGQL68V",
+        "name": "鸿满堂海鲜酒家停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "东华大道与新塘大道东交叉口西南80米",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区09",
+        "gcj_lon": 113.625074,
+        "gcj_lat": 23.112709,
+        "wgs84_lon": 113.619994219,
+        "wgs84_lat": 23.115563661,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGQL68V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61999421866209,
+          23.115563660961698
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10013935",
+        "name": "烈士陵园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线中段;1号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "越秀区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "越秀区",
+        "gcj_lon": 113.285663,
+        "gcj_lat": 23.126704,
+        "wgs84_lon": 113.280311221,
+        "wgs84_lat": 23.1293621945,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10013935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28031122054496,
+          23.129362194469334
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024377",
+        "name": "西村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线;8号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "荔湾区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "越秀区",
+        "gcj_lon": 113.242125,
+        "gcj_lat": 23.142222,
+        "wgs84_lon": 113.236799666,
+        "wgs84_lat": 23.144896333,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.23679966603278,
+          23.14489633296039
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0G78LWR",
+        "name": "海蓝蓝·舒适酒店(禅城卓越浅水湾店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "魁奇一路天汇云湾2号楼2109",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "禅城区",
+        "query_category": "酒店",
+        "city": "佛山",
+        "district": "禅城区",
+        "gcj_lon": 113.15194,
+        "gcj_lat": 22.989588,
+        "wgs84_lon": 113.14649871,
+        "wgs84_lat": 22.9921972319,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K0G78LWR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.14649871010344,
+          22.992197231869728
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F50UZ11",
+        "name": "足球农庄·岭南经典粤菜",
+        "type": "餐饮",
+        "typecode": 50103,
+        "address": "桂城夏南二大街",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "餐饮",
+        "city": "佛山市",
+        "district": "南海区",
+        "gcj_lon": 113.180908,
+        "gcj_lat": 23.056041,
+        "wgs84_lon": 113.175515021,
+        "wgs84_lat": 23.0586753407,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B02F50UZ11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1755150208076,
+          23.058675340721788
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F50UERZ",
+        "name": "石门中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "大沥镇黄岐北环路18号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "学校",
+        "city": "佛山市",
+        "district": "南海区",
+        "gcj_lon": 113.184287,
+        "gcj_lat": 23.121699,
+        "wgs84_lon": 113.178895786,
+        "wgs84_lat": 23.124312158,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F50UERZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1788957863397,
+          23.124312157991678
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F508G5C",
+        "name": "桂城中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "桂城街道平洲石龙南路",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "学校",
+        "city": "佛山市",
+        "district": "南海区",
+        "gcj_lon": 113.187282,
+        "gcj_lat": 23.025462,
+        "wgs84_lon": 113.181902663,
+        "wgs84_lat": 23.0281211707,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F508G5C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1819026630921,
+          23.02812117070508
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFWORAG",
+        "name": "南海外国语高级中学",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "桂城街道三山新城F02街区",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "学校",
+        "city": "佛山市",
+        "district": "南海区",
+        "gcj_lon": 113.227515,
+        "gcj_lat": 23.001942,
+        "wgs84_lon": 113.222191848,
+        "wgs84_lat": 23.0046671244,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFWORAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2221918478446,
+          23.004667124438715
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00140TXRH",
+        "name": "芳雅苑停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "芳村大道西2号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "荔湾区",
+        "query_category": "停车场",
+        "city": "广州",
+        "district": "荔湾区",
+        "gcj_lon": 113.218826,
+        "gcj_lat": 23.108016,
+        "wgs84_lon": 113.213487779,
+        "wgs84_lat": 23.1106876146,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B00140TXRH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.21348777887765,
+          23.11068761455411
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAGO10",
+        "name": "大良毋米粥·粥水火锅(大良总店)",
+        "type": "餐饮",
+        "typecode": 50117,
+        "address": "大良镇锦龙路270号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "餐饮",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.24204,
+        "gcj_lat": 22.849255,
+        "wgs84_lon": 113.236734187,
+        "wgs84_lat": 22.8520517188,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFAGO10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.23673418725554,
+          22.85205171875286
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10544497",
+        "name": "沙涌(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线;广佛线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "荔湾区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "荔湾区",
+        "gcj_lon": 113.246755,
+        "gcj_lat": 23.083097,
+        "wgs84_lon": 113.241434182,
+        "wgs84_lat": 23.0857964638,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10544497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.24143418240672,
+          23.08579646376455
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFENVQA",
+        "name": "顺峰初级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "锦上西路1号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "学校",
+        "city": "佛山",
+        "district": "顺德区",
+        "gcj_lon": 113.281738,
+        "gcj_lat": 22.829665,
+        "wgs84_lon": 113.276411354,
+        "wgs84_lat": 22.832451505,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFENVQA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2764113536532,
+          22.832451505002933
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10992385",
+        "name": "滨江东路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "海珠区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "海珠区",
+        "gcj_lon": 113.291848,
+        "gcj_lat": 23.104084,
+        "wgs84_lon": 113.286488508,
+        "wgs84_lat": 23.1067431545,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10992385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28648850842893,
+          23.10674315454047
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024417",
+        "name": "东晓南(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "10号线;2号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "海珠区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "海珠区",
+        "gcj_lon": 113.294174,
+        "gcj_lat": 23.071333,
+        "wgs84_lon": 113.288812971,
+        "wgs84_lat": 23.0740024964,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28881297136702,
+          23.074002496362702
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10014515",
+        "name": "沥滘(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线;广佛线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "海珠区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "海珠区",
+        "gcj_lon": 113.319228,
+        "gcj_lat": 23.054798,
+        "wgs84_lon": 113.313821089,
+        "wgs84_lat": 23.0574315679,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10014515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.31382108917283,
+          23.057431567884464
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10014669",
+        "name": "猎德(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "天河区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "天河区",
+        "gcj_lon": 113.332105,
+        "gcj_lat": 23.118539,
+        "wgs84_lon": 113.326667337,
+        "wgs84_lat": 23.1211213946,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10014669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.32666733743234,
+          23.12112139459981
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11375603",
+        "name": "龙潭(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线;18号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "海珠区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "海珠区",
+        "gcj_lon": 113.340902,
+        "gcj_lat": 23.079237,
+        "wgs84_lon": 113.335449293,
+        "wgs84_lat": 23.0818191692,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11375603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.33544929253324,
+          23.081819169219653
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10024401",
+        "name": "新港东(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "海珠区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "天河区",
+        "gcj_lon": 113.35701,
+        "gcj_lat": 23.098722,
+        "wgs84_lon": 113.351526394,
+        "wgs84_lat": 23.1012681388,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10024401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.35152639367178,
+          23.101268138782636
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00140HY7M",
+        "name": "市桥街北片社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "光明北路49号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "番禺区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "番禺区",
+        "gcj_lon": 113.361242,
+        "gcj_lat": 22.941753,
+        "wgs84_lon": 113.355762272,
+        "wgs84_lat": 22.9443597918,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00140HY7M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.35576227226645,
+          22.944359791758774
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GU4MR6O3",
+        "name": "广州慈惠医院",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "科韵北路20号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "天河区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "天河区",
+        "gcj_lon": 113.37867,
+        "gcj_lat": 23.144301,
+        "wgs84_lon": 113.373154364,
+        "wgs84_lat": 23.1468006837,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GU4MR6O3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.37315436371487,
+          23.146800683730394
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKZDBNK",
+        "name": "苏嘉庆诊所",
+        "type": "医院",
+        "typecode": 0,
+        "address": "甘棠村陈地社一巷八号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "番禺区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "番禺区",
+        "gcj_lon": 113.379929,
+        "gcj_lat": 22.961494,
+        "wgs84_lon": 113.3744247,
+        "wgs84_lat": 22.9640697358,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKZDBNK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.37442470018006,
+          22.964069735772895
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K22Y9TVE",
+        "name": "广州市南沙区中医医院(装修中)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "清河路与睦南东街五巷交叉口西南280米",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "南沙区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "南沙区",
+        "gcj_lon": 113.500025,
+        "gcj_lat": 22.815975,
+        "wgs84_lon": 113.494738619,
+        "wgs84_lat": 22.8187835173,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K22Y9TVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.49473861892592,
+          22.81878351728114
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00141KN06",
+        "name": "南沙区黄阁镇东湾村卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "黄阁社区(市场后边)",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "南沙区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "南沙区",
+        "gcj_lon": 113.528906,
+        "gcj_lat": 22.826934,
+        "wgs84_lon": 113.52371737,
+        "wgs84_lat": 22.8298223671,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00141KN06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.52371737006982,
+          22.829822367106857
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0014075CF",
+        "name": "金港酒店(广州南沙进港大道店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "金洲进港路117号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "南沙区",
+        "query_category": "酒店",
+        "city": "广州",
+        "district": "南沙区",
+        "gcj_lon": 113.551882,
+        "gcj_lat": 22.800373,
+        "wgs84_lon": 113.546760707,
+        "wgs84_lat": 22.8033250305,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0014075CF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5467607074773,
+          22.80332503046516
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAO4HOOG",
+        "name": "东莞市嘉荣外国语学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "麻涌镇中心大道与东环路交叉口西南角",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.588003,
+        "gcj_lat": 23.036036,
+        "wgs84_lon": 113.582927317,
+        "wgs84_lat": 23.038936293,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HAO4HOOG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.582927316627,
+          23.0389362930422
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFCJ2V4",
+        "name": "豪庭公寓(广州新塘地铁站店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "永宁街长岗村新村街东一巷6号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "酒店",
+        "city": "东莞",
+        "district": "网格城区09",
+        "gcj_lon": 113.602981,
+        "gcj_lat": 23.139007,
+        "wgs84_lon": 113.597906169,
+        "wgs84_lat": 23.1418658285,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFCJ2V4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59790616864976,
+          23.141865828540375
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHEF4MQ",
+        "name": "腾辉学校初中部",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "沙田镇鹤洲路10号东莞市沙田腾辉学校",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞",
+        "district": "网格城区01",
+        "gcj_lon": 113.62217,
+        "gcj_lat": 22.922276,
+        "wgs84_lon": 113.617104628,
+        "wgs84_lat": 22.9252148295,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHEF4MQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61710462777904,
+          22.92521482951537
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZO6F4",
+        "name": "洪梅镇金鳌沙村委会卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "东村三巷与北区一巷交叉口西140米",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区01",
+        "gcj_lon": 113.613612,
+        "gcj_lat": 22.952971,
+        "wgs84_lon": 113.608548589,
+        "wgs84_lat": 22.9559038922,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFZO6F4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.60854858943664,
+          22.95590389216089
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH5D4VQ",
+        "name": "东莞农村商业银行中堂槎滘支行",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "中堂镇槎滘建设路8号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞",
+        "district": "网格城区09",
+        "gcj_lon": 113.625034,
+        "gcj_lat": 23.086296,
+        "wgs84_lon": 113.619955979,
+        "wgs84_lat": 23.089161668,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFH5D4VQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61995597882957,
+          23.089161668021323
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J6YMXIY3",
+        "name": "创新上河居幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": null,
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞",
+        "district": "网格城区01",
+        "gcj_lon": 113.649688,
+        "gcj_lat": 22.953583,
+        "wgs84_lon": 113.644591732,
+        "wgs84_lat": 22.956470359,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0J6YMXIY3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64459173153992,
+          22.956470359049433
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHC4TMP",
+        "name": "增城大新医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "大墩村龙田东路16号(大敦大道旧市场)",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "增城区",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区09",
+        "gcj_lon": 113.670624,
+        "gcj_lat": 23.127382,
+        "wgs84_lon": 113.665484782,
+        "wgs84_lat": 23.1301569163,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHC4TMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66548478214894,
+          23.13015691633088
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI831CD",
+        "name": "东莞市道滘镇蔡白社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "阳光路金色阳光",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区05",
+        "gcj_lon": 113.676663,
+        "gcj_lat": 22.988392,
+        "wgs84_lon": 113.671523526,
+        "wgs84_lat": 22.9912143375,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFI831CD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67152352588629,
+          22.991214337465404
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B030100444",
+        "name": "新城酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "道滘镇新城区振兴路东217号广深高速路口(近广深高速)",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞",
+        "district": "网格城区06",
+        "gcj_lon": 113.680363,
+        "gcj_lat": 23.009591,
+        "wgs84_lon": 113.675216444,
+        "wgs84_lat": 23.0123971716,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B030100444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6752164436053,
+          23.01239717163357
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG837H8",
+        "name": "灿记牛鞭汤(万江鸿运休闲广场店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "万江街道新村社区大新路鸿运休闲生活广场1楼",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.693376,
+        "gcj_lat": 23.034342,
+        "wgs84_lon": 113.688208993,
+        "wgs84_lat": 23.0371138364,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFG837H8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.68820899303076,
+          23.037113836362195
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JBSNPD42",
+        "name": "AIR CAFE",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "旧村西苑路与袁家涌大街交叉口北180米",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "咖啡厅",
+        "city": "东莞",
+        "district": "网格城区10",
+        "gcj_lon": 113.683569,
+        "gcj_lat": 23.107244,
+        "wgs84_lon": 113.678411156,
+        "wgs84_lat": 23.1100026238,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JBSNPD42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67841115572531,
+          23.110002623813006
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09213235",
+        "name": "草塘工业区(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "290路",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "公交站",
+        "city": "东莞",
+        "district": "网格城区02",
+        "gcj_lon": 113.714053,
+        "gcj_lat": 22.944123,
+        "wgs84_lon": 113.708869161,
+        "wgs84_lat": 22.9469023059,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09213235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.70886916095792,
+          22.946902305890344
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B030105SJF",
+        "name": "东莞市南城中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "南城区南城区育才路13号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.723818,
+        "gcj_lat": 22.999827,
+        "wgs84_lon": 113.718624151,
+        "wgs84_lat": 23.0025714937,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B030105SJF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71862415139267,
+          23.002571493702078
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IABZM5W8",
+        "name": "东莞植物园P3地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "南城街道绿色路99号东莞植物园",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区03",
+        "gcj_lon": 113.754596,
+        "gcj_lat": 22.954224,
+        "wgs84_lon": 113.749409358,
+        "wgs84_lat": 22.9569755599,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IABZM5W8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.74940935798296,
+          22.956975559895223
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL3XW9S",
+        "name": "东莞市第九人民医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "莞城街道北隅社区沙地塘88号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区06",
+        "gcj_lon": 113.749416,
+        "gcj_lat": 23.054818,
+        "wgs84_lon": 113.744219243,
+        "wgs84_lat": 23.0575258532,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL3XW9S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.74421924328976,
+          23.05752585319229
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKNZPJUZ",
+        "name": "东莞市殡仪馆停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "东城街道牛山上山门禾坑路东莞市殡仪馆",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区03",
+        "gcj_lon": 113.776806,
+        "gcj_lat": 22.93662,
+        "wgs84_lon": 113.771647741,
+        "wgs84_lat": 22.9393918208,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HKNZPJUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7716477410317,
+          22.93939182081503
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09327053",
+        "name": "立新(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞",
+        "district": "网格城区07",
+        "gcj_lon": 113.772866,
+        "gcj_lat": 23.00379,
+        "wgs84_lon": 113.767697063,
+        "wgs84_lat": 23.0065294394,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09327053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.76769706279582,
+          23.006529439358044
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03018I50Y",
+        "name": "同沙湖城市公园东停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "东城街道莞长路东城段86号同沙生态公园内(东侧)",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "停车场",
+        "city": "东莞",
+        "district": "网格城区03",
+        "gcj_lon": 113.819063,
+        "gcj_lat": 22.964855,
+        "wgs84_lon": 113.813998368,
+        "wgs84_lat": 22.9676783632,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B03018I50Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8139983681329,
+          22.9676783631877
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B03010247J",
+        "name": "东莞万福旅店",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "莞温路温塘加油站前行100米莞温路红绿灯路口处",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞",
+        "district": "网格城区07",
+        "gcj_lon": 113.82172,
+        "gcj_lat": 23.041954,
+        "wgs84_lon": 113.816657432,
+        "wgs84_lat": 23.0447490495,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B03010247J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8166574319139,
+          23.04474904954628
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0301028ZY",
+        "name": "中国工商银行",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "政文西路33号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.811888,
+        "gcj_lat": 23.099183,
+        "wgs84_lon": 113.806795703,
+        "wgs84_lat": 23.1019356896,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0301028ZY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.80679570280914,
+          23.10193568955255
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFRJQT3",
+        "name": "东莞市光正实验学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "茶山镇沿溪路327号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.844972,
+        "gcj_lat": 23.065034,
+        "wgs84_lon": 113.839970256,
+        "wgs84_lat": 23.0678625507,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFRJQT3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.83997025613124,
+          23.06786255070932
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10525640",
+        "name": "东莞火车站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.860186,
+        "gcj_lat": 23.088625,
+        "wgs84_lon": 113.855220218,
+        "wgs84_lat": 23.0914687208,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10525640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8552202183338,
+          23.091468720781
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI5QH21",
+        "name": "东莞康华医院·华为分院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "松山湖管委会松山湖工业北三路华为南方公寓25号楼",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "医院",
+        "city": "东莞",
+        "district": "网格城区04",
+        "gcj_lon": 113.898819,
+        "gcj_lat": 22.966421,
+        "wgs84_lon": 113.893924467,
+        "wgs84_lat": 22.9693509862,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFI5QH21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8939244666145,
+          22.969350986215108
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZGL89",
+        "name": "东莞富丽雅住宿",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "大朗镇银富路3号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "酒店",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.960024,
+        "gcj_lat": 22.932091,
+        "wgs84_lon": 113.955096459,
+        "wgs84_lat": 22.9349623263,
+        "source": "amap_api_incremental",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFZGL89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.95509645918752,
+          22.934962326325085
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLPEXUX",
+        "name": "珍之宝酒楼(银钻广场店)",
+        "type": "餐饮",
+        "typecode": 50101,
+        "address": "新基北路银钻广场6座三层",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "餐饮",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.256954,
+        "gcj_lat": 22.869592,
+        "wgs84_lon": 113.251645627,
+        "wgs84_lat": 22.8723809635,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFLPEXUX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25164562711326,
+          22.872380963517493
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F506TNU",
+        "name": "大顺农庄",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "北滘三乐路往碧桂路方向过大沙桥右转上基围500米",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "餐饮",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.255901,
+        "gcj_lat": 22.90561,
+        "wgs84_lon": 113.25059061,
+        "wgs84_lat": 22.9083846665,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B02F506TNU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.25059060979554,
+          22.908384666502254
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F501FC9",
+        "name": "玉成小学环湖校区",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "大良街道逢沙大道100号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "学校",
+        "city": "佛山",
+        "district": "顺德区",
+        "gcj_lon": 113.311603,
+        "gcj_lat": 22.819354,
+        "wgs84_lon": 113.30622718,
+        "wgs84_lat": 22.82209906,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F501FC9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3062271804448,
+          22.82209905999581
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10525628",
+        "name": "虎门火车站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)2号线三期;2号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.671654,
+        "gcj_lat": 22.859341,
+        "wgs84_lon": 113.666530794,
+        "wgs84_lat": 22.8622266364,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10525628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66653079413726,
+          22.862226636368767
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B030105KSR",
+        "name": "中国银行(长安支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "中惠山畔名城A区长青路商场及GH区188、284号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "银行",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.800388,
+        "gcj_lat": 22.816638,
+        "wgs84_lon": 113.795285667,
+        "wgs84_lat": 22.8194883496,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B030105KSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7952856673105,
+          22.81948834960996
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JUK5VPXW",
+        "name": "屿酉咖啡·主题融合餐厅",
+        "type": "餐饮",
+        "typecode": 50000,
+        "address": "厚街镇白石坑新路180号101室",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.716201,
+        "gcj_lat": 22.912159,
+        "wgs84_lon": 113.711017602,
+        "wgs84_lat": 22.9149491025,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0JUK5VPXW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71101760243224,
+          22.914949102516022
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10571469",
+        "name": "莲塘(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "9号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "花都区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "花都区",
+        "gcj_lon": 113.245149,
+        "gcj_lat": 23.389101,
+        "wgs84_lon": 113.239807486,
+        "wgs84_lat": 23.3917024536,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10571469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.23980748556907,
+          23.391702453591325
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F5077IJ",
+        "name": "勒流中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "勒流街道登科路2号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "学校",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.14561,
+        "gcj_lat": 22.852776,
+        "wgs84_lon": 113.140167674,
+        "wgs84_lat": 22.8554313222,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F5077IJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.14016767360305,
+          22.85543132216948
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F508NRE",
+        "name": "建行佛山里水支行",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "里水镇振兴路25号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "南海区",
+        "query_category": "银行",
+        "city": "佛山市",
+        "district": "南海区",
+        "gcj_lon": 113.160915,
+        "gcj_lat": 23.197277,
+        "wgs84_lon": 113.155475364,
+        "wgs84_lat": 23.1998172003,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02F508NRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.15547536440121,
+          23.199817200285256
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFMC4X",
+        "name": "中国农业银行(顺德北滘支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "北滘镇蓬莱一路12号",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "银行",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.210348,
+        "gcj_lat": 22.918794,
+        "wgs84_lon": 113.205012306,
+        "wgs84_lat": 22.9215358249,
+        "source": "amap_api_incremental",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFFMC4X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2050123058813,
+          22.921535824905373
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11146286",
+        "name": "陈村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线",
+        "pname": "广东省",
+        "cityname": "佛山市",
+        "adname": "顺德区",
+        "query_category": "地铁站",
+        "city": "佛山市",
+        "district": "顺德区",
+        "gcj_lon": 113.236869,
+        "gcj_lat": 22.967991,
+        "wgs84_lon": 113.231553661,
+        "wgs84_lat": 22.9707368838,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11146286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.23155366078385,
+          22.970736883820813
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10019725",
+        "name": "广州南站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "22号线;2号线;7号线;佛山2号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "番禺区",
+        "query_category": "地铁站",
+        "city": "北京城区",
+        "district": "番禺区",
+        "gcj_lon": 113.269815,
+        "gcj_lat": 22.988773,
+        "wgs84_lon": 113.264490631,
+        "wgs84_lat": 22.9915055781,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10019725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.26449063064192,
+          22.991505578123025
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10022634",
+        "name": "人和(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)22号线北延段;3号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "白云区",
+        "query_category": "地铁站",
+        "city": "北京城区",
+        "district": "白云区",
+        "gcj_lon": 113.295995,
+        "gcj_lat": 23.335224,
+        "wgs84_lon": 113.290613107,
+        "wgs84_lat": 23.3377990084,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10022634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.29061310698268,
+          23.337799008358456
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00141JM7Z",
+        "name": "番禺区大龙街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "大道傍西村段12号",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "番禺区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "番禺区",
+        "gcj_lon": 113.401575,
+        "gcj_lat": 22.944144,
+        "wgs84_lon": 113.39606269,
+        "wgs84_lat": 22.9467167382,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00141JM7Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.39606268987376,
+          22.946716738183067
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10014561",
+        "name": "黄村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "21号线;4号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "天河区",
+        "query_category": "地铁站",
+        "city": "天津城区",
+        "district": "天河区",
+        "gcj_lon": 113.40705,
+        "gcj_lat": 23.132086,
+        "wgs84_lon": 113.401526,
+        "wgs84_lat": 23.1345794801,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10014561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.40152599953667,
+          23.134579480100726
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10791943",
+        "name": "香雪(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "黄埔区",
+        "query_category": "地铁站",
+        "city": "北京城区",
+        "district": "黄埔区",
+        "gcj_lon": 113.501224,
+        "gcj_lat": 23.172382,
+        "wgs84_lon": 113.495918028,
+        "wgs84_lat": 23.1750475414,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10791943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4959180276248,
+          23.175047541429283
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B030101UWQ",
+        "name": "虎门外语学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "滨海湾新区海战馆路10号",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "学校",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.636537,
+        "gcj_lat": 22.799186,
+        "wgs84_lon": 113.63146717,
+        "wgs84_lat": 22.802155252,
+        "source": "amap_api_incremental",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B030101UWQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.63146716979143,
+          22.802155252044344
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFWX4LF",
+        "name": "新辉港式茶餐厅(虎门店)",
+        "type": "餐饮",
+        "typecode": 50305,
+        "address": "西沙一路",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.706208,
+        "gcj_lat": 22.831896,
+        "wgs84_lon": 113.70103887,
+        "wgs84_lat": 22.8347312783,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFWX4LF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.70103887020028,
+          22.834731278303423
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFQ5TXU",
+        "name": "和庆食馆(总店)",
+        "type": "餐饮",
+        "typecode": 50103,
+        "address": "石龙镇绿化路2号大华名店城1层",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.847202,
+        "gcj_lat": 23.108266,
+        "wgs84_lon": 113.842203202,
+        "wgs84_lat": 23.1110803547,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFQ5TXU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.84220320199408,
+          23.11108035471658
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09327063",
+        "name": "梅塘(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "地铁站",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.985089,
+        "gcj_lat": 22.842666,
+        "wgs84_lon": 113.980112312,
+        "wgs84_lat": 22.8455056062,
+        "source": "amap_api_incremental",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09327063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.980112312275,
+          22.8455056061898
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG6DSJX",
+        "name": "伯顿西餐厅(中山中路店)",
+        "type": "餐饮",
+        "typecode": 50201,
+        "address": "东城街道中山中路华润商场对面",
+        "pname": "广东省",
+        "cityname": "东莞市",
+        "adname": "东莞市",
+        "query_category": "餐饮",
+        "city": "东莞市",
+        "district": "东莞市",
+        "gcj_lon": 113.975567,
+        "gcj_lat": 23.011929,
+        "wgs84_lon": 113.970601898,
+        "wgs84_lat": 23.0147255387,
+        "source": "amap_api_incremental",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFG6DSJX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97060189833682,
+          23.01472553867343
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRHA7ERN",
+        "name": "银河南路-路侧停车场",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "银河南路与银河北路交叉口西100米",
+        "pname": "广东省",
+        "cityname": "惠州市",
+        "adname": "博罗县",
+        "query_category": "停车场",
+        "city": "惠州",
+        "district": "园洲镇",
+        "gcj_lon": 113.985128,
+        "gcj_lat": 23.159993,
+        "wgs84_lon": 113.980130587,
+        "wgs84_lat": 23.162700404,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LRHA7ERN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.98013058717046,
+          23.162700404031995
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00141R2PY",
+        "name": "番禺区佳医邦陇枕社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "汇景大道23、27-33",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "番禺区",
+        "query_category": "医院",
+        "city": "广州",
+        "district": "番禺区",
+        "gcj_lon": 113.369976,
+        "gcj_lat": 22.92221,
+        "wgs84_lon": 113.364485233,
+        "wgs84_lat": 22.9248131018,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00141R2PY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.36448523322603,
+          22.92481310176718
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11605044",
+        "name": "花城街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)18号线北延段",
+        "pname": "广东省",
+        "cityname": "广州市",
+        "adname": "花都区",
+        "query_category": "地铁站",
+        "city": "广州",
+        "district": "花都区",
+        "gcj_lon": 113.234955,
+        "gcj_lat": 23.425568,
+        "wgs84_lon": 113.22960803,
+        "wgs84_lat": 23.4281602118,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11605044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2296080297737,
+          23.428160211801924
+        ]
+      }
+    }
+  ]
+}

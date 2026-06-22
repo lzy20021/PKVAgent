@@ -1,0 +1,1433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IAAC8Z49",
+        "name": "二七区陇西小学(景中路校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "景中路与椰风路交叉口",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "学校",
+        "city": "郑州",
+        "district": "网格城区01",
+        "gcj_lon": 113.549275,
+        "gcj_lat": 34.685567,
+        "wgs84_lon": 113.543159273,
+        "wgs84_lat": 34.6867730747,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IAAC8Z49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54315927308284,
+          34.68677307465822
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I2G7GGM6",
+        "name": "郑州大剧院地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "郑州大剧院",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "停车场",
+        "city": "郑州",
+        "district": "网格城区05",
+        "gcj_lon": 113.550308,
+        "gcj_lat": 34.743049,
+        "wgs84_lon": 113.544189181,
+        "wgs84_lat": 34.7442018928,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0I2G7GGM6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5441891814976,
+          34.74420189284349
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1B5X5DH",
+        "name": "郑州高新区梧桐社区卫生服务中心(石楠路院区)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "梧桐街石楠路向北200米",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.551355,
+        "gcj_lat": 34.795769,
+        "wgs84_lon": 113.545233574,
+        "wgs84_lat": 34.7968705566,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I1B5X5DH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54523357370984,
+          34.79687055664926
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09260141",
+        "name": "南流(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.578714,
+        "gcj_lat": 34.791695,
+        "wgs84_lon": 113.572651268,
+        "wgs84_lat": 34.7928399335,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09260141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.57265126771554,
+          34.79283993349068
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10093843",
+        "name": "西三环(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.588175,
+        "gcj_lat": 34.760193,
+        "wgs84_lon": 113.582126797,
+        "wgs84_lat": 34.761376011,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10093843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.58212679690044,
+          34.761376010964376
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRCDF71X",
+        "name": "luckin coffee 瑞幸咖啡(和昌澜景店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "航海西路街道汝河路135号和昌澜景",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "咖啡厅",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.590875,
+        "gcj_lat": 34.732325,
+        "wgs84_lon": 113.584832035,
+        "wgs84_lat": 34.7335366521,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LRCDF71X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.58483203549694,
+          34.73353665206534
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01730K542",
+        "name": "郑州凯安医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "西环路与化工路交叉口向南300米路东",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.593854,
+        "gcj_lat": 34.774948,
+        "wgs84_lon": 113.587808733,
+        "wgs84_lat": 34.7761177223,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01730K542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5878087330602,
+          34.776117722273256
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2XKFT13",
+        "name": "逸锐民宿(南四环分店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "南四环郑州绿地城一区",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "酒店",
+        "city": "郑州",
+        "district": "网格城区02",
+        "gcj_lon": 113.601325,
+        "gcj_lat": 34.687175,
+        "wgs84_lon": 113.595292178,
+        "wgs84_lat": 34.6884305506,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J2XKFT13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59529217796084,
+          34.68843055058943
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IR05T3OC",
+        "name": "大中原(永涛批发)批发",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "南阳寨工业园区5号院",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "惠济区",
+        "query_category": "便利店",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.601506,
+        "gcj_lat": 34.814823,
+        "wgs84_lon": 113.595459943,
+        "wgs84_lat": 34.815951429,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IR05T3OC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.59545994343992,
+          34.815951429012635
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JDM132X1",
+        "name": "时代影院式酒店(郑州二七工人路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "工人路与丹青路交叉口南300米路西",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "酒店",
+        "city": "郑州",
+        "district": "网格城区02",
+        "gcj_lon": 113.620535,
+        "gcj_lat": 34.705016,
+        "wgs84_lon": 113.614496286,
+        "wgs84_lat": 34.7062439769,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JDM132X1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61449628649788,
+          34.70624397687193
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10705653",
+        "name": "月季公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.622992,
+        "gcj_lat": 34.765727,
+        "wgs84_lon": 113.616945258,
+        "wgs84_lat": 34.7668929277,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10705653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61694525812436,
+          34.766892927720406
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01730I2IA",
+        "name": "郑州众生医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "兴隆铺路2号",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "惠济区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.623885,
+        "gcj_lat": 34.807955,
+        "wgs84_lon": 113.617833171,
+        "wgs84_lat": 34.8090765884,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01730I2IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61783317081073,
+          34.80907658836844
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL896PF",
+        "name": "郑州农商银行24小时自助银行",
+        "type": "银行",
+        "typecode": 160318,
+        "address": "荆胡社区一号院南门西70米",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区03",
+        "gcj_lon": 113.645176,
+        "gcj_lat": 34.683369,
+        "wgs84_lon": 113.639112607,
+        "wgs84_lat": 34.6845849257,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFL896PF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.63911260691371,
+          34.68458492566649
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10705654",
+        "name": "海滩寺(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线;5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.650702,
+        "gcj_lat": 34.774286,
+        "wgs84_lon": 113.644620685,
+        "wgs84_lat": 34.7754038647,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10705654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64462068533824,
+          34.77540386474719
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09304573",
+        "name": "火车头体育场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.655084,
+        "gcj_lat": 34.729022,
+        "wgs84_lon": 113.649000325,
+        "wgs84_lat": 34.7301772633,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09304573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.649000324896,
+          34.730177263252806
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HK179RXF",
+        "name": "茉莉酒店(郑州正商寓见铭筑冯庄地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "正商寓见名筑1号楼14层1434室",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "酒店",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.671607,
+        "gcj_lat": 34.718751,
+        "wgs84_lon": 113.66549581,
+        "wgs84_lat": 34.719885198,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0HK179RXF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6654958099426,
+          34.71988519801705
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1JM8BFW",
+        "name": "金润停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "宇通路西段",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "停车场",
+        "city": "郑州",
+        "district": "网格城区03",
+        "gcj_lon": 113.671281,
+        "gcj_lat": 34.683586,
+        "wgs84_lon": 113.66517407,
+        "wgs84_lat": 34.6847541813,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0I1JM8BFW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66517406992791,
+          34.68475418130661
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11614601",
+        "name": "二里岗东(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.69196,
+        "gcj_lat": 34.727672,
+        "wgs84_lon": 113.685813524,
+        "wgs84_lat": 34.7287595699,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11614601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.68581352365692,
+          34.72875956992303
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01730I1EI",
+        "name": "上海浦东发展银行24小时自助银行(宇通路)",
+        "type": "银行",
+        "typecode": 160312,
+        "address": "宇通路",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区03",
+        "gcj_lon": 113.694382,
+        "gcj_lat": 34.683795,
+        "wgs84_lon": 113.688236454,
+        "wgs84_lat": 34.6849201783,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01730I1EI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6882364540249,
+          34.68492017833071
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGAP3SC",
+        "name": "龙西湖幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "侯寨乡尖岗村尖岗水库路口",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "学校",
+        "city": "郑州",
+        "district": "网格城区02",
+        "gcj_lon": 113.581697,
+        "gcj_lat": 34.69313,
+        "wgs84_lon": 113.575648591,
+        "wgs84_lat": 34.6943746824,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGAP3SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.57564859138824,
+          34.694374682425035
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2OMDQQS",
+        "name": "河南农商银行(郑州刘砦支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "金沙江路与庆泰路交叉口",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区02",
+        "gcj_lon": 113.62432,
+        "gcj_lat": 34.688801,
+        "wgs84_lon": 113.618280233,
+        "wgs84_lat": 34.6900405113,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0G2OMDQQS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6182802334095,
+          34.690040511276756
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10897821",
+        "name": "王胡砦(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区03",
+        "gcj_lon": 113.644051,
+        "gcj_lat": 34.705831,
+        "wgs84_lon": 113.637986899,
+        "wgs84_lat": 34.7070276015,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10897821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.63798689882174,
+          34.70702760152829
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGAK0A4",
+        "name": "河南农商银行24小时自助银行(郑州西岗支行)",
+        "type": "银行",
+        "typecode": 160318,
+        "address": "建设西路同汇花园",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区05",
+        "gcj_lon": 113.547732,
+        "gcj_lat": 34.764467,
+        "wgs84_lon": 113.541603534,
+        "wgs84_lat": 34.7655931509,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFGAK0A4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54160353422895,
+          34.76559315091935
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10705655",
+        "name": "陇海西路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.613569,
+        "gcj_lat": 34.736281,
+        "wgs84_lon": 113.607530484,
+        "wgs84_lat": 34.7374842831,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10705655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.60753048425158,
+          34.73748428310925
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09380245",
+        "name": "后河芦·市第八人民医院(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.618989,
+        "gcj_lat": 34.720587,
+        "wgs84_lon": 113.612949616,
+        "wgs84_lat": 34.7218014137,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09380245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6129496157648,
+          34.72180141370384
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0173188DA",
+        "name": "中国工商银行24小时自助银行(阳光花苑支行)",
+        "type": "银行",
+        "typecode": 160302,
+        "address": "中原西路",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.575982,
+        "gcj_lat": 34.746442,
+        "wgs84_lon": 113.569919863,
+        "wgs84_lat": 34.7476303185,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0173188DA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.56991986276284,
+          34.74763031851231
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10705651",
+        "name": "七里河(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线;5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.722089,
+        "gcj_lat": 34.720916,
+        "wgs84_lon": 113.715909081,
+        "wgs84_lat": 34.7219668751,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10705651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71590908084765,
+          34.721966875085066
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11194038",
+        "name": "中央商务区(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线;5号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.729303,
+        "gcj_lat": 34.777911,
+        "wgs84_lon": 113.723113683,
+        "wgs84_lat": 34.7788985916,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11194038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7231136831584,
+          34.77889859155894
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11340716",
+        "name": "五龙口(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.613384,
+        "gcj_lat": 34.78943,
+        "wgs84_lon": 113.607340013,
+        "wgs84_lat": 34.7905798383,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11340716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.60734001336438,
+          34.79057983828736
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09118807",
+        "name": "七里河南路永平路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "S127路",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "公交站",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.737361,
+        "gcj_lat": 34.738795,
+        "wgs84_lon": 113.731174745,
+        "wgs84_lat": 34.7398167238,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09118807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.73116745313777,
+          34.739807107239514
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01730KBC7",
+        "name": "国贸酒店公寓",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "花园路丰产路交叉口西200米郑州国贸酒店公寓",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "酒店",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.679391,
+        "gcj_lat": 34.785119,
+        "wgs84_lon": 113.673259207,
+        "wgs84_lat": 34.7861720995,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01730KBC7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67325776878187,
+          34.78616195539045
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09260140",
+        "name": "郑大一附院(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.644653,
+        "gcj_lat": 34.755882,
+        "wgs84_lon": 113.638582806,
+        "wgs84_lat": 34.7570286554,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09260140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.638582805855,
+          34.75702865540976
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LG1O2TVC",
+        "name": "Omoo omoo",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "建业路与凤鸣路交叉口向东50m路北",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "咖啡厅",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.723075,
+        "gcj_lat": 34.750025,
+        "wgs84_lon": 113.716891413,
+        "wgs84_lat": 34.7510462644,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LG1O2TVC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.71689141327326,
+          34.751046264353874
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI242HC",
+        "name": "静雅商务酒店(郑州未来路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "陇海路未来路交叉口西北角路路通万喜名家",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "酒店",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.703604,
+        "gcj_lat": 34.739797,
+        "wgs84_lon": 113.697439771,
+        "wgs84_lat": 34.7408533649,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFI242HC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.69743977083188,
+          34.7408533648814
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10094117",
+        "name": "燕庄(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;6号线",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "地铁站",
+        "city": "郑州",
+        "district": "网格城区08",
+        "gcj_lon": 113.703396,
+        "gcj_lat": 34.76339,
+        "wgs84_lon": 113.697229541,
+        "wgs84_lat": 34.7644231359,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10094117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.69722954138636,
+          34.76442313585868
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0G75AG9",
+        "name": "中国银行(金岱路支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "金岱路209号(姚庄地铁站C口步行90米)",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区04",
+        "gcj_lon": 113.732332,
+        "gcj_lat": 34.691392,
+        "wgs84_lon": 113.726151097,
+        "wgs84_lat": 34.6924623066,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0K0G75AG9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.7261510968846,
+          34.69246230664724
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J33YNVFL",
+        "name": "郑州美信中医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "紫荆山人民路8号(紫荆山地铁站D口步行190米)",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "金水区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.679602,
+        "gcj_lat": 34.761509,
+        "wgs84_lon": 113.673472329,
+        "wgs84_lat": 34.7625857163,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J33YNVFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67347232887117,
+          34.76258571634415
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2VUUU9G",
+        "name": "南十里铺村卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "鑫苑城6号院113号",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区03",
+        "gcj_lon": 113.678333,
+        "gcj_lat": 34.701877,
+        "wgs84_lon": 113.672211791,
+        "wgs84_lat": 34.7030145104,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H2VUUU9G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67221179118675,
+          34.70301451036833
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B017307F4M",
+        "name": "郑州市中医院本部",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "林山寨街道文化宫路65号院",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "医院",
+        "city": "郑州",
+        "district": "网格城区06",
+        "gcj_lon": 113.617525,
+        "gcj_lat": 34.751782,
+        "wgs84_lon": 113.611483174,
+        "wgs84_lat": 34.7529669688,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B017307F4M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61148317411529,
+          34.75296696875275
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10415802",
+        "name": "火车站南港湾(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "1路;206路;21路;B17路;S229路;Y15路;Y3路;Y9路",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "二七区",
+        "query_category": "公交站",
+        "city": "郑州",
+        "district": "网格城区07",
+        "gcj_lon": 113.663804,
+        "gcj_lat": 34.746474,
+        "wgs84_lon": 113.65770363,
+        "wgs84_lat": 34.7475959074,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10415802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.65770362994874,
+          34.74759590742016
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01731E0TG",
+        "name": "中国邮政储蓄银行(南环路营业所)",
+        "type": "银行",
+        "typecode": 160139,
+        "address": null,
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "管城回族区",
+        "query_category": "银行",
+        "city": "郑州",
+        "district": "网格城区04",
+        "gcj_lon": 113.712405,
+        "gcj_lat": 34.702945,
+        "wgs84_lon": 113.706234749,
+        "wgs84_lat": 34.7040244888,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01731E0TG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.70623474876218,
+          34.70402448877585
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JK4ZRVHT",
+        "name": "瑞幸咖啡(郑州西城科技大厦店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "金梭路45号西城科技大厦B座一层大堂",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "咖啡厅",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.565613,
+        "gcj_lat": 34.812333,
+        "wgs84_lon": 113.559524798,
+        "wgs84_lat": 34.8134416279,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JK4ZRVHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.55952479828844,
+          34.81344162790859
+        ]
+      }
+    }
+  ]
+}

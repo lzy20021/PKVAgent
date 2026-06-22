@@ -1,0 +1,8 @@
+Final font name: Microsoft YaHei
+Main title weight: semibold
+Local subplot title weight: semibold
+Axis label weight: semibold
+Legend title weight: semibold
+Convenience Stores final color: #D8F04A
+Subplot title alignment adjustment: all four local subplot titles use the same axes title mechanism with loc='left', identical pad=8, and a unified title position of x=0.0, y=1.02.
+Export clarity settings: PNG saved at 900 dpi; PDF/SVG kept as vector outputs with pdf.fonttype=42 and svg.fonttype='none'.

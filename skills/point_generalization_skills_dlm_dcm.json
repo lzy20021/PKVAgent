@@ -1,0 +1,157 @@
+{
+  "name": "point_generalization_skills_dlm_dcm",
+  "purpose": "DLM/DCM 双层驱动的多类别 POI 点综合技能编排",
+  "layers": {
+    "DLM": {
+      "description": "识别点类别、重要性、聚类、线性、多核、稀疏密集差异与跨类别共现结构。",
+      "skills": [
+        {
+          "name": "representative_poi_retain",
+          "purpose": "通过频次逆权重、中心性、局部代表性和名称代理指标构造重要性。",
+          "triggers": [
+            "存在多类别 POI",
+            "缺少显式重要性字段"
+          ],
+          "inputs": [
+            "poi_uid",
+            "name",
+            "category",
+            "geometry"
+          ],
+          "logic": [
+            "计算类别稀有度、kNN 中心性、局部锚点贡献和聚类代表性。",
+            "生成 importance_score，并标记 minority_category。"
+          ],
+          "outputs": [
+            "importance_score",
+            "minority_category",
+            "cluster_id"
+          ],
+          "priority": 1
+        },
+        {
+          "name": "structure_aware_selection",
+          "purpose": "按 clustered/linear/multi_core/sparse/dense 结构采用不同保留策略。",
+          "triggers": [
+            "局部聚类明显",
+            "存在线性走廊",
+            "多中心城市结构"
+          ],
+          "inputs": [
+            "projected geometry",
+            "density",
+            "cluster_id",
+            "importance_score"
+          ],
+          "logic": [
+            "DBSCAN 识别聚类，PCA 识别线性结构，多核由聚类主中心判断。",
+            "团簇保留中心+轮廓锚点，线性保留分段骨架，稀疏区设覆盖底线。"
+          ],
+          "outputs": [
+            "structure_type",
+            "core_rank",
+            "structure_bonus"
+          ],
+          "priority": 2
+        },
+        {
+          "name": "category_balance_preserve",
+          "purpose": "在局部窗口内维持多类别共存并保护低频类别。",
+          "triggers": [
+            "局部区域原本存在多类别",
+            "低频类别存在被高频类别淹没风险"
+          ],
+          "inputs": [
+            "grid_id",
+            "category",
+            "importance_score",
+            "preserve_floor"
+          ],
+          "logic": [
+            "先为每个局部窗口按类别预留候选点。",
+            "对 minority 类别执行最低保留底线，避免类别塌缩。"
+          ],
+          "outputs": [
+            "guaranteed_candidates",
+            "local_diversity_target"
+          ],
+          "priority": 3
+        }
+      ]
+    },
+    "DCM": {
+      "description": "把符号尺寸、最小间距、异类冲突、视觉均衡和局部协调显式纳入决策。",
+      "skills": [
+        {
+          "name": "symbol_size_aware_generalization",
+          "purpose": "以符号真实占位而非裸点距离判断冲突。",
+          "triggers": [
+            "目标比例尺变化",
+            "类别符号尺寸不同"
+          ],
+          "inputs": [
+            "symbol_size",
+            "min_distance",
+            "target_scale",
+            "geometry"
+          ],
+          "logic": [
+            "把 mm 尺寸转换为地面米尺度，形成 symbol_radius_m。",
+            "冲突检测按符号半径和最小间距合成阈值。"
+          ],
+          "outputs": [
+            "symbol_radius_m",
+            "symbol_conflict_pairs"
+          ],
+          "priority": 4
+        },
+        {
+          "name": "cross_category_conflict_resolution",
+          "purpose": "消解跨类别与同类别符号冲突，同时保留类别多样性。",
+          "triggers": [
+            "存在符号重叠",
+            "异类符号冲突明显"
+          ],
+          "inputs": [
+            "selected candidates",
+            "symbol rules",
+            "diversity constraints"
+          ],
+          "logic": [
+            "基于得分、类别保障、局部多样性和结构角色做贪心选择。",
+            "对受保障但冲突的点尝试局部位移，而不是直接删掉弱势类别。"
+          ],
+          "outputs": [
+            "selected features",
+            "resolved_conflicts",
+            "displacement_m"
+          ],
+          "priority": 5
+        },
+        {
+          "name": "layout_aesthetic_optimization",
+          "purpose": "改善局部过密、视觉偏斜和大面积空白，输出论文级图面。",
+          "triggers": [
+            "图面局部拥挤",
+            "类别空间失衡",
+            "存在大块空白"
+          ],
+          "inputs": [
+            "selected features",
+            "grid statistics",
+            "symbol rules"
+          ],
+          "logic": [
+            "评价网格均衡度、类别覆盖度和局部冲突。",
+            "迭代微调位置并补充缺失类别代表点，直到达到平衡阈值。"
+          ],
+          "outputs": [
+            "layout_balance_index",
+            "final cartographic placement"
+          ],
+          "priority": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "name",
+    "task_type",
+    "algorithm",
+    "description",
+    "code_template",
+    "parameters"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "task_type": {
+      "type": "string",
+      "enum": [
+        "line_simplification",
+        "polygon_generalization",
+        "spatial_analysis",
+        "coordinate_transform",
+        "topology_repair"
+      ]
+    },
+    "algorithm": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "parameters": {
+      "type": "object",
+      "patternProperties": {
+        ".*": {
+          "type": "object",
+          "required": [
+            "type",
+            "description"
+          ],
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": [
+                "float",
+                "int",
+                "string",
+                "boolean"
+              ]
+            },
+            "description": {
+              "type": "string"
+            },
+            "default": {},
+            "range": {
+              "type": "array",
+              "items": {
+                "type": "number"
+              },
+              "minItems": 2,
+              "maxItems": 2
+            }
+          }
+        }
+      }
+    },
+    "code_template": {
+      "type": "string"
+    },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "input": {
+            "type": "string"
+          },
+          "parameters": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

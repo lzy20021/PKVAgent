@@ -1,0 +1,35 @@
+{
+  "name": "修复无效几何",
+  "task_type": "topology_repair",
+  "algorithm": "fix-geometry",
+  "description": "通过 buffer(0) 修复常见无效几何。",
+  "parameters": {},
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nresult = gdf.copy()\nresult['geometry'] = result.geometry.buffer(0)\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "拓扑",
+    "修复",
+    "无效几何"
+  ],
+  "examples": [
+    {
+      "input": "修复 parcels_invalid.shp 的几何问题",
+      "parameters": {
+        "input_file": "data/parcels_invalid.shp",
+        "output_file": "out/parcels_fixed.shp",
+        "layer_name": "parcels_fixed"
+      }
+    },
+    {
+      "input": "?????????",
+      "parameters": {
+        "input_file": "data/self_intersection.shp",
+        "output_file": "out/self_intersection_fixed.shp",
+        "layer_name": "self_intersection_fixed"
+      }
+    }
+  ]
+}

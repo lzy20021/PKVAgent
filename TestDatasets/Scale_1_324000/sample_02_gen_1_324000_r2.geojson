@@ -1,0 +1,2759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B0BPT4",
+        "name": "布丁酒店(杭州萧山博奥地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "金城路83号中冠置地大厦1层",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "滨江区",
+        "gcj_lon": 120.241637,
+        "gcj_lat": 30.183089,
+        "wgs84_lon": 120.237161076,
+        "wgs84_lat": 30.1855469182,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B023B0BPT4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23716107645872,
+          30.1855469181787
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F01I5C",
+        "name": "鉴湖街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "众香路",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区02",
+        "gcj_lon": 120.573638,
+        "gcj_lat": 29.931786,
+        "wgs84_lon": 120.569555052,
+        "wgs84_lat": 29.934417044,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B023F01I5C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56955505242776,
+          29.934417044011333
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B08QQL",
+        "name": "杭州尼可城市酒店",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "中山中路288号(与西湖900米河访街800米定安路地铁口380米)",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "上城区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "上城区",
+        "gcj_lon": 120.17073,
+        "gcj_lat": 30.24946,
+        "wgs84_lon": 120.166083836,
+        "wgs84_lat": 30.2518198036,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B023B08QQL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16608383571666,
+          30.25181980357388
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10187380",
+        "name": "钱江路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;4号线;9号线",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "上城区",
+        "query_category": "地铁站",
+        "city": "杭州",
+        "district": "上城区",
+        "gcj_lon": 120.213387,
+        "gcj_lat": 30.255978,
+        "wgs84_lon": 120.208857134,
+        "wgs84_lat": 30.2584087759,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10187380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20885713389234,
+          30.258408775882717
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF2X107",
+        "name": "瑞丰银行24小时自助银行(富盛支行)",
+        "type": "银行",
+        "typecode": 160300,
+        "address": "富盛镇富盛村新纪元公寓2号楼212-213号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "银行",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.73122,
+        "gcj_lat": 29.960666,
+        "wgs84_lon": 120.726970089,
+        "wgs84_lat": 29.9631288284,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFF2X107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.72697008910848,
+          29.963128828430207
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMBQI52",
+        "name": "恒信农商银行(北郊支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "灵芝街道央茶湖村委旁边",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "银行",
+        "city": "绍兴",
+        "district": "网格城区10",
+        "gcj_lon": 120.573274,
+        "gcj_lat": 30.098276,
+        "wgs84_lon": 120.569177523,
+        "wgs84_lat": 30.1009043935,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFMBQI52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.56917752348105,
+          30.100904393452545
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10189868",
+        "name": "金家场(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "盐官社区巴士3号线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "公交站",
+        "city": "嘉兴",
+        "district": "丁桥镇",
+        "gcj_lon": 120.619169,
+        "gcj_lat": 30.457305,
+        "wgs84_lon": 120.615060214,
+        "wgs84_lat": 30.4598966895,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10189868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61506021380391,
+          30.45989668945271
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10189792",
+        "name": "孙家漾(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "海宁107路",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "公交站",
+        "city": "嘉兴",
+        "district": "丁桥镇",
+        "gcj_lon": 120.647685,
+        "gcj_lat": 30.437284,
+        "wgs84_lon": 120.643539997,
+        "wgs84_lat": 30.4398429216,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10189792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64353999680984,
+          30.43984292160743
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10190056",
+        "name": "沈家场(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "(停运)海宁218路;海宁216路;海宁216路支线;盐官社区巴士3号线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "公交站",
+        "city": "嘉兴",
+        "district": "丁桥镇",
+        "gcj_lon": 120.592743,
+        "gcj_lat": 30.434653,
+        "wgs84_lon": 120.588640202,
+        "wgs84_lat": 30.4372595107,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10190056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58864020172638,
+          30.437259510686168
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2AS60FT",
+        "name": "临平区临平街道社区卫生服务中心(老)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "振兴东路211号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "临平区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "临平区",
+        "gcj_lon": 120.320562,
+        "gcj_lat": 30.43905,
+        "wgs84_lon": 120.316029608,
+        "wgs84_lat": 30.441394779,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H2AS60FT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3160296083156,
+          30.44139477901372
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUACAMSJ",
+        "name": "临平经济技术开发区社区卫生服务中心环桥服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "环桥花苑2期西北门西南90米",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "临平区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "临平区",
+        "gcj_lon": 120.269663,
+        "gcj_lat": 30.423947,
+        "wgs84_lon": 120.265180927,
+        "wgs84_lat": 30.4263687391,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HUACAMSJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26505545515447,
+          30.426780939975735
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H65BKUIL",
+        "name": "杭州梦佳酒店(临平地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "东湖南路266号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "临平区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "临平区",
+        "gcj_lon": 120.310951,
+        "gcj_lat": 30.410464,
+        "wgs84_lon": 120.306435022,
+        "wgs84_lat": 30.4128330556,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0H65BKUIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3064350215985,
+          30.412833055631666
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0BHUPDC",
+        "name": "ChiChi咖啡蛋糕屋",
+        "type": "其他",
+        "typecode": 50800,
+        "address": "云东路721号五云米仓文创园3号楼101(运河边)",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区03",
+        "gcj_lon": 120.619366,
+        "gcj_lat": 30.001081,
+        "wgs84_lon": 120.615292825,
+        "wgs84_lat": 30.0037137038,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L0BHUPDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.61529282499579,
+          30.003713703814302
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0D1NYZN",
+        "name": "北干街道天悦社区卫生服务站",
+        "type": "医院",
+        "typecode": 130106,
+        "address": "建设三路与风情大道交叉口东80米",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "滨江区",
+        "gcj_lon": 120.235913,
+        "gcj_lat": 30.206213,
+        "wgs84_lon": 120.231428121,
+        "wgs84_lat": 30.2086674744,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L0D1NYZN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23142812088764,
+          30.208667474356556
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11043951",
+        "name": "博览中心(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "地铁站",
+        "city": "杭州",
+        "district": "滨江区",
+        "gcj_lon": 120.236506,
+        "gcj_lat": 30.232448,
+        "wgs84_lon": 120.232019768,
+        "wgs84_lat": 30.2349011677,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11043951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23201976842738,
+          30.23490116766052
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGH6OFZD",
+        "name": "临平区南苑街道社区卫生服务中心红联社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "望梅路与南大街交叉口东北100米",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "临平区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "临平区",
+        "gcj_lon": 120.311599,
+        "gcj_lat": 30.39059,
+        "wgs84_lon": 120.307083759,
+        "wgs84_lat": 30.3929619324,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JGH6OFZD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30708375878275,
+          30.39296193241675
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9V79A",
+        "name": "鲁越大酒店(绍兴北站店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "钱陶路9号越剑大厦(近绍兴高铁北站)",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "酒店",
+        "city": "绍兴",
+        "district": "网格城区06",
+        "gcj_lon": 120.529735,
+        "gcj_lat": 30.091377,
+        "wgs84_lon": 120.525527497,
+        "wgs84_lat": 30.0939208066,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFF9V79A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52552749702485,
+          30.093920806633445
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GR46F7Q1",
+        "name": "东湖镇柏舍村卫生室",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "越东快速路出口与越东南路交叉口东440米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.627499,
+        "gcj_lat": 30.038979,
+        "wgs84_lon": 120.623415027,
+        "wgs84_lat": 30.0416029944,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GR46F7Q1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62341502742676,
+          30.041602994410695
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F02KC1",
+        "name": "柯灵小学教育集团(世纪街校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "袍江世纪街",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.627598,
+        "gcj_lat": 30.07841,
+        "wgs84_lon": 120.62351084,
+        "wgs84_lat": 30.0810335284,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F02KC1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62351083967386,
+          30.081033528396954
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IANSIZEO",
+        "name": "广发银行(绍兴分行)",
+        "type": "银行",
+        "typecode": 160120,
+        "address": "镜湖之星(后墅路地铁站B2口步行370米)",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "银行",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.591366,
+        "gcj_lat": 30.048974,
+        "wgs84_lon": 120.58729267,
+        "wgs84_lat": 30.0516153059,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0IANSIZEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58729266950918,
+          30.0516153059408
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL28SPQ",
+        "name": "后双盆村卫生服务中心",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "孙端街道后双盆村民委员会",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区08",
+        "gcj_lon": 120.711825,
+        "gcj_lat": 30.080225,
+        "wgs84_lon": 120.707587044,
+        "wgs84_lat": 30.0827065112,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL28SPQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7075870435333,
+          30.082706511244115
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10429362",
+        "name": "后堡(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "360路",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "公交站",
+        "city": "绍兴",
+        "district": "网格城区08",
+        "gcj_lon": 120.703358,
+        "gcj_lat": 30.03312,
+        "wgs84_lon": 120.699136967,
+        "wgs84_lat": 30.0356141116,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10429362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.69913696681775,
+          30.035614111571803
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLB3ASV",
+        "name": "萧山区第一人民医院医共体总院党山分院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "育秀路与天和路交叉口西北80米",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区10",
+        "gcj_lon": 120.526043,
+        "gcj_lat": 30.170869,
+        "wgs84_lon": 120.521816419,
+        "wgs84_lat": 30.1734010582,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLB3ASV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52178765543772,
+          30.173017216736916
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GRAA2M7L",
+        "name": "村头社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "村头村村委东北侧170米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区08",
+        "gcj_lon": 120.723092,
+        "gcj_lat": 30.050238,
+        "wgs84_lon": 120.718842319,
+        "wgs84_lat": 30.0527066866,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0GRAA2M7L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.71901358767046,
+          30.05289848088037
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKC0RNS",
+        "name": "绍兴博雅学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "群贤中路2756号(绍兴一中地铁站D口步行410米)",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区06",
+        "gcj_lon": 120.542716,
+        "gcj_lat": 30.0663,
+        "wgs84_lon": 120.53855198,
+        "wgs84_lat": 30.0688762208,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFKC0RNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53855198043405,
+          30.068876220815863
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJS5Z19",
+        "name": "安昌街道大和社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "安昌镇大和村",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区09",
+        "gcj_lon": 120.49298,
+        "gcj_lat": 30.156042,
+        "wgs84_lon": 120.488630031,
+        "wgs84_lat": 30.158477551,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJS5Z19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48870384976507,
+          30.158483804748094
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGIKDCY",
+        "name": "绍兴市公路客运中心停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "中兴大道35-45号中国人民人寿保险公司绍兴支公司旁",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.599213,
+        "gcj_lat": 30.022904,
+        "wgs84_lon": 120.595144666,
+        "wgs84_lat": 30.0255463406,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGIKDCY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59514466570059,
+          30.025546340622693
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F03903",
+        "name": "绍兴鲁迅中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "柯桥街道柯桥湖东路1号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区06",
+        "gcj_lon": 120.510242,
+        "gcj_lat": 30.07172,
+        "wgs84_lon": 120.505965283,
+        "wgs84_lat": 30.0742088209,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F03903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.50596528288864,
+          30.074208820927133
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LD4XT7NY",
+        "name": "luckin coffee 瑞幸咖啡(龙湖绍兴镜湖天街店)",
+        "type": "其他",
+        "typecode": 50400,
+        "address": "凤林西路蚌潭小区东北侧约240米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区06",
+        "gcj_lon": 120.562275,
+        "gcj_lat": 30.034425,
+        "wgs84_lon": 120.558163407,
+        "wgs84_lat": 30.0370394043,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LD4XT7NY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.55816340661868,
+          30.03703940429351
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKTK38M",
+        "name": "宝业·四季园停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "涂山路与二环东路交汇处888号宝业·四季园",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区03",
+        "gcj_lon": 120.629033,
+        "gcj_lat": 29.982258,
+        "wgs84_lon": 120.624951669,
+        "wgs84_lat": 29.9848807612,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFKTK38M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.62495166946782,
+          29.984880761223646
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2KSGCNB",
+        "name": "天元公学青少年活动中心(西站校区)",
+        "type": "学校",
+        "typecode": 140800,
+        "address": "仓兴街899号11号楼",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "余杭区",
+        "query_category": "学校",
+        "city": "杭州",
+        "district": "余杭区",
+        "gcj_lon": 119.975985,
+        "gcj_lat": 30.282911,
+        "wgs84_lon": 119.971361231,
+        "wgs84_lat": 30.2854376236,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0L2KSGCNB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97136123146754,
+          30.28543762361312
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH8LO9Y",
+        "name": "柯岩中心小学(湖东路校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "柯岩街道梅墅村庙前75号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区05",
+        "gcj_lon": 120.497513,
+        "gcj_lat": 30.049768,
+        "wgs84_lon": 120.493189093,
+        "wgs84_lat": 30.0522188615,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH8LO9Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49318909263285,
+          30.052218861464244
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F02UIE",
+        "name": "柯桥区实验幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "鉴湖路960号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区05",
+        "gcj_lon": 120.471445,
+        "gcj_lat": 30.075752,
+        "wgs84_lon": 120.467021284,
+        "wgs84_lat": 30.0781273851,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F02UIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4670212842597,
+          30.0781273850698
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F02V8C",
+        "name": "绍兴齐贤柯北幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "G92杭州湾环线高速与柯桥互通交叉口东北480米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区10",
+        "gcj_lon": 120.532245,
+        "gcj_lat": 30.148742,
+        "wgs84_lon": 120.52804141,
+        "wgs84_lat": 30.1512912775,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F02V8C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52804141024384,
+          30.151291277469802
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIPSEN5",
+        "name": "鲁迅故里1号停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "中兴南路146号鲁迅故里(东南角)",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区03",
+        "gcj_lon": 120.58637,
+        "gcj_lat": 29.991113,
+        "wgs84_lon": 120.582297583,
+        "wgs84_lat": 29.9937529017,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFIPSEN5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58229758325028,
+          29.993752901739946
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFILD1Y0",
+        "name": "绍兴财经旅游学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "柯岩街道杨绍路1888号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区05",
+        "gcj_lon": 120.447319,
+        "gcj_lat": 30.046263,
+        "wgs84_lon": 120.442821567,
+        "wgs84_lat": 30.048582256,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFILD1Y0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44282156667464,
+          30.04858225602331
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B05XY0",
+        "name": "城西泰和幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "陈家弄64号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "富阳区",
+        "query_category": "学校",
+        "city": "杭州",
+        "district": "富阳区",
+        "gcj_lon": 119.949766,
+        "gcj_lat": 30.044832,
+        "wgs84_lon": 119.945212835,
+        "wgs84_lat": 30.0474329305,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023B05XY0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9452128348885,
+          30.047432930483225
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I17HPG4V",
+        "name": "富春第一幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "江滨东大道21号西郊半岛山语庭2号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "富阳区",
+        "query_category": "学校",
+        "city": "杭州",
+        "district": "富阳区",
+        "gcj_lon": 119.976832,
+        "gcj_lat": 30.056025,
+        "wgs84_lon": 119.972225062,
+        "wgs84_lat": 30.0585588365,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0I17HPG4V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97222506237482,
+          30.05855883652971
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J16ZSA04",
+        "name": "余杭区仓前街道社区卫生服务中心果岭服务站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "仓前街道上仓路202果岭幸福满仓共同体二楼",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "余杭区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "余杭区",
+        "gcj_lon": 119.980378,
+        "gcj_lat": 30.25808,
+        "wgs84_lon": 119.975745865,
+        "wgs84_lat": 30.2605964822,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J16ZSA04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97574586477046,
+          30.26059648222321
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLDMN9H",
+        "name": "祥符街道星桥社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "祥茂路83号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "拱墅区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "拱墅区",
+        "gcj_lon": 120.113692,
+        "gcj_lat": 30.331645,
+        "wgs84_lon": 120.108895375,
+        "wgs84_lat": 30.3339131609,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLDMN9H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.10889537470338,
+          30.333913160945507
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B07ZIF",
+        "name": "南苑社区卫生服务站(苑中路)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "大关街道南苑",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "拱墅区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "拱墅区",
+        "gcj_lon": 120.158701,
+        "gcj_lat": 30.303779,
+        "wgs84_lon": 120.154014494,
+        "wgs84_lat": 30.3061110515,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B023B07ZIF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15401449442858,
+          30.30611105150901
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0GC4YPW",
+        "name": "默笙青年旅舍(长河地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "江南大道1038号星城中心商业楼2楼205",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "滨江区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "滨江区",
+        "gcj_lon": 120.19527,
+        "gcj_lat": 30.19852,
+        "wgs84_lon": 120.19069949,
+        "wgs84_lat": 30.2009277012,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K0GC4YPW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19069948994307,
+          30.20092770117301
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B16KLP",
+        "name": "尊享依江精品酒店",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "衢江路45-1号(衢江路近江南路四叉口)",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "上城区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "滨江区",
+        "gcj_lon": 120.203482,
+        "gcj_lat": 30.231306,
+        "wgs84_lon": 120.198930468,
+        "wgs84_lat": 30.233724897,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B023B16KLP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19893046806592,
+          30.23372489701514
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11599831",
+        "name": "五洲路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "9号线",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "临平区",
+        "query_category": "地铁站",
+        "city": "杭州",
+        "district": "临平区",
+        "gcj_lon": 120.278916,
+        "gcj_lat": 30.444745,
+        "wgs84_lon": 120.274429318,
+        "wgs84_lat": 30.4471535029,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11599831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27442931831976,
+          30.447153502917985
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K6ZASKGX",
+        "name": "地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "兰芷路与福漓公路交叉口东南60米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.456752,
+        "gcj_lat": 29.943925,
+        "wgs84_lon": 120.452290287,
+        "wgs84_lat": 29.9462655194,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0K6ZASKGX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45229028742142,
+          29.946265519382287
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K6X5VNP3",
+        "name": "地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "066乡道与梅山公路交叉口西北260米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.449973,
+        "gcj_lat": 29.967769,
+        "wgs84_lon": 120.445489334,
+        "wgs84_lat": 29.9700944023,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0K6X5VNP3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4454893343986,
+          29.970094402309336
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JD5C8I6O",
+        "name": "香山寺停车点",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "香山寺",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.454084,
+        "gcj_lat": 29.988093,
+        "wgs84_lon": 120.449610607,
+        "wgs84_lat": 29.9904267609,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JD5C8I6O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44961060658028,
+          29.990426760941578
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1UD8M87",
+        "name": "湖畔花园咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "湖畔花园",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区09",
+        "gcj_lon": 120.44861,
+        "gcj_lat": 30.096655,
+        "wgs84_lon": 120.444111976,
+        "wgs84_lat": 30.0989762933,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1UD8M87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44411197620269,
+          30.098976293273203
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JB7UGPM7",
+        "name": "杨大花咖啡店",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "瓜沥镇名瓜渔路港城清华园143号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区09",
+        "gcj_lon": 120.4531,
+        "gcj_lat": 30.170977,
+        "wgs84_lon": 120.448608718,
+        "wgs84_lat": 30.1733058346,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JB7UGPM7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4486087183638,
+          30.173305834552604
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F0Q8X9",
+        "name": "瑞丰银行(兴华分理处)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "绸缎路与031乡道交叉口西150米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "银行",
+        "city": "绍兴",
+        "district": "网格城区09",
+        "gcj_lon": 120.475873,
+        "gcj_lat": 30.112354,
+        "wgs84_lon": 120.471462161,
+        "wgs84_lat": 30.1147409741,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B023F0Q8X9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47146216084998,
+          30.114740974095124
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM603F0",
+        "name": "白马山村停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "白马山路",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区09",
+        "gcj_lon": 120.476187,
+        "gcj_lat": 30.132503,
+        "wgs84_lon": 120.471775664,
+        "wgs84_lat": 30.1348904543,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFM603F0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47177566434088,
+          30.13489045426447
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRC4E3H5",
+        "name": "浙江华清新材料有限公司(中心路)-停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "103县道与中心路交叉口西100米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.498039,
+        "gcj_lat": 29.945631,
+        "wgs84_lon": 120.493725465,
+        "wgs84_lat": 29.9480848141,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LRC4E3H5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49372546470994,
+          29.948084814114072
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHRR59H",
+        "name": "绍兴市柯桥区秋瑾小学(赵家坂校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "福全镇",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.502599,
+        "gcj_lat": 29.980715,
+        "wgs84_lon": 120.498300263,
+        "wgs84_lat": 29.9831818538,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHRR59H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4983002634351,
+          29.983181853751123
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKZKQT6",
+        "name": "福全街道梅峰村卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "福全街道梅峰村帛尔雅服饰旁",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区01",
+        "gcj_lon": 120.507736,
+        "gcj_lat": 30.006562,
+        "wgs84_lon": 120.50345493,
+        "wgs84_lat": 30.0090439311,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKZKQT6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.50345493030274,
+          30.009043931130382
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBJM981D",
+        "name": "凤珍小店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "兰亭街道阿婉小店",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "便利店",
+        "city": "绍兴",
+        "district": "网格城区02",
+        "gcj_lon": 120.53475,
+        "gcj_lat": 29.948358,
+        "wgs84_lon": 120.530570474,
+        "wgs84_lat": 29.9509164963,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KBJM981D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53057047413371,
+          29.95091649630216
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3AOYNH0",
+        "name": "佳兆业君汇上品地上停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "嘉丰·随园一期西侧180米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区02",
+        "gcj_lon": 120.545059,
+        "gcj_lat": 29.968474,
+        "wgs84_lon": 120.540909507,
+        "wgs84_lat": 29.9710565249,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L3AOYNH0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54090950733578,
+          29.971056524941602
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2MLQUZI",
+        "name": "齐贤联合超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "大越北路与柯海大道交叉口北500米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "柯桥区",
+        "query_category": "便利店",
+        "city": "绍兴",
+        "district": "网格城区10",
+        "gcj_lon": 120.541278,
+        "gcj_lat": 30.130362,
+        "wgs84_lon": 120.537104622,
+        "wgs84_lat": 30.1329339875,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K2MLQUZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53710462216938,
+          30.13293398749689
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1MSXDSJ",
+        "name": "绍兴市第七人民医院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "胜利西路1234号绍兴市第七人民医院",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区02",
+        "gcj_lon": 120.546349,
+        "gcj_lat": 30.005713,
+        "wgs84_lon": 120.542200261,
+        "wgs84_lat": 30.0082978367,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H1MSXDSJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.54220026066982,
+          30.00829783666671
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F0QMW3",
+        "name": "永和高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "南池路100号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区03",
+        "gcj_lon": 120.58355,
+        "gcj_lat": 29.957325,
+        "wgs84_lon": 120.579477597,
+        "wgs84_lat": 29.9599638607,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F0QMW3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.57947759670674,
+          29.95996386069795
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG2JE2R",
+        "name": "镇龙殿社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "信益线",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "萧山区",
+        "query_category": "医院",
+        "city": "绍兴",
+        "district": "网格城区10",
+        "gcj_lon": 120.564292,
+        "gcj_lat": 30.165824,
+        "wgs84_lon": 120.560174261,
+        "wgs84_lat": 30.1684392989,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG2JE2R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5601742612495,
+          30.16843929893289
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HK3HKZ66",
+        "name": "绍兴会稽山阳明酒店停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": null,
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "停车场",
+        "city": "绍兴",
+        "district": "网格城区03",
+        "gcj_lon": 120.637236,
+        "gcj_lat": 29.963728,
+        "wgs84_lon": 120.633145191,
+        "wgs84_lat": 29.9663401227,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HK3HKZ66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.63314519100632,
+          29.96634012265688
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2L9MS3E",
+        "name": "谷丘(Go Chill)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "东湖街道智祚农谷1楼",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.650065,
+        "gcj_lat": 30.022963,
+        "wgs84_lon": 120.64594841,
+        "wgs84_lat": 30.0255538576,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K2L9MS3E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.64594840997896,
+          30.0255538576053
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIV07EN",
+        "name": "绍兴技师学院",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "学苑路1号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区07",
+        "gcj_lon": 120.654598,
+        "gcj_lat": 30.054588,
+        "wgs84_lon": 120.650470536,
+        "wgs84_lat": 30.0571706024,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFIV07EN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.65047053604209,
+          30.057170602383557
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023F032O0",
+        "name": "牌口村幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "皋埠镇牌口村",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "学校",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.692519,
+        "gcj_lat": 29.942093,
+        "wgs84_lon": 120.688324551,
+        "wgs84_lat": 29.9446063638,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023F032O0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68832455077565,
+          29.944606363752612
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10680973",
+        "name": "刁泥山(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "365路",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "公交站",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.690247,
+        "gcj_lat": 29.980764,
+        "wgs84_lon": 120.686053838,
+        "wgs84_lat": 29.9832806025,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10680973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.68605383759346,
+          29.983280602510014
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGEVJGU",
+        "name": "浙江绍兴恒信农村商业银行股份有限公司(樊江支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "皋埠镇塘花村后塘路131号",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "银行",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.681798,
+        "gcj_lat": 30.007276,
+        "wgs84_lon": 120.677619476,
+        "wgs84_lat": 30.0098077667,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFGEVJGU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.67761947638375,
+          30.00980776670545
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JUHHXW4Q",
+        "name": "文英便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "越兴路与启圣路交叉口西南320米",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "便利店",
+        "city": "绍兴",
+        "district": "网格城区08",
+        "gcj_lon": 120.672812,
+        "gcj_lat": 30.081775,
+        "wgs84_lon": 120.668645974,
+        "wgs84_lat": 30.0843231636,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JUHHXW4Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.66864597381212,
+          30.084323163596125
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KUGHW5NS",
+        "name": "LMLY秘境咖啡(花庄1号店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "陶堰街道陶所花庄1号内",
+        "pname": "浙江省",
+        "cityname": "绍兴市",
+        "adname": "越城区",
+        "query_category": "咖啡厅",
+        "city": "绍兴",
+        "district": "网格城区04",
+        "gcj_lon": 120.731563,
+        "gcj_lat": 30.001883,
+        "wgs84_lon": 120.727309553,
+        "wgs84_lat": 30.0043449642,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KUGHW5NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7273095525675,
+          30.004344964183584
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G07Z0U8H",
+        "name": "杭州希悦宾馆",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "春江街道春南路民主村江南人力资源2楼",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "富阳区",
+        "query_category": "酒店",
+        "city": "杭州",
+        "district": "富阳区",
+        "gcj_lon": 119.98149,
+        "gcj_lat": 30.021686,
+        "wgs84_lon": 119.976874771,
+        "wgs84_lat": 30.0242067959,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0G07Z0U8H"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.97687477090663,
+          30.024206795907563
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425255",
+        "name": "许村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "杭海城际/杭海线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "地铁站",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.355597,
+        "gcj_lat": 30.410587,
+        "wgs84_lon": 120.351015432,
+        "wgs84_lat": 30.4128739476,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35101543236505,
+          30.412873947559923
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KUXAWTSK",
+        "name": "朋友圈餐厅·新衢州菜(许村店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "许村镇孙桥村园区路65号恒立大厦1楼",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "餐饮",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.357378,
+        "gcj_lat": 30.452757,
+        "wgs84_lon": 120.352790726,
+        "wgs84_lat": 30.4550312529,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0KUXAWTSK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3527907264498,
+          30.455031252875155
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425260",
+        "name": "海宁高铁西站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "杭海城际/杭海线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "地铁站",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.390877,
+        "gcj_lat": 30.439602,
+        "wgs84_lon": 120.386268827,
+        "wgs84_lat": 30.4418431306,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38626882657898,
+          30.441843130614
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425259",
+        "name": "长安东(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "杭海城际/杭海线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "地铁站",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.459771,
+        "gcj_lat": 30.443347,
+        "wgs84_lon": 120.455277775,
+        "wgs84_lat": 30.4456559472,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45527777528548,
+          30.44565594721991
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023B07KT7",
+        "name": "浙江省杭州第二中学(滨江校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "高新开发区之江科技园东信大道72-76号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "滨江区",
+        "query_category": "学校",
+        "city": "北京城区",
+        "district": "滨江区",
+        "gcj_lon": 120.138434,
+        "gcj_lat": 30.177307,
+        "wgs84_lon": 120.13370232,
+        "wgs84_lat": 30.1796149729,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B023B07KT7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13370232038689,
+          30.179614972894008
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I2T7TOXP",
+        "name": "拱墅区大关上塘街道社区卫生服务中心上塘院区",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "隽逸路50号",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "拱墅区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "拱墅区",
+        "gcj_lon": 120.165824,
+        "gcj_lat": 30.327128,
+        "wgs84_lon": 120.161156636,
+        "wgs84_lat": 30.3294702146,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I2T7TOXP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16115663636685,
+          30.32947021459621
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B023D0Q3KH",
+        "name": "避风塘·老港味餐厅(下沙奥特莱斯店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "长安镇文海北路1199号下沙奥特莱斯广场2期1-2层F101F201-202",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "餐饮",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.386792,
+        "gcj_lat": 30.346239,
+        "wgs84_lon": 120.382191982,
+        "wgs84_lat": 30.3485008459,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B023D0Q3KH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38219198151137,
+          30.34850084592636
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0ZH3S94",
+        "name": "中国农业银行海宁连杭支行",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "浙江省嘉兴市海宁市长安镇文海北路1008号杭海商厦7幢111室",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "银行",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.416253,
+        "gcj_lat": 30.380898,
+        "wgs84_lon": 120.411665481,
+        "wgs84_lat": 30.3831530909,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0J0ZH3S94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41166548110046,
+          30.38315309085115
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425257",
+        "name": "周王庙(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "杭海城际/杭海线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "地铁站",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.505073,
+        "gcj_lat": 30.449466,
+        "wgs84_lon": 120.500746076,
+        "wgs84_lat": 30.45190089,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.50074607581682,
+          30.45190088998921
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11425252",
+        "name": "盐官(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "杭海城际/杭海线",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "地铁站",
+        "city": "嘉兴市",
+        "district": "海宁市",
+        "gcj_lon": 120.540351,
+        "gcj_lat": 30.462983,
+        "wgs84_lon": 120.536148375,
+        "wgs84_lat": 30.4655116665,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11425252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.53614837532334,
+          30.465511666508814
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KUZMGSGI",
+        "name": "钱塘骑士咖啡馆(盐官站)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "盐官镇祝会村九里桥58号",
+        "pname": "浙江省",
+        "cityname": "嘉兴市",
+        "adname": "海宁市",
+        "query_category": "咖啡厅",
+        "city": "嘉兴",
+        "district": "丁桥镇",
+        "gcj_lon": 120.59657,
+        "gcj_lat": 30.410695,
+        "wgs84_lon": 120.59247067,
+        "wgs84_lat": 30.4133074049,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KUZMGSGI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.59247066956932,
+          30.413307404876033
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGDJAUF",
+        "name": "杭州师范大学附属医院仓前校区卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "杭州师范大学博文苑7号楼1层",
+        "pname": "浙江省",
+        "cityname": "杭州市",
+        "adname": "余杭区",
+        "query_category": "医院",
+        "city": "杭州",
+        "district": "余杭区",
+        "gcj_lon": 120.008285,
+        "gcj_lat": 30.28945,
+        "wgs84_lon": 120.003578933,
+        "wgs84_lat": 30.2918798338,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGDJAUF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.00357893330778,
+          30.29187983375654
+        ]
+      }
+    }
+  ]
+}

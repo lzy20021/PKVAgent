@@ -1,0 +1,3711 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZW4F",
+        "name": "吉林省中医药科学院(创举街)",
+        "type": "医院",
+        "typecode": 141201,
+        "address": "高新技术产业开发区长春市高新区创举街155号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.265275,
+        "gcj_lat": 43.81034,
+        "wgs84_lon": 125.258891855,
+        "wgs84_lat": 43.8079674628,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0ZW4F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25889185541409,
+          43.80796746282908
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0B0FH",
+        "name": "通源医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "高新技术产业开发区高新区硅谷大街2599号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.259331,
+        "gcj_lat": 43.82508,
+        "wgs84_lon": 125.252950669,
+        "wgs84_lat": 43.8227182433,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0B0FH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25295066872565,
+          43.82271824330502
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH68TZE",
+        "name": "和悦塘足道养生会所停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "硅谷大街辅路与飞跃东路交叉口西140米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.268665,
+        "gcj_lat": 43.828176,
+        "wgs84_lon": 125.26227537,
+        "wgs84_lat": 43.8258107942,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH68TZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26227536955594,
+          43.8258107942261
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGYUYTHP",
+        "name": "长春新区双德第二社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "光谷大街573号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.259179,
+        "gcj_lat": 43.839055,
+        "wgs84_lon": 125.252796588,
+        "wgs84_lat": 43.8367009202,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JGYUYTHP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25279658816754,
+          43.83670092017033
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0C25T",
+        "name": "吉祥旅店(高新店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "高新区致远街吉大南校家属区32栋2门",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.27524,
+        "gcj_lat": 43.826288,
+        "wgs84_lon": 125.268841967,
+        "wgs84_lat": 43.8239163048,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0C25T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26884196712903,
+          43.8239163047896
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHYHAPZ",
+        "name": "东鸣艺术学校(长春校区)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "枫桦美地小区东3门旁",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.273341,
+        "gcj_lat": 43.840597,
+        "wgs84_lon": 125.266943438,
+        "wgs84_lat": 43.838234851,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHYHAPZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2669434378546,
+          43.83823485100307
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0C0SQ",
+        "name": "喜客多宾馆(长春交通学院店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "桦甸街与南湖大路交汇华宇小区19号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.273088,
+        "gcj_lat": 43.847694,
+        "wgs84_lon": 125.266689674,
+        "wgs84_lat": 43.8453360006,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0C0SQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2666896735651,
+          43.84533600061994
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH5QNGX",
+        "name": "朝阳区湖西社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "抚松路593-2号附近",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.275085,
+        "gcj_lat": 43.854583,
+        "wgs84_lon": 125.268682753,
+        "wgs84_lat": 43.8522270387,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH5QNGX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26868275324371,
+          43.852227038709515
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG6L93T",
+        "name": "幸福空间时尚宾馆(宽平大桥店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "迎春路4号(春城大街与交汇西行100)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "绿园区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.270545,
+        "gcj_lat": 43.863278,
+        "wgs84_lon": 125.264147579,
+        "wgs84_lat": 43.8609308429,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG6L93T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26414757860036,
+          43.86093084292499
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G2TZ2K2Q",
+        "name": "国文(长春)国际医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "芳草街",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.287511,
+        "gcj_lat": 43.781637,
+        "wgs84_lon": 125.281098739,
+        "wgs84_lat": 43.7792279649,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G2TZ2K2Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28109873853498,
+          43.77922796487853
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K04STX50",
+        "name": "吉林大学第二医院南关医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "泰春街与金宇南路交汇西行150米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.283994,
+        "gcj_lat": 43.792864,
+        "wgs84_lon": 125.277586683,
+        "wgs84_lat": 43.7904651586,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K04STX50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27758668284052,
+          43.79046515858203
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAACXG",
+        "name": "吉林大学艺术学院",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "前进大街2699号吉林大学萃文楼",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.28037,
+        "gcj_lat": 43.824508,
+        "wgs84_lon": 125.27396412,
+        "wgs84_lat": 43.8221300761,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFAACXG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27396411986516,
+          43.82213007607812
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDK6D511",
+        "name": "吉林省第二实验朝阳学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "湖光路5号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.283584,
+        "gcj_lat": 43.843388,
+        "wgs84_lon": 125.277169498,
+        "wgs84_lat": 43.8410166733,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IDK6D511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27716949837757,
+          43.84101667329698
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAB293",
+        "name": "长春9+1时尚宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长久家苑1区西南2门北60米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.287322,
+        "gcj_lat": 43.860241,
+        "wgs84_lon": 125.280897754,
+        "wgs84_lat": 43.8578743713,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFAB293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28089775410038,
+          43.85787437127387
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3THQNYE",
+        "name": "山雀咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "前进大街华润紫云府1期A1-113号山雀咖啡",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.296835,
+        "gcj_lat": 43.787131,
+        "wgs84_lon": 125.290401977,
+        "wgs84_lat": 43.7847113168,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K3THQNYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29040197657402,
+          43.78471131675264
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1X75X9J",
+        "name": "御诺大饭店停车点",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "前进大街辅路与金宇南路交叉口西北120米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.294899,
+        "gcj_lat": 43.79493,
+        "wgs84_lon": 125.288469116,
+        "wgs84_lat": 43.7925172887,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H1X75X9J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28846911560761,
+          43.79251728868807
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBP75E13",
+        "name": "多小丫仓储超市(华远路店)",
+        "type": "便利店",
+        "typecode": 60400,
+        "address": "南部新城D区4栋104号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "便利店",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.298143,
+        "gcj_lat": 43.799707,
+        "wgs84_lon": 125.291704984,
+        "wgs84_lat": 43.7972917466,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KBP75E13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29170498445296,
+          43.79729174656021
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JK7UFFFI",
+        "name": "壹贰叁游泳培训学校(保利林语店)",
+        "type": "学校",
+        "typecode": 80110,
+        "address": "102线与盛世大路辅路交叉口北140米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.292471,
+        "gcj_lat": 43.805927,
+        "wgs84_lon": 125.286044696,
+        "wgs84_lat": 43.8035236161,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0JK7UFFFI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28604469601765,
+          43.80352361611718
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HR47YADL",
+        "name": "华能大厦停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "星火路399号华能大厦",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.292275,
+        "gcj_lat": 43.822474,
+        "wgs84_lon": 125.285846513,
+        "wgs84_lat": 43.8200797045,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HR47YADL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28584651301311,
+          43.8200797044548
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAYRZQJE",
+        "name": "阳光大厦停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "前进大街2000号阳光大厦",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.291826,
+        "gcj_lat": 43.831961,
+        "wgs84_lon": 125.285396978,
+        "wgs84_lat": 43.829572491,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HAYRZQJE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28539697799434,
+          43.829572491044296
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF082L1",
+        "name": "吉林省第二实验学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "南湖新村中街421号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.300109,
+        "gcj_lat": 43.846629,
+        "wgs84_lon": 125.293658965,
+        "wgs84_lat": 43.8442358606,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B01AF082L1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29365896472105,
+          43.844235860576596
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I3CMN4XT",
+        "name": "朝阳区红旗第一社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "湖西路1118号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.295312,
+        "gcj_lat": 43.860203,
+        "wgs84_lon": 125.288870911,
+        "wgs84_lat": 43.857825004,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I3CMN4XT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2888709107072,
+          43.85782500400783
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I2R7VM8G",
+        "name": "中国农业银行(长春锦湖支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "南湖中街4223号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.304929,
+        "gcj_lat": 43.787522,
+        "wgs84_lon": 125.298476535,
+        "wgs84_lat": 43.7850892487,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0I2R7VM8G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2984765348878,
+          43.785089248659894
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLHW3JB",
+        "name": "新里社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "幸福街新里中央公馆-东区",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.30929,
+        "gcj_lat": 43.821807,
+        "wgs84_lon": 125.30282104,
+        "wgs84_lat": 43.8193845908,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLHW3JB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30282103990938,
+          43.81938459084609
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF082XQ",
+        "name": "吉林大学中日联谊医院南湖院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "南湖新村东街1028号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.307485,
+        "gcj_lat": 43.84098,
+        "wgs84_lon": 125.301017644,
+        "wgs84_lat": 43.8385712333,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF082XQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30101764409862,
+          43.83857123327454
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZO7G",
+        "name": "中国人民解放军联勤保障部队第九六四医院南湖院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "自由大路108号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.311494,
+        "gcj_lat": 43.862751,
+        "wgs84_lon": 125.305012818,
+        "wgs84_lat": 43.8603472237,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0ZO7G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30501281822941,
+          43.86034722369242
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J6G7QPOP",
+        "name": "福达超市(新星宇·和润B区店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "华昌街与盛宇路交叉口北100米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "便利店",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.310651,
+        "gcj_lat": 43.791945,
+        "wgs84_lon": 125.304183225,
+        "wgs84_lat": 43.7895044319,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J6G7QPOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30418322492602,
+          43.789504431898386
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3ASRCG7",
+        "name": "福美客超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "华庆路与北雨荷街交叉口西南60米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "便利店",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.315625,
+        "gcj_lat": 43.801575,
+        "wgs84_lon": 125.309142546,
+        "wgs84_lat": 43.7991302999,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L3ASRCG7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30914254647635,
+          43.799130299911944
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF4HYD8",
+        "name": "友谊公园西门停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "人民大街华新街友谊公园西门",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.317096,
+        "gcj_lat": 43.813206,
+        "wgs84_lon": 125.310607753,
+        "wgs84_lat": 43.8107646795,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFF4HYD8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31060775250914,
+          43.81076467948792
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF14ZV5",
+        "name": "长春理工大学东校区医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "卫星路7089号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.312058,
+        "gcj_lat": 43.83498,
+        "wgs84_lon": 125.305579735,
+        "wgs84_lat": 43.8325597448,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF14ZV5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30557973469695,
+          43.83255974478562
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L14B0PHZ",
+        "name": "长春市交通指挥中心停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "金宇南路与泰兴东街交叉口东160米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.323056,
+        "gcj_lat": 43.794359,
+        "wgs84_lon": 125.316554533,
+        "wgs84_lat": 43.7918965093,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L14B0PHZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3165545330704,
+          43.79189650925688
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2ULFWKD",
+        "name": "瑞幸咖啡(长春东北亚金融中心店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "人民大街10606号东北亚国际金融中心8号楼层(101-1)室",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.330111,
+        "gcj_lat": 43.811344,
+        "wgs84_lon": 125.323587494,
+        "wgs84_lat": 43.8088768552,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2ULFWKD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32358749399005,
+          43.80887685519284
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10110408",
+        "name": "市政府(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "地铁站",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.325954,
+        "gcj_lat": 43.81879,
+        "wgs84_lon": 125.319440712,
+        "wgs84_lat": 43.8163348086,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10110408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31944071242913,
+          43.81633480856572
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFMGSIOF",
+        "name": "Dozen Coffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "亚泰大街万科·金域长春6幢111号房",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.333737,
+        "gcj_lat": 43.813097,
+        "wgs84_lon": 125.327203321,
+        "wgs84_lat": 43.8106238391,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFMGSIOF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32720332065138,
+          43.81062383910512
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF102O6",
+        "name": "长春星期天主题宾馆",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "三道街与大马路交汇北行100米大马路1778号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.344675,
+        "gcj_lat": 43.887925,
+        "wgs84_lon": 125.338100331,
+        "wgs84_lat": 43.8854730519,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF102O6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33810033112549,
+          43.885473051917984
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZS1D",
+        "name": "星月时尚酒店(长春自由大路店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "自由大路3669号(近吉大二院)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.353841,
+        "gcj_lat": 43.864871,
+        "wgs84_lon": 125.34724742,
+        "wgs84_lat": 43.8623898603,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0ZS1D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.34724742006624,
+          43.86238986029596
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAB0EY",
+        "name": "尚客商务酒店",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "经济技术开发区临河街与北海路交汇轻轨北海路站浦发银行后侧",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.365993,
+        "gcj_lat": 43.8424,
+        "wgs84_lon": 125.359376951,
+        "wgs84_lat": 43.8398877499,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFAB0EY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3593769511431,
+          43.839887749909366
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAASBD",
+        "name": "幸福家园宾馆(长春摩天活力城会展中心店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "金川街1657号经济开发区四区九栋6门114门市",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.370387,
+        "gcj_lat": 43.847666,
+        "wgs84_lon": 125.363762065,
+        "wgs84_lat": 43.8451509252,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFAASBD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36376206476704,
+          43.845150925206205
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0D15B",
+        "name": "长春佰渡商务宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "荣光路1076号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.37214,
+        "gcj_lat": 43.886773,
+        "wgs84_lon": 125.365505793,
+        "wgs84_lat": 43.8842779914,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0D15B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3655057926199,
+          43.88427799140823
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL3PT3U",
+        "name": "长春宏桥医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "东南湖大路1180号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.374743,
+        "gcj_lat": 43.850619,
+        "wgs84_lon": 125.368110463,
+        "wgs84_lat": 43.8481004643,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL3PT3U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36811046283778,
+          43.84810046427379
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF13KML",
+        "name": "雨乔宾馆(长春二店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "会展大街837号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.389646,
+        "gcj_lat": 43.857211,
+        "wgs84_lon": 125.382995224,
+        "wgs84_lat": 43.8546837295,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF13KML"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38299522441235,
+          43.8546837294558
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGZW7T3",
+        "name": "圣安长春疼痛病医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "公平路2299号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.393009,
+        "gcj_lat": 43.871916,
+        "wgs84_lon": 125.386353666,
+        "wgs84_lat": 43.8693954377,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFGZW7T3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38635366602135,
+          43.869395437677376
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2Y5V8DU",
+        "name": "库迪咖啡(乐群街钻石城店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "乐群街91号钻石城",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.389281,
+        "gcj_lat": 43.877324,
+        "wgs84_lon": 125.382627253,
+        "wgs84_lat": 43.8748083507,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2Y5V8DU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38262725345845,
+          43.87480835073585
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF35ODM",
+        "name": "友源宾馆(东环城路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "东环城路7778号(东环城路地铁站C口步行460米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.39463,
+        "gcj_lat": 43.877525,
+        "wgs84_lon": 125.387972944,
+        "wgs84_lat": 43.8750070328,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFF35ODM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38797294393812,
+          43.87500703282249
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZHFM",
+        "name": "聚缘宾馆(自由大路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "枫林园小区2栋103号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.400106,
+        "gcj_lat": 43.865522,
+        "wgs84_lon": 125.393449296,
+        "wgs84_lat": 43.8629959402,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0ZHFM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39344929627316,
+          43.86299594023273
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHXO7QX",
+        "name": "吉林大学第二医院亚泰院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "亚泰大街4026号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.350432,
+        "gcj_lat": 43.872936,
+        "wgs84_lon": 125.34384529,
+        "wgs84_lat": 43.8704652281,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHXO7QX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3438452903197,
+          43.87046522812865
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKFZ87U",
+        "name": "长春圣心医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "会展大街1080号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.390841,
+        "gcj_lat": 43.854539,
+        "wgs84_lon": 125.384189804,
+        "wgs84_lat": 43.8520096032,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKFZ87U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38418980440224,
+          43.85200960317461
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJCOIAX",
+        "name": "长春单氏中医院",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "临河街3828号(浦东路地铁站A口步行190米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.365068,
+        "gcj_lat": 43.855775,
+        "wgs84_lon": 125.358451596,
+        "wgs84_lat": 43.853271475,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJCOIAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3584515961218,
+          43.85327147501085
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0B1B5",
+        "name": "吉林延安医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "东环城路7188号(东环城路地铁站B口步行220米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.395511,
+        "gcj_lat": 43.883211,
+        "wgs84_lon": 125.388852647,
+        "wgs84_lat": 43.8806960152,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0B1B5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38885264716947,
+          43.88069601524444
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRJAM176",
+        "name": "长春经开北海医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "经济技术开发区北海路490号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.371519,
+        "gcj_lat": 43.840962,
+        "wgs84_lon": 125.364893208,
+        "wgs84_lat": 43.8384418293,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HRJAM176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36489320785655,
+          43.83844182928601
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0Z4B7",
+        "name": "中国邮政储蓄银行(临河街支行)",
+        "type": "银行",
+        "typecode": 160139,
+        "address": "临河街2446号(公平路地铁站B口步行350米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.364775,
+        "gcj_lat": 43.868597,
+        "wgs84_lon": 125.35815711,
+        "wgs84_lat": 43.8661011269,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01AF0Z4B7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35815710994434,
+          43.866101126888445
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKOZLXCF",
+        "name": "大众浅水湾便利店快递驿站",
+        "type": "便利店",
+        "typecode": 70500,
+        "address": "大众浅水湾公园1栋106号小区院内便利店",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "便利店",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.306225,
+        "gcj_lat": 43.794525,
+        "wgs84_lon": 125.299768179,
+        "wgs84_lat": 43.7920936057,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JKOZLXCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29976817857447,
+          43.79209360574756
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KG1S7R9T",
+        "name": "长春市南关区树勋学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "锦湖大路与华信街交叉口西北侧",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.290638,
+        "gcj_lat": 43.789679,
+        "wgs84_lon": 125.28421813,
+        "wgs84_lat": 43.7872697985,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0KG1S7R9T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28421812958244,
+          43.7872697984824
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10112371",
+        "name": "华庆路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;6号线",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "地铁站",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.328562,
+        "gcj_lat": 43.800108,
+        "wgs84_lon": 125.322044524,
+        "wgs84_lat": 43.7976379267,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10112371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32204452374724,
+          43.797637926699075
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10111436",
+        "name": "红嘴子(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)1号线南延线;1号线",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "地铁站",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.327441,
+        "gcj_lat": 43.790474,
+        "wgs84_lon": 125.320928128,
+        "wgs84_lat": 43.7880010999,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10111436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.32092812762029,
+          43.78800109994356
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH62WQH",
+        "name": "中国建设银行24小时自助银行(盛世大路支行)",
+        "type": "银行",
+        "typecode": 160303,
+        "address": "盛世大路2871号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.307139,
+        "gcj_lat": 43.80689,
+        "wgs84_lon": 125.300677912,
+        "wgs84_lat": 43.8044634581,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFH62WQH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30081982504362,
+          43.804500448171886
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KUMG3AST",
+        "name": "中国邮政储蓄银行24小时自助银行",
+        "type": "银行",
+        "typecode": 160336,
+        "address": "新星宇·和润上邻A区东1门东50米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.313775,
+        "gcj_lat": 43.790159,
+        "wgs84_lon": 125.307299286,
+        "wgs84_lat": 43.7877118178,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0KUMG3AST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30729928558812,
+          43.78771181783787
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2G55P8N",
+        "name": "叁煨蹄花川派小馆(国泰·Rio Mall拾乐街店)",
+        "type": "餐饮",
+        "typecode": 50102,
+        "address": "国泰·Rio Mall拾乐街",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "餐厅",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.286586,
+        "gcj_lat": 43.831329,
+        "wgs84_lon": 125.280167742,
+        "wgs84_lat": 43.8289473005,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J2G55P8N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28016774232698,
+          43.82894730047031
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZEP1",
+        "name": "吉林省肿瘤医院(湖光院区)",
+        "type": "医院",
+        "typecode": 90207,
+        "address": "湖光路1018号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.274947,
+        "gcj_lat": 43.843949,
+        "wgs84_lon": 125.268546625,
+        "wgs84_lat": 43.8415872465,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0ZEP1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.26854662507225,
+          43.841587246470674
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIXPB1K",
+        "name": "迎春社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "迎春南路858号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "绿园区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.261946,
+        "gcj_lat": 43.862092,
+        "wgs84_lon": 125.25555783,
+        "wgs84_lat": 43.8597495942,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIXPB1K"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.25555782985924,
+          43.85974959422617
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0AUT0",
+        "name": "长春市第一实验东光学校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "卫明街附16号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.305024,
+        "gcj_lat": 43.82655,
+        "wgs84_lon": 125.29856514,
+        "wgs84_lat": 43.8241376274,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B01AF0AUT0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29856513960276,
+          43.82413762740394
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0731Y",
+        "name": "长春理工大学朝阳校区(西区)",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "卫星路23号(卫明街地铁站A口步行170米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.303343,
+        "gcj_lat": 43.834719,
+        "wgs84_lon": 125.296887018,
+        "wgs84_lat": 43.8323139365,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B01AF0731Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29688701785784,
+          43.83231393645146
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF06HI3",
+        "name": "交通银行(长春阳光城支行)",
+        "type": "银行",
+        "typecode": 160108,
+        "address": "高新技术产业开发区前进大街2135号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.289393,
+        "gcj_lat": 43.829271,
+        "wgs84_lon": 125.282969475,
+        "wgs84_lat": 43.8268844405,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01AF06HI3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28296947483881,
+          43.8268844404745
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF4NN0P",
+        "name": "中国银行24小时自助银行(致远街支行)",
+        "type": "银行",
+        "typecode": 160301,
+        "address": "天安第一城南门对面盈泰国际",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.280019,
+        "gcj_lat": 43.831683,
+        "wgs84_lon": 125.273612585,
+        "wgs84_lat": 43.8293093552,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFF4NN0P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27361258504645,
+          43.82930935516954
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H63A8TKC",
+        "name": "世纪街道世纪社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "银川街与长沙路交叉口西北140米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.397555,
+        "gcj_lat": 43.863827,
+        "wgs84_lon": 125.390899083,
+        "wgs84_lat": 43.861300403,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H63A8TKC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.39089908260588,
+          43.86130040296955
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHF0QXP",
+        "name": "二道区蓝精灵特殊教育学校",
+        "type": "学校",
+        "typecode": 141200,
+        "address": "东盛大街万通花园A区28栋旁",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.379585,
+        "gcj_lat": 43.872822,
+        "wgs84_lon": 125.372942027,
+        "wgs84_lat": 43.8703110664,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHF0QXP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37294202715223,
+          43.87031106635204
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAAHGL",
+        "name": "长春菲凡宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "自由大路6425号(吉林日报社对面)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.388247,
+        "gcj_lat": 43.865432,
+        "wgs84_lon": 125.381595998,
+        "wgs84_lat": 43.8629101757,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFAAHGL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38159599811824,
+          43.8629101757321
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0CR1N",
+        "name": "吉林大学第一医院乐群院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "吉林大路3302号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.391123,
+        "gcj_lat": 43.881346,
+        "wgs84_lon": 125.384467287,
+        "wgs84_lat": 43.878831691,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B01AF0CR1N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3844672866871,
+          43.87883169097952
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH25736",
+        "name": "新大陆学校(天富校区)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "岭东路632号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.372728,
+        "gcj_lat": 43.874842,
+        "wgs84_lon": 125.366094749,
+        "wgs84_lat": 43.8723394365,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH25736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36609474933172,
+          43.87233943650938
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFAAEQX",
+        "name": "长春市二道区人民医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "临河街与荣光路交汇处东北",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "医院",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.365573,
+        "gcj_lat": 43.887444,
+        "wgs84_lon": 125.358950516,
+        "wgs84_lat": 43.8849578277,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFAAEQX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3589505160976,
+          43.88495782768932
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH1DNJC",
+        "name": "停车场(二道区人大常委会西北)",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "经纬南路与和顺三条交叉口东20米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.372654,
+        "gcj_lat": 43.866466,
+        "wgs84_lon": 125.36602222,
+        "wgs84_lat": 43.8639587512,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH1DNJC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36602221961375,
+          43.86395875118045
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IR2A2GD8",
+        "name": "长春市二道区爱禾幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "经纬南路311号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.367657,
+        "gcj_lat": 43.866545,
+        "wgs84_lon": 125.361033927,
+        "wgs84_lat": 43.8640440298,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IR2A2GD8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36103392688338,
+          43.86404402978798
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11258828",
+        "name": "兴隆路(民丰大街)(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "T182路;Z142路",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "公交站",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.381907,
+        "gcj_lat": 43.869692,
+        "wgs84_lon": 125.375261665,
+        "wgs84_lat": 43.8671772128,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11258828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37526166490366,
+          43.86717721276216
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IR2A2GKA",
+        "name": "瑞幸咖啡(长春中东大市场北门店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "中东大市场4号门旁",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.392932,
+        "gcj_lat": 43.864405,
+        "wgs84_lon": 125.386277922,
+        "wgs84_lat": 43.8618802013,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IR2A2GKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38627792171148,
+          43.861880201277145
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L269F5GB",
+        "name": "魔森卡 Mosska cafe(长春二道区岭东路店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "东盛大街东岭东路南万通花园A1-3幢1单元102室",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.377412,
+        "gcj_lat": 43.874864,
+        "wgs84_lon": 125.370771632,
+        "wgs84_lat": 43.8723563453,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L269F5GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37077163183602,
+          43.872356345281425
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIMJQNE",
+        "name": "吉林九台农村商业银行ATM",
+        "type": "银行",
+        "typecode": 160300,
+        "address": "宪民路与张冲路交叉口东北40米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.377633,
+        "gcj_lat": 43.862257,
+        "wgs84_lon": 125.370994355,
+        "wgs84_lat": 43.8597419559,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFIMJQNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37099435528636,
+          43.85974195594706
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0SUQRUN",
+        "name": "wake coffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "通用机宿舍",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.384668,
+        "gcj_lat": 43.867403,
+        "wgs84_lon": 125.378019997,
+        "wgs84_lat": 43.864884711,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K0SUQRUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37801999660509,
+          43.86488471099666
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10110363",
+        "name": "中日联谊医院(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "154路/Z154路;271路/G271路;G120路;G190路;G1路;G20路;G227路;Z142路",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "公交站",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.381546,
+        "gcj_lat": 43.864895,
+        "wgs84_lon": 125.374901866,
+        "wgs84_lat": 43.8623777979,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10110363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37490186599365,
+          43.86237779789688
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L21SSWAY",
+        "name": "库迪咖啡(中东金源市场店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "会展大街中东大市场入口对面(金源大市场1号门右侧)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.389689,
+        "gcj_lat": 43.862229,
+        "wgs84_lon": 125.383037382,
+        "wgs84_lat": 43.8597045325,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L21SSWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.38303738243448,
+          43.85970453249679
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZHJ9M",
+        "name": "锦江之星(长春经开区中日联医院深圳街店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "深圳街245号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.373154,
+        "gcj_lat": 43.862257,
+        "wgs84_lon": 125.366522087,
+        "wgs84_lat": 43.8597467878,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFZHJ9M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36652208688736,
+          43.859746787830176
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09411741",
+        "name": "临河三条(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "909路",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "公交站",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.372052,
+        "gcj_lat": 43.871445,
+        "wgs84_lon": 125.365420409,
+        "wgs84_lat": 43.8689412928,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09411741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36542040898645,
+          43.8689412928034
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZB4J",
+        "name": "7天优品酒店(长春中日联医院中东大市场店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "浦东路898号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.376417,
+        "gcj_lat": 43.857046,
+        "wgs84_lon": 125.369780926,
+        "wgs84_lat": 43.8545292653,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0ZB4J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36978092626862,
+          43.85452926534127
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZHEA",
+        "name": "美嘉酒店(长春中日联谊医院店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "浦东路665号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.373336,
+        "gcj_lat": 43.85833,
+        "wgs84_lon": 125.366704427,
+        "wgs84_lat": 43.855817365,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0ZHEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36670442717573,
+          43.855817364980126
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRFZ2SX2",
+        "name": "长春五十二中赫行实验学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "丰满路与临河一条交叉口东北50米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.365327,
+        "gcj_lat": 43.877798,
+        "wgs84_lon": 125.358706547,
+        "wgs84_lat": 43.8753066107,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HRFZ2SX2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35870654736578,
+          43.875306610686664
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09411696",
+        "name": "临河街(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "909路",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "公交站",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.366218,
+        "gcj_lat": 43.87138,
+        "wgs84_lon": 125.359596859,
+        "wgs84_lat": 43.8688837134,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09411696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.35959685928677,
+          43.86888371340979
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ25IMA",
+        "name": "米兰公馆酒店式公寓(中日联谊医院店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "绿城·米兰公馆",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.369993,
+        "gcj_lat": 43.858441,
+        "wgs84_lon": 125.363367018,
+        "wgs84_lat": 43.8559324417,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFJ25IMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36336701800755,
+          43.855932441738865
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFA9W5N",
+        "name": "闫家粥铺(东盛大街店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "东盛大街上东街区2811号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "餐厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.376134,
+        "gcj_lat": 43.869345,
+        "wgs84_lon": 125.369496358,
+        "wgs84_lat": 43.8668355157,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFA9W5N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3694942591293,
+          43.86685912984644
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJTXND2",
+        "name": "翠花铁锅炖鱼村(长春店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "太古时尚购物广场2号楼",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "餐厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.377589,
+        "gcj_lat": 43.866246,
+        "wgs84_lon": 125.370949774,
+        "wgs84_lat": 43.8637332579,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFJTXND2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37094977360894,
+          43.8637332579024
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRSHRACF",
+        "name": "吉林农商银行(长春北方支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "自由大路北方市场门厅2000号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.369234,
+        "gcj_lat": 43.863834,
+        "wgs84_lon": 125.362608493,
+        "wgs84_lat": 43.8613294442,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0HRSHRACF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36260849302225,
+          43.86132944416295
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRD78E55",
+        "name": "nowwa挪瓦咖啡(公园路店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "和顺街与公园路交汇东行20米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.370795,
+        "gcj_lat": 43.880879,
+        "wgs84_lon": 125.364164013,
+        "wgs84_lat": 43.8783822154,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JRD78E55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.36416401263455,
+          43.87838221541359
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1VU55AI",
+        "name": "瑞幸咖啡(长春亚泰新动力店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "吉林大路2235号亚泰新动力二楼",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.377675,
+        "gcj_lat": 43.883475,
+        "wgs84_lon": 125.371032875,
+        "wgs84_lat": 43.8809720267,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0I1VU55AI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.37104203449755,
+          43.88097969775088
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L117M4BA",
+        "name": "瑞幸咖啡(亚泰花园樱花苑)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "民丰大街与安乐路交叉口东北40米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "二道区",
+        "query_category": "咖啡厅",
+        "city": "长春",
+        "district": "二道区",
+        "gcj_lon": 125.382011,
+        "gcj_lat": 43.879111,
+        "wgs84_lon": 125.375364023,
+        "wgs84_lat": 43.8766015103,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L117M4BA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3753640230575,
+          43.87660151028262
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0CR6D",
+        "name": "锦江之星酒店(长春吉大二院亚泰院区动植物公园店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "大经路2270号(南关地铁站D口步行210米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "酒店",
+        "city": "北京城区",
+        "district": "南关区",
+        "gcj_lon": 125.346397,
+        "gcj_lat": 43.879723,
+        "wgs84_lon": 125.339819248,
+        "wgs84_lat": 43.8772632167,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B01AF0CR6D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.33981924766096,
+          43.87726321673965
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0C3AS",
+        "name": "长春大学(西校区)",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "双德乡卫星路8326号(卫明街地铁站A口步行250米)",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.299684,
+        "gcj_lat": 43.830815,
+        "wgs84_lon": 125.293237469,
+        "wgs84_lat": 43.8284138547,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B01AF0C3AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29323746865781,
+          43.82841385465442
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH3QKPA",
+        "name": "大华双语幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "长春市高新技术产业开发区卫星路8722号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.294576,
+        "gcj_lat": 43.830358,
+        "wgs84_lon": 125.288141256,
+        "wgs84_lat": 43.8279645787,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFH3QKPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28814125630721,
+          43.82796457873772
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6ZCSLP6",
+        "name": "上海浦东发展银行(繁荣路支行)",
+        "type": "银行",
+        "typecode": 160115,
+        "address": "繁荣路2447号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.294699,
+        "gcj_lat": 43.840067,
+        "wgs84_lon": 125.288262454,
+        "wgs84_lat": 43.8376787088,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0H6ZCSLP6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28810744868669,
+          43.837622072603764
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL79ESD",
+        "name": "地下停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "前进西街吉林省委党校",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.282455,
+        "gcj_lat": 43.837727,
+        "wgs84_lon": 125.276043423,
+        "wgs84_lat": 43.8353538965,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFL79ESD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2760434227126,
+          43.83535389645399
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0ZT6L",
+        "name": "中国建设银行24小时自助银行(繁荣路支行)",
+        "type": "银行",
+        "typecode": 160303,
+        "address": "繁荣路大通花园-B区",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.298801,
+        "gcj_lat": 43.840021,
+        "wgs84_lon": 125.292355096,
+        "wgs84_lat": 43.8376263149,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01AF0ZT6L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2923550956842,
+          43.83762631492375
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLNRG4C",
+        "name": "招商银行(长春前进大街支行)",
+        "type": "银行",
+        "typecode": 160109,
+        "address": "前进大街996号力旺广场",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.290479,
+        "gcj_lat": 43.840199,
+        "wgs84_lon": 125.284051515,
+        "wgs84_lat": 43.8378169148,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFLNRG4C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28421213046214,
+          43.83789721489735
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09237773",
+        "name": "轨道集团(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "地铁站",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.305507,
+        "gcj_lat": 43.800116,
+        "wgs84_lon": 125.299051103,
+        "wgs84_lat": 43.7976887497,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09237773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29905110290736,
+          43.79768874972381
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0LD960B",
+        "name": "海友酒店(吉林大学前进大街店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "前进大街1655号102室",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "酒店",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.289113,
+        "gcj_lat": 43.835699,
+        "wgs84_lon": 125.282689034,
+        "wgs84_lat": 43.83331633,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0L0LD960B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.2826703274765,
+          43.8333672398314
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L19BGRJ3",
+        "name": "华庆路地铁站停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "金宇大路与泰兴东街交叉口东北260米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.323032,
+        "gcj_lat": 43.798446,
+        "wgs84_lon": 125.316529951,
+        "wgs84_lat": 43.795985672,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0L19BGRJ3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31652995084197,
+          43.795985672016194
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGXV1AF",
+        "name": "吉林大学前卫校区南区-汉语推广",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "高新技术产业开发区修正路吉林大学友谊会馆",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "学校",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.283125,
+        "gcj_lat": 43.827875,
+        "wgs84_lon": 125.27671377,
+        "wgs84_lat": 43.8254957272,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGXV1AF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27671376983646,
+          43.82549572724409
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IGSZ60UE",
+        "name": "华惠路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "华惠路与泰兴街交叉口西80米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.317856,
+        "gcj_lat": 43.798309,
+        "wgs84_lon": 125.31136806,
+        "wgs84_lat": 43.7958584242,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IGSZ60UE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31136806021203,
+          43.79585842415488
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B01AF0BGVA",
+        "name": "中国银行(长春前进大街支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "前进大街2436号",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.290555,
+        "gcj_lat": 43.826351,
+        "wgs84_lon": 125.284129537,
+        "wgs84_lat": 43.8239612463,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B01AF0BGVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28412954567841,
+          43.82390545107812
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRDANLK5",
+        "name": "华远路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "华远路与新明街交叉口西80米",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.312674,
+        "gcj_lat": 43.800177,
+        "wgs84_lon": 125.306199617,
+        "wgs84_lat": 43.7977370176,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0KRDANLK5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.30616675528924,
+          43.797766181569855
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKPGVRZJ",
+        "name": "国信中央新城峰境二期-地下车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "华宇街国信中央新城峰境-二期",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "南关区",
+        "query_category": "停车场",
+        "city": "长春",
+        "district": "南关区",
+        "gcj_lon": 125.316586,
+        "gcj_lat": 43.794853,
+        "wgs84_lon": 125.310102031,
+        "wgs84_lat": 43.7924030154,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0GKPGVRZJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.31010203074334,
+          43.792403015387684
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10111818",
+        "name": "震宇街(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "154路/Z154路;193路/G193路",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "公交站",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.295546,
+        "gcj_lat": 43.827155,
+        "wgs84_lon": 125.289109596,
+        "wgs84_lat": 43.8247583713,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10111818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.28910959603867,
+          43.82475837131612
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDY7X0JH",
+        "name": "吉林银行(兆华支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "前进西街红旗花园1号楼",
+        "pname": "吉林省",
+        "cityname": "长春市",
+        "adname": "朝阳区",
+        "query_category": "银行",
+        "city": "长春",
+        "district": "朝阳区",
+        "gcj_lon": 125.282444,
+        "gcj_lat": 43.834198,
+        "wgs84_lon": 125.276032997,
+        "wgs84_lat": 43.8318229755,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0IDY7X0JH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.27621293439488,
+          43.83185555719056
+        ]
+      }
+    }
+  ]
+}

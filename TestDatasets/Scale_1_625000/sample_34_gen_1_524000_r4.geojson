@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00181EUS2",
+        "name": "华鸿医院",
+        "type": "医院",
+        "typecode": 170203,
+        "address": "铁北西路9号",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "新民市",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "新民市",
+        "gcj_lon": 122.814699,
+        "gcj_lat": 42.005698,
+        "wgs84_lon": 122.809293405,
+        "wgs84_lat": 42.0035292404,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00181EUS2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.80929340513656,
+          42.003529240355455
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10999751",
+        "name": "江东街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)3号线东段;10号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈河区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "沈河区",
+        "gcj_lon": 123.487878,
+        "gcj_lat": 41.769458,
+        "wgs84_lon": 123.481898829,
+        "wgs84_lat": 41.767159293,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10999751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.481898829358,
+          41.767159292955725
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGXM0MB",
+        "name": "中信银行24小时自助银行(振兴支行)",
+        "type": "银行",
+        "typecode": 160308,
+        "address": "十三纬路与南六经街交叉口东北40米",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "和平区",
+        "query_category": "银行",
+        "city": "沈阳",
+        "district": "和平区",
+        "gcj_lon": 123.419001,
+        "gcj_lat": 41.784272,
+        "wgs84_lon": 123.412856428,
+        "wgs84_lat": 41.7818320764,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFGXM0MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41285642818025,
+          41.781832076392284
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H045ALV6",
+        "name": "卧龙湖生态风景区停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "北山路东头卧龙湖生态风景区",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "康平县",
+        "query_category": "停车场",
+        "city": "沈阳",
+        "district": "康平县",
+        "gcj_lon": 123.32146,
+        "gcj_lat": 42.738765,
+        "wgs84_lon": 123.315360105,
+        "wgs84_lat": 42.7364030769,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H045ALV6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.31536010480326,
+          42.736403076857655
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0R5N1J9",
+        "name": "新民市城郊卫生院(南郊院区)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "辽滨街南郊路58-5号",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "新民市",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "新民市",
+        "gcj_lon": 122.823719,
+        "gcj_lat": 41.981287,
+        "wgs84_lon": 122.818332498,
+        "wgs84_lat": 41.9791324524,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K0R5N1J9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.81833249764486,
+          41.979132452355074
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00180G198",
+        "name": "镇西卫生所(政府路店)",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "金鑫花园南门旁",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "康平县",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "康平县",
+        "gcj_lon": 123.351242,
+        "gcj_lat": 42.749687,
+        "wgs84_lon": 123.345048915,
+        "wgs84_lat": 42.7472662753,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00180G198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.34591830652309,
+          42.74699106323049
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001816D75",
+        "name": "沈河区第二中医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "南塔街26号-1门",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈河区",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "沈河区",
+        "gcj_lon": 123.451606,
+        "gcj_lat": 41.768771,
+        "wgs84_lon": 123.445513596,
+        "wgs84_lat": 41.7663786641,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001816D75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4455135956329,
+          41.76637866406548
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10049808",
+        "name": "新乐遗址(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "皇姑区",
+        "query_category": "地铁站",
+        "city": "沈阳",
+        "district": "皇姑区",
+        "gcj_lon": 123.418892,
+        "gcj_lat": 41.847476,
+        "wgs84_lon": 123.412738398,
+        "wgs84_lat": 41.845034968,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10049808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.41273839825595,
+          41.845034967994835
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00181749Q",
+        "name": "李红路社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "东平湖街30号6门7门",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "于洪区",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "于洪区",
+        "gcj_lon": 123.285888,
+        "gcj_lat": 41.801785,
+        "wgs84_lon": 123.280020502,
+        "wgs84_lat": 41.7995026785,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00181749Q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.28002050234976,
+          41.799502678544556
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K12SF14D",
+        "name": "沈阳七中沈北蒲河分校",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "蒲河北路6甲",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "沈北新区",
+        "query_category": "学校",
+        "city": "沈阳",
+        "district": "沈北新区",
+        "gcj_lon": 123.612315,
+        "gcj_lat": 41.928027,
+        "wgs84_lon": 123.606576271,
+        "wgs84_lat": 41.9259435027,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K12SF14D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6065762714057,
+          41.9259435026759
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B00180J4AL",
+        "name": "沈阳经济技术开发区人民医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "昆明湖街38-3号",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "铁西区",
+        "query_category": "医院",
+        "city": "沈阳",
+        "district": "于洪区",
+        "gcj_lon": 123.297433,
+        "gcj_lat": 41.768,
+        "wgs84_lon": 123.291541249,
+        "wgs84_lat": 41.7657027621,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B00180J4AL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.29154124895868,
+          41.7657027621077
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHC5NIY",
+        "name": "法库兴缘宾馆(法库客运站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "河南街法库客运站南35米",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "法库县",
+        "query_category": "酒店",
+        "city": "沈阳",
+        "district": "法库县",
+        "gcj_lon": 123.412325,
+        "gcj_lat": 42.490779,
+        "wgs84_lon": 123.406076272,
+        "wgs84_lat": 42.488365307,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHC5NIY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.40607627155434,
+          42.48836530702079
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHCJICV",
+        "name": "红丹丹寿司店",
+        "type": "餐饮",
+        "typecode": 50202,
+        "address": "小什字街扩建巷170-1门市",
+        "pname": "辽宁省",
+        "cityname": "沈阳市",
+        "adname": "大东区",
+        "query_category": "餐厅",
+        "city": "沈阳",
+        "district": "大东区",
+        "gcj_lon": 123.469917,
+        "gcj_lat": 41.807708,
+        "wgs84_lon": 123.463870875,
+        "wgs84_lat": 41.8053574038,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFHCJICV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.46387087484582,
+          41.80535740377658
+        ]
+      }
+    }
+  ]
+}

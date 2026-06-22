@@ -1,0 +1,64 @@
+{
+  "raw_input": "E:\\GradOpening\\MapGenAI\\TestDatasets\\Scale_1_86000\\sample_13.geojson",
+  "normalized_input": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\normalized_input.geojson",
+  "rows": [
+    {
+      "input_count": 835,
+      "output_count": 227,
+      "retention_rate": 0.2719,
+      "before_category_field": "query_category",
+      "after_category_field": "poi_category",
+      "before_categories": {
+        "交通设施": 160,
+        "便利店": 113,
+        "停车场": 114,
+        "医院": 77,
+        "学校": 102,
+        "酒店": 58,
+        "银行": 91,
+        "餐饮": 120
+      },
+      "after_categories": {
+        "交通设施": 40,
+        "便利店": 16,
+        "停车场": 19,
+        "医院": 38,
+        "学校": 27,
+        "酒店": 44,
+        "银行": 27,
+        "餐饮": 16
+      },
+      "missing_classes": [],
+      "category_coverage_ratio": 1.0,
+      "region_coverage_ratio": 1.0,
+      "symbol_values": [
+        "bank",
+        "convenience",
+        "hospital",
+        "hotel",
+        "parking",
+        "restaurant",
+        "school",
+        "transit"
+      ],
+      "recognized_symbol_count": 8,
+      "expected_symbol_count": 8,
+      "conflict_count": 0,
+      "min_symbol_distance_m": 62.5,
+      "reply": "Generalization completed at 1:250000.\nVLM verify: pass (score=92, mode=local_callback_rule_and_image_gate, real=True)\nCompletion status: completed\nOutput files: E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.geojson, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.png, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.pdf, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\normalized_input_gen_1_250000_selection_basis.md\n【决策摘要 | 目标 1:250000】将数据判为「商业兴趣点」，空间格局「中心-边缘型」。\n【依据】 语义：detected POI/business-like fields | 结构：high nearest-neighbor CV=0.94；center share=0.41\n【执行链】 selection {\"keep_ratio\": 0.588, \"structure_type\": \"center-periphery\", \"semantic_type\": \"commercial_poi_points\"} → simplify {\"tolerance_m\": 0.0, \"preserve_topology\": true} → typification {\"pattern\": \"center_periphery_balanced\"} → displacement {\"min_sep_m\": 75.0, \"max_shift_m\": 135.0, \"strict_no_overlap\": true, \"strict_pixel_gap\": 32, \"strict_density_factor\":...\n【停轮阈值】 {\"target_conflict_count\": 0, \"target_vlm_score\": 80, \"max_rounds\": 4, \"point_max_middle_gap_ratio\": 0.35, \"point_min_axis_coverage_ratio\": 0.6, \"point_min_ho...\n【本轮指标 | 第 1 轮】输入 835 → 输出 227，保留率 27.2%；热点格覆盖 1.000，区域覆盖 0.984；符号冲突 0。\n【验收】VLM 通过，score=92\n【验收说明】local vlm_verify callback received before/after image paths before_image= after_image=E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.png\n【附录】算子参数与校验字段全文见同目录：normalized_input_gen_1_250000_selection_basis.md\nVerified: VLM acceptance checks passed.\nRuntime: 0.00s\nProjected CRS used: EPSG:32650\nGeoJSON auto-loaded to map.",
+      "elapsed_seconds": 11.046,
+      "output_geojson": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.geojson",
+      "output_png": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\poi8_gen_1_250000.png",
+      "agent_log": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_probe_250k\\scale_1_250000\\agent_reply.txt",
+      "target_scale": 250000,
+      "retention_qualified": 0,
+      "category_coverage_qualified": 1,
+      "region_coverage_qualified": 1,
+      "symbol_qualified": 1,
+      "conflict_qualified": 1,
+      "scale_progression_qualified": 1,
+      "all_qualified": 0,
+      "verdict": "PASS"
+    }
+  ]
+}

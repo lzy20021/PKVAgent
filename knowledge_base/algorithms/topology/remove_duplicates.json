@@ -1,0 +1,42 @@
+{
+  "name": "去重要素",
+  "task_type": "topology_repair",
+  "algorithm": "remove-duplicates",
+  "description": "按几何和可选字段删除重复要素。",
+  "parameters": {
+    "subset_field": {
+      "type": "string",
+      "description": "????????????",
+      "default": ""
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nresult = gdf.copy()\nif '{subset_field}':\n    result = result.drop_duplicates(subset=['{subset_field}', 'geometry'])\nelse:\n    result = result.drop_duplicates(subset=['geometry'])\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas"
+  ],
+  "tags": [
+    "拓扑",
+    "去重",
+    "数据清理"
+  ],
+  "examples": [
+    {
+      "input": "对 roads.shp 删除重复几何",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "output_file": "out/roads_dedup.shp",
+        "layer_name": "roads_dedup",
+        "subset_field": ""
+      }
+    },
+    {
+      "input": "? road_id + geometry ??",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "output_file": "out/roads_dedup_id.shp",
+        "layer_name": "roads_dedup_id",
+        "subset_field": "road_id"
+      }
+    }
+  ]
+}

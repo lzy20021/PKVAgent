@@ -1,0 +1,5 @@
+2026-03-29 10:25:42,133 | INFO | Output directory: E:\GradOpening\MapGenAI\output\dlm_dcm_exports\dlm_dcm_generalization_20260329_102542
+2026-03-29 10:26:00,561 | INFO | Sample 上海市_杨浦区: 224 points, 10 categories.
+2026-03-29 10:26:32,575 | INFO | Sample 三亚市_天涯区: 263 points, 8 categories.
+2026-03-29 10:27:28,045 | INFO | Sample 东方市_东方市: 200 points, 8 categories.
+2026-03-29 10:28:15,769 | INFO | Sample 东营市_利津县: 200 points, 8 categories.

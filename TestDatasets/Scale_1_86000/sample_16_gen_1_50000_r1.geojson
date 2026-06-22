@@ -1,0 +1,7215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060917",
+        "name": "永安堂(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.188919,
+        "gcj_lat": 30.566446,
+        "wgs84_lon": 114.183389692,
+        "wgs84_lat": 30.5688572086,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060917",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18338969234452,
+          30.568857208643514
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1CDFE",
+        "name": "武汉军民招待所(古田二路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "古田二路23号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.191276,
+        "gcj_lat": 30.589814,
+        "wgs84_lon": 114.185751129,
+        "wgs84_lat": 30.5922206483,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B1CDFE",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18575112898483,
+          30.592220648272505
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJJK1O0",
+        "name": "武汉明州康复医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "南泥湾大道63号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.192789,
+        "gcj_lat": 30.604251,
+        "wgs84_lon": 114.187266975,
+        "wgs84_lat": 30.606654628,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJJK1O0",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18726697532924,
+          30.60665462803194
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IKFC5RJC",
+        "name": "武汉陶家岭医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "康达街1号A座",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.195792,
+        "gcj_lat": 30.543081,
+        "wgs84_lon": 114.190283312,
+        "wgs84_lat": 30.5455122211,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0IKFC5RJC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1902833119715,
+          30.545512221100676
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1H5WZ",
+        "name": "卡曼酒店(武汉古田三路地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "古文路58号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.198116,
+        "gcj_lat": 30.587015,
+        "wgs84_lon": 114.192609563,
+        "wgs84_lat": 30.5894342426,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B1H5WZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1926095631333,
+          30.589434242551803
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060924",
+        "name": "古田二路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.196667,
+        "gcj_lat": 30.597536,
+        "wgs84_lon": 114.191155876,
+        "wgs84_lat": 30.5999488093,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060924",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19115587628016,
+          30.59994880929423
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDM7WCPK",
+        "name": "武汉温纱梦酒店公寓",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长云路76号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.195845,
+        "gcj_lat": 30.608152,
+        "wgs84_lon": 114.190330791,
+        "wgs84_lat": 30.6105592431,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0IDM7WCPK",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19033079144958,
+          30.610559243148018
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10971452",
+        "name": "芳草路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)11号线四期;(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.203013,
+        "gcj_lat": 30.529944,
+        "wgs84_lon": 114.197523885,
+        "wgs84_lat": 30.5323911113,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10971452",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19752388537532,
+          30.532391111286316
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10879660",
+        "name": "港口村(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.207365,
+        "gcj_lat": 30.537671,
+        "wgs84_lon": 114.201885669,
+        "wgs84_lat": 30.5401219677,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10879660",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20188566861266,
+          30.540121967687263
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0R5E12S",
+        "name": "人信汇汉阳店地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "芳华路汉阳人信汇B2楼(龙阳村地铁站D口步行310米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.203641,
+        "gcj_lat": 30.550328,
+        "wgs84_lon": 114.19815166,
+        "wgs84_lat": 30.5527692267,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0G0R5E12S",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1981516596955,
+          30.552769226745937
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1MPFS00",
+        "name": "瑞幸咖啡(玫瑰街店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "二桥街水仙里社区西南4门旁",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.203157,
+        "gcj_lat": 30.567576,
+        "wgs84_lon": 114.197664977,
+        "wgs84_lat": 30.570010392,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1MPFS00",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19766497661804,
+          30.57001039196443
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHCMN3I",
+        "name": "地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "沿河大道与古田三路交叉口西南60米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.202279,
+        "gcj_lat": 30.587705,
+        "wgs84_lon": 114.196783059,
+        "wgs84_lat": 30.5901305637,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFHCMN3I",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1967830592934,
+          30.590130563737375
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG2DRXP",
+        "name": "武汉警泰宾馆",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "南泥湾大道与古乐路十字路口汉口西园6-2",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.201846,
+        "gcj_lat": 30.602415,
+        "wgs84_lon": 114.196347703,
+        "wgs84_lat": 30.6048341801,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG2DRXP",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19634770334048,
+          30.604834180145634
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGSU6HTI",
+        "name": "长丰街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "长丰街长丰村特11号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.203933,
+        "gcj_lat": 30.609763,
+        "wgs84_lon": 114.198439214,
+        "wgs84_lat": 30.6121824291,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0LGSU6HTI",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19843921381656,
+          30.612182429099562
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K1B7N9V9",
+        "name": "美宜佳(阳光城·十里新城店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "阳光城·十里新城北门旁",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.213376,
+        "gcj_lat": 30.556547,
+        "wgs84_lon": 114.207908535,
+        "wgs84_lat": 30.5589995563,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K1B7N9V9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20790853497486,
+          30.558999556325073
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKX4II8F",
+        "name": "汉水公园西侧地上停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "江汉二桥街道江汉二桥街道江汉二桥街道江汉二桥街道沿河大道466-附1号汉水公园",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.213075,
+        "gcj_lat": 30.574525,
+        "wgs84_lon": 114.207605331,
+        "wgs84_lat": 30.5769707002,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LKX4II8F",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20760533081923,
+          30.576970700162235
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1LRER1C",
+        "name": "破壳POKE爬宠咖啡",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "古田四路47号德必古田坊7-112",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.211072,
+        "gcj_lat": 30.597979,
+        "wgs84_lon": 114.205595907,
+        "wgs84_lat": 30.6004131926,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L1LRER1C",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2055959071765,
+          30.600413192582074
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHI0CCX",
+        "name": "武汉兴旺商务宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "汉口华生城市广场南区D4栋1-2层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.2084,
+        "gcj_lat": 30.612117,
+        "wgs84_lon": 114.202916621,
+        "wgs84_lat": 30.614541942,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHI0CCX",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20291662080513,
+          30.614541942015624
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H6C5YLI0",
+        "name": "汉阳区四新街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "墨南湖畔社区文选路333号(招商1872御府大门对面)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.216212,
+        "gcj_lat": 30.533916,
+        "wgs84_lon": 114.210752447,
+        "wgs84_lat": 30.5363797081,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0H6C5YLI0",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21075244718246,
+          30.536379708147056
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IUYHP0KI",
+        "name": "玫瑰楚萌百灵幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "百灵路9号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.222417,
+        "gcj_lat": 30.545454,
+        "wgs84_lon": 114.216968478,
+        "wgs84_lat": 30.5479205425,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IUYHP0KI",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21696847839344,
+          30.54792054251778
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HDVSWONU",
+        "name": "纽宾凯汉city售楼中心停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "王家湾十里铺纽宾凯公园里6号楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.216633,
+        "gcj_lat": 30.560565,
+        "wgs84_lon": 114.211172005,
+        "wgs84_lat": 30.5630200769,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HDVSWONU",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2111720047968,
+          30.563020076894823
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0498E",
+        "name": "武汉市建设学校",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "知音东路1号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.218319,
+        "gcj_lat": 30.566414,
+        "wgs84_lon": 114.212860882,
+        "wgs84_lat": 30.5688688977,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0498E",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21286088193104,
+          30.56886889772609
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2JSSXFU",
+        "name": "红星美凯龙汉西商场停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "汉西三路红星美凯龙(汉西商场)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.222271,
+        "gcj_lat": 30.593363,
+        "wgs84_lon": 114.216818074,
+        "wgs84_lat": 30.5958119623,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2JSSXFU",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21681807367736,
+          30.595811962309558
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKSMWL3",
+        "name": "梅捷酒店(武汉国际博览中心店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "连通港西路国博大道鲤跃龙门商铺9-01-06",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.232423,
+        "gcj_lat": 30.52523,
+        "wgs84_lon": 114.226992467,
+        "wgs84_lat": 30.5277113687,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKSMWL3",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22699246742118,
+          30.527711368740587
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI8RR02",
+        "name": "维也纳酒店(王家湾七里庙地铁站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "墨水湖北路99号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.233023,
+        "gcj_lat": 30.55121,
+        "wgs84_lon": 114.227591074,
+        "wgs84_lat": 30.5536830827,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFI8RR02",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22759107387222,
+          30.553683082734654
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060862",
+        "name": "双墩(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线;3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.232026,
+        "gcj_lat": 30.58666,
+        "wgs84_lon": 114.226589607,
+        "wgs84_lat": 30.5891195611,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060862",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2265896071806,
+          30.58911956106972
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKJ6ALI",
+        "name": "玖玖商务酒店(武汉动物园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "江堤中路7号附13号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.24807,
+        "gcj_lat": 30.533168,
+        "wgs84_lon": 114.242655667,
+        "wgs84_lat": 30.5356523061,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKJ6ALI",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24265566693954,
+          30.53565230607437
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0I3M9",
+        "name": "武汉市汉阳医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "五里墩街办事处墨水湖路53号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.24582,
+        "gcj_lat": 30.548405,
+        "wgs84_lon": 114.240402595,
+        "wgs84_lat": 30.5508839574,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0I3M9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24040259528714,
+          30.550883957370814
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G1RA0WEH",
+        "name": "汉阳区晴川街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "琴台大道182号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.246219,
+        "gcj_lat": 30.558358,
+        "wgs84_lon": 114.240801068,
+        "wgs84_lat": 30.5608335441,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0G1RA0WEH",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2408010681061,
+          30.560833544091178
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFO46S",
+        "name": "炎龙商务酒店(武汉月湖店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "龙灯堤65号月湖景苑A栋1-2层3号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.246063,
+        "gcj_lat": 30.562941,
+        "wgs84_lon": 114.240644546,
+        "wgs84_lat": 30.5654148941,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFFO46S",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24064454598307,
+          30.565414894080718
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JK2UVCKL",
+        "name": "武汉新特中医医院",
+        "type": "医院",
+        "typecode": 70000,
+        "address": "振兴路75号贺家墩村城中村改造K3整栋",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.245541,
+        "gcj_lat": 30.60634,
+        "wgs84_lon": 114.240118372,
+        "wgs84_lat": 30.6087973859,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JK2UVCKL",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24011837249941,
+          30.60879738587804
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16ZH5",
+        "name": "永鑫宾馆(武汉汉口火车站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "银墩路68号(汉口火车站出站口西侧台湾风情广场旁)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.253514,
+        "gcj_lat": 30.617439,
+        "wgs84_lon": 114.248095739,
+        "wgs84_lat": 30.6198919262,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16ZH5",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24809573857895,
+          30.619891926177257
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B07JBE",
+        "name": "华中科技大学同济医学院附属同济医院(汉口院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "解放大道1095号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.259951,
+        "gcj_lat": 30.579587,
+        "wgs84_lon": 114.25453822,
+        "wgs84_lat": 30.5820530248,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B07JBE",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25453821991341,
+          30.582053024773447
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IZPE",
+        "name": "武汉市第十二中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "航空小路17号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.259962,
+        "gcj_lat": 30.588743,
+        "wgs84_lon": 114.254548434,
+        "wgs84_lat": 30.591205557,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0IZPE",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25454843411092,
+          30.591205557048696
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHSFLQG",
+        "name": "武汉荣发宾馆(汉口火车站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "常兴路16号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.257172,
+        "gcj_lat": 30.627897,
+        "wgs84_lon": 114.251754326,
+        "wgs84_lat": 30.6303448003,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHSFLQG",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2517543257967,
+          30.630344800336104
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9ZBIC",
+        "name": "武汉广爱医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "姑嫂树红光路特1号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.257201,
+        "gcj_lat": 30.634822,
+        "wgs84_lon": 114.251782738,
+        "wgs84_lat": 30.6372668687,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF9ZBIC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25178273805506,
+          30.63726686872651
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL877LJ",
+        "name": "东西湖区第二人民医院",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "将军一路108号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "东西湖区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.254505,
+        "gcj_lat": 30.650449,
+        "wgs84_lon": 114.249084354,
+        "wgs84_lat": 30.6528877521,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFL877LJ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2490843538706,
+          30.652887752093417
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10807916",
+        "name": "常青城(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "东西湖区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.25506,
+        "gcj_lat": 30.658775,
+        "wgs84_lon": 114.249638875,
+        "wgs84_lat": 30.6612099582,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10807916",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24963887499875,
+          30.66120995820224
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0ATGJ",
+        "name": "武汉市第十九中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "马场路91号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.266798,
+        "gcj_lat": 30.61289,
+        "wgs84_lon": 114.261382715,
+        "wgs84_lat": 30.6153395134,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0ATGJ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26138271471244,
+          30.615339513443033
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0LAN0PI",
+        "name": "武汉德馨医院",
+        "type": "医院",
+        "typecode": 90200,
+        "address": "发展大道235号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.266647,
+        "gcj_lat": 30.617548,
+        "wgs84_lon": 114.261231327,
+        "wgs84_lat": 30.6199957118,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0J0LAN0PI",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2612313271142,
+          30.619995711844343
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IL5V",
+        "name": "标致时尚宾馆(汉口火车站中心医院后湖院区店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "常青一路88号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.265713,
+        "gcj_lat": 30.624741,
+        "wgs84_lon": 114.260296771,
+        "wgs84_lat": 30.6271863195,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B0IL5V",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26029677092842,
+          30.627186319536534
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0J03O",
+        "name": "武汉市第一医院(利济路院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "中山大道215号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.272247,
+        "gcj_lat": 30.572202,
+        "wgs84_lon": 114.26683408,
+        "wgs84_lat": 30.5746632103,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0J03O",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26683407963418,
+          30.57466321032808
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IZPF",
+        "name": "华中科技大学同济医学院附属协和医院主院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "解放大道1277号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.274723,
+        "gcj_lat": 30.584057,
+        "wgs84_lon": 114.269308139,
+        "wgs84_lat": 30.5865116298,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0IZPF",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2693081390354,
+          30.586511629807706
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IKLD",
+        "name": "武汉市砺志中学(唐家墩校区)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "八古墩东一巷39号(唐家墩地铁站B口步行360米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.272912,
+        "gcj_lat": 30.621208,
+        "wgs84_lon": 114.267494636,
+        "wgs84_lat": 30.6236495329,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0IKLD",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2674946357503,
+          30.62364953287275
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I67HRGC1",
+        "name": "武汉市江岸区育才寄宿实验小学天马校区",
+        "type": "学校",
+        "typecode": 140000,
+        "address": "和谐大道388号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.273386,
+        "gcj_lat": 30.640914,
+        "wgs84_lon": 114.267966766,
+        "wgs84_lat": 30.6433468106,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0I67HRGC1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26796676616821,
+          30.6433468106262
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1LSVQ82",
+        "name": "瑞幸咖啡(越秀星汇君泊店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "塔子湖东路18号越秀星汇君泊一期S4栋底商",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.280558,
+        "gcj_lat": 30.648755,
+        "wgs84_lon": 114.275134438,
+        "wgs84_lat": 30.6511773088,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1LSVQ82",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2751344379018,
+          30.65117730877903
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10575984",
+        "name": "塔子湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.280364,
+        "gcj_lat": 30.652594,
+        "wgs84_lon": 114.274940231,
+        "wgs84_lat": 30.6550148363,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10575984",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2749402310491,
+          30.655014836339653
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFWVT1",
+        "name": "武汉美菲尔宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "打铜街41号新峰大楼3层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.28885,
+        "gcj_lat": 30.574237,
+        "wgs84_lon": 114.283426283,
+        "wgs84_lat": 30.5766792043,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFFWVT1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28342628279655,
+          30.576679204280847
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDACIHUF",
+        "name": "空杯凯瑞酒店(市民之家极地海洋公园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "华岭路5-103号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.284338,
+        "gcj_lat": 30.657652,
+        "wgs84_lon": 114.278910965,
+        "wgs84_lat": 30.6600659859,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KDACIHUF",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27891096509954,
+          30.660065985902484
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1CDN1",
+        "name": "京都旅馆(解放路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "紫阳街办事处解放桥望山门新都小区2楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.296004,
+        "gcj_lat": 30.529025,
+        "wgs84_lon": 114.290576696,
+        "wgs84_lat": 30.5314725781,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B1CDN1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29057669646402,
+          30.531472578145916
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGHPJK1",
+        "name": "瑞泰宾馆(黄鹤楼户部巷店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "彭刘杨路51号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.294728,
+        "gcj_lat": 30.543218,
+        "wgs84_lon": 114.28930092,
+        "wgs84_lat": 30.5456628039,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGHPJK1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28930091961084,
+          30.545662803897947
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0ITBZ",
+        "name": "江汉中西医结合医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "黄陂街93号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.294197,
+        "gcj_lat": 30.573735,
+        "wgs84_lon": 114.288767877,
+        "wgs84_lat": 30.5761698103,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0ITBZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28876787734676,
+          30.576169810315722
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16TAQ",
+        "name": "易佰酒店(武汉汉口江汉路步行街店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "上海路8号(江汉路地铁站C口步行470米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.296489,
+        "gcj_lat": 30.579341,
+        "wgs84_lon": 114.291056798,
+        "wgs84_lat": 30.5817702652,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16TAQ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29105679780352,
+          30.581770265165165
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B06129",
+        "name": "武汉市第六医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "香港路168号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.290406,
+        "gcj_lat": 30.600072,
+        "wgs84_lon": 114.284978561,
+        "wgs84_lat": 30.6025022289,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B06129",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2849785607688,
+          30.602502228890412
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060856",
+        "name": "惠济二路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.291463,
+        "gcj_lat": 30.612937,
+        "wgs84_lon": 114.286033391,
+        "wgs84_lat": 30.6153606079,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060856",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2860333913832,
+          30.615360607925613
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0A6II",
+        "name": "武汉市育才第二小学解放分校",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "后九万方三村33号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.290634,
+        "gcj_lat": 30.621448,
+        "wgs84_lon": 114.28520449,
+        "wgs84_lat": 30.6238692899,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0A6II",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28520449005008,
+          30.62386928992566
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0ZRZESQ",
+        "name": "江岸区塔子湖街华康社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "健康街与华泰路交叉口南120米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.291519,
+        "gcj_lat": 30.656299,
+        "wgs84_lon": 114.286085587,
+        "wgs84_lat": 30.658704101,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K0ZRZESQ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28608558712804,
+          30.65870410099222
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11587196",
+        "name": "紫阳湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.30132,
+        "gcj_lat": 30.528301,
+        "wgs84_lon": 114.295886267,
+        "wgs84_lat": 30.5307403818,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11587196",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2958862666228,
+          30.530740381843874
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10804921",
+        "name": "司门口黄鹤楼(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.302183,
+        "gcj_lat": 30.546899,
+        "wgs84_lon": 114.296746542,
+        "wgs84_lat": 30.5493307664,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10804921",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29674654231692,
+          30.549330766400768
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B06217",
+        "name": "武汉市中医医院汉口院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "黎黄陂路49号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.297693,
+        "gcj_lat": 30.588437,
+        "wgs84_lon": 114.292258591,
+        "wgs84_lat": 30.5908609577,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B06217",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29225859056496,
+          30.590860957703686
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060855",
+        "name": "赵家条(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线;8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.297076,
+        "gcj_lat": 30.617866,
+        "wgs84_lon": 114.291639782,
+        "wgs84_lat": 30.6202792589,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060855",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2916397823099,
+          30.620279258875428
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IK5A",
+        "name": "武汉市汉口医院(主院区)",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "二七侧路7号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.300229,
+        "gcj_lat": 30.625602,
+        "wgs84_lon": 114.294788258,
+        "wgs84_lat": 30.6280070589,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0IK5A",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29478825785566,
+          30.6280070588514
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ2UVU1",
+        "name": "金桥社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "后湖街东方华府1-1",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.300698,
+        "gcj_lat": 30.637393,
+        "wgs84_lon": 114.295255643,
+        "wgs84_lat": 30.6397923178,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJ2UVU1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29525564250515,
+          30.639792317819083
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11646245",
+        "name": "新春(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)21号线二期/阳逻线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.296165,
+        "gcj_lat": 30.646119,
+        "wgs84_lon": 114.290727404,
+        "wgs84_lat": 30.6485217211,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11646245",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29072740425538,
+          30.648521721055378
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI2DN8T",
+        "name": "华驿酒店(武汉市民之家地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "金桥大道40号市民之家斜对面",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.296142,
+        "gcj_lat": 30.655778,
+        "wgs84_lon": 114.290703595,
+        "wgs84_lat": 30.6581765114,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFI2DN8T",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29070359506906,
+          30.658176511359418
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060930",
+        "name": "黄浦路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.308156,
+        "gcj_lat": 30.608404,
+        "wgs84_lon": 114.302706018,
+        "wgs84_lat": 30.6108026684,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060930",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3027060179152,
+          30.61080266843117
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16QI4",
+        "name": "武汉伽禾宾馆(古德寺解放军空降兵部队医院店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "工农兵路18号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.305071,
+        "gcj_lat": 30.617795,
+        "wgs84_lon": 114.299624541,
+        "wgs84_lat": 30.620195217,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16QI4",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29962454086551,
+          30.620195216962873
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060851",
+        "name": "兴业路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线;3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.30422,
+        "gcj_lat": 30.641133,
+        "wgs84_lon": 114.298772682,
+        "wgs84_lat": 30.6435248545,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060851",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29877268229366,
+          30.643524854507323
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10804904",
+        "name": "三层楼(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.314532,
+        "gcj_lat": 30.569462,
+        "wgs84_lon": 114.309075896,
+        "wgs84_lat": 30.5718640726,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10804904",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30907589562518,
+          30.571864072599837
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16YSM",
+        "name": "江岸区新村街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "黑泥湖西路金涛翰林苑(江岸区政务中心旁)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.309086,
+        "gcj_lat": 30.630266,
+        "wgs84_lon": 114.303632782,
+        "wgs84_lat": 30.6326540339,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B16YSM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30363278166972,
+          30.632654033931253
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFCLNDU",
+        "name": "武汉仙逸宾馆(中山路店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "中山路481号爱尔眼科医院B1层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.318955,
+        "gcj_lat": 30.539226,
+        "wgs84_lon": 114.313494599,
+        "wgs84_lat": 30.5416303965,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFCLNDU",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31349459915106,
+          30.54163039653672
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B093VM",
+        "name": "武汉科技大学附属天佑医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "丁字桥涂家岭9号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.326471,
+        "gcj_lat": 30.524641,
+        "wgs84_lon": 114.320999736,
+        "wgs84_lat": 30.5270358837,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B093VM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32099973645622,
+          30.52703588374072
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10952881",
+        "name": "何家垅(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.331469,
+        "gcj_lat": 30.547673,
+        "wgs84_lon": 114.325987569,
+        "wgs84_lat": 30.550050687,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10952881",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32598756884352,
+          30.55005068703658
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057882",
+        "name": "中南路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.332959,
+        "gcj_lat": 30.537528,
+        "wgs84_lon": 114.327476016,
+        "wgs84_lat": 30.5399062726,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057882",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32747601626141,
+          30.539906272615486
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060899",
+        "name": "洪山广场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.33598,
+        "gcj_lat": 30.545667,
+        "wgs84_lon": 114.330491403,
+        "wgs84_lat": 30.5480367968,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060899",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33049140271028,
+          30.548036796817282
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060940",
+        "name": "楚河汉街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.341415,
+        "gcj_lat": 30.553848,
+        "wgs84_lon": 114.335917016,
+        "wgs84_lat": 30.5562048164,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060940",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33591701569564,
+          30.55620481638897
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKS8K02",
+        "name": "飞翔公寓(湖北大学汪家墩地铁站店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "徐家棚街秦园中路116号附4号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.343875,
+        "gcj_lat": 30.580175,
+        "wgs84_lon": 114.338370894,
+        "wgs84_lat": 30.5825177881,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKS8K02",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.338370893849,
+          30.582517788145086
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF35IKO",
+        "name": "武汉理工大学马房山校区西院校医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "珞狮路122号武汉理工大学马房山校区西院",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "洪山区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.347373,
+        "gcj_lat": 30.523077,
+        "wgs84_lon": 114.341868554,
+        "wgs84_lat": 30.5254333109,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFF35IKO",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34186855421764,
+          30.525433310944273
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLPFVAV",
+        "name": "湖北省直属机关医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "东二路8号(洪山路地铁站C口步行230米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.345562,
+        "gcj_lat": 30.543696,
+        "wgs84_lon": 114.340058486,
+        "wgs84_lat": 30.5460487584,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLPFVAV",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34005848626308,
+          30.54604875843384
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11475169",
+        "name": "水果湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.34609,
+        "gcj_lat": 30.551456,
+        "wgs84_lon": 114.340585011,
+        "wgs84_lat": 30.5538051529,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11475169",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3405850113948,
+          30.553805152869305
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10057878",
+        "name": "街道口(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "洪山区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.353503,
+        "gcj_lat": 30.526597,
+        "wgs84_lon": 114.347989448,
+        "wgs84_lat": 30.5289416554,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10057878",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.34798944814216,
+          30.528941655396395
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16N4U",
+        "name": "怡园公寓(武汉大学广八路店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "广八路8号(武大北门口)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "洪山区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.364748,
+        "gcj_lat": 30.529347,
+        "wgs84_lon": 114.359220291,
+        "wgs84_lat": 30.5316734881,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16N4U",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3592202910875,
+          30.53167348807536
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060909",
+        "name": "首义路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.308531,
+        "gcj_lat": 30.533612,
+        "wgs84_lon": 114.303086943,
+        "wgs84_lat": 30.5360373404,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060909",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30308694291844,
+          30.536037340408335
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11587197",
+        "name": "武昌站东广场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线;11号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.32224,
+        "gcj_lat": 30.528977,
+        "wgs84_lon": 114.31677523,
+        "wgs84_lat": 30.5313785592,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11587197",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31677522958792,
+          30.531378559248164
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10804922",
+        "name": "三角路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "5号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.325308,
+        "gcj_lat": 30.58134,
+        "wgs84_lon": 114.319833719,
+        "wgs84_lat": 30.5837173755,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10804922",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31983371874736,
+          30.58371737546253
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060898",
+        "name": "宝通寺(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.341206,
+        "gcj_lat": 30.530349,
+        "wgs84_lon": 114.335710386,
+        "wgs84_lat": 30.5327141302,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060898",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33571038641249,
+          30.532714130191952
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10891266",
+        "name": "和平大道武汉工人文化宫(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "511路;514路;530路内环;530路外环;542路;606路;607路;734路;夜行511路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.311525,
+        "gcj_lat": 30.56537,
+        "wgs84_lon": 114.306073806,
+        "wgs84_lat": 30.5677790439,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10891266",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30607380586515,
+          30.567779043948875
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JD5CD3J1",
+        "name": "武汉居家青年公寓(龙阳村地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "蟠龙路6号龙阳熙苑3栋1单元44楼4401室",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.204765,
+        "gcj_lat": 30.554127,
+        "wgs84_lon": 114.199278062,
+        "wgs84_lat": 30.5565685868,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JD5CD3J1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19927806200421,
+          30.556568586826003
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFN00F",
+        "name": "华中师范大学附属铁桥幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "玫瑰街33号铁桥新家园南区15栋",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.223199,
+        "gcj_lat": 30.562677,
+        "wgs84_lon": 114.217750405,
+        "wgs84_lat": 30.5651382883,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFFFN00F",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21775040544136,
+          30.56513828831648
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10570863",
+        "name": "陶家岭(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.201851,
+        "gcj_lat": 30.545591,
+        "wgs84_lon": 114.19635765,
+        "wgs84_lat": 30.5480311182,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10570863",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19635764973458,
+          30.548031118173416
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060913",
+        "name": "五里墩(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.241105,
+        "gcj_lat": 30.553977,
+        "wgs84_lon": 114.235682691,
+        "wgs84_lat": 30.5564529284,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060913",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23568269111443,
+          30.55645292838076
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060927",
+        "name": "太平洋(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.240741,
+        "gcj_lat": 30.574025,
+        "wgs84_lon": 114.235316582,
+        "wgs84_lat": 30.5764936159,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060927",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23531658233664,
+          30.57649361592842
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060867",
+        "name": "四新大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)11号线四期;3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.194631,
+        "gcj_lat": 30.535228,
+        "wgs84_lon": 114.189119919,
+        "wgs84_lat": 30.5376598995,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060867",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18911991876688,
+          30.53765989948821
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10633437",
+        "name": "汉阳客运站(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "蔡甸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.189057,
+        "gcj_lat": 30.527807,
+        "wgs84_lon": 114.183531438,
+        "wgs84_lat": 30.5302316748,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10633437",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.18353143803584,
+          30.53023167484153
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10879666",
+        "name": "汉钢(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.233985,
+        "gcj_lat": 30.565303,
+        "wgs84_lon": 114.22855318,
+        "wgs84_lat": 30.5677716836,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10879666",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22855318038856,
+          30.56777168363581
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060850",
+        "name": "后湖大道(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)21号线二期/阳逻线;21号线/阳逻线;3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.304127,
+        "gcj_lat": 30.650284,
+        "wgs84_lon": 114.298679016,
+        "wgs84_lat": 30.6526720323,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060850",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29867901565645,
+          30.652672032285913
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09357626",
+        "name": "汉口站北广场(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.255261,
+        "gcj_lat": 30.621672,
+        "wgs84_lon": 114.249843159,
+        "wgs84_lat": 30.6241228687,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09357626",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24984315926432,
+          30.624122868715364
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10884030",
+        "name": "丁字桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "11号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.33093,
+        "gcj_lat": 30.521467,
+        "wgs84_lon": 114.325451722,
+        "wgs84_lat": 30.5238543629,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10884030",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32545172191676,
+          30.523854362932827
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KU6X1OZ9",
+        "name": "瑞幸咖啡(海天欢乐购店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "二桥街汉阳大道582号海天欢乐购广场底商",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.211287,
+        "gcj_lat": 30.563542,
+        "wgs84_lon": 114.205814368,
+        "wgs84_lat": 30.565989387,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KU6X1OZ9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20581436827824,
+          30.56598938698878
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B08NDT",
+        "name": "风华大酒店(汉口火车站常码头店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "发展大道常码头28号(发展大道常码头加油站旁边)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.236956,
+        "gcj_lat": 30.606273,
+        "wgs84_lon": 114.231524478,
+        "wgs84_lat": 30.6087277001,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B08NDT",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23152447755992,
+          30.608727700059934
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09416842",
+        "name": "汉西路北(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.227951,
+        "gcj_lat": 30.600305,
+        "wgs84_lon": 114.222507232,
+        "wgs84_lat": 30.602756322,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09416842",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2225072320241,
+          30.602756321983204
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09289844",
+        "name": "后湖二路后湖南路(临时站)(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "623路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.29104,
+        "gcj_lat": 30.638081,
+        "wgs84_lon": 114.285608647,
+        "wgs84_lat": 30.6404947236,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09289844",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28558662221373,
+          30.64040521285202
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10914030",
+        "name": "塔子湖东路地铁中一路站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "289路;290路;322路;35路;364路;507路;812路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.280928,
+        "gcj_lat": 30.640841,
+        "wgs84_lon": 114.27550488,
+        "wgs84_lat": 30.6432663333,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10914030",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27550487956158,
+          30.643266333259056
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10575985",
+        "name": "竹叶山(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)10号线新港线西延线;8号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.287104,
+        "gcj_lat": 30.625318,
+        "wgs84_lon": 114.28167746,
+        "wgs84_lat": 30.6277424413,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10575985",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28167745972269,
+          30.627742441317412
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUD5KXOS",
+        "name": "花桥街第二社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "黄孝河路146号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.286114,
+        "gcj_lat": 30.619493,
+        "wgs84_lon": 114.280688815,
+        "wgs84_lat": 30.6219211255,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HUD5KXOS",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28068881513404,
+          30.62192112553744
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJAWCP7",
+        "name": "武汉市中心医院后湖院区",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "姑嫂树路16号(石桥地铁站F口步行80米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.265498,
+        "gcj_lat": 30.628439,
+        "wgs84_lon": 114.260081462,
+        "wgs84_lat": 30.6308829029,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJAWCP7",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26008146152247,
+          30.6308829028551
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH8JA2E",
+        "name": "江汉区汉兴街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "汉兴街道常青一院22号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.261214,
+        "gcj_lat": 30.630057,
+        "wgs84_lon": 114.255797093,
+        "wgs84_lat": 30.6325024318,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH8JA2E",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2557970929909,
+          30.632502431787394
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060887",
+        "name": "唐家墩(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)10号线新港线西延线;6号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.271276,
+        "gcj_lat": 30.617653,
+        "wgs84_lon": 114.265859458,
+        "wgs84_lat": 30.6200973478,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060887",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2658594583974,
+          30.620097347848002
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KD07YCM9",
+        "name": "美宜佳(华宇旭辉星空店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "后湖大道与健身路交叉口东140米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.285523,
+        "gcj_lat": 30.63978,
+        "wgs84_lon": 114.280096557,
+        "wgs84_lat": 30.6422003393,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KD07YCM9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28002897484693,
+          30.642163545008557
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG9N5P9",
+        "name": "万珈宾馆(武汉常青店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "常青一路学林华府3栋3号(武汉第一中学高中部旁、新唐万科广场侧面)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.260839,
+        "gcj_lat": 30.622382,
+        "wgs84_lon": 114.255422697,
+        "wgs84_lat": 30.6248307973,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFG9N5P9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25542269652404,
+          30.624830797308814
+        ]
+      }
+    },
+    {
+      "id": "110",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIYA6DD",
+        "name": "中百罗森(金桥壹号店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金桥大道20号中胜村K1地块9酒店式公寓3商业1层商",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.286929,
+        "gcj_lat": 30.634653,
+        "wgs84_lon": 114.281501807,
+        "wgs84_lat": 30.6370737389,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFIYA6DD",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28150401119038,
+          30.637057316302492
+        ]
+      }
+    },
+    {
+      "id": "111",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1C1FB",
+        "name": "财广宾馆(武汉汉口火车站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "金墩街15号财神商业广场F1层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.257945,
+        "gcj_lat": 30.616758,
+        "wgs84_lon": 114.252528524,
+        "wgs84_lat": 30.6192101792,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B1C1FB",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25252852423972,
+          30.619210179185202
+        ]
+      }
+    },
+    {
+      "id": "112",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G3UPXUSZ",
+        "name": "中百罗森(富强·天合熙园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "富强·天合熙园东1门旁",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.276282,
+        "gcj_lat": 30.638287,
+        "wgs84_lon": 114.270861759,
+        "wgs84_lat": 30.6407182755,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0G3UPXUSZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2708617594775,
+          30.640718275500127
+        ]
+      }
+    },
+    {
+      "id": "113",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060854",
+        "name": "罗家庄(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.303976,
+        "gcj_lat": 30.623628,
+        "wgs84_lon": 114.298530528,
+        "wgs84_lat": 30.6260276737,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060854",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29853052808186,
+          30.626027673699266
+        ]
+      }
+    },
+    {
+      "id": "114",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGQ7PND",
+        "name": "芙蓉兴盛便利超市(三元中央公园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "后湖街办事处后湖大道69号三元中央公园5帷2号门",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.276464,
+        "gcj_lat": 30.634423,
+        "wgs84_lon": 114.271044004,
+        "wgs84_lat": 30.6368557473,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFGQ7PND",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27104400431551,
+          30.636855747289697
+        ]
+      }
+    },
+    {
+      "id": "115",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K0276860",
+        "name": "百纳家宴",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "中一路与德胜堂路交叉口(中一路地铁站c出口前行100米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "餐厅",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.282302,
+        "gcj_lat": 30.636053,
+        "wgs84_lon": 114.276878351,
+        "wgs84_lat": 30.6384788218,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0K0276860",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27687835141,
+          30.638478821756397
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0B7QF",
+        "name": "武汉市培英中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "发展大道592号(近蔡家田小区)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.282251,
+        "gcj_lat": 30.621688,
+        "wgs84_lon": 114.276828627,
+        "wgs84_lat": 30.6241199128,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0B7QF",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27682862734386,
+          30.624119912759895
+        ]
+      }
+    },
+    {
+      "id": "117",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHKJWI4",
+        "name": "快乐惠(金凰路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "武汉创立方产业园西南1门旁",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.281034,
+        "gcj_lat": 30.626944,
+        "wgs84_lon": 114.275612009,
+        "wgs84_lat": 30.6293751129,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFHKJWI4",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27561200886043,
+          30.629375112896504
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0MGGA3NG2",
+        "name": "新力有家便利店(黄浦科技园店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "石桥投资大厦北门东北60米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.276728,
+        "gcj_lat": 30.629361,
+        "wgs84_lon": 114.27130831,
+        "wgs84_lat": 30.6317956284,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0MGGA3NG2",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27130831025623,
+          30.63179562841894
+        ]
+      }
+    },
+    {
+      "id": "119",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10058585",
+        "name": "正义路后湖二路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "346路;543路;543路区间;629路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.292916,
+        "gcj_lat": 30.632065,
+        "wgs84_lon": 114.287483227,
+        "wgs84_lat": 30.6344786013,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10058585",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28748322693218,
+          30.634478601340497
+        ]
+      }
+    },
+    {
+      "id": "120",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI8SNSX",
+        "name": "武汉中阳中医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "金家墩特1号武汉天街商业2号楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.259226,
+        "gcj_lat": 30.612005,
+        "wgs84_lon": 114.25381027,
+        "wgs84_lat": 30.614458678,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFI8SNSX",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25381027026326,
+          30.614458677988228
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK58PQ9",
+        "name": "中部战区总医院(汉口院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "黄浦大街68号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.308772,
+        "gcj_lat": 30.615921,
+        "wgs84_lon": 114.303320479,
+        "wgs84_lat": 30.6183155391,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK58PQ9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30332047943176,
+          30.61831553910609
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2L9J59M",
+        "name": "领绣化妆美甲美睫纹绣培训学校(武汉校区)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "金融街大厦16层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.269923,
+        "gcj_lat": 30.626841,
+        "wgs84_lon": 114.26450601,
+        "wgs84_lat": 30.6292825937,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K2L9J59M",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26450601015756,
+          30.629282593713757
+        ]
+      }
+    },
+    {
+      "id": "123",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10575215",
+        "name": "新河街(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "7号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.317111,
+        "gcj_lat": 30.56256,
+        "wgs84_lon": 114.311651489,
+        "wgs84_lat": 30.5649597787,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10575215",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31165148869869,
+          30.564959778710104
+        ]
+      }
+    },
+    {
+      "id": "124",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGUSG3JH",
+        "name": "潮牛壹号鲜牛肉火锅(武汉金桥永旺梦乐城店)",
+        "type": "餐饮",
+        "typecode": 0,
+        "address": "金桥大道15号永旺梦乐城(武汉金桥店)4F层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "餐厅",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.283692,
+        "gcj_lat": 30.631241,
+        "wgs84_lon": 114.278267745,
+        "wgs84_lat": 30.6336672234,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0HGUSG3JH",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27830381295001,
+          30.633637016712523
+        ]
+      }
+    },
+    {
+      "id": "125",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060889",
+        "name": "杨汊湖(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "6号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.261081,
+        "gcj_lat": 30.635814,
+        "wgs84_lon": 114.255663577,
+        "wgs84_lat": 30.6382570511,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060889",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2556635766422,
+          30.638257051141988
+        ]
+      }
+    },
+    {
+      "id": "126",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B08WUK",
+        "name": "江岸区花桥街第一社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "育才路165号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.280981,
+        "gcj_lat": 30.614709,
+        "wgs84_lon": 114.275560099,
+        "wgs84_lat": 30.6171452204,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B08WUK",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.275560099458,
+          30.617145220406
+        ]
+      }
+    },
+    {
+      "id": "127",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060902",
+        "name": "积玉桥(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;5号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.308679,
+        "gcj_lat": 30.561284,
+        "wgs84_lon": 114.30323234,
+        "wgs84_lat": 30.5636995977,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060902",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30323233981572,
+          30.56369959772369
+        ]
+      }
+    },
+    {
+      "id": "128",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B06885",
+        "name": "长江航运总医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "惠济路5号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.287248,
+        "gcj_lat": 30.606466,
+        "wgs84_lon": 114.28182296,
+        "wgs84_lat": 30.6088979469,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B06885",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28182295998523,
+          30.60889794691977
+        ]
+      }
+    },
+    {
+      "id": "129",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B18OEV",
+        "name": "武汉银华快捷宾馆(小东门地铁站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "小东门民主二路171号浅深对面港内",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.324633,
+        "gcj_lat": 30.545046,
+        "wgs84_lon": 114.319162963,
+        "wgs84_lat": 30.5474376592,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B18OEV",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31916296337673,
+          30.547437659211514
+        ]
+      }
+    },
+    {
+      "id": "130",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHG4IGN",
+        "name": "江岸区实验幼儿园花都园区",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "金桥大道16号东方花都",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.294843,
+        "gcj_lat": 30.636764,
+        "wgs84_lon": 114.289407718,
+        "wgs84_lat": 30.6391727585,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHG4IGN",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28940771789924,
+          30.63917275845902
+        ]
+      }
+    },
+    {
+      "id": "131",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUGDS3KZ",
+        "name": "武汉江宸天街地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "青年路518号武汉江宸天街",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.261487,
+        "gcj_lat": 30.607325,
+        "wgs84_lon": 114.256072091,
+        "wgs84_lat": 30.6097796452,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HUGDS3KZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25607209054888,
+          30.609779645228443
+        ]
+      }
+    },
+    {
+      "id": "132",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10704089",
+        "name": "星海路地铁小龟山站(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "343路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.324028,
+        "gcj_lat": 30.552208,
+        "wgs84_lon": 114.318558326,
+        "wgs84_lat": 30.5545983515,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10704089",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31855832566166,
+          30.554598351492185
+        ]
+      }
+    },
+    {
+      "id": "133",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH8Z3J7",
+        "name": "中英街地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "新华路213号中英实业有限公司",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.272251,
+        "gcj_lat": 30.593758,
+        "wgs84_lon": 114.266836223,
+        "wgs84_lat": 30.5962110776,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH8Z3J7",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26683622273706,
+          30.596211077575468
+        ]
+      }
+    },
+    {
+      "id": "134",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJGVB2E",
+        "name": "武汉市育才小学(树人校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "新村街街道发展大道(中胜国际对面)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.295331,
+        "gcj_lat": 30.625748,
+        "wgs84_lon": 114.289896121,
+        "wgs84_lat": 30.628160673,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFJGVB2E",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28989612062942,
+          30.62816067298991
+        ]
+      }
+    },
+    {
+      "id": "135",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GKO591RP",
+        "name": "武汉市第七十一中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "马场角小路147号(范湖地铁站F口步行330米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.265507,
+        "gcj_lat": 30.607761,
+        "wgs84_lon": 114.260092243,
+        "wgs84_lat": 30.6102133771,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0GKO591RP",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26009224327473,
+          30.610213377148998
+        ]
+      }
+    },
+    {
+      "id": "136",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH9NZ7Z",
+        "name": "中百罗森(湖影公寓店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "北湖西路14号1层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.269924,
+        "gcj_lat": 30.603871,
+        "wgs84_lon": 114.26450899,
+        "wgs84_lat": 30.6063219545,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFH9NZ7Z",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2645089896,
+          30.606321954536448
+        ]
+      }
+    },
+    {
+      "id": "137",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10058500",
+        "name": "中山路解放路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "14路;15路;514路;521路;530路内环;542路;566路;576路;578路;607路;K521路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.304686,
+        "gcj_lat": 30.555204,
+        "wgs84_lon": 114.299245478,
+        "wgs84_lat": 30.5576286824,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10058500",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29924547796116,
+          30.55762868238791
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH35MPM",
+        "name": "芙蓉兴盛添天便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "邮三宿舍(取水楼地铁站D口步行290米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.271822,
+        "gcj_lat": 30.599458,
+        "wgs84_lon": 114.266406866,
+        "wgs84_lat": 30.6019092079,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFH35MPM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26640686612544,
+          30.601909207866793
+        ]
+      }
+    },
+    {
+      "id": "139",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I1F7VBAR",
+        "name": "拉维尼娅艺术教育学校(华发中城商都店)",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "青年路299号华发中城商都3栋L3楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.261318,
+        "gcj_lat": 30.602859,
+        "wgs84_lon": 114.255903452,
+        "wgs84_lat": 30.605315498,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0I1F7VBAR",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25590345183032,
+          30.605315497952525
+        ]
+      }
+    },
+    {
+      "id": "140",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KALCJYNG",
+        "name": "芙蓉兴盛便利超市(北湖小路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "祥和家园西南2门东南50米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.265333,
+        "gcj_lat": 30.603337,
+        "wgs84_lon": 114.259918631,
+        "wgs84_lat": 30.6057912429,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KALCJYNG",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25991863058653,
+          30.605791242883353
+        ]
+      }
+    },
+    {
+      "id": "141",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3TZT2N7",
+        "name": "库迪咖啡(洺悦府你好酥店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "古田五路8号洺悦府",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.219766,
+        "gcj_lat": 30.589775,
+        "wgs84_lon": 114.214308683,
+        "wgs84_lat": 30.5922227735,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K3TZT2N7",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21430868339284,
+          30.592222773521133
+        ]
+      }
+    },
+    {
+      "id": "142",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16CQ1",
+        "name": "武汉市江岸区汉口花园幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "武湖北省后湖街办事处后湖大道翠柏路16号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.271021,
+        "gcj_lat": 30.635402,
+        "wgs84_lon": 114.265602999,
+        "wgs84_lat": 30.6378391353,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B16CQ1",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26560299853637,
+          30.63783913532317
+        ]
+      }
+    },
+    {
+      "id": "143",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10058557",
+        "name": "民主路武警医院(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "14路;15路;521路;530路内环;573路;66路;804路;K521路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.31321,
+        "gcj_lat": 30.543945,
+        "wgs84_lon": 114.307758121,
+        "wgs84_lat": 30.5463584734,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10058557",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30775812117808,
+          30.54635847335745
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LRT7B5HZ",
+        "name": "库迪咖啡(千禧城店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "解放大道6674-80号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.204729,
+        "gcj_lat": 30.596727,
+        "wgs84_lon": 114.199238279,
+        "wgs84_lat": 30.5991527817,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LRT7B5HZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.19923827892998,
+          30.59915278166676
+        ]
+      }
+    },
+    {
+      "id": "145",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16ZTA",
+        "name": "武汉成开商务宾馆(黄鹤楼店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "新街74号(鹤来商场斜对面)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.299391,
+        "gcj_lat": 30.543493,
+        "wgs84_lon": 114.293958397,
+        "wgs84_lat": 30.5459304786,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16ZTA",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2939583972798,
+          30.545930478631284
+        ]
+      }
+    },
+    {
+      "id": "146",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10058770",
+        "name": "民主路胭脂路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "14路;15路;521路;530路内环;573路;66路;804路;K521路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.308464,
+        "gcj_lat": 30.544956,
+        "wgs84_lon": 114.30301906,
+        "wgs84_lat": 30.5473776631,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10058770",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30301906017148,
+          30.547377663145763
+        ]
+      }
+    },
+    {
+      "id": "147",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDB5KKGL",
+        "name": "武汉万象城地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "建设大道668号武汉万象城",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.280739,
+        "gcj_lat": 30.600069,
+        "wgs84_lon": 114.275319521,
+        "wgs84_lat": 30.6025113491,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IDB5KKGL",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27531952076096,
+          30.602511349071285
+        ]
+      }
+    },
+    {
+      "id": "148",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG7IZ1H",
+        "name": "星星幼儿园(建设大道)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "建设大道558号万松园小区58栋二单元104号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.268097,
+        "gcj_lat": 30.5938,
+        "wgs84_lon": 114.2626832,
+        "wgs84_lat": 30.5962562186,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFG7IZ1H",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2626832003556,
+          30.596256218593457
+        ]
+      }
+    },
+    {
+      "id": "149",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B06F37",
+        "name": "万松园路小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "雪松路16号(地铁2号线王家墩东站)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.265038,
+        "gcj_lat": 30.591261,
+        "wgs84_lon": 114.259624678,
+        "wgs84_lat": 30.5937201333,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B06F37",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25962467805805,
+          30.593720133315603
+        ]
+      }
+    },
+    {
+      "id": "150",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRUS1Y6J",
+        "name": "人间失格·日咖夜酒",
+        "type": "其他",
+        "typecode": 50000,
+        "address": "宗江路与瑞庆街交叉口北80米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.229454,
+        "gcj_lat": 30.575835,
+        "wgs84_lon": 114.22401471,
+        "wgs84_lat": 30.5782968264,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KRUS1Y6J",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22401471010232,
+          30.578296826429785
+        ]
+      }
+    },
+    {
+      "id": "151",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K6ZHXG2T",
+        "name": "振华幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "常青街道常青街56号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.259952,
+        "gcj_lat": 30.597079,
+        "wgs84_lon": 114.254537714,
+        "wgs84_lat": 30.5995383383,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0K6ZHXG2T",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25453771439147,
+          30.599538338293215
+        ]
+      }
+    },
+    {
+      "id": "152",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IZWK",
+        "name": "武汉市第三医院(首义院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "彭刘杨路241号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.302706,
+        "gcj_lat": 30.540573,
+        "wgs84_lon": 114.2972694,
+        "wgs84_lat": 30.5430060409,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0IZWK",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29726940013512,
+          30.54300604091159
+        ]
+      }
+    },
+    {
+      "id": "153",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IRDM",
+        "name": "武昌区首义路街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "首义路街四巷特1号(首义路地铁站D3口步行410米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.309767,
+        "gcj_lat": 30.537602,
+        "wgs84_lon": 114.304320804,
+        "wgs84_lat": 30.5400238256,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0IRDM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30424333851887,
+          30.540062738638056
+        ]
+      }
+    },
+    {
+      "id": "154",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16NF8",
+        "name": "武汉江军旅馆(宝通寺地铁站店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "武珞路648号(宝通寺地铁站B口步行410米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "洪山区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.344771,
+        "gcj_lat": 30.528464,
+        "wgs84_lon": 114.339270016,
+        "wgs84_lat": 30.5308232305,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B16NF8",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33927001616772,
+          30.530823230536598
+        ]
+      }
+    },
+    {
+      "id": "155",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGQ7O0Q",
+        "name": "江汉区体苗幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "香港路265号香江新村5号楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.276839,
+        "gcj_lat": 30.608554,
+        "wgs84_lon": 114.271421049,
+        "wgs84_lat": 30.6109970682,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGQ7O0Q",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27142104866192,
+          30.610997068231985
+        ]
+      }
+    },
+    {
+      "id": "156",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0GR6H0FTO",
+        "name": "美宜佳(尚隆地球村店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "尚隆路18-24号(积玉桥地铁站C口步行370米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.311825,
+        "gcj_lat": 30.558989,
+        "wgs84_lon": 114.306373909,
+        "wgs84_lat": 30.5613997796,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0GR6H0FTO",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30637390903284,
+          30.561399779592104
+        ]
+      }
+    },
+    {
+      "id": "157",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1C76P",
+        "name": "武汉大唐宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "古田四路轻机侧路33号(近香港映象)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.213072,
+        "gcj_lat": 30.594505,
+        "wgs84_lon": 114.207600594,
+        "wgs84_lat": 30.596943133,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B1C76P",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2076005939269,
+          30.59694313302529
+        ]
+      }
+    },
+    {
+      "id": "158",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HKLDQAOS",
+        "name": "硚口区韩家墩街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "宗关街道古四侧路16号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.218288,
+        "gcj_lat": 30.596667,
+        "wgs84_lon": 114.212827204,
+        "wgs84_lat": 30.5991104977,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HKLDQAOS",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21282720402156,
+          30.59911049769736
+        ]
+      }
+    },
+    {
+      "id": "159",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0G0LRJD32",
+        "name": "情生缘公寓(广埠屯店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "珞喻路131号武汉电脑大世界F3层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "洪山区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.362573,
+        "gcj_lat": 30.524647,
+        "wgs84_lon": 114.357048127,
+        "wgs84_lat": 30.5269781047,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0G0LRJD32",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.35704812734458,
+          30.526978104708636
+        ]
+      }
+    },
+    {
+      "id": "160",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060884",
+        "name": "江汉路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;6号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.292306,
+        "gcj_lat": 30.579581,
+        "wgs84_lon": 114.2868784,
+        "wgs84_lat": 30.5820164048,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060884",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28687840040084,
+          30.582016404774965
+        ]
+      }
+    },
+    {
+      "id": "161",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIJSUA0",
+        "name": "武汉大学人民医院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "体育街与烈士街交叉口西南100米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.303572,
+        "gcj_lat": 30.535839,
+        "wgs84_lon": 114.298134656,
+        "wgs84_lat": 30.5382721681,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIJSUA0",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29813465588109,
+          30.538272168149383
+        ]
+      }
+    },
+    {
+      "id": "162",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09416844",
+        "name": "汉西路南(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)12号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.237049,
+        "gcj_lat": 30.577333,
+        "wgs84_lon": 114.231620087,
+        "wgs84_lat": 30.5797989002,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV09416844",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23162008701064,
+          30.579798900222563
+        ]
+      }
+    },
+    {
+      "id": "163",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1C60D",
+        "name": "湖北李时珍国医培训学校",
+        "type": "学校",
+        "typecode": 141400,
+        "address": "中山路260号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.309824,
+        "gcj_lat": 30.554702,
+        "wgs84_lon": 114.304376243,
+        "wgs84_lat": 30.5571178866,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B1C60D",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30437624322764,
+          30.55711788659421
+        ]
+      }
+    },
+    {
+      "id": "164",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B06652",
+        "name": "武汉大学人民医院(主院区)",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "张之洞路99号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.299378,
+        "gcj_lat": 30.535661,
+        "wgs84_lon": 114.293946088,
+        "wgs84_lat": 30.5381011222,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B06652",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.29394608845213,
+          30.538101122188717
+        ]
+      }
+    },
+    {
+      "id": "165",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B08B9K",
+        "name": "夏小中医院",
+        "type": "医院",
+        "typecode": 0,
+        "address": "发展大道181号(汉口火车站地铁站B口步行460米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.252278,
+        "gcj_lat": 30.613667,
+        "wgs84_lon": 114.246859425,
+        "wgs84_lat": 30.6161216179,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B08B9K",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.24685942534714,
+          30.616121617873663
+        ]
+      }
+    },
+    {
+      "id": "166",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0JQ52",
+        "name": "江汉区新华街社区卫生服务",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "新华街办事处江汉北路77号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.280239,
+        "gcj_lat": 30.58824,
+        "wgs84_lon": 114.274820862,
+        "wgs84_lat": 30.5906874876,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0JQ52",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2748208617732,
+          30.590687487574204
+        ]
+      }
+    },
+    {
+      "id": "167",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060863",
+        "name": "宗关(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线;3号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.224975,
+        "gcj_lat": 30.580306,
+        "wgs84_lon": 114.219528006,
+        "wgs84_lat": 30.5827624817,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060863",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21952800596577,
+          30.582762481673402
+        ]
+      }
+    },
+    {
+      "id": "168",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRSZHSQL",
+        "name": "中国邮政储蓄银行(十里铺支局)",
+        "type": "银行",
+        "typecode": 160139,
+        "address": "麒麟路636号(七里庙地铁站A口步行430米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.227169,
+        "gcj_lat": 30.557695,
+        "wgs84_lon": 114.221727643,
+        "wgs84_lat": 30.5601615916,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0KRSZHSQL",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22172764314249,
+          30.560161591566658
+        ]
+      }
+    },
+    {
+      "id": "169",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1BPBC",
+        "name": "FAMILY52便利店(新华下路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金星花苑东北门旁(菱角湖地铁站A口旁)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江汉区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.274978,
+        "gcj_lat": 30.60397,
+        "wgs84_lon": 114.269561315,
+        "wgs84_lat": 30.6064166761,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B001B1BPBC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26956131511363,
+          30.606416676118585
+        ]
+      }
+    },
+    {
+      "id": "170",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL4WV0D",
+        "name": "武汉市育才第二小学(立德分校)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "云林街36号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.279297,
+        "gcj_lat": 30.595193,
+        "wgs84_lon": 114.273878843,
+        "wgs84_lat": 30.5976388248,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFL4WV0D",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27387884340897,
+          30.597638824844953
+        ]
+      }
+    },
+    {
+      "id": "171",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KKR5SJHS",
+        "name": "叁仟跃酒店(武昌火车站武商梦时代店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "文安街中南欢乐汇1号楼16楼1619",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.332361,
+        "gcj_lat": 30.529615,
+        "wgs84_lon": 114.326879678,
+        "wgs84_lat": 30.5319970154,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KKR5SJHS",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3268796780129,
+          30.531997015443125
+        ]
+      }
+    },
+    {
+      "id": "172",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LKH9RCTL",
+        "name": "美客多",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "紫沙路17号沙湖明珠",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.321025,
+        "gcj_lat": 30.556025,
+        "wgs84_lon": 114.315559843,
+        "wgs84_lat": 30.5584197291,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LKH9RCTL",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31555984254707,
+          30.558419729090097
+        ]
+      }
+    },
+    {
+      "id": "173",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGQU6E9",
+        "name": "增辉公寓(武昌火车站店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "紫阳东路大东门公寓3单元2楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.319016,
+        "gcj_lat": 30.533064,
+        "wgs84_lon": 114.313556035,
+        "wgs84_lat": 30.5354703244,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFGQU6E9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31355603531496,
+          30.535470324425475
+        ]
+      }
+    },
+    {
+      "id": "174",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B172RC",
+        "name": "豆豆智慧旅馆(武汉傅家坡长途客运站武昌火车站店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "梅苑路28号(傅家坡车站进出口斜对面)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.324976,
+        "gcj_lat": 30.532451,
+        "wgs84_lon": 114.319506496,
+        "wgs84_lat": 30.5348462117,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B172RC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31950649629826,
+          30.534846211738856
+        ]
+      }
+    },
+    {
+      "id": "175",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3RZ0I3J",
+        "name": "武汉大医汇医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "武珞路572号1-2层(宝通寺地铁站A口步行350米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.336842,
+        "gcj_lat": 30.531505,
+        "wgs84_lon": 114.331353241,
+        "wgs84_lat": 30.5338778991,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0K3RZ0I3J",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3313532406951,
+          30.53387789907785
+        ]
+      }
+    },
+    {
+      "id": "176",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFE4X7T",
+        "name": "宗关街社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "汉西路与解放大道交汇处海辰路特1号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.232893,
+        "gcj_lat": 30.578093,
+        "wgs84_lon": 114.227458575,
+        "wgs84_lat": 30.5805563404,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFE4X7T",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22745857520265,
+          30.580556340386515
+        ]
+      }
+    },
+    {
+      "id": "177",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IARAXKQS",
+        "name": "后院·花开江南·武昌鱼·藕汤湖北菜(昙华林店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "粮道街昙华林路202号A-2层F2008单元",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "餐厅",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.316131,
+        "gcj_lat": 30.551439,
+        "wgs84_lon": 114.310673982,
+        "wgs84_lat": 30.5538445188,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0IARAXKQS",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31069589373462,
+          30.55376956552556
+        ]
+      }
+    },
+    {
+      "id": "178",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFMVNN",
+        "name": "华坤城市酒店(王家湾地铁站武汉市建设学校店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "琴台大道505号国信新城天合广场北大资源首座1层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.214524,
+        "gcj_lat": 30.569542,
+        "wgs84_lon": 114.209057855,
+        "wgs84_lat": 30.5719913305,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFFMVNN",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20905785540188,
+          30.57199133049782
+        ]
+      }
+    },
+    {
+      "id": "179",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IZM3",
+        "name": "武汉市第一商业学校",
+        "type": "学校",
+        "typecode": 141206,
+        "address": "汉口江汉北路106号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江汉区",
+        "gcj_lon": 114.276139,
+        "gcj_lat": 30.590855,
+        "wgs84_lon": 114.270722917,
+        "wgs84_lat": 30.5933057063,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B001B0IZM3",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27072291734072,
+          30.59330570632672
+        ]
+      }
+    },
+    {
+      "id": "180",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKUQURA",
+        "name": "武汉市武昌区福兴桶装水经营部",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "紫金村68号1栋102号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "便利店",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.319869,
+        "gcj_lat": 30.551505,
+        "wgs84_lon": 114.314406083,
+        "wgs84_lat": 30.553903492,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFKUQURA",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31440608293026,
+          30.55390349197199
+        ]
+      }
+    },
+    {
+      "id": "181",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IGRY",
+        "name": "硚口区韩家墩街新华社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "解放大道131号新华社区",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "医院",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.205901,
+        "gcj_lat": 30.593123,
+        "wgs84_lon": 114.200413405,
+        "wgs84_lat": 30.5955519019,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B001B0IGRY",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20041340477388,
+          30.59555190186513
+        ]
+      }
+    },
+    {
+      "id": "182",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B16E2X",
+        "name": "国宾楼",
+        "type": "餐饮",
+        "typecode": 0,
+        "address": "友谊大道1期1栋(螃蟹岬地铁站D1口步行450米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "餐厅",
+        "city": "武汉",
+        "district": "武昌区",
+        "gcj_lon": 114.316542,
+        "gcj_lat": 30.557271,
+        "wgs84_lon": 114.311083837,
+        "wgs84_lat": 30.5596737165,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B001B16E2X",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31108383658784,
+          30.55967371645368
+        ]
+      }
+    },
+    {
+      "id": "183",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L277JOWO",
+        "name": "库迪咖啡(滨江万科里店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "二桥街琴台大道1058滨江万科里1层121号底商",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "咖啡厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.207609,
+        "gcj_lat": 30.572333,
+        "wgs84_lon": 114.202127236,
+        "wgs84_lat": 30.5747721832,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L277JOWO",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20224498992285,
+          30.57476150883474
+        ]
+      }
+    },
+    {
+      "id": "184",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3UBIIAD",
+        "name": "江湾渔院",
+        "type": "餐饮",
+        "typecode": 80500,
+        "address": "沿河大道438号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "餐厅",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.219846,
+        "gcj_lat": 30.578279,
+        "wgs84_lon": 114.214389831,
+        "wgs84_lat": 30.5807312053,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0K3UBIIAD",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21438983121274,
+          30.580731205311977
+        ]
+      }
+    },
+    {
+      "id": "185",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFZK02B",
+        "name": "湖北银行(十里铺社区支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "汉阳大道654-13附近",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.220758,
+        "gcj_lat": 30.559271,
+        "wgs84_lon": 114.215305209,
+        "wgs84_lat": 30.5617310697,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFFZK02B",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21526746483275,
+          30.56174583682102
+        ]
+      }
+    },
+    {
+      "id": "186",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGWGNEC",
+        "name": "武汉农村商业银行(五里墩支行)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "墨水湖北路警苑小区1层",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.222386,
+        "gcj_lat": 30.55414,
+        "wgs84_lon": 114.216936672,
+        "wgs84_lat": 30.5566035165,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFGWGNEC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21693667221103,
+          30.556603516451318
+        ]
+      }
+    },
+    {
+      "id": "187",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0JL2L",
+        "name": "中国邮政储蓄银行(七里庙支行)",
+        "type": "银行",
+        "typecode": 160139,
+        "address": "七里二村123号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.22462,
+        "gcj_lat": 30.549239,
+        "wgs84_lon": 114.219175073,
+        "wgs84_lat": 30.5517063295,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B001B0JL2L",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2191565577402,
+          30.551715550888726
+        ]
+      }
+    },
+    {
+      "id": "188",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B09U7S",
+        "name": "中国农业银行(十里支行)",
+        "type": "银行",
+        "typecode": 160107,
+        "address": "十升路特2号(王家湾地铁站G口步行80米)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.20976,
+        "gcj_lat": 30.559823,
+        "wgs84_lon": 114.204284266,
+        "wgs84_lat": 30.5622696734,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B001B09U7S",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20428426644818,
+          30.562269673400284
+        ]
+      }
+    },
+    {
+      "id": "189",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H64ZIKGM",
+        "name": "武汉汉口山姆会员商店地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "山姆会员商店(泛悦·南国广场店)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.223414,
+        "gcj_lat": 30.585165,
+        "wgs84_lon": 114.217963848,
+        "wgs84_lat": 30.5876182091,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H64ZIKGM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21796384766525,
+          30.58761820909705
+        ]
+      }
+    },
+    {
+      "id": "190",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B0IR1A",
+        "name": "吉庆酒店(武汉武昌火车站店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "中山路543号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.314728,
+        "gcj_lat": 30.526589,
+        "wgs84_lon": 114.309275301,
+        "wgs84_lat": 30.5290054241,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B001B0IR1A",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.30927530085134,
+          30.529005424075727
+        ]
+      }
+    },
+    {
+      "id": "191",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF9KOHC",
+        "name": "湖北银行(武汉汉阳支行)",
+        "type": "银行",
+        "typecode": 160100,
+        "address": "芳草路18号附4号",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.215578,
+        "gcj_lat": 30.552487,
+        "wgs84_lon": 114.210115535,
+        "wgs84_lat": 30.5549436735,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0FFF9KOHC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.21011835716871,
+          30.554938646410577
+        ]
+      }
+    },
+    {
+      "id": "192",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHH7TOZ",
+        "name": "思恋商务宾馆(武昌火车站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "静安路7号凯旋名邸5栋2楼",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "武昌区",
+        "query_category": "酒店",
+        "city": "武汉",
+        "district": "洪山区",
+        "gcj_lon": 114.318212,
+        "gcj_lat": 30.52419,
+        "wgs84_lon": 114.312754075,
+        "wgs84_lat": 30.5266007105,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHH7TOZ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31275407507384,
+          30.526600710538847
+        ]
+      }
+    },
+    {
+      "id": "193",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IUCARWQD",
+        "name": "汉口1872商业街停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "汉西一路地铁站A口步行240米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.219973,
+        "gcj_lat": 30.583764,
+        "wgs84_lon": 114.214516601,
+        "wgs84_lat": 30.586214282,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IUCARWQD",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2145166005572,
+          30.586214282040007
+        ]
+      }
+    },
+    {
+      "id": "194",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2MPWRWA",
+        "name": "中国银行(龙阳支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "龙阳1号南1门东110米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "银行",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.21176,
+        "gcj_lat": 30.547385,
+        "wgs84_lon": 114.206289812,
+        "wgs84_lat": 30.5498386677,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0L2MPWRWA",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20628981181946,
+          30.54983866767276
+        ]
+      }
+    },
+    {
+      "id": "195",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10060914",
+        "name": "七里庙(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "汉阳区",
+        "query_category": "地铁站",
+        "city": "武汉",
+        "district": "汉阳区",
+        "gcj_lon": 114.231208,
+        "gcj_lat": 30.556688,
+        "wgs84_lon": 114.225773003,
+        "wgs84_lat": 30.55915799,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10060914",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.22577300343498,
+          30.559157990003374
+        ]
+      }
+    },
+    {
+      "id": "196",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H335RUGG",
+        "name": "麦德龙硚口商场停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "解放大道144号麦德龙(武汉硚口商场)",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.212678,
+        "gcj_lat": 30.587805,
+        "wgs84_lon": 114.207206321,
+        "wgs84_lat": 30.590245211,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H335RUGG",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.20720632086592,
+          30.590245210969837
+        ]
+      }
+    },
+    {
+      "id": "197",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2G7UZMW",
+        "name": "崔家墩路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "四新路与简易路交叉口南100米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "硚口区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "硚口区",
+        "gcj_lon": 114.215774,
+        "gcj_lat": 30.582051,
+        "wgs84_lon": 114.210309384,
+        "wgs84_lat": 30.5844972072,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2G7UZMW",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2103093838075,
+          30.58449720716378
+        ]
+      }
+    },
+    {
+      "id": "198",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11222333",
+        "name": "中一路中一花园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "289路;290路;364路;507路;532路;725路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.281984,
+        "gcj_lat": 30.635135,
+        "wgs84_lon": 114.276560655,
+        "wgs84_lat": 30.6375615797,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV11222333",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27656065468864,
+          30.63756157969828
+        ]
+      }
+    },
+    {
+      "id": "199",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10059879",
+        "name": "兴业路东方恒星园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "516路;543路;543路区间;592路;623路;629路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.286621,
+        "gcj_lat": 30.633953,
+        "wgs84_lon": 114.281194134,
+        "wgs84_lat": 30.6363744336,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV10059879",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28119413424008,
+          30.636374433596306
+        ]
+      }
+    },
+    {
+      "id": "200",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGCBICC",
+        "name": "石桥一路-道路停车位",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "石桥一路与金凰路交叉口东北140米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "停车场",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.282031,
+        "gcj_lat": 30.628216,
+        "wgs84_lon": 114.276608219,
+        "wgs84_lat": 30.6306454485,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B0FFGCBICC",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27660821900002,
+          30.63064544853317
+        ]
+      }
+    },
+    {
+      "id": "201",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10633064",
+        "name": "兴业路图书交易中心北(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "552路;575路;623路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.275964,
+        "gcj_lat": 30.629661,
+        "wgs84_lon": 114.270544655,
+        "wgs84_lat": 30.6320962433,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV10633064",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27054465535652,
+          30.632096243319683
+        ]
+      }
+    },
+    {
+      "id": "202",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10914028",
+        "name": "秋桂街连湖路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "376路",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.275318,
+        "gcj_lat": 30.639458,
+        "wgs84_lon": 114.269898106,
+        "wgs84_lat": 30.641889691,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV10914028",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.26989810592798,
+          30.641889690975542
+        ]
+      }
+    },
+    {
+      "id": "203",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV09336275",
+        "name": "金桥永旺(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "机场巴士2号线",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "公交站",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.286072,
+        "gcj_lat": 30.631261,
+        "wgs84_lon": 114.280645835,
+        "wgs84_lat": 30.6336842746,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV09336275",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.28064583467685,
+          30.633684274567965
+        ]
+      }
+    },
+    {
+      "id": "204",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGJOLOXI",
+        "name": "大江园幼儿园(百纳园区)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "后湖大道与健身路交叉口东南160米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.284765,
+        "gcj_lat": 30.638353,
+        "wgs84_lon": 114.279339295,
+        "wgs84_lat": 30.6407748939,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B0HGJOLOXI",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27933929476151,
+          30.64077489389882
+        ]
+      }
+    },
+    {
+      "id": "205",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B001B1CLO6",
+        "name": "日月星城国际幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "兴业路与金桥大道辅路交叉口西北120米",
+        "pname": "湖北省",
+        "cityname": "武汉市",
+        "adname": "江岸区",
+        "query_category": "学校",
+        "city": "武汉",
+        "district": "江岸区",
+        "gcj_lon": 114.284293,
+        "gcj_lat": 30.633945,
+        "wgs84_lon": 114.278868048,
+        "wgs84_lat": 30.636369352,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B001B1CLO6",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.27886804811304,
+          30.63636935198852
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+ai:
+  provider: zhipu
+  api_key: 
+  model: glm-5
+  vlm_model: glm-4.6v
+python_env:
+  path: C:\Users\86133\.conda\envs\mapgen\python.EXE
+  validated: true
+  last_check: '2026-06-11T09:29:52'
+  version: Python 3.13.12
+  libs:
+    geopandas: true
+    shapely: true
+    fiona: true
+    pandas: true
+    pyproj: true
+  message: 环境完整
+python_path: C:\Users\86133\.conda\envs\mapgen\python.EXE
+qgis_env:
+  path: D:\Qgis
+  validated: true
+  last_check: '2026-06-11T09:29:52'
+  python_exe: D:\Qgis\bin\python-qgis-ltr.bat
+  qgis_version: 3.34.11-Prizren
+  message: qgis.core import success
+qgis_path: D:\Qgis
+language: en_US

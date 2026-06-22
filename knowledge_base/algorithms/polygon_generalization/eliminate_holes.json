@@ -1,0 +1,47 @@
+{
+  "name": "消除碎片孔洞",
+  "task_type": "polygon_generalization",
+  "algorithm": "eliminate-holes",
+  "description": "移除面内小于阈值的孔洞。",
+  "parameters": {
+    "min_area": {
+      "type": "float",
+      "description": "???????????",
+      "default": 50.0,
+      "range": [
+        1,
+        1000000
+      ]
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\nfrom shapely.geometry import Polygon\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\ndef _remove_small_holes(geom):\n    if geom is None or geom.is_empty or geom.geom_type != 'Polygon':\n        return geom\n    holes = []\n    for ring in geom.interiors:\n        hole_poly = Polygon(ring)\n        if hole_poly.area >= {min_area}:\n            holes.append(ring.coords)\n    return Polygon(geom.exterior.coords, holes=holes)\n\nresult = gdf.copy()\nresult['geometry'] = result.geometry.apply(_remove_small_holes)\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "面要素",
+    "孔洞",
+    "清理"
+  ],
+  "examples": [
+    {
+      "input": "去除 parcels.shp 中小于100平方米孔洞",
+      "parameters": {
+        "input_file": "data/parcels.shp",
+        "output_file": "out/parcels_no_holes.shp",
+        "layer_name": "parcels_no_holes",
+        "min_area": 100.0
+      }
+    },
+    {
+      "input": "??????????20???",
+      "parameters": {
+        "input_file": "data/buildings.shp",
+        "output_file": "out/buildings_no_holes.shp",
+        "layer_name": "buildings_no_holes",
+        "min_area": 20.0
+      }
+    }
+  ]
+}

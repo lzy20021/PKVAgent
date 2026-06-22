@@ -1,0 +1,43 @@
+2026-03-29 17:57:53,139 | INFO | Output directory: E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753
+2026-03-29 17:57:53,140 | INFO | Map engine check: PyQGIS unavailable; fallback to GeoPandas + shapely symbol-footprint renderer
+2026-03-29 17:57:53,140 | INFO | Using font: Microsoft YaHei
+2026-03-29 17:57:58,198 | INFO | Selected representative region: 三亚市_天涯区 (score 3074.53)
+2026-03-29 17:57:58,319 | INFO | Processing scale 1:84000
+2026-03-29 17:58:22,164 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\raw_map_84000.png
+2026-03-29 17:58:22,164 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\raw_map_84000.pdf
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\raw_map_84000.svg
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\generalized_map_84000.png
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\generalized_map_84000.pdf
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\generalized_map_84000.svg
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\comparison_map_84000.png
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\comparison_map_84000.pdf
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\comparison_map_84000.svg
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\zoom_map_84000.png
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\zoom_map_84000.pdf
+2026-03-29 17:58:22,165 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\84000\zoom_map_84000.svg
+2026-03-29 17:58:22,997 | INFO | Processing scale 1:253000
+2026-03-29 17:58:57,582 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\raw_map_253000.png
+2026-03-29 17:58:57,582 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\raw_map_253000.pdf
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\raw_map_253000.svg
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\generalized_map_253000.png
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\generalized_map_253000.pdf
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\generalized_map_253000.svg
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\comparison_map_253000.png
+2026-03-29 17:58:57,583 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\comparison_map_253000.pdf
+2026-03-29 17:58:57,584 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\comparison_map_253000.svg
+2026-03-29 17:58:57,584 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\zoom_map_253000.png
+2026-03-29 17:58:57,584 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\zoom_map_253000.pdf
+2026-03-29 17:58:57,584 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\253000\zoom_map_253000.svg
+2026-03-29 17:58:58,315 | INFO | Processing scale 1:532000
+2026-03-29 17:59:30,801 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\raw_map_532000.png
+2026-03-29 17:59:30,801 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\raw_map_532000.pdf
+2026-03-29 17:59:30,801 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\raw_map_532000.svg
+2026-03-29 17:59:30,801 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\generalized_map_532000.png
+2026-03-29 17:59:30,801 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\generalized_map_532000.pdf
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\generalized_map_532000.svg
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\comparison_map_532000.png
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\comparison_map_532000.pdf
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\comparison_map_532000.svg
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\zoom_map_532000.png
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\zoom_map_532000.pdf
+2026-03-29 17:59:30,802 | INFO | Exported E:\GradOpening\MapGenAI\output\engine_maps_20260329_175753\figures\532000\zoom_map_532000.svg

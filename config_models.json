@@ -1,0 +1,49 @@
+{
+    "vendors": {
+        "zhipu": {
+            "base_urls": [
+                "https://open.bigmodel.cn/api/paas/v4/"
+            ],
+            "llm_candidates": [
+                "glm-4-plus",
+                "glm-4-flash"
+            ],
+            "vlm_candidates": [
+                "glm-4v-plus",
+                "glm-4v"
+            ]
+        },
+        "dashscope": {
+            "base_urls": [
+                "https://dashscope.aliyuncs.com/compatible-mode/v1"
+            ],
+            "llm_candidates": [
+                "qwen-max",
+                "qwen-plus",
+                "qwen-turbo"
+            ],
+            "vlm_candidates": [
+                "qwen-vl-max",
+                "qwen-vl-plus"
+            ]
+        },
+        "deepseek": {
+            "base_urls": [
+                "https://api.deepseek.com/v1"
+            ],
+            "llm_candidates": [
+                "deepseek-chat"
+            ],
+            "vlm_candidates": []
+        },
+        "moonshot": {
+            "base_urls": [
+                "https://api.moonshot.cn/v1"
+            ],
+            "llm_candidates": [
+                "moonshot-v1-8k"
+            ],
+            "vlm_candidates": []
+        }
+    }
+}

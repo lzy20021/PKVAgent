@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFV2BA6",
+        "name": "不仔客海鲜(第一市场总店)",
+        "type": "餐饮",
+        "typecode": 50119,
+        "address": "第一市场椰风巷55号",
+        "pname": "海南省",
+        "cityname": "三亚市",
+        "adname": "天涯区",
+        "query_category": "餐饮",
+        "city": "三亚市",
+        "district": "天涯区",
+        "gcj_lon": 109.50857,
+        "gcj_lat": 18.240015,
+        "wgs84_lon": 109.504476778,
+        "wgs84_lat": 18.2417057933,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFFV2BA6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.50447677829224,
+          18.24170579330306
+        ]
+      }
+    }
+  ]
+}

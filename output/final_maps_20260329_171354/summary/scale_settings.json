@@ -1,0 +1,229 @@
+{
+  "region": "三亚市_天涯区",
+  "source_file": "E:\\GradOpening\\MapGenAI\\amap_poi_dataset_expanded\\all_poi_expanded.geojson",
+  "font": "Microsoft YaHei",
+  "scales": {
+    "84000": {
+      "symbol_rules": {
+        "便利店": {
+          "symbol_size": 0.88,
+          "min_distance": 0.58,
+          "priority": 0.86,
+          "preserve_floor": 1,
+          "color": "#d9485f",
+          "marker": "o"
+        },
+        "停车场": {
+          "symbol_size": 0.92,
+          "min_distance": 0.65,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#8d99ae",
+          "marker": "s"
+        },
+        "公交站": {
+          "symbol_size": 0.95,
+          "min_distance": 0.62,
+          "priority": 0.92,
+          "preserve_floor": 1,
+          "color": "#3f72af",
+          "marker": "o"
+        },
+        "医院": {
+          "symbol_size": 1.2,
+          "min_distance": 0.75,
+          "priority": 1.22,
+          "preserve_floor": 2,
+          "color": "#d62828",
+          "marker": "^"
+        },
+        "学校": {
+          "symbol_size": 1.15,
+          "min_distance": 0.72,
+          "priority": 1.15,
+          "preserve_floor": 2,
+          "color": "#264653",
+          "marker": "s"
+        },
+        "酒店": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 0.95,
+          "preserve_floor": 1,
+          "color": "#6d597a",
+          "marker": "h"
+        },
+        "银行": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 1.0,
+          "preserve_floor": 1,
+          "color": "#2a9d8f",
+          "marker": "P"
+        },
+        "餐饮": {
+          "symbol_size": 0.94,
+          "min_distance": 0.6,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#f77f00",
+          "marker": "o"
+        }
+      },
+      "raw_count": 263,
+      "generalized_count": 163,
+      "retention_rate": 0.6198,
+      "category_count": 8,
+      "conflicts_before": 235,
+      "conflicts_after": 0
+    },
+    "253000": {
+      "symbol_rules": {
+        "便利店": {
+          "symbol_size": 0.88,
+          "min_distance": 0.58,
+          "priority": 0.86,
+          "preserve_floor": 1,
+          "color": "#d9485f",
+          "marker": "o"
+        },
+        "停车场": {
+          "symbol_size": 0.92,
+          "min_distance": 0.65,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#8d99ae",
+          "marker": "s"
+        },
+        "公交站": {
+          "symbol_size": 0.95,
+          "min_distance": 0.62,
+          "priority": 0.92,
+          "preserve_floor": 1,
+          "color": "#3f72af",
+          "marker": "o"
+        },
+        "医院": {
+          "symbol_size": 1.2,
+          "min_distance": 0.75,
+          "priority": 1.22,
+          "preserve_floor": 2,
+          "color": "#d62828",
+          "marker": "^"
+        },
+        "学校": {
+          "symbol_size": 1.15,
+          "min_distance": 0.72,
+          "priority": 1.15,
+          "preserve_floor": 2,
+          "color": "#264653",
+          "marker": "s"
+        },
+        "酒店": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 0.95,
+          "preserve_floor": 1,
+          "color": "#6d597a",
+          "marker": "h"
+        },
+        "银行": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 1.0,
+          "preserve_floor": 1,
+          "color": "#2a9d8f",
+          "marker": "P"
+        },
+        "餐饮": {
+          "symbol_size": 0.94,
+          "min_distance": 0.6,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#f77f00",
+          "marker": "o"
+        }
+      },
+      "raw_count": 263,
+      "generalized_count": 98,
+      "retention_rate": 0.3726,
+      "category_count": 8,
+      "conflicts_before": 1677,
+      "conflicts_after": 0
+    },
+    "532000": {
+      "symbol_rules": {
+        "便利店": {
+          "symbol_size": 0.88,
+          "min_distance": 0.58,
+          "priority": 0.86,
+          "preserve_floor": 1,
+          "color": "#d9485f",
+          "marker": "o"
+        },
+        "停车场": {
+          "symbol_size": 0.92,
+          "min_distance": 0.65,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#8d99ae",
+          "marker": "s"
+        },
+        "公交站": {
+          "symbol_size": 0.95,
+          "min_distance": 0.62,
+          "priority": 0.92,
+          "preserve_floor": 1,
+          "color": "#3f72af",
+          "marker": "o"
+        },
+        "医院": {
+          "symbol_size": 1.2,
+          "min_distance": 0.75,
+          "priority": 1.22,
+          "preserve_floor": 2,
+          "color": "#d62828",
+          "marker": "^"
+        },
+        "学校": {
+          "symbol_size": 1.15,
+          "min_distance": 0.72,
+          "priority": 1.15,
+          "preserve_floor": 2,
+          "color": "#264653",
+          "marker": "s"
+        },
+        "酒店": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 0.95,
+          "preserve_floor": 1,
+          "color": "#6d597a",
+          "marker": "h"
+        },
+        "银行": {
+          "symbol_size": 1.0,
+          "min_distance": 0.7,
+          "priority": 1.0,
+          "preserve_floor": 1,
+          "color": "#2a9d8f",
+          "marker": "P"
+        },
+        "餐饮": {
+          "symbol_size": 0.94,
+          "min_distance": 0.6,
+          "priority": 0.88,
+          "preserve_floor": 1,
+          "color": "#f77f00",
+          "marker": "o"
+        }
+      },
+      "raw_count": 263,
+      "generalized_count": 62,
+      "retention_rate": 0.2357,
+      "category_count": 8,
+      "conflicts_before": 4834,
+      "conflicts_after": 0
+    }
+  }
+}

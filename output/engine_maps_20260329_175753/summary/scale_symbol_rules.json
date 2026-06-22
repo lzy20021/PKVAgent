@@ -1,0 +1,15 @@
+﻿{
+  "region": "三亚市天涯区",
+  "source_file": "E:\\GradOpening\\MapGenAI\\amap_poi_dataset_expanded\\all_poi_expanded.geojson",
+  "engine": "GeoPandas + shapely symbol-footprint renderer",
+  "legend_categories": [
+    "交通设施",
+    "医院",
+    "学校",
+    "餐饮",
+    "便利店",
+    "停车场",
+    "酒店",
+    "银行"
+  ]
+}

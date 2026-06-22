@@ -1,0 +1,22 @@
+全国 POI 总览+8细节图 生成摘要
+
+输入文件:
+- E:/GradOpening/MapGenAI/amap_poi_dataset_expanded/all_poi_expanded.csv
+
+选择的8个区域:
+- A 京津冀: 点数 5597, 范围 [114.2, 118.6] x [37.8, 41.2], 主要城市 天津|北京|石家庄|北京城区|保定市|大同市
+- B 长三角: 点数 17541, 范围 [118.0, 122.6] x [29.0, 32.8], 主要城市 绍兴|宁波|苏州|上海|南京|常州
+- C 珠三角: 点数 7983, 范围 [112.4, 114.9] x [22.1, 24.2], 主要城市 广州|东莞|深圳|惠州|佛山|中山市
+- D 成渝: 点数 3774, 范围 [102.8, 107.7] x [28.4, 31.8], 主要城市 成都|重庆|内江市|南充市|乐山市|宜宾市
+- E 长江中游: 点数 9354, 范围 [111.5, 116.5] x [27.8, 31.4], 主要城市 武汉|长沙|南昌|九江市|孝感市|仙桃市
+- F 中原: 点数 5561, 范围 [111.2, 115.9] x [33.0, 36.7], 主要城市 洛阳|郑州|临汾市|亳州市|周口市|安阳市
+- G 山东半岛: 点数 8441, 范围 [118.0, 122.8] x [35.0, 38.5], 主要城市 潍坊|青岛|烟台|临沂|东营市|威海市
+- H 东北南部: 点数 3620, 范围 [120.0, 124.8] x [39.8, 43.8], 主要城市 沈阳|丹东市|四平市|长春|大连市|北京城区
+
+输出文件:
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/fig_poi_overview_with_8_details.png
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/fig_poi_overview_with_8_details.svg
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/fig_poi_overview_with_8_details.pdf
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/make_poi_overview_with_8_details.py
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/selected_detail_regions.csv
+- E:/GradOpening/MapGenAI/paper_figures/expanded_structure_map/overview_detail_layout/summary_overview_with_8_details.txt

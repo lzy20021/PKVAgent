@@ -1,0 +1,34 @@
+{
+  "source_input": "E:\\GradOpening\\MapGenAI\\TestDatasets\\Scale_1_86000\\sample_13.geojson",
+  "agent_input": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class.geojson",
+  "target_scale": 250000,
+  "pointgenai_reply_excerpt": "Generalization failed to pass verification at 1:250000 after 4 rounds.\nVLM verify still failed (score=50, mode=heuristic_fallback, real=False).\nCompletion status: failed\nFailed rules: ['retention_rate >= class_min', 'point_rgb_hotspot_overdraw <= max']\nOutput files: E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.geojson, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.png, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.pdf, E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_selection_basis.md\n【决策摘要 | 目标 1:250000】将数据判为「商业兴趣点」，空间格局「中心-边缘型」。\n【依据】 语义：detected POI/business-like fields | 结构：high nearest-neighbor CV=0.96；center share=0.40\n【执行链】 selection {\"keep_ratio\": 0.108, \"structure_type\": \"center-periphery\", \"semantic_type\": \"commercial_poi_points\"} → simplify {\"tolerance_m\": 0.0, \"preserve_topology\": true} → typification {\"pattern\": \"center_periphery_balanced\"} → displacement {\"min_sep_m\": 75.0, \"max_shift_m\": 135.0, \"strict_no_overlap\": true, \"strict_pixel_gap\": 32.0, \"strict_density_factor...\n【停轮阈值】 {\"target_conflict_count\": 0, \"target_vlm_score\": 80, \"max_rounds\": 4, \"point_max_middle_gap_ratio\": 0.35, \"point_min_axis_coverage_ratio\": 0.6, \"point_min_ho...\n【本轮指标 | 第 4 轮】输入 904 → 输出 232，保留率 25.7%；热点格覆盖 1.000，区域覆盖 0.984；符号冲突 0。\n【验收】VLM 未通过，score=50\n【未满足项】['retention_rate >= class_min', 'point_rgb_hotspot_overdraw <= max']\n【验收说明】retention_rate=0.097, min=0.120 point_axis_coverage_ratio=0.931, min=0.600 point_middle_gap_ratio=0.034, max=0.350\n【附录】算子参数与校验字段全文见同目录：agent_input_sample13_8class_gen_1_250000_selection_basis.md\nVerified: outputs generated but acceptance thresholds not fully met.\nRuntime: 0.00s\nProjected CRS used: EPSG:32650",
+  "selected_rounds": {
+    "R1": 1,
+    "R2": 2,
+    "R3": 3
+  },
+  "all_agent_rounds": {
+    "1": {
+      "geojson": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.geojson",
+      "png": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.png",
+      "pdf": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r1.pdf"
+    },
+    "2": {
+      "geojson": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r2.geojson",
+      "png": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r2.png",
+      "pdf": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r2.pdf"
+    },
+    "3": {
+      "geojson": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r3.geojson",
+      "png": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r3.png",
+      "pdf": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r3.pdf"
+    },
+    "4": {
+      "geojson": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r4.geojson",
+      "png": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r4.png",
+      "pdf": "E:\\GradOpening\\MapGenAI\\output\\pointgenai_process_sequence_sample13_1_250000\\agent_input_sample13_8class_gen_1_250000_r4.pdf"
+    }
+  },
+  "events_count": 38
+}

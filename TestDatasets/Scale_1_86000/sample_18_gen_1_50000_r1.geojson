@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L05HT2DJ",
+        "name": "Manner Coffee(郑州正弘汇店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "郑州正弘汇(银屏路地铁站D口步行490米)",
+        "pname": "河南省",
+        "cityname": "郑州市",
+        "adname": "中原区",
+        "query_category": "咖啡厅",
+        "city": "郑州",
+        "district": "网格城区10",
+        "gcj_lon": 113.566225,
+        "gcj_lat": 34.808576,
+        "wgs84_lon": 113.560138476,
+        "wgs84_lat": 34.809689418,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L05HT2DJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.56013847561354,
+          34.80968941803863
+        ]
+      }
+    }
+  ]
+}

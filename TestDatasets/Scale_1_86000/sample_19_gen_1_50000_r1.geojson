@@ -1,0 +1,3745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NTW6",
+        "name": "潮阳区城南社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "城南一路352号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.602201,
+        "gcj_lat": 23.245133,
+        "wgs84_lon": 116.597880058,
+        "wgs84_lat": 23.2479301874,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F20NTW6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59788005847294,
+          23.247930187360566
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L34RFQL5",
+        "name": "美宜佳(棉西路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "棉西路43号首层之一",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.597116,
+        "gcj_lat": 23.260403,
+        "wgs84_lon": 116.592795588,
+        "wgs84_lat": 23.2631957216,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L34RFQL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59279558812808,
+          23.26319572158578
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGK8FIY",
+        "name": "停车场(北关路)",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "北关路与冰池路交叉口东南160米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.598747,
+        "gcj_lat": 23.26832,
+        "wgs84_lon": 116.594425746,
+        "wgs84_lat": 23.2711102625,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFGK8FIY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5944257460765,
+          23.271110262450886
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HAF4U1IN",
+        "name": "城南街道新华社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "城南新华大道锦华雅居5栋首层1.2铺面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.604,
+        "gcj_lat": 23.252756,
+        "wgs84_lon": 116.599677752,
+        "wgs84_lat": 23.2555503093,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HAF4U1IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59967775155636,
+          23.255550309277023
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HB6ZIUZY",
+        "name": "平和东卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "中山中路与五举路交叉口西南120米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.605113,
+        "gcj_lat": 23.260385,
+        "wgs84_lon": 116.600789682,
+        "wgs84_lat": 23.2631765702,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0HB6ZIUZY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60078968227225,
+          23.263176570227195
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIA83C3",
+        "name": "郑记商店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "万福桥下航道商住楼斜对面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.604353,
+        "gcj_lat": 23.266821,
+        "wgs84_lon": 116.600029684,
+        "wgs84_lat": 23.2696108033,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFIA83C3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60002968352808,
+          23.26961080331975
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI995WV",
+        "name": "棉北街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "东山大道北180号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.604528,
+        "gcj_lat": 23.275175,
+        "wgs84_lon": 116.600204064,
+        "wgs84_lat": 23.277962221,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFI995WV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60020406443964,
+          23.27796222101696
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20O92U",
+        "name": "潮阳城南沧洲二卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "城南街道潮海路153号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.614385,
+        "gcj_lat": 23.241109,
+        "wgs84_lon": 116.610055793,
+        "wgs84_lat": 23.2439020701,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F20O92U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.61005579257956,
+          23.24390207005117
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LUAUH0Q2",
+        "name": "集市咖啡 潮实店",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "平北公寓一期65号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.611702,
+        "gcj_lat": 23.270989,
+        "wgs84_lon": 116.607373359,
+        "wgs84_lat": 23.273774322,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0LUAUH0Q2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60737335876354,
+          23.273774322039706
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG9307J",
+        "name": "凤上卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "城南凤上小学东北侧60米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.626769,
+        "gcj_lat": 23.236823,
+        "wgs84_lon": 116.622424854,
+        "wgs84_lat": 23.2396060933,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG9307J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.62242485398475,
+          23.23960609331976
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NSCY",
+        "name": "汕头市第四人民医院礐石分院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "鮀上一巷12号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.672403,
+        "gcj_lat": 23.325895,
+        "wgs84_lon": 116.66795942,
+        "wgs84_lat": 23.3285767534,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F20NSCY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66795942028078,
+          23.328576753359222
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH1I5I1",
+        "name": "礐石社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "礐石红厝街5号B座底层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.67602,
+        "gcj_lat": 23.335736,
+        "wgs84_lon": 116.67156724,
+        "wgs84_lat": 23.3384084701,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH1I5I1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67156723986274,
+          23.338408470090396
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IGNH2BJB",
+        "name": "光华街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "光华街道北海旁路1号A座3楼",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.6768,
+        "gcj_lat": 23.362316,
+        "wgs84_lon": 116.672343689,
+        "wgs84_lat": 23.364981079,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0IGNH2BJB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67234368851092,
+          23.364981078974004
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKR7XPT",
+        "name": "贝可精品宾馆(汕头小公园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "新歧路3号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.679813,
+        "gcj_lat": 23.371915,
+        "wgs84_lon": 116.675348979,
+        "wgs84_lat": 23.3745724388,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKR7XPT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.675348978611,
+          23.374572438814976
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F200BX0",
+        "name": "汕头市第四人民医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "金湖路50号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.687687,
+        "gcj_lat": 23.374553,
+        "wgs84_lon": 116.68320457,
+        "wgs84_lat": 23.3771953374,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F200BX0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68320457026138,
+          23.377195337408743
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKZSBWW",
+        "name": "汕头市濠江区葛陈卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "花园西路与花园东路交叉口东南40米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.697217,
+        "gcj_lat": 23.286489,
+        "wgs84_lon": 116.692719219,
+        "wgs84_lat": 23.2891360341,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKZSBWW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69271921928994,
+          23.289136034119707
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3SN20TQ",
+        "name": "葛朱社区卫生服务站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "莘湖路与莘园中路交叉口东南400米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.699215,
+        "gcj_lat": 23.280126,
+        "wgs84_lon": 116.694713421,
+        "wgs84_lat": 23.2827716004,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L3SN20TQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.694713420887,
+          23.282771600382564
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJEM7S1",
+        "name": "礐石街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "葛陈居委莘园大道20号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.701066,
+        "gcj_lat": 23.284155,
+        "wgs84_lon": 116.696560334,
+        "wgs84_lat": 23.2867964474,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJEM7S1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69656033440276,
+          23.286796447406065
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJ6C3DD",
+        "name": "汕头大学医学院第一附属医院马滘街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "环道巷西100米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.708811,
+        "gcj_lat": 23.266792,
+        "wgs84_lon": 116.704291313,
+        "wgs84_lat": 23.2694270281,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJ6C3DD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70429131342271,
+          23.269427028137276
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JA29APFB",
+        "name": "田新便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "马窖田新路8号103田新便利店",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.718478,
+        "gcj_lat": 23.270886,
+        "wgs84_lon": 116.713941444,
+        "wgs84_lat": 23.2735074946,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JA29APFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71394144381284,
+          23.27350749464606
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K3OMX1YB",
+        "name": "美佳便利店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "东片直三路北侧",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.716208,
+        "gcj_lat": 23.279525,
+        "wgs84_lon": 116.711674529,
+        "wgs84_lat": 23.282146552,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K3OMX1YB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71167452916758,
+          23.28214655195601
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IA6ACOZ4",
+        "name": "万象城汕头店停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "长平路95号汕头万象城",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.717956,
+        "gcj_lat": 23.362989,
+        "wgs84_lon": 116.713414285,
+        "wgs84_lat": 23.3655874642,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IA6ACOZ4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71341428455854,
+          23.365587464171927
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20O4FI",
+        "name": "长之江主题酒店(汕头高新店)",
+        "type": "酒店",
+        "typecode": 100104,
+        "address": "黄河路9号后院",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.715836,
+        "gcj_lat": 23.381913,
+        "wgs84_lon": 116.71129649,
+        "wgs84_lat": 23.38451026,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02F20O4FI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71129649043996,
+          23.384510260009318
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JUACW8M0",
+        "name": "维也纳国际酒店(汕头高铁南站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "达南路46号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.7193,
+        "gcj_lat": 23.266084,
+        "wgs84_lon": 116.714762476,
+        "wgs84_lat": 23.2687060439,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JUACW8M0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71476247589932,
+          23.268706043916026
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L21DSP3A",
+        "name": "糖巢省钱超市恒大御景湾店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "达南路与河中路交叉口东北480米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.721854,
+        "gcj_lat": 23.268464,
+        "wgs84_lon": 116.717312488,
+        "wgs84_lat": 23.2710825976,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L21DSP3A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71731248843412,
+          23.27108259758726
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KDD788NT",
+        "name": "山水美居(汕头龙眼南路美食街万象城店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "碧波花园长平路铺面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.726682,
+        "gcj_lat": 23.362211,
+        "wgs84_lon": 116.722127752,
+        "wgs84_lat": 23.3648008406,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KDD788NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72212775170192,
+          23.364800840551407
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HGN7OFUW",
+        "name": "汕头ME公寓(龙眼南路美食街万象城店)",
+        "type": "酒店",
+        "typecode": 0,
+        "address": "天山路17号之1号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.727733,
+        "gcj_lat": 23.368957,
+        "wgs84_lon": 116.723176975,
+        "wgs84_lat": 23.3715445794,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0HGN7OFUW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72317697499578,
+          23.371544579398076
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NLFU",
+        "name": "盛长酒店(汕头站珠江美食街店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "长江路紫茵庄1栋2层(农行对面)",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.728573,
+        "gcj_lat": 23.378659,
+        "wgs84_lon": 116.724015302,
+        "wgs84_lat": 23.3812440148,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02F20NLFU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72401530238491,
+          23.381244014774598
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGT7UACR",
+        "name": "汕头海湾农村商业银行(葛洲分理处)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "葛洲学校西北侧100米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.737005,
+        "gcj_lat": 23.305707,
+        "wgs84_lon": 116.732443078,
+        "wgs84_lat": 23.3083032907,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0LGT7UACR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73244307761918,
+          23.308303290741716
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG8KB6D",
+        "name": "汕头市濠江区澳头卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "澳头海湾花园一幢",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.736137,
+        "gcj_lat": 23.315337,
+        "wgs84_lon": 116.73157525,
+        "wgs84_lat": 23.3179311929,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG8KB6D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73157524958664,
+          23.317931192908247
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK4BGKJ",
+        "name": "珠津社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "丽水庄中区珠华工业区3幢3层南侧",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.733612,
+        "gcj_lat": 23.373316,
+        "wgs84_lon": 116.72904896,
+        "wgs84_lat": 23.3758984618,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK4BGKJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72904895963687,
+          23.37589846177518
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM4KWUR",
+        "name": "青洲盐场社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "S337(磊广路)",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.745124,
+        "gcj_lat": 23.270885,
+        "wgs84_lon": 116.740558302,
+        "wgs84_lat": 23.2734884603,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFM4KWUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.74055830169837,
+          23.273488460310165
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NPWR",
+        "name": "汕头百时捷酒店(汕头站店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "金泰庄北区37栋1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.739767,
+        "gcj_lat": 23.361187,
+        "wgs84_lon": 116.735199111,
+        "wgs84_lat": 23.3637687819,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B02F20NPWR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73519911133926,
+          23.36376878193829
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IDAR18ZP",
+        "name": "停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "柳园路与棉新大道交叉口东160米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.596954,
+        "gcj_lat": 23.265176,
+        "wgs84_lon": 116.592633314,
+        "wgs84_lat": 23.2679672333,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0IDAR18ZP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5926333137859,
+          23.2679672332827
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG8W9F7",
+        "name": "拾光咖啡馆(润泽山庄店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "棉北街道城北一路润泽山庄第12号铺面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.612923,
+        "gcj_lat": 23.267012,
+        "wgs84_lon": 116.608593532,
+        "wgs84_lat": 23.2697977891,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFG8W9F7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.60859353239245,
+          23.269797789112488
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRR7XGG0",
+        "name": "潮阳平北卫生站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "棉北街道平北金凤河边铺1-2号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.604289,
+        "gcj_lat": 23.271396,
+        "wgs84_lon": 116.599965428,
+        "wgs84_lat": 23.2741844267,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JRR7XGG0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5999654276889,
+          23.27418442667039
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGOCRRFA",
+        "name": "巨峰寺地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": null,
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.709228,
+        "gcj_lat": 23.30207,
+        "wgs84_lon": 116.704705257,
+        "wgs84_lat": 23.3046942082,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JGOCRRFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70470525668875,
+          23.30469420816338
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0JK6VZ6",
+        "name": "可寓民宿(北山湾路分店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "北山湾路龙光·熙海岸龙光熙海岸",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.754975,
+        "gcj_lat": 23.310625,
+        "wgs84_lon": 116.750402913,
+        "wgs84_lat": 23.3132171182,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J0JK6VZ6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.75040291324292,
+          23.313217118163386
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHN3LTH",
+        "name": "濠江区达濠街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "南井十一横与南福街交叉口东北60米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.734923,
+        "gcj_lat": 23.272753,
+        "wgs84_lon": 116.730365188,
+        "wgs84_lat": 23.275359812,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHN3LTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73036518793224,
+          23.27535981199791
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2A5WOSQ",
+        "name": "汇豪公寓(龙光世纪商务中心店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "金霞街道海滨路115号龙光世纪商务中心6栋111",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.730854,
+        "gcj_lat": 23.351389,
+        "wgs84_lon": 116.726295387,
+        "wgs84_lat": 23.3539778513,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K2A5WOSQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7262953873259,
+          23.35397785129039
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20OWZT",
+        "name": "汕头市龙湖区第二人民医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "嵩山路71号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.737411,
+        "gcj_lat": 23.374649,
+        "wgs84_lon": 116.732844218,
+        "wgs84_lat": 23.3772291102,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F20OWZT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73284421768766,
+          23.377229110189848
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KBPR1JUZ",
+        "name": "全尚海湾优住酒店(汕头小公园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "海滨路金港广场2区5幢一楼",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.674397,
+        "gcj_lat": 23.350357,
+        "wgs84_lon": 116.669947134,
+        "wgs84_lat": 23.3530292142,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0KBPR1JUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66994713410759,
+          23.353029214164607
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3AZQY1L",
+        "name": "南郭卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "金凤东路辅路与东安路交叉口南100米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.702125,
+        "gcj_lat": 23.379925,
+        "wgs84_lon": 116.697610976,
+        "wgs84_lat": 23.3825417644,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L3AZQY1L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69761097634921,
+          23.38254176436128
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L376KGSC",
+        "name": "高洁环境卫生服务",
+        "type": "医院",
+        "typecode": 70000,
+        "address": "汕樟路与金港路交叉口东南80米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.695312,
+        "gcj_lat": 23.371835,
+        "wgs84_lon": 116.690812787,
+        "wgs84_lat": 23.3744644505,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L376KGSC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69081278725768,
+          23.37446445050957
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F2018NA",
+        "name": "大洋卫生所",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "红领巾路66号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.703552,
+        "gcj_lat": 23.35583,
+        "wgs84_lon": 116.699036673,
+        "wgs84_lat": 23.3584493929,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02F2018NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6990366730783,
+          23.358449392908838
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKQOODL",
+        "name": "汕头新风公寓",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "长平路85号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.713817,
+        "gcj_lat": 23.362245,
+        "wgs84_lon": 116.709282173,
+        "wgs84_lat": 23.3648486151,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKQOODL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.709282172866,
+          23.364848615110382
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20216A",
+        "name": "汕头职业技术学院金园校区",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "金园路23号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.706859,
+        "gcj_lat": 23.371162,
+        "wgs84_lon": 116.702336225,
+        "wgs84_lat": 23.373773296,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F20216A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70233622481473,
+          23.373773295958962
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10241678",
+        "name": "海棠园(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "1路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.713233,
+        "gcj_lat": 23.375588,
+        "wgs84_lon": 116.708698312,
+        "wgs84_lat": 23.3781896964,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10241678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70869831248523,
+          23.37818969641513
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201E8L",
+        "name": "汕头经济特区林百欣中学附属小学",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "练江路信基华庭西南侧约30米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.723343,
+        "gcj_lat": 23.378329,
+        "wgs84_lon": 116.718792209,
+        "wgs84_lat": 23.3809187168,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F201E8L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71879220928156,
+          23.3809187168229
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201KWM",
+        "name": "中国工商银行(汕头长江支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "大南山路2号泰业大厦F1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.7211,
+        "gcj_lat": 23.375588,
+        "wgs84_lon": 116.716552633,
+        "wgs84_lat": 23.3781805062,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02F201KWM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71659356860273,
+          23.378206457028547
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HUOSGZ0A",
+        "name": "汕头充耀伟才幼儿园(华山路)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "华山北路57号充耀号F1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.719911,
+        "gcj_lat": 23.378782,
+        "wgs84_lon": 116.715365214,
+        "wgs84_lat": 23.3813751668,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0HUOSGZ0A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71536521409264,
+          23.381375166829066
+        ]
+      }
+    },
+    {
+      "id": "51",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2YSYBTG",
+        "name": "汕头市丹霞小学(华山校区)",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "华山南路与丹霞北街交叉口西南40米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.721044,
+        "gcj_lat": 23.364758,
+        "wgs84_lon": 116.716497422,
+        "wgs84_lat": 23.3673527115,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0H2YSYBTG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71649742162965,
+          23.367352711504708
+        ]
+      }
+    },
+    {
+      "id": "52",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201K9B",
+        "name": "汕头市玉兰中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "玉兰园1栋",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.708029,
+        "gcj_lat": 23.376767,
+        "wgs84_lon": 116.703503644,
+        "wgs84_lat": 23.3793755259,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F201K9B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70350364377444,
+          23.37937552586249
+        ]
+      }
+    },
+    {
+      "id": "53",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HRLU1R6P",
+        "name": "锦峰嘉信大厦地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "金砂路92号锦峰嘉信大厦",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.715502,
+        "gcj_lat": 23.365669,
+        "wgs84_lon": 116.710964102,
+        "wgs84_lat": 23.3682698165,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HRLU1R6P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7109641017139,
+          23.368269816527967
+        ]
+      }
+    },
+    {
+      "id": "54",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LBSUUWJX",
+        "name": "时代广场西园停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "金环南路与东方街交叉口东南20米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.716548,
+        "gcj_lat": 23.359454,
+        "wgs84_lon": 116.712008782,
+        "wgs84_lat": 23.3620548441,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0LBSUUWJX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71200878151345,
+          23.362054844112592
+        ]
+      }
+    },
+    {
+      "id": "55",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0K7Q1PU",
+        "name": "万辉超市",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "练江路与大北山路交叉口东100米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.716125,
+        "gcj_lat": 23.377175,
+        "wgs84_lon": 116.711585322,
+        "wgs84_lat": 23.379772799,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L0K7Q1PU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7115853218802,
+          23.37977279902896
+        ]
+      }
+    },
+    {
+      "id": "56",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKTAEYR",
+        "name": "天福便利店(东湖街店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金霞街道龙湖村东湖街1号旁",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.720557,
+        "gcj_lat": 23.372274,
+        "wgs84_lon": 116.71601066,
+        "wgs84_lat": 23.3748677219,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFKTAEYR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71602163471738,
+          23.37479082261929
+        ]
+      }
+    },
+    {
+      "id": "57",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L0O9JM0T",
+        "name": "here coffee",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "龙眼北区5栋11号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.711722,
+        "gcj_lat": 23.365292,
+        "wgs84_lon": 116.707190634,
+        "wgs84_lat": 23.3678977067,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L0O9JM0T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70719063442438,
+          23.367897706660766
+        ]
+      }
+    },
+    {
+      "id": "58",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFI4HZRG",
+        "name": "金东幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "东厦路90号金东花园内28栋",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.703662,
+        "gcj_lat": 23.373031,
+        "wgs84_lon": 116.699145338,
+        "wgs84_lat": 23.3756467014,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFI4HZRG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69914533839264,
+          23.37564670140394
+        ]
+      }
+    },
+    {
+      "id": "59",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1GRTR4F",
+        "name": "Cafe on warm小暖咖啡(龙眼店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "长平路66号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.710515,
+        "gcj_lat": 23.36179,
+        "wgs84_lon": 116.705986028,
+        "wgs84_lat": 23.3643980487,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0H1GRTR4F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70598602794287,
+          23.364398048654188
+        ]
+      }
+    },
+    {
+      "id": "60",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG03PIS",
+        "name": "金珠幼儿园(金砂东门大街)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "东门大路西三巷17号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.699494,
+        "gcj_lat": 23.37137,
+        "wgs84_lon": 116.694985935,
+        "wgs84_lat": 23.3739925962,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFG03PIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69498593539323,
+          23.373992596219733
+        ]
+      }
+    },
+    {
+      "id": "61",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201SSU",
+        "name": "东厦小学北校区",
+        "type": "学校",
+        "typecode": 141203,
+        "address": "东厦路42号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.705107,
+        "gcj_lat": 23.360521,
+        "wgs84_lon": 116.700588301,
+        "wgs84_lat": 23.363137043,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F201SSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70058830079157,
+          23.36313704304261
+        ]
+      }
+    },
+    {
+      "id": "62",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201KZ7",
+        "name": "中国建设银行(汕头建营支行)",
+        "type": "银行",
+        "typecode": 160106,
+        "address": "长平路15号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.697632,
+        "gcj_lat": 23.362068,
+        "wgs84_lon": 116.693128451,
+        "wgs84_lat": 23.3646955285,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02F201KZ7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69307830355362,
+          23.364701309334336
+        ]
+      }
+    },
+    {
+      "id": "63",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F200CTE",
+        "name": "广东汕头华侨中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "金砂路39号(近金砂公园)",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.695547,
+        "gcj_lat": 23.367396,
+        "wgs84_lon": 116.691047567,
+        "wgs84_lat": 23.3700259343,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F200CTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69104756676404,
+          23.37002593428175
+        ]
+      }
+    },
+    {
+      "id": "64",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10241568",
+        "name": "大华路南(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "10路;22A路;48路;9路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.692438,
+        "gcj_lat": 23.354347,
+        "wgs84_lon": 116.687946206,
+        "wgs84_lat": 23.3569850129,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10241568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68794620648154,
+          23.35698501291908
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20O3QK",
+        "name": "老胡牛肉粿(杏园街)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "杏园4栋",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.712393,
+        "gcj_lat": 23.369522,
+        "wgs84_lon": 116.707860173,
+        "wgs84_lat": 23.3721259708,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B02F20O3QK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70786017335232,
+          23.372125970779834
+        ]
+      }
+    },
+    {
+      "id": "66",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201HIF",
+        "name": "汕头特区中心幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "环碧中区14",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.724,
+        "gcj_lat": 23.370473,
+        "wgs84_lon": 116.719448803,
+        "wgs84_lat": 23.3730636021,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F201HIF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71944880330794,
+          23.373063602084333
+        ]
+      }
+    },
+    {
+      "id": "67",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L60SCG4J",
+        "name": "零售兔超市",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "榕江路6号富新商厦",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.719571,
+        "gcj_lat": 23.36814,
+        "wgs84_lon": 116.715026427,
+        "wgs84_lat": 23.3707356061,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L60SCG4J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71502642721876,
+          23.37073560606797
+        ]
+      }
+    },
+    {
+      "id": "68",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1DC0QCX",
+        "name": "铜坐食品店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "福兴街9号之102号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.707862,
+        "gcj_lat": 23.367741,
+        "wgs84_lon": 116.703337544,
+        "wgs84_lat": 23.3703515312,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1DC0QCX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7033375442581,
+          23.370351531206012
+        ]
+      }
+    },
+    {
+      "id": "69",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKQHBFJ",
+        "name": "汕头市新中学校",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "中山路74号新中学校",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.699041,
+        "gcj_lat": 23.359078,
+        "wgs84_lon": 116.694534677,
+        "wgs84_lat": 23.3617038388,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFKQHBFJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69453467722185,
+          23.361703838762917
+        ]
+      }
+    },
+    {
+      "id": "70",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKLZ0340",
+        "name": "瑞幸咖啡(汕头中旅卜蜂莲花店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "汕樟路41号卜蜂莲花(金平店)",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.694436,
+        "gcj_lat": 23.363336,
+        "wgs84_lon": 116.689939239,
+        "wgs84_lat": 23.3659686558,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JKLZ0340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68993923915448,
+          23.36596865575223
+        ]
+      }
+    },
+    {
+      "id": "71",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG9SCFW",
+        "name": "停车场",
+        "type": "停车场",
+        "typecode": 0,
+        "address": "大北山一路与梅溪东路交叉口南40米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.716895,
+        "gcj_lat": 23.372464,
+        "wgs84_lon": 116.712354371,
+        "wgs84_lat": 23.3750617917,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFG9SCFW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71235437054888,
+          23.3750617916974
+        ]
+      }
+    },
+    {
+      "id": "72",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KRHKR8KK",
+        "name": "蔡记达濠饭店·海鲜大排挡·团建宴请聚会(金园路店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "金厦商业北1门南160米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.702518,
+        "gcj_lat": 23.368846,
+        "wgs84_lon": 116.698003901,
+        "wgs84_lat": 23.3714642926,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0KRHKR8KK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69800390095124,
+          23.371464292556613
+        ]
+      }
+    },
+    {
+      "id": "73",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2BRLSK9",
+        "name": "天泰批发",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "金凤城银座",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.699366,
+        "gcj_lat": 23.366652,
+        "wgs84_lon": 116.694858508,
+        "wgs84_lat": 23.3692757452,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2BRLSK9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69485850785226,
+          23.36927574523707
+        ]
+      }
+    },
+    {
+      "id": "74",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20O7DH",
+        "name": "广雅(龙眼北路)",
+        "type": "学校",
+        "typecode": 0,
+        "address": "龙眼北路玫瑰园七栋之三",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.710736,
+        "gcj_lat": 23.372385,
+        "wgs84_lon": 116.70620594,
+        "wgs84_lat": 23.3749906111,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F20O7DH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70620593982368,
+          23.374990611120214
+        ]
+      }
+    },
+    {
+      "id": "75",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20OKCF",
+        "name": "东龙便利店",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "东龙路10号106",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.707598,
+        "gcj_lat": 23.364313,
+        "wgs84_lon": 116.703074265,
+        "wgs84_lat": 23.3669246052,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B02F20OKCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70307426509088,
+          23.366924605154182
+        ]
+      }
+    },
+    {
+      "id": "76",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIA5J0Y",
+        "name": "汕头市正始中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "瑞平路13号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.679337,
+        "gcj_lat": 23.360199,
+        "wgs84_lon": 116.674874851,
+        "wgs84_lat": 23.3628597143,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFIA5J0Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67487485122923,
+          23.362859714343887
+        ]
+      }
+    },
+    {
+      "id": "77",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHVDZ8G",
+        "name": "美宜佳(三中店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "外马路118号1幢111",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.696051,
+        "gcj_lat": 23.357254,
+        "wgs84_lon": 116.691551137,
+        "wgs84_lat": 23.359885184,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFHVDZ8G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69156432274345,
+          23.35989137360328
+        ]
+      }
+    },
+    {
+      "id": "78",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K1KZMQ48",
+        "name": "邻家小店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "春梅里44号楼下",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.692306,
+        "gcj_lat": 23.359402,
+        "wgs84_lon": 116.687814172,
+        "wgs84_lat": 23.3620391645,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0K1KZMQ48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68781417166116,
+          23.362039164549568
+        ]
+      }
+    },
+    {
+      "id": "79",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0Z53SFZ",
+        "name": "瑞幸咖啡(汕头小公园民权路店)",
+        "type": "其他",
+        "typecode": 50000,
+        "address": "民权路3号101-102房",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.67826,
+        "gcj_lat": 23.356024,
+        "wgs84_lon": 116.673800653,
+        "wgs84_lat": 23.358687636,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J0Z53SFZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67380065275036,
+          23.358687636029284
+        ]
+      }
+    },
+    {
+      "id": "80",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGJ8WXM",
+        "name": "定记丸店 ·牛肉丸",
+        "type": "餐饮",
+        "typecode": 0,
+        "address": "石炮台街道平原市场平西三街7号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.702707,
+        "gcj_lat": 23.363555,
+        "wgs84_lon": 116.698192863,
+        "wgs84_lat": 23.3661740719,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFGJ8WXM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.69819252347693,
+          23.366165933219715
+        ]
+      }
+    },
+    {
+      "id": "81",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH3UJI5",
+        "name": "亨通商行(大华路店)",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": "大华路62号101",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.687969,
+        "gcj_lat": 23.361373,
+        "wgs84_lon": 116.68348678,
+        "wgs84_lat": 23.3640174725,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFH3UJI5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68348678001315,
+          23.36401747246254
+        ]
+      }
+    },
+    {
+      "id": "82",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFL9M1VU",
+        "name": "纳轩酒店(汕头小公园海滨长廊店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "西堤路3号德志苑2栋1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.668893,
+        "gcj_lat": 23.349067,
+        "wgs84_lon": 116.664456219,
+        "wgs84_lat": 23.3517500048,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFL9M1VU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66445621916195,
+          23.351750004812555
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHVQISW",
+        "name": "共和老洪豆花草粿水粿",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "联兴里左巷与共和路交叉口南40米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.689288,
+        "gcj_lat": 23.356711,
+        "wgs84_lon": 116.684803093,
+        "wgs84_lat": 23.3593540808,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0FFHVQISW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.6848030930419,
+          23.359354080810487
+        ]
+      }
+    },
+    {
+      "id": "84",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10944504",
+        "name": "达濠青盐(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "35路;37路;56路;703路内环;703路外环;8路;夜1路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.739514,
+        "gcj_lat": 23.27191,
+        "wgs84_lon": 116.734952133,
+        "wgs84_lat": 23.2745148245,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10944504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.734952132777,
+          23.274514824524296
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10241625",
+        "name": "濠江区政府(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "37路;56路;702路;8路;K5路;K5路(海湾大桥线);夜1路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.725282,
+        "gcj_lat": 23.2849,
+        "wgs84_lon": 116.720734624,
+        "wgs84_lat": 23.2875103888,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10241625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7207346240683,
+          23.28751038884245
+        ]
+      }
+    },
+    {
+      "id": "86",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KB4DWTNH",
+        "name": "聪叔石磨肠粉(农林水小区店)",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "外马路177号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.685838,
+        "gcj_lat": 23.354984,
+        "wgs84_lon": 116.681361064,
+        "wgs84_lat": 23.357633709,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0KB4DWTNH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68136106422297,
+          23.35763370901589
+        ]
+      }
+    },
+    {
+      "id": "87",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHK2GNO",
+        "name": "礐石街道茂北社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "磊广大道1号附近",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.705957,
+        "gcj_lat": 23.289122,
+        "wgs84_lon": 116.701441276,
+        "wgs84_lat": 23.2917545184,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFHK2GNO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70144127603481,
+          23.291754518374923
+        ]
+      }
+    },
+    {
+      "id": "88",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IK1RPQ7Z",
+        "name": "裕初便利店(莱莉园店)",
+        "type": "便利店",
+        "typecode": 0,
+        "address": "莱莉园北区北门旁",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.684336,
+        "gcj_lat": 23.35946,
+        "wgs84_lon": 116.679862238,
+        "wgs84_lat": 23.3621115214,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0IK1RPQ7Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67986223822618,
+          23.362111521362845
+        ]
+      }
+    },
+    {
+      "id": "89",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NSE7",
+        "name": "濠江区人民法院停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "磊广大道濠江区人民法院",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.728263,
+        "gcj_lat": 23.286629,
+        "wgs84_lon": 116.723711676,
+        "wgs84_lat": 23.2892363262,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B02F20NSE7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72371167586836,
+          23.289236326229062
+        ]
+      }
+    },
+    {
+      "id": "90",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11357804",
+        "name": "海旁五横路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "16路;35路;703路内环;703路外环",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.724273,
+        "gcj_lat": 23.277728,
+        "wgs84_lon": 116.71972746,
+        "wgs84_lat": 23.2803414281,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11357804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7197274596995,
+          23.280341428076493
+        ]
+      }
+    },
+    {
+      "id": "91",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H2GHVZQG",
+        "name": "青云岩风景区停车点",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "磊广大道与青云路交叉口东南280米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.737528,
+        "gcj_lat": 23.277134,
+        "wgs84_lon": 116.73296747,
+        "wgs84_lat": 23.2797381327,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H2GHVZQG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.73296747031513,
+          23.279738132688777
+        ]
+      }
+    },
+    {
+      "id": "92",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLOYUKZ",
+        "name": "汕头市濠江区红光社区卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "福田街与南滨路交叉口东160米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.671355,
+        "gcj_lat": 23.3316,
+        "wgs84_lon": 116.666913531,
+        "wgs84_lat": 23.3342823588,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFLOYUKZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66691353061545,
+          23.334282358784343
+        ]
+      }
+    },
+    {
+      "id": "93",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11522993",
+        "name": "海滨大华路口(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "103路;19路;46路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.693858,
+        "gcj_lat": 23.35129,
+        "wgs84_lon": 116.68936328,
+        "wgs84_lat": 23.3539262149,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11522993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68936328039983,
+          23.353926214915933
+        ]
+      }
+    },
+    {
+      "id": "94",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K1R526ZE",
+        "name": "肆季Snack(润捷购物广场店)",
+        "type": "餐饮",
+        "typecode": 61200,
+        "address": "润捷购物广场A2",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.732361,
+        "gcj_lat": 23.283562,
+        "wgs84_lon": 116.727805131,
+        "wgs84_lat": 23.2861671937,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0K1R526ZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72780513104571,
+          23.28616719370081
+        ]
+      }
+    },
+    {
+      "id": "95",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10241614",
+        "name": "茂洲(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "16路;33路B线;35路;36路;57路;703路内环;703路外环",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.711276,
+        "gcj_lat": 23.287917,
+        "wgs84_lon": 116.706750451,
+        "wgs84_lat": 23.2905423706,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10241614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70675045099267,
+          23.290542370632412
+        ]
+      }
+    },
+    {
+      "id": "96",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H16AY7ZP",
+        "name": "市委大楼停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "市委大楼",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.689177,
+        "gcj_lat": 23.352358,
+        "wgs84_lon": 116.684692625,
+        "wgs84_lat": 23.3550022206,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H16AY7ZP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68469262482552,
+          23.355002220631597
+        ]
+      }
+    },
+    {
+      "id": "97",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LGGASMQT",
+        "name": "汕头海湾农村商业银行(青篮分理处)",
+        "type": "银行",
+        "typecode": 160121,
+        "address": "青篮田心宫胜南路32号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.730485,
+        "gcj_lat": 23.275862,
+        "wgs84_lon": 116.725931726,
+        "wgs84_lat": 23.278470774,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0LGGASMQT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72593172626914,
+          23.27847077399608
+        ]
+      }
+    },
+    {
+      "id": "98",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0MG41YYSD",
+        "name": "海滨长廊公园-东侧地上停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "海安街道海滨路与同益路交口处东海滨长廊公园",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.685349,
+        "gcj_lat": 23.350936,
+        "wgs84_lon": 116.68087345,
+        "wgs84_lat": 23.3535874891,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0MG41YYSD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68087345030521,
+          23.3535874890822
+        ]
+      }
+    },
+    {
+      "id": "99",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NSWX",
+        "name": "红桥幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "赤港红桥路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.731303,
+        "gcj_lat": 23.279277,
+        "wgs84_lon": 116.726748575,
+        "wgs84_lat": 23.2818841735,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F20NSWX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72674857480878,
+          23.281884173520375
+        ]
+      }
+    },
+    {
+      "id": "100",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20O9IA",
+        "name": "中国银行(濠江支行)",
+        "type": "银行",
+        "typecode": 160104,
+        "address": "磊广路自然资源局1楼",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.716044,
+        "gcj_lat": 23.286539,
+        "wgs84_lon": 116.711510344,
+        "wgs84_lat": 23.2891587031,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02F20O9IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71151034394816,
+          23.28915870308524
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHKYP67",
+        "name": "正英幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "新兴街西泽园东南侧约100米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.724584,
+        "gcj_lat": 23.281154,
+        "wgs84_lon": 116.720037811,
+        "wgs84_lat": 23.283766125,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHKYP67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72003781119285,
+          23.2837661249628
+        ]
+      }
+    },
+    {
+      "id": "102",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F201P0G",
+        "name": "中国工商银行24小时自助银行(汕头外马支行)",
+        "type": "银行",
+        "typecode": 0,
+        "address": "外马路151号汕头商厦1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "银行",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.682557,
+        "gcj_lat": 23.355219,
+        "wgs84_lon": 116.67808764,
+        "wgs84_lat": 23.3578747285,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B02F201P0G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67804542445772,
+          23.35789104526307
+        ]
+      }
+    },
+    {
+      "id": "103",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGPIXWY",
+        "name": "唯享时光(汇恒大厦店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "海旁路94号汇恒大厦F1层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.718813,
+        "gcj_lat": 23.284083,
+        "wgs84_lon": 116.714275064,
+        "wgs84_lat": 23.2867001985,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFGPIXWY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71427506355748,
+          23.286700198496952
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JKKM6EJP",
+        "name": "青林苑食品店",
+        "type": "便利店",
+        "typecode": 60200,
+        "address": null,
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "便利店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.737141,
+        "gcj_lat": 23.2809,
+        "wgs84_lon": 116.73258057,
+        "wgs84_lat": 23.283503207,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JKKM6EJP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7325805700572,
+          23.28350320698921
+        ]
+      }
+    },
+    {
+      "id": "105",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJCIE67",
+        "name": "虎鲸咖啡(濠江花园南区店)",
+        "type": "其他",
+        "typecode": 50000,
+        "address": "西墩路1号濠江花园三期第142号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.720318,
+        "gcj_lat": 23.280871,
+        "wgs84_lon": 116.715777963,
+        "wgs84_lat": 23.2834874883,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFJCIE67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71577796262964,
+          23.28348748828425
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H1M7Z7WD",
+        "name": "饺子王(西田北路店)",
+        "type": "餐饮",
+        "typecode": 50118,
+        "address": "西田北路五横1号铺面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "餐厅",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.728584,
+        "gcj_lat": 23.282076,
+        "wgs84_lon": 116.724032578,
+        "wgs84_lat": 23.2846843906,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0H1M7Z7WD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72403257788369,
+          23.2846843905582
+        ]
+      }
+    },
+    {
+      "id": "107",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NL3S",
+        "name": "海悦幼儿园(招商横路)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "海悦花园二期",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.678918,
+        "gcj_lat": 23.35113,
+        "wgs84_lon": 116.67445742,
+        "wgs84_lat": 23.3537934541,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F20NL3S"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67445742002467,
+          23.35379345414005
+        ]
+      }
+    },
+    {
+      "id": "108",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02F20NT2C",
+        "name": "新苗幼儿园(红桥路)",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "海旁路中鞍园2栋",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "学校",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.727146,
+        "gcj_lat": 23.274519,
+        "wgs84_lon": 116.722596863,
+        "wgs84_lat": 23.277130812,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B02F20NT2C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7225968627934,
+          23.2771308119673
+        ]
+      }
+    },
+    {
+      "id": "109",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KKCA5IX5",
+        "name": "luckin coffee 瑞幸咖啡(汕头小公园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "升平路60号之三",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.673765,
+        "gcj_lat": 23.355442,
+        "wgs84_lon": 116.669316301,
+        "wgs84_lat": 23.3581143115,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0KKCA5IX5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66931630126956,
+          23.358114311466565
+        ]
+      }
+    }
+  ]
+}

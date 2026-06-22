@@ -1,0 +1,7 @@
+Convenience Stores final color: #DCE775
+Amap basemap connected successfully: No
+Basemap integration method: Attempted Amap XYZ raster tile requests via requests/PIL fallback renderer
+Basemap failure reason: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='wprd01.is.autonavi.com', port=443): Max retries exceeded with url: /appmaptile?style=7&x=11&y=5&z=4&key=e89bb30fa66390ba31870478abd23bd1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001C73914D670>: Failed to establish a new connection: [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。'))"))
+Basemap alpha: 0.28
+Coordinate projection conversion applied: No
+Fallback outputs without basemap were generated after the tile requests failed.

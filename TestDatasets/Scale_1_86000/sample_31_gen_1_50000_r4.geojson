@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11654187",
+        "name": "镇江路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(在建)5号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.369384,
+        "gcj_lat": 36.079136,
+        "wgs84_lon": 120.364258379,
+        "wgs84_lat": 36.0788709007,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11654187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36425837937021,
+          36.07887090066493
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10831113",
+        "name": "洪山坡(妇儿医院)(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "4号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.403419,
+        "gcj_lat": 36.099235,
+        "wgs84_lon": 120.398284968,
+        "wgs84_lat": 36.0989431187,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10831113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3982849676202,
+          36.09894311869244
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10425292",
+        "name": "双山(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.397224,
+        "gcj_lat": 36.114386,
+        "wgs84_lon": 120.392085409,
+        "wgs84_lat": 36.1140912118,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10425292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39208540941483,
+          36.11409121181252
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKHGBL3",
+        "name": "青岛市市北区河西卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "台柳路465-4号附近",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.407378,
+        "gcj_lat": 36.131707,
+        "wgs84_lon": 120.402243535,
+        "wgs84_lat": 36.1314081051,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKHGBL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.40224353533443,
+          36.13140810509894
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02140WMEY",
+        "name": "永清路街道社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "振华路15号(振华路地铁站B口步行420米)",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "李沧区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.40296,
+        "gcj_lat": 36.171925,
+        "wgs84_lon": 120.397818081,
+        "wgs84_lat": 36.1716159372,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02140WMEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.39781808051097,
+          36.17161593720299
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH3OKVI",
+        "name": "湖光山色社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "同安路805号(近湖光山色北门)",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "市南区",
+        "gcj_lon": 120.42828,
+        "gcj_lat": 36.101422,
+        "wgs84_lon": 120.423178257,
+        "wgs84_lat": 36.1011444691,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH3OKVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42317825731651,
+          36.10114446913519
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10425304",
+        "name": "海安路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.450714,
+        "gcj_lat": 36.085455,
+        "wgs84_lon": 120.445670645,
+        "wgs84_lat": 36.0852174482,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10425304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4456706450178,
+          36.08521744819835
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JROCY4B4",
+        "name": "青岛市李沧区中心医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "九水东路266号耀洲·新经济产业园1号",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "李沧区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.459702,
+        "gcj_lat": 36.168803,
+        "wgs84_lon": 120.454679082,
+        "wgs84_lat": 36.1685657406,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JROCY4B4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.45467908211985,
+          36.16856574058253
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFLF89WI",
+        "name": "7-ELEVEn(金家岭校区青岛大学店)",
+        "type": "便利店",
+        "typecode": 60201,
+        "address": "科大之路62号青大东校区第一餐厅",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "便利店",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.475029,
+        "gcj_lat": 36.11565,
+        "wgs84_lon": 120.470067466,
+        "wgs84_lat": 36.1154646459,
+        "source": "existing",
+        "point_symbol": "convenience",
+        "poi_category": "便利店",
+        "point_symbol_color": "#d23b7d",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0FFLF89WI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47006746626278,
+          36.11546464586512
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0I64UY94R",
+        "name": "青岛市崂山区金家岭街道科翠苑社区卫生服务站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "辽阳东路77号海逸公馆北门8-16号",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.476458,
+        "gcj_lat": 36.129173,
+        "wgs84_lon": 120.471500621,
+        "wgs84_lat": 36.1289884399,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0I64UY94R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.47150062134564,
+          36.128988439892304
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JBKAO8A1",
+        "name": "浮山森林公园山东头路出入口地下停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "银川西路浮山森林公园",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "停车场",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.450398,
+        "gcj_lat": 36.100515,
+        "wgs84_lon": 120.445352129,
+        "wgs84_lat": 36.1002733534,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JBKAO8A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44535212854368,
+          36.10027335342963
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10829324",
+        "name": "小村庄(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.360961,
+        "gcj_lat": 36.105608,
+        "wgs84_lon": 120.355841538,
+        "wgs84_lat": 36.1053485228,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10829324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35584153847797,
+          36.10534852275923
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11300103",
+        "name": "利津路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.346446,
+        "gcj_lat": 36.082244,
+        "wgs84_lon": 120.341348888,
+        "wgs84_lat": 36.0820138941,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11300103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.34134888844353,
+          36.08201389412849
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0IU1R0B1I",
+        "name": "海尔学校",
+        "type": "学校",
+        "typecode": 141201,
+        "address": "海尔路1号戊",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "学校",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.429099,
+        "gcj_lat": 36.131763,
+        "wgs84_lon": 120.423995733,
+        "wgs84_lat": 36.1314793918,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0IU1R0B1I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42399573323866,
+          36.131479391782754
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHHP2KW",
+        "name": "百果树幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "浮山路街道青山路618号福临苑小区10号楼",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "李沧区",
+        "query_category": "学校",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.420497,
+        "gcj_lat": 36.144176,
+        "wgs84_lon": 120.415377054,
+        "wgs84_lat": 36.1438808742,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHHP2KW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41537705378262,
+          36.143880874218816
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11195330",
+        "name": "银液泉路枣山路(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "625路",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "李沧区",
+        "query_category": "公交站",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.438965,
+        "gcj_lat": 36.15387,
+        "wgs84_lon": 120.433881807,
+        "wgs84_lat": 36.1535949471,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11195330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43388180706386,
+          36.15359494712886
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B02140VR21",
+        "name": "李沧区李村街道枣园路社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "枣园路66-8号附近(李村地铁站出入口步行370米)",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "李沧区",
+        "query_category": "医院",
+        "city": "青岛",
+        "district": "李沧区",
+        "gcj_lon": 120.421881,
+        "gcj_lat": 36.16321,
+        "wgs84_lon": 120.416761277,
+        "wgs84_lat": 36.1629114625,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B02140VR21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41676127736221,
+          36.1629114625314
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1G1E307",
+        "name": "瑞幸咖啡(永新国际金融中心店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "秦岭路6号永新国际金融中心永新国际广场一层大堂",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "咖啡厅",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.471098,
+        "gcj_lat": 36.098205,
+        "wgs84_lon": 120.466123271,
+        "wgs84_lat": 36.0980130374,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1G1E307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.46612327081525,
+          36.098013037359536
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10831106",
+        "name": "辽阳东路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "2号线;4号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "崂山区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "崂山区",
+        "gcj_lon": 120.45025,
+        "gcj_lat": 36.117494,
+        "wgs84_lon": 120.445201925,
+        "wgs84_lat": 36.1172481346,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10831106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44520192502247,
+          36.117248134627445
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10832401",
+        "name": "敦化路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "3号线",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市北区",
+        "query_category": "地铁站",
+        "city": "青岛",
+        "district": "市北区",
+        "gcj_lon": 120.385349,
+        "gcj_lat": 36.088919,
+        "wgs84_lon": 120.380212762,
+        "wgs84_lat": 36.088635695,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10832401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.38021276166002,
+          36.088635695026966
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B021409LMN",
+        "name": "青岛软件园5号楼停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "燕儿岛路69号",
+        "pname": "山东省",
+        "cityname": "青岛市",
+        "adname": "市南区",
+        "query_category": "停车场",
+        "city": "青岛",
+        "district": "市南区",
+        "gcj_lon": 120.415554,
+        "gcj_lat": 36.077624,
+        "wgs84_lon": 120.410433943,
+        "wgs84_lat": 36.0773408412,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B021409LMN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.41043394288884,
+          36.0773408411921
+        ]
+      }
+    }
+  ]
+}

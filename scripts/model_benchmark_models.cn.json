@@ -1,0 +1,74 @@
+{
+  "models": [
+    {
+      "name": "moonshot_v1_8k",
+      "provider": "openai",
+      "base_url": "https://api.moonshot.cn/v1",
+      "model": "moonshot-v1-8k",
+      "api_key_env": "MOONSHOT_API_KEY"
+    },
+    {
+      "name": "moonshot_v1_32k",
+      "provider": "openai",
+      "base_url": "https://api.moonshot.cn/v1",
+      "model": "moonshot-v1-32k",
+      "api_key_env": "MOONSHOT_API_KEY"
+    },
+    {
+      "name": "deepseek_chat",
+      "provider": "openai",
+      "base_url": "https://api.deepseek.com/v1",
+      "model": "deepseek-chat",
+      "api_key_env": "DEEPSEEK_API_KEY"
+    },
+    {
+      "name": "deepseek_reasoner",
+      "provider": "openai",
+      "base_url": "https://api.deepseek.com/v1",
+      "model": "deepseek-reasoner",
+      "api_key_env": "DEEPSEEK_API_KEY"
+    },
+    {
+      "name": "zhipu_glm4_plus",
+      "provider": "openai",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+      "model": "glm-4-plus",
+      "api_key_env": "ZHIPUAI_API_KEY"
+    },
+    {
+      "name": "zhipu_glm4_flash",
+      "provider": "openai",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+      "model": "glm-4-flash",
+      "api_key_env": "ZHIPUAI_API_KEY"
+    },
+    {
+      "name": "zhipu_glm4v_plus",
+      "provider": "openai",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+      "model": "glm-4v-plus",
+      "api_key_env": "ZHIPUAI_API_KEY"
+    },
+    {
+      "name": "qwen_max",
+      "provider": "openai",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen-max",
+      "api_key_env": "DASHSCOPE_API_KEY"
+    },
+    {
+      "name": "qwen_plus",
+      "provider": "openai",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen-plus",
+      "api_key_env": "DASHSCOPE_API_KEY"
+    },
+    {
+      "name": "qwen_turbo",
+      "provider": "openai",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen-turbo",
+      "api_key_env": "DASHSCOPE_API_KEY"
+    }
+  ]
+}

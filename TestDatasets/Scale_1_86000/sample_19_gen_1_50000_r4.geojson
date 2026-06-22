@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JA5ULHZH",
+        "name": "瑞幸咖啡(潮阳新河湾店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "文光街道南门桥西新河湾一层A120号商铺",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.601384,
+        "gcj_lat": 23.253726,
+        "wgs84_lon": 116.59706284,
+        "wgs84_lat": 23.256520557,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JA5ULHZH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59706284037489,
+          23.256520556995525
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFG9307J",
+        "name": "凤上卫生站",
+        "type": "医院",
+        "typecode": 90300,
+        "address": "城南凤上小学东北侧60米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.626769,
+        "gcj_lat": 23.236823,
+        "wgs84_lon": 116.622424854,
+        "wgs84_lat": 23.2396060933,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFG9307J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.62242485398475,
+          23.23960609331976
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH1I5I1",
+        "name": "礐石社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "礐石红厝街5号B座底层",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.67602,
+        "gcj_lat": 23.335736,
+        "wgs84_lon": 116.67156724,
+        "wgs84_lat": 23.3384084701,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFH1I5I1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.67156723986274,
+          23.338408470090396
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKR7XPT",
+        "name": "贝可精品宾馆(汕头小公园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "新歧路3号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.679813,
+        "gcj_lat": 23.371915,
+        "wgs84_lon": 116.675348979,
+        "wgs84_lat": 23.3745724388,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFKR7XPT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.675348978611,
+          23.374572438814976
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L3SN20TQ",
+        "name": "葛朱社区卫生服务站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "莘湖路与莘园中路交叉口东南400米",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.699215,
+        "gcj_lat": 23.280126,
+        "wgs84_lon": 116.694713421,
+        "wgs84_lat": 23.2827716004,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0L3SN20TQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.694713420887,
+          23.282771600382564
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFM4KWUR",
+        "name": "青洲盐场社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "S337(磊广路)",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.745124,
+        "gcj_lat": 23.270885,
+        "wgs84_lon": 116.740558302,
+        "wgs84_lat": 23.2734884603,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFM4KWUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.74055830169837,
+          23.273488460310165
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JRR7XGG0",
+        "name": "潮阳平北卫生站",
+        "type": "医院",
+        "typecode": 90000,
+        "address": "棉北街道平北金凤河边铺1-2号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "潮阳区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "潮阳区",
+        "gcj_lon": 116.604289,
+        "gcj_lat": 23.271396,
+        "wgs84_lon": 116.599965428,
+        "wgs84_lat": 23.2741844267,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0JRR7XGG0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5999654276889,
+          23.27418442667039
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JGOCRRFA",
+        "name": "巨峰寺地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": null,
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "停车场",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.709228,
+        "gcj_lat": 23.30207,
+        "wgs84_lon": 116.704705257,
+        "wgs84_lat": 23.3046942082,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0JGOCRRFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70470525668875,
+          23.30469420816338
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JUACW8M0",
+        "name": "维也纳国际酒店(汕头高铁南站店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "达南路46号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.7193,
+        "gcj_lat": 23.266084,
+        "wgs84_lon": 116.714762476,
+        "wgs84_lat": 23.2687060439,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0JUACW8M0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71476247589932,
+          23.268706043916026
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J0JK6VZ6",
+        "name": "可寓民宿(北山湾路分店)",
+        "type": "酒店",
+        "typecode": 100000,
+        "address": "北山湾路龙光·熙海岸龙光熙海岸",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.754975,
+        "gcj_lat": 23.310625,
+        "wgs84_lon": 116.750402913,
+        "wgs84_lat": 23.3132171182,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0J0JK6VZ6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.75040291324292,
+          23.313217118163386
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K2A5WOSQ",
+        "name": "汇豪公寓(龙光世纪商务中心店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "金霞街道海滨路115号龙光世纪商务中心6栋111",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "金平区",
+        "gcj_lon": 116.730854,
+        "gcj_lat": 23.351389,
+        "wgs84_lon": 116.726295387,
+        "wgs84_lat": 23.3539778513,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0K2A5WOSQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7262953873259,
+          23.35397785129039
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFK4BGKJ",
+        "name": "珠津社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "丽水庄中区珠华工业区3幢3层南侧",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "龙湖区",
+        "query_category": "医院",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.733612,
+        "gcj_lat": 23.373316,
+        "wgs84_lon": 116.72904896,
+        "wgs84_lat": 23.3758984618,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFK4BGKJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.72904895963687,
+          23.37589846177518
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11332190",
+        "name": "汕职院金园校区(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "16路;37路;47路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "龙湖区",
+        "gcj_lon": 116.706848,
+        "gcj_lat": 23.370287,
+        "wgs84_lon": 116.702325303,
+        "wgs84_lat": 23.3728984848,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11332190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.70232530264074,
+          23.372898484820848
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10970478",
+        "name": "儿童医院(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "105路;105路夜班;10路;123路;22A路;23路;25路;35路;48路",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "公交站",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.693498,
+        "gcj_lat": 23.353355,
+        "wgs84_lon": 116.689003936,
+        "wgs84_lat": 23.3559913852,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10970478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68900393567635,
+          23.35599138521086
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J1OCE6QV",
+        "name": "咸菜咖啡(小公园店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "德兴路50号",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "金平区",
+        "query_category": "咖啡厅",
+        "city": "汕头",
+        "district": "东方街道",
+        "gcj_lon": 116.670956,
+        "gcj_lat": 23.351937,
+        "wgs84_lon": 116.666514167,
+        "wgs84_lat": 23.3546154354,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0J1OCE6QV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.66651416691234,
+          23.35461543538171
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHIQ5R8",
+        "name": "汕头濠江区君安住宿",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "濠江花园三期南门斜对面",
+        "pname": "广东省",
+        "cityname": "汕头市",
+        "adname": "濠江区",
+        "query_category": "酒店",
+        "city": "汕头",
+        "district": "濠江区",
+        "gcj_lon": 116.720792,
+        "gcj_lat": 23.28176,
+        "wgs84_lon": 116.716251193,
+        "wgs84_lat": 23.284375723,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFHIQ5R8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.7162511930585,
+          23.284375722961617
+        ]
+      }
+    }
+  ]
+}

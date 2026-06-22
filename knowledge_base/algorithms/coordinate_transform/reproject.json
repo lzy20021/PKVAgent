@@ -1,0 +1,43 @@
+{
+  "name": "坐标系重投影",
+  "task_type": "coordinate_transform",
+  "algorithm": "reproject",
+  "description": "将输入图层转换到目标坐标系。",
+  "parameters": {
+    "target_crs": {
+      "type": "string",
+      "description": "?????EPSG??",
+      "default": "EPSG:3857"
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nresult = gdf.to_crs('{target_crs}')\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "pyproj"
+  ],
+  "tags": [
+    "坐标转换",
+    "重投影",
+    "crs"
+  ],
+  "examples": [
+    {
+      "input": "将 roads.shp 从 EPSG:4326 转换为 EPSG:32649",
+      "parameters": {
+        "input_file": "data/roads.shp",
+        "output_file": "out/roads_32649.shp",
+        "layer_name": "roads_32649",
+        "target_crs": "EPSG:32649"
+      }
+    },
+    {
+      "input": "? buildings.shp ??? Web Mercator",
+      "parameters": {
+        "input_file": "data/buildings.shp",
+        "output_file": "out/buildings_3857.shp",
+        "layer_name": "buildings_3857",
+        "target_crs": "EPSG:3857"
+      }
+    }
+  ]
+}

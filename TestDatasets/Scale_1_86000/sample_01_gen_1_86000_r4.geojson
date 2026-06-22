@@ -1,0 +1,1440 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0H0OCYVNM",
+        "name": "老虎滩游艇码头地面停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "辽宁省 大连市 中山区",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "网格城区03",
+        "gcj_lon": 121.678937,
+        "gcj_lat": 38.871593,
+        "wgs84_lon": 121.673889346,
+        "wgs84_lat": 38.8707407156,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0H0OCYVNM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.67388934646266,
+          38.87074071560161
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHERXIU",
+        "name": "亲亲宝贝海澜幼稚园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "老虎滩街道中南路山屏花园51号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "学校",
+        "city": "中山",
+        "district": "青泥洼桥街道",
+        "gcj_lon": 121.669874,
+        "gcj_lat": 38.906048,
+        "wgs84_lon": 121.66484183,
+        "wgs84_lat": 38.9051931838,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFHERXIU",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.66484183011023,
+          38.90519318382628
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L1376KEN",
+        "name": "TIMES?太美餐厅",
+        "type": "餐饮",
+        "typecode": 50100,
+        "address": "港浦路62号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "餐饮",
+        "city": "大连市",
+        "district": "中山区",
+        "gcj_lon": 121.685975,
+        "gcj_lat": 38.927025,
+        "wgs84_lon": 121.680906433,
+        "wgs84_lat": 38.9261272512,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0L1376KEN",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6809064334486,
+          38.926127251241
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFH20EZ8",
+        "name": "水岸街区停车场",
+        "type": "停车场",
+        "typecode": 150906,
+        "address": "连胜街91号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "停车场",
+        "city": "大连",
+        "district": "沙河口区",
+        "gcj_lon": 121.592283,
+        "gcj_lat": 38.906004,
+        "wgs84_lon": 121.587342517,
+        "wgs84_lat": 38.9052371536,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFH20EZ8",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58734251715292,
+          38.90523715357228
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B10TS3",
+        "name": "都市精品酒店(大连火车站东关街店)",
+        "type": "酒店",
+        "typecode": 100105,
+        "address": "沈阳路5号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "酒店",
+        "city": "大连",
+        "district": "沙河口区",
+        "gcj_lon": 121.610075,
+        "gcj_lat": 38.919674,
+        "wgs84_lon": 121.605133626,
+        "wgs84_lat": 38.9188962748,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B019B10TS3",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60513362603513,
+          38.91889627478402
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B07UWN",
+        "name": "大连市妇女儿童医疗中心集团(希望广场院区)",
+        "type": "医院",
+        "typecode": 90200,
+        "address": "中山路154号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "医院",
+        "city": "大连",
+        "district": "中山区",
+        "gcj_lon": 121.628269,
+        "gcj_lat": 38.912294,
+        "wgs84_lon": 121.623312685,
+        "wgs84_lat": 38.9115046608,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B019B07UWN",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62331268527394,
+          38.911504660783436
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0XYS9",
+        "name": "民乐社区卫生服务中心团结社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "先进街36-38号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "医院",
+        "city": "中山",
+        "district": "人民路街道",
+        "gcj_lon": 121.634503,
+        "gcj_lat": 38.92993,
+        "wgs84_lon": 121.629536096,
+        "wgs84_lat": 38.9291221549,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B019B0XYS9",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62953609606804,
+          38.92912215492709
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11065851",
+        "name": "儿童公园(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "(规划)7号线",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "地铁站",
+        "city": "大连",
+        "district": "中山区",
+        "gcj_lon": 121.652842,
+        "gcj_lat": 38.914753,
+        "wgs84_lon": 121.647844434,
+        "wgs84_lat": 38.9139248441,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11065851",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.64784443449231,
+          38.91392484406139
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFHMFOG8",
+        "name": "大连港国际邮轮中心候船厅停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "港兴路15库创意园旁",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "人民路街道",
+        "gcj_lon": 121.663589,
+        "gcj_lat": 38.929813,
+        "wgs84_lon": 121.658567582,
+        "wgs84_lat": 38.9289561091,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0FFHMFOG8",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.65856758226333,
+          38.928956109073994
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0K60C2NVW",
+        "name": "水悦澜庭停车场",
+        "type": "停车场",
+        "typecode": 150900,
+        "address": "中南锦里",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "网格城区03",
+        "gcj_lon": 121.676931,
+        "gcj_lat": 38.893293,
+        "wgs84_lon": 121.671885152,
+        "wgs84_lat": 38.8924320937,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0K60C2NVW",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.67188515178094,
+          38.89243209374779
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFF2EU39",
+        "name": "爱儿坊金广东海岸幼儿学苑",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "华乐街润景园8号大连金广东海岸",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "学校",
+        "city": "中山",
+        "district": "老虎滩街道",
+        "gcj_lon": 121.692913,
+        "gcj_lat": 38.912856,
+        "wgs84_lon": 121.687832321,
+        "wgs84_lat": 38.9119541712,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFF2EU39",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68783232104744,
+          38.91195417118821
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0B8PI",
+        "name": "大连西岗香炉礁社区卫生服务中心",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "香锦街13-19号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "医院",
+        "city": "大连市",
+        "district": "西岗区",
+        "gcj_lon": 121.596081,
+        "gcj_lat": 38.930626,
+        "wgs84_lon": 121.591139354,
+        "wgs84_lat": 38.9298451317,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B019B0B8PI",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.59113935355144,
+          38.92984513173289
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0AF6H",
+        "name": "大连森林动物园南门停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "南石道街迎春路60号大连森林动物园内(南侧)",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "桃源街道",
+        "gcj_lon": 121.610303,
+        "gcj_lat": 38.873758,
+        "wgs84_lon": 121.605366643,
+        "wgs84_lat": 38.8730068292,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B019B0AF6H",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6053666434154,
+          38.87300682916194
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0HDCAKWDR",
+        "name": "燕窝岭景区停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "滨海公路中段东部燕窝岭风景区",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "桃源街道",
+        "gcj_lon": 121.653697,
+        "gcj_lat": 38.864517,
+        "wgs84_lon": 121.648703374,
+        "wgs84_lat": 38.8637163129,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B0HDCAKWDR",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.64870337383714,
+          38.86371631292074
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFGNH33",
+        "name": "大连龙华中医医院",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "桃源街道鸣鹤街30号(桃源地铁站C口步行420米)",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "医院",
+        "city": "中山",
+        "district": "青泥洼桥街道",
+        "gcj_lon": 121.654423,
+        "gcj_lat": 38.883936,
+        "wgs84_lon": 121.64942574,
+        "wgs84_lat": 38.8831229702,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFFGNH33",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.64942573991902,
+          38.883122970238325
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0BZ97",
+        "name": "海之韵公园停车场",
+        "type": "停车场",
+        "typecode": 150904,
+        "address": "滨海北路东50米大连海之韵公园",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "停车场",
+        "city": "中山",
+        "district": "老虎滩街道",
+        "gcj_lon": 121.701999,
+        "gcj_lat": 38.892661,
+        "wgs84_lon": 121.696904232,
+        "wgs84_lat": 38.8917558179,
+        "source": "existing",
+        "point_symbol": "parking",
+        "poi_category": "停车场",
+        "point_symbol_color": "#1976d2",
+        "point_symbol_label": "P",
+        "__mapgen_feature_uid": "B019B0BZ97",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.69690423160088,
+          38.89175581790694
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFJHDDD0",
+        "name": "大连市中山区葵英街道社区卫生服务中心预防保健部",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "友爱街5号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "医院",
+        "city": "中山",
+        "district": "青泥洼桥街道",
+        "gcj_lon": 121.647512,
+        "gcj_lat": 38.898084,
+        "wgs84_lon": 121.642526594,
+        "wgs84_lat": 38.8972748555,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFJHDDD0",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.64252659388964,
+          38.897274855468154
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0KK3AWKLB",
+        "name": "大连甘井子泡崖北区社区卫生服务中心(玉浓街)",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "泡崖街道玉浓西街8-1号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "医院",
+        "city": "大连",
+        "district": "甘井子区",
+        "gcj_lon": 121.543799,
+        "gcj_lat": 38.976877,
+        "wgs84_lon": 121.538761026,
+        "wgs84_lat": 38.9760053379,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0KK3AWKLB",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53876102578316,
+          38.97600533787605
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFSM5FM",
+        "name": "广源快捷客舍(马栏广场地铁站店)",
+        "type": "酒店",
+        "typecode": 100200,
+        "address": "红旗东路33号楼红旗东路与兰兴港交汇处马兰广场汉庭酒店后身一百米",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "酒店",
+        "city": "大连市",
+        "district": "甘井子区",
+        "gcj_lon": 121.55299,
+        "gcj_lat": 38.921967,
+        "wgs84_lon": 121.547984386,
+        "wgs84_lat": 38.9211476332,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B0FFFSM5FM",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54798438626337,
+          38.921147633150845
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0991A",
+        "name": "大连连池宾馆(星海公园店)",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "西南路188号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "酒店",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.560333,
+        "gcj_lat": 38.889185,
+        "wgs84_lon": 121.555349149,
+        "wgs84_lat": 38.888397869,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B019B0991A",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55534914851886,
+          38.888397868985706
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B10Q1Z",
+        "name": "大连飞扬公寓宾馆",
+        "type": "酒店",
+        "typecode": 100100,
+        "address": "西南路499号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "酒店",
+        "city": "大连",
+        "district": "沙河口区",
+        "gcj_lon": 121.564905,
+        "gcj_lat": 38.908977,
+        "wgs84_lon": 121.559928823,
+        "wgs84_lat": 38.9081853667,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": "酒店",
+        "point_symbol_color": "#7b4fa1",
+        "point_symbol_label": "H",
+        "__mapgen_feature_uid": "B019B10Q1Z",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55992882296243,
+          38.9081853667125
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFIQGEHT",
+        "name": "大连理工大学附属中心医院北院",
+        "type": "医院",
+        "typecode": 90101,
+        "address": "柳二街与春三街交叉口东100米",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "医院",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.57245,
+        "gcj_lat": 38.935228,
+        "wgs84_lon": 121.56748479,
+        "wgs84_lat": 38.9344304488,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFIQGEHT",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5674847900376,
+          38.93443044884447
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10101918",
+        "name": "东纬路(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "地铁站",
+        "city": "大连市",
+        "district": "甘井子区",
+        "gcj_lon": 121.580132,
+        "gcj_lat": 38.956299,
+        "wgs84_lon": 121.575175379,
+        "wgs84_lat": 38.9554960179,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10101918",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.57517537855722,
+          38.95549601792204
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0J2FZ55RN",
+        "name": "柠澜LEMON LAND餐厅",
+        "type": "餐饮",
+        "typecode": 50120,
+        "address": "城市赛艇中心院内",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "餐饮",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.593833,
+        "gcj_lat": 38.886413,
+        "wgs84_lon": 121.588895443,
+        "wgs84_lat": 38.8856578372,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": "餐饮",
+        "point_symbol_color": "#ef8a24",
+        "point_symbol_label": "R",
+        "__mapgen_feature_uid": "B0J2FZ55RN",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58889544347367,
+          38.88565783717359
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B05D1C",
+        "name": "大连市第十一中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "甘欣街258号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "学校",
+        "city": "大连市",
+        "district": "甘井子区",
+        "gcj_lon": 121.629078,
+        "gcj_lat": 38.981057,
+        "wgs84_lon": 121.624112952,
+        "wgs84_lat": 38.9802252346,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B019B05D1C",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62411295192156,
+          38.980225234638915
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11564514",
+        "name": "棒棰岛前(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "旅游环路",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "公交站",
+        "city": "中山",
+        "district": "老虎滩街道",
+        "gcj_lon": 121.706307,
+        "gcj_lat": 38.874314,
+        "wgs84_lon": 121.701207344,
+        "wgs84_lat": 38.8734127635,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV11564514",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.70120734415434,
+          38.87341276348587
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFKRQG46",
+        "name": "大连市中医医院第二院区",
+        "type": "医院",
+        "typecode": 90100,
+        "address": "长白街11号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "西岗区",
+        "query_category": "医院",
+        "city": "大连",
+        "district": "沙河口区",
+        "gcj_lon": 121.613349,
+        "gcj_lat": 38.897997,
+        "wgs84_lon": 121.608408349,
+        "wgs84_lat": 38.8972300453,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": "医院",
+        "point_symbol_color": "#d32f2f",
+        "point_symbol_label": "+",
+        "__mapgen_feature_uid": "B0FFKRQG46",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.60840834939445,
+          38.89723004529645
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV10887532",
+        "name": "黑石礁(地铁站)",
+        "type": "交通设施",
+        "typecode": 150500,
+        "address": "1号线",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "地铁站",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.557527,
+        "gcj_lat": 38.874543,
+        "wgs84_lon": 121.552538192,
+        "wgs84_lat": 38.8737595258,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": "交通设施",
+        "point_symbol_color": "#4e79a7",
+        "point_symbol_label": "T",
+        "__mapgen_feature_uid": "BV10887532",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.552538192421,
+          38.87375952579038
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFGYMNU6",
+        "name": "大连市第七十六中学(西苑分校)",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "金荣路17号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "学校",
+        "city": "大连市",
+        "district": "甘井子区",
+        "gcj_lon": 121.593299,
+        "gcj_lat": 38.970483,
+        "wgs84_lon": 121.588351821,
+        "wgs84_lat": 38.9696776954,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": "学校",
+        "point_symbol_color": "#2e7d32",
+        "point_symbol_label": "S",
+        "__mapgen_feature_uid": "B0FFGYMNU6",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5883518211209,
+          38.96967769541924
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0JR7YCYKC",
+        "name": "楼上咖啡(远洋钻石湾时代海店)",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "共享街时代海146号5层",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "咖啡厅",
+        "city": "中山",
+        "district": "人民路街道",
+        "gcj_lon": 121.628808,
+        "gcj_lat": 38.958123,
+        "wgs84_lon": 121.62384587,
+        "wgs84_lat": 38.9573055673,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0JR7YCYKC",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62384587046304,
+          38.95730556732957
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LG773GCG",
+        "name": "中国工商银行(大连甘井子新区支行)",
+        "type": "银行",
+        "typecode": 160105,
+        "address": "圣林东园38-7号(虹锦路地铁站D口步行370米)",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "银行",
+        "city": "大连",
+        "district": "甘井子区",
+        "gcj_lon": 121.541825,
+        "gcj_lat": 38.950283,
+        "wgs84_lon": 121.536783942,
+        "wgs84_lat": 38.9494230444,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": "银行",
+        "point_symbol_color": "#00897b",
+        "point_symbol_label": "B",
+        "__mapgen_feature_uid": "B0LG773GCG",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53678394196363,
+          38.94942304442697
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0L2SR6CDQ",
+        "name": "又见山海咖啡冰淇淋文创",
+        "type": "其他",
+        "typecode": 50500,
+        "address": "港兴路131号(海之韵地铁站B口步行340米)",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "咖啡厅",
+        "city": "中山",
+        "district": "老虎滩街道",
+        "gcj_lon": 121.719426,
+        "gcj_lat": 38.910321,
+        "wgs84_lon": 121.714304899,
+        "wgs84_lat": 38.9093818416,
+        "source": "existing",
+        "point_symbol": "circle",
+        "poi_category": "咖啡厅",
+        "point_symbol_color": "#5f6b7a",
+        "point_symbol_label": "",
+        "__mapgen_feature_uid": "B0L2SR6CDQ",
+        "__mapgen_user_pick": 0.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.71430489929584,
+          38.909381841554065
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFFYYA3",
+        "name": "巴斯光年青旅(大连星海公园医大二院地铁站店)",
+        "type": "酒店",
+        "typecode": 100201,
+        "address": "海湾街16号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "酒店",
+        "city": "大连",
+        "district": "沙河口区",
+        "gcj_lon": 121.566416,
+        "gcj_lat": 38.879615,
+        "wgs84_lon": 121.561446137,
+        "wgs84_lat": 38.8788425223,
+        "source": "existing",
+        "point_symbol": "hotel",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B0FFFFYYA3",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5614461367102,
+          38.87884252225531
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0YOX3",
+        "name": "LENBACH兰巴赫西餐啤酒坊(星海湾游乐场店)",
+        "type": "餐饮",
+        "typecode": 50201,
+        "address": "星海广场游乐场南",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "餐饮",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.589221,
+        "gcj_lat": 38.87514,
+        "wgs84_lon": 121.584282092,
+        "wgs84_lat": 38.8743900753,
+        "source": "existing",
+        "point_symbol": "restaurant",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B019B0YOX3",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58428209230009,
+          38.874390075283
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0FFFGMVTK",
+        "name": "中国民生银行(大连滨海阳光社区支行)",
+        "type": "银行",
+        "typecode": 160112,
+        "address": "老虎滩街道虎滩路286-1",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "银行",
+        "city": "中山",
+        "district": "网格城区03",
+        "gcj_lon": 121.685102,
+        "gcj_lat": 38.892318,
+        "wgs84_lon": 121.680039151,
+        "wgs84_lat": 38.8914422622,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B0FFFGMVTK",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68003915110198,
+          38.891442262173776
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "BV11119459",
+        "name": "东日街北(公交站)",
+        "type": "交通设施",
+        "typecode": 150700,
+        "address": "13路",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "公交站",
+        "city": "中山",
+        "district": "网格城区03",
+        "gcj_lon": 121.712463,
+        "gcj_lat": 38.916425,
+        "wgs84_lon": 121.707349626,
+        "wgs84_lat": 38.9154907093,
+        "source": "existing",
+        "point_symbol": "transit",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "BV11119459",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.70734962615568,
+          38.915490709319855
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B0LBZ5O8GK",
+        "name": "大连市中山区碧浪幼儿园",
+        "type": "学校",
+        "typecode": 141204,
+        "address": "碧浪园122号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "学校",
+        "city": "中山",
+        "district": "网格城区03",
+        "gcj_lon": 121.69189,
+        "gcj_lat": 38.889304,
+        "wgs84_lon": 121.686813961,
+        "wgs84_lat": 38.8884177126,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B0LBZ5O8GK",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.68681396084936,
+          38.88841771258176
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B064DD",
+        "name": "大连甘井子泡崖社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "泡崖街道玉云路2号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "医院",
+        "city": "大连",
+        "district": "甘井子区",
+        "gcj_lon": 121.551637,
+        "gcj_lat": 38.970485,
+        "wgs84_lon": 121.54662231,
+        "wgs84_lat": 38.9696337547,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B019B064DD",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54662230958552,
+          38.969633754655774
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0Y5XU",
+        "name": "游崖门社区卫生服务站",
+        "type": "医院",
+        "typecode": 90102,
+        "address": "玉带路311号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "甘井子区",
+        "query_category": "医院",
+        "city": "大连",
+        "district": "甘井子区",
+        "gcj_lon": 121.553222,
+        "gcj_lat": 38.979576,
+        "wgs84_lon": 121.548210514,
+        "wgs84_lat": 38.9787222615,
+        "source": "existing",
+        "point_symbol": "hospital",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B019B0Y5XU",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54821051426788,
+          38.9787222614858
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B0893H",
+        "name": "交通银行大连分行营业部",
+        "type": "银行",
+        "typecode": 160108,
+        "address": "中山广场6号(中山广场地铁站B2口旁)",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "中山区",
+        "query_category": "银行",
+        "city": "大连",
+        "district": "中山区",
+        "gcj_lon": 121.645134,
+        "gcj_lat": 38.921632,
+        "wgs84_lon": 121.640150338,
+        "wgs84_lat": 38.9208129673,
+        "source": "existing",
+        "point_symbol": "bank",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B019B0893H",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.640150338491,
+          38.9208129672734
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "type": "Feature",
+      "properties": {
+        "poi_uid": "B019B079GQ",
+        "name": "大连育明高级中学",
+        "type": "学校",
+        "typecode": 141202,
+        "address": "杨树南街35-8号",
+        "pname": "辽宁省",
+        "cityname": "大连市",
+        "adname": "沙河口区",
+        "query_category": "学校",
+        "city": "大连市",
+        "district": "沙河口区",
+        "gcj_lon": 121.539233,
+        "gcj_lat": 38.878519,
+        "wgs84_lon": 121.534191821,
+        "wgs84_lat": 38.8776952626,
+        "source": "existing",
+        "point_symbol": "school",
+        "poi_category": null,
+        "point_symbol_color": null,
+        "point_symbol_label": null,
+        "__mapgen_feature_uid": "B019B079GQ",
+        "__mapgen_user_pick": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53419182109953,
+          38.87769526259466
+        ]
+      }
+    }
+  ]
+}

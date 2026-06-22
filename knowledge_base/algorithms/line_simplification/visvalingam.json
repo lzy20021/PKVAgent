@@ -1,0 +1,48 @@
+{
+  "name": "Visvalingam线简化",
+  "task_type": "line_simplification",
+  "algorithm": "visvalingam",
+  "description": "基于有效面积思想的线简化流程。",
+  "parameters": {
+    "tolerance": {
+      "type": "float",
+      "description": "???????",
+      "default": 12.0,
+      "range": [
+        0.1,
+        1000
+      ]
+    }
+  },
+  "code_template": "import os\nimport geopandas as gpd\n\ngdf = gpd.read_file('{input_file}')\nprint(f'?? {len(gdf)} ???')\n\nif gdf.crs is not None and gdf.crs.is_geographic:\n    gdf = gdf.to_crs('EPSG:3857')\n\nresult = gdf.copy()\n# ??????? simplify ????????\nresult['geometry'] = result.geometry.simplify(tolerance={tolerance}, preserve_topology=True)\n\noutput_file = '{output_file}'\nos.makedirs(os.path.dirname(output_file) or '.', exist_ok=True)\nresult.to_file(output_file)\nshow_layer(output_file, '{layer_name}')\nprint(f'?????: {output_file}')\n",
+  "dependencies": [
+    "geopandas",
+    "shapely"
+  ],
+  "tags": [
+    "线要素",
+    "简化",
+    "边界",
+    "visvalingam"
+  ],
+  "examples": [
+    {
+      "input": "对 coastline.shp 执行 Visvalingam 简化，容差20米",
+      "parameters": {
+        "input_file": "data/coastline.shp",
+        "output_file": "out/coastline_vis.shp",
+        "layer_name": "coastline_vis",
+        "tolerance": 20.0
+      }
+    },
+    {
+      "input": "?????????8?",
+      "parameters": {
+        "input_file": "data/boundary.shp",
+        "output_file": "out/boundary_vis.shp",
+        "layer_name": "boundary_vis",
+        "tolerance": 8.0
+      }
+    }
+  ]
+}

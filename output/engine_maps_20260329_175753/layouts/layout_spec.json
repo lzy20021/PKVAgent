@@ -1,0 +1,11 @@
+{
+  "engine": "GeoPandas + shapely symbol-footprint renderer",
+  "crs": "EPSG:32649",
+  "region": "三亚市_天涯区",
+  "scales": [
+    84000,
+    253000,
+    532000
+  ],
+  "layout": "single-map or side-by-side comparison with shared legend"
+}
